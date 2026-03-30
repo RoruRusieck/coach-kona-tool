@@ -1,0 +1,115 @@
+{
+  "firstname": "Christopher",
+  "lastname": "Tassel",
+  "email": "christopher.tassel@gmail.com",
+  "acceptConditions": true,
+  "uid": "PYl0twrl3mVBmp0SKnY8zruUVHH2",
+  "role": "USER",
+  "subscription": {
+    "hasAccess": true,
+    "source": "store",
+    "isBeta": false
+  },
+  "profile": {
+    "gender": "MALE",
+    "ageYears": 32,
+    "heightCm": 180,
+    "weightKg": 83
+  },
+  "metrics": {
+    "vmaKmh": null
+  },
+  "triathlonExperience": {
+    "level": "INTERMEDIATE",
+    "triathlonYears": 1,
+    "triathlonsCompleted": 1,
+    "swimExperience": {
+      "distanceMeters": null,
+      "timeSeconds": null,
+      "level": "NOVICE"
+    },
+    "bikeExperience": {
+      "level": "NOVICE",
+      "ftpWatts": null
+    },
+    "runningExperience": {
+      "distanceMeters": 21000,
+      "timeSeconds": 5700,
+      "level": "INTERMEDIATE"
+    },
+    "transitionComfort": {
+      "swimToBike": false,
+      "bikeToRun": false
+    }
+  },
+  "equipment": {
+    "hrSensor": true,
+    "watch": {
+      "model": null,
+      "brand": "Apple Watch "
+    },
+    "run": {
+      "treadmill": true
+    },
+    "swimGear": [
+      "snorkel",
+      "paddles",
+      "kickboard",
+      "pull_buoy"
+    ],
+    "bike": {
+      "homeTrainer": true,
+      "powerMeter": false,
+      "bikeType": "road",
+      "cadenceSensor": false
+    }
+  },
+  "targetWeeklyTrainingSessions": 5,
+  "trainingStartDate": "2026-03-10",
+  "club": {
+    "name": null,
+    "isMember": false,
+    "loackedSessionsNote": null
+  },
+  "targetMaxWeeklyTrainingHours": 12,
+  "averageSleepPerNightHours": 7,
+  "preferredRestDay": "saturday",
+  "maxTrainingHoursPerDay": {
+    "sunday": 5,
+    "saturday": 2,
+    "tuesday": 2,
+    "friday": 3,
+    "thursday": 2,
+    "wednesday": 2,
+    "monday": 3
+  },
+  "currentWeeklyTrainingSessions": 5,
+  "injuriesNote": "Genou du coureur gauche ",
+  "asCompleteForm": true,
+  "phone": "0745227368",
+  "department": "94",
+  "triathlonGoals": {
+    "secondary": [],
+    "archives": {
+      "primary": []
+    },
+    "primary": {
+      "distanceLabel": "M",
+      "distancesValues": {
+        "run": "10km",
+        "swim": "1,5km",
+        "bike": "40km"
+      },
+      "isInitial": false,
+      "timeGoals": {
+        "swimSeconds": 1800,
+        "runSeconds": 2400,
+        "bikeSeconds": 4200,
+        "globalSeconds": 8400
+      },
+      "raceName": "Sion",
+      "raceTerrain": "DONT_KNOW",
+      "raceDate": "2026-08-16"
+    }
+  }
+}

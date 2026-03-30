@@ -1,0 +1,370 @@
+{
+	"natation_3x200m_allures_lundi": {
+		"weekid": "semaine10_affutage_activation",
+		"sessionId": "natation_3x200m_allures_lundi",
+		"type": "Natation",
+		"intensity": 2,
+		"duration": "50",
+		"advice": "💡 Pas de forcing aujourd’hui. Cherche à retrouver ton rythme de nage course sans pression : glisse, respiration, relâchement.",
+		"estimatedCalorie": "400 kcal",
+		"distance": "2000",
+		"title": "2000 m avec éducatifs + 3 x 200 m allures",
+		"objective": "Entretenir les automatismes de nage à allure course sans fatigue accumulée. Accent sur la fluidité et la coordination.",
+		"warmups": [
+			{
+				"title": "Échauffement à sec",
+				"duration": 5,
+				"steps": [
+					"Mobilité épaules, bras et cervicales",
+					"2 x 30 sec planche + ouverture thoracique"
+				]
+			},
+			{
+				"title": "Échauffement dans l’eau",
+				"duration": 10,
+				"steps": [
+					"300 m nage libre",
+					"4 x 50 m éducatifs (3 temps, rattrapé, un bras, nage complète)",
+					"2 x 50 m jambes planche"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 25,
+				"steps": [
+					"3 x 200 m à 90–95 % allure course (2’00/100 m), récup 30 sec",
+					"4 x 50 m souples, glisse + respiration maîtrisée"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 10,
+			"steps": ["200 m dos ou brasse très relâchée"]
+		},
+		"status": "PLANNED",
+		"date": "2025-08-25"
+	},
+	"cap_2x6min_dinard_mardi": {
+		"weekid": "semaine10_affutage_activation",
+		"sessionId": "cap_2x6min_dinard_mardi",
+		"type": "Course à pied",
+		"intensity": 2,
+		"duration": "45",
+		"advice": "💡 Tu dois ressortir de cette séance frais et confiant. Les 6 min doivent être courues avec relâchement à ton allure cible.",
+		"estimatedCalorie": "450 kcal",
+		"distance": "7000",
+		"title": "2 x 6 min à allure Dinard + 4 lignes droites",
+		"objective": "Rappeler l’allure Dinard sans puiser dans les réserves. Renforcer les sensations de rythme fluide et relâché.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 10,
+				"steps": [
+					"10 min footing à 6’00/km",
+					"3 x 30 sec éducatifs (skipping, montées de genoux, foulées dynamiques)"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 20,
+				"steps": [
+					"2 x 6 min à 4’45–4’50/km (récup 2 min footing)",
+					"4 lignes droites progressives (20 sec)"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 15,
+			"steps": ["10 min footing très léger", "Étirements dynamiques"]
+		},
+		"status": "PLANNED",
+		"date": "2025-08-26"
+	},
+	"natation_8x100m_jeudi": {
+		"weekid": "semaine10_affutage_activation",
+		"sessionId": "natation_8x100m_jeudi",
+		"type": "Natation",
+		"intensity": 2,
+		"duration": "50",
+		"advice": "💡 Sens ton tempo naturel, ne cherche pas la perf. Ces 100 m sont là pour te connecter à ta nage de course sans pression.",
+		"estimatedCalorie": "380 kcal",
+		"distance": "1800",
+		"title": "8 x 100 m + technique relâchée",
+		"objective": "Maintenir ton rythme de course tout en gardant une excellente sensation de glisse, relâchée et précise.",
+		"warmups": [
+			{
+				"title": "Échauffement à sec",
+				"duration": 5,
+				"steps": [
+					"Cercles d’épaules + gainage dynamique",
+					"Mobilité hanches et bras"
+				]
+			},
+			{
+				"title": "Échauffement dans l’eau",
+				"duration": 10,
+				"steps": [
+					"200 m nage libre",
+					"4 x 50 m éducatifs (au choix)",
+					"100 m jambes avec planche"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 25,
+				"steps": [
+					"8 x 100 m à 1’55–2’00/100 m, récup 20 sec",
+					"200 m technique très relâchée"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 10,
+			"steps": ["200 m dos ou brasse", "100 m crawl en glisse"]
+		},
+		"status": "PLANNED",
+		"date": "2025-08-28"
+	},
+	"enchainement_20km_4km_samedi": {
+		"weekid": "semaine10_affutage_activation",
+		"sessionId": "enchainement_20km_4km_samedi",
+		"type": "Enchaînement vélo-course",
+		"intensity": 2,
+		"duration": "110",
+		"advice": "💡 Pense routine de course : hydratation, tenue, enchaînement fluide. Tu dois sortir de cette séance détendu et confiant.",
+		"estimatedCalorie": "700 kcal",
+		"distance": "24000",
+		"title": "20 km vélo + 4 km CAP allures contrôlées",
+		"objective": "Travailler les automatismes d’enchaînement dans un format réduit, sans accumuler de fatigue. Focus sur les sensations et la fluidité.",
+		"warmups": [
+			{
+				"title": "Échauffement vélo",
+				"duration": 15,
+				"steps": [
+					"10 min Zone 1 à 85–90 rpm",
+					"3 x 30 sec à cadence 100 rpm, récup 1 min"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc vélo",
+				"duration": 60,
+				"steps": [
+					"20 km à 70 % FC max, allure souple mais engagée",
+					"Hydratation toutes les 10 min",
+					"Concentration sur la posture et les appuis"
+				]
+			},
+			{
+				"title": "Transition",
+				"duration": 5,
+				"steps": ["Pose vélo rapide, passage fluide en CAP"]
+			},
+			{
+				"title": "Bloc course à pied",
+				"duration": 25,
+				"steps": [
+					"4 km :",
+					"- 2 km à 5’15/km",
+					"- 2 km à 4’55/km (allure Dinard maîtrisée)"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 5,
+			"steps": [
+				"Étirements : mollets, ischios, psoas",
+				"Respiration profonde + hydratation"
+			]
+		},
+		"status": "PLANNED",
+		"date": "2025-08-30"
+	},
+
+	"natation_technique_lundi": {
+		"weekid": "semaine11_course",
+		"sessionId": "natation_technique_lundi",
+		"type": "Natation",
+		"intensity": 1,
+		"duration": "40",
+		"advice": "💡 Cette séance doit être la plus douce possible. Ressens l’eau, reste centré sur ta glisse, ton souffle et ta confiance.",
+		"estimatedCalorie": "300 kcal",
+		"distance": "1500",
+		"title": "1500 m fluide + technique",
+		"objective": "Entretenir les sensations de glisse et fluidité en vue du jour J, sans créer de fatigue.",
+		"warmups": [
+			{
+				"title": "Échauffement à sec",
+				"duration": 5,
+				"steps": ["Mobilité bras + épaules", "Respiration profonde"]
+			},
+			{
+				"title": "Échauffement dans l’eau",
+				"duration": 10,
+				"steps": [
+					"200 m nage libre",
+					"4 x 50 m éducatifs (glisse, un bras, respiration 3 temps)"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 15,
+				"steps": [
+					"2 x 300 m à 70–75 % intensité",
+					"2 x 100 m jambes seules",
+					"200 m en technique complète"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 10,
+			"steps": ["200 m dos ou brasse douce"]
+		},
+		"status": "PLANNED",
+		"date": "2025-09-01"
+	},
+	"cap_rappel_allure_mercredi": {
+		"weekid": "semaine11_course",
+		"sessionId": "cap_rappel_allure_mercredi",
+		"type": "Course à pied",
+		"intensity": 1,
+		"duration": "35",
+		"advice": "💡 Sensations avant tout : ce n’est pas une séance de travail mais une séance de contact avec l’allure. Relâche-toi.",
+		"estimatedCalorie": "300 kcal",
+		"distance": "5000",
+		"title": "20 min footing + 3 x 1 min allure course",
+		"objective": "Rappeler le rythme de course avec relâchement total et activer la foulée sans intensité.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 20,
+				"steps": [
+					"20 min footing à 6’00/km",
+					"Respiration nasale + focus posture"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 10,
+				"steps": [
+					"3 x 1 min à 4’45/km, récup 1 min marche ou trot",
+					"Focus : amplitude et fluidité"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 5,
+			"steps": ["Étirements légers", "Respiration guidée"]
+		},
+		"status": "PLANNED",
+		"date": "2025-09-03"
+	},
+	"multi_reveil_course_samedi": {
+		"weekid": "semaine11_course",
+		"sessionId": "multi_reveil_course_samedi",
+		"type": "Enchaînement vélo-course",
+		"intensity": 1,
+		"duration": "30",
+		"advice": "💡 Ne cherche aucune intensité. Il faut juste réveiller les jambes, valider ton matériel et te mettre dans l’ambiance.",
+		"estimatedCalorie": "200 kcal",
+		"distance": "5200",
+		"title": "Réveil musculaire : 10’ vélo + 2 km CAP",
+		"objective": "Activer le corps en douceur la veille de course, intégrer ta routine pré-course et déstresser.",
+		"warmups": [
+			{
+				"title": "Routine complète",
+				"duration": 5,
+				"steps": ["Mobilité générale", "Respiration + gainage léger"]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Vélo",
+				"duration": 10,
+				"steps": [
+					"10 min à 90 rpm en Zone 1",
+					"2 x 30 sec vélocité (cadence >100 rpm)"
+				]
+			},
+			{
+				"title": "Transition",
+				"duration": 2,
+				"steps": ["Transition fluide sans stress"]
+			},
+			{
+				"title": "Course à pied",
+				"duration": 10,
+				"steps": ["2 km à 5’30–5’15/km", "Rythme facile + relâchement"]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 3,
+			"steps": ["Marche + respiration profonde", "Check matériel"]
+		},
+		"status": "PLANNED",
+		"date": "2025-09-06"
+	},
+	"course_triathlon_dinard_dimanche": {
+		"weekid": "semaine11_course",
+		"sessionId": "course_triathlon_dinard_dimanche",
+		"type": "Course",
+		"intensity": 5,
+		"duration": "160",
+		"advice": "💡 C’est le grand jour. Respire profondément, prends confiance en toi et gère chaque segment avec lucidité. Rappelle-toi : tu as tout mis en place pour réussir.",
+		"estimatedCalorie": "1600 kcal",
+		"distance": "51500",
+		"title": "Triathlon M Dinard | 💥 Donner le meilleur, gérer, performer 💥",
+		"objective": "Appliquer tout ce que tu as construit : gérer ton effort, rester concentré sur ta stratégie, et donner ton 100 % avec lucidité et plaisir.",
+		"warmups": [
+			{
+				"title": "Pré-course",
+				"duration": 20,
+				"steps": [
+					"Échauffement à sec : mobilisation générale + activation",
+					"Si possible : 200-300 m nage avant départ",
+					"Routine mentale : respiration, visualisation, ancrage"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Course officielle",
+				"duration": 140,
+				"steps": [
+					"🏊 1500 m natation en mer",
+					"🚴 40 km vélo sans drafting (profil roulant)",
+					"🏃 10 km course à pied sur un rythme solide et progressif"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Après-course",
+			"duration": 15,
+			"steps": [
+				"Marche de récupération + hydratation immédiate",
+				"Étirements passifs (mollets, ischios, psoas)",
+				"Moment de fierté 🏁"
+			]
+		},
+		"status": "PLANNED",
+		"date": "2025-09-07"
+	}
+}

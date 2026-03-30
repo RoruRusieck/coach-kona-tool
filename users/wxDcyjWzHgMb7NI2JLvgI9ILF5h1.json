@@ -1,0 +1,98 @@
+{
+  "firstname": "Lattron",
+  "lastname": "Benjamin",
+  "email": "blaron@hotmail.fr",
+  "acceptConditions": true,
+  "uid": "wxDcyjWzHgMb7NI2JLvgI9ILF5h1",
+  "role": "USER",
+  "triathlonGoals": {
+    "date": "2026-06-14",
+    "distance": "L (1,9km / 90km / 21km)",
+    "name": "iron man L",
+    "timeGoals": {
+      "running": {
+        "hours": "1",
+        "seconds": "",
+        "minutes": "45"
+      },
+      "swimming": {
+        "hours": "1",
+        "seconds": "",
+        "minutes": ""
+      },
+      "biking": {
+        "hours": "3",
+        "seconds": "",
+        "minutes": ""
+      },
+      "global": {
+        "hours": "5",
+        "seconds": "",
+        "minutes": "55"
+      }
+    },
+    "fieldType": "Mixte"
+  },
+  "athleteProfile": {
+    "gender": "MALE",
+    "weight": "90",
+    "age": "33",
+    "height": "183",
+    "nbTriathlonExecuted": "1",
+    "level": "Intermédiaire",
+    "vma": "",
+    "experience": "0-1 an",
+    "natationExperience": {
+      "distance": "1500",
+      "level": "Débutant",
+      "poolType": null,
+      "chrono": {
+        "hours": "",
+        "seconds": "",
+        "minutes": "36"
+      }
+    },
+    "bikeExperience": {
+      "ftp": "",
+      "distance": "",
+      "level": "Intermédiaire",
+      "explanation": null,
+      "chrono": null
+    },
+    "runningExperience": {
+      "level": "Intermédiaire",
+      "distance": "10",
+      "chrono": {
+        "seconds": "",
+        "hours": "",
+        "minutes": "44"
+      }
+    },
+    "transitionSkills": {
+      "swimToBike": true,
+      "bikeToRun": true
+    },
+    "trainningHours": "10",
+    "hasClubLicense": false,
+    "club": null,
+    "clubSessions": null,
+    "startDate": "2025-09-01",
+    "trainingSessions": "7",
+    "dayOff": "Samedi",
+    "injuries": null,
+    "sleepHours": "8",
+    "trainingFrequency": "5",
+    "availability": {
+      "Monday": "4",
+      "Thursday": "3",
+      "Friday": "3",
+      "Sunday": "2",
+      "Wednesday": "3",
+      "Tuesday": "3",
+      "Saturday": "0"
+    }
+  },
+  "asCompleteForm": true,
+  "phone": "0635266583",
+  "department": "37"
+}

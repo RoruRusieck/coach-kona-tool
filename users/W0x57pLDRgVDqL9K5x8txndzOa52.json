@@ -1,0 +1,110 @@
+{
+  "firstname": "Sebastien",
+  "lastname": "Luvari",
+  "email": "Seb.luvari.2a@gmail.com",
+  "acceptConditions": true,
+  "uid": "W0x57pLDRgVDqL9K5x8txndzOa52",
+  "role": "USER",
+  "subscription": {
+    "hasAccess": true,
+    "source": "store",
+    "isBeta": false
+  },
+  "triathlonGoals": {
+    "primary": {
+      "distanceLabel": "S",
+      "distancesValues": {
+        "run": "5km",
+        "swim": "750m",
+        "bike": "20km"
+      },
+      "isInitial": true,
+      "timeGoals": {
+        "swimSeconds": 840,
+        "runSeconds": 1140,
+        "bikeSeconds": 1980,
+        "globalSeconds": 3900
+      },
+      "raceName": "triathlon egypte",
+      "raceTerrain": "FLAT",
+      "raceDate": "2026-05-09"
+    },
+    "secondary": []
+  },
+  "profile": {
+    "gender": "MALE",
+    "ageYears": 26,
+    "heightCm": 174,
+    "weightKg": 76
+  },
+  "metrics": {
+    "vmaKmh": 15
+  },
+  "triathlonExperience": {
+    "level": "NOVICE",
+    "triathlonYears": 0,
+    "triathlonsCompleted": 0,
+    "swimExperience": {
+      "distanceMeters": 50,
+      "timeSeconds": 30,
+      "level": "BEGINNER"
+    },
+    "bikeExperience": {
+      "level": "NOVICE",
+      "ftpWatts": null
+    },
+    "runningExperience": {
+      "distanceMeters": 5000,
+      "timeSeconds": 1250,
+      "level": "NOVICE"
+    },
+    "transitionComfort": {
+      "swimToBike": false,
+      "bikeToRun": false
+    }
+  },
+  "equipment": {
+    "hrSensor": true,
+    "watch": {
+      "model": "Fenix 6",
+      "brand": "Garmin "
+    },
+    "run": {
+      "treadmill": true
+    },
+    "swimGear": [
+      "snorkel",
+      "fins"
+    ],
+    "bike": {
+      "homeTrainer": false,
+      "powerMeter": true,
+      "bikeType": null,
+      "cadenceSensor": true
+    }
+  },
+  "targetWeeklyTrainingSessions": 4,
+  "trainingStartDate": "2026-03-30",
+  "club": {
+    "name": null,
+    "isMember": false,
+    "loackedSessionsNote": null
+  },
+  "targetMaxWeeklyTrainingHours": 11,
+  "averageSleepPerNightHours": 7,
+  "preferredRestDay": "sunday",
+  "maxTrainingHoursPerDay": {
+    "sunday": 0,
+    "saturday": 0,
+    "tuesday": 0,
+    "friday": null,
+    "thursday": null,
+    "wednesday": null,
+    "monday": 0
+  },
+  "currentWeeklyTrainingSessions": 9,
+  "injuriesNote": null,
+  "asCompleteForm": true,
+  "phone": "0633383349",
+  "department": "20"
+}

@@ -1,0 +1,677 @@
+{
+	"natation_allureL_relachement_28juillet": {
+		"weekid": "semaine29",
+		"sessionId": "natation_allureL_relachement_28juillet",
+		"type": "Natation",
+		"intensity": 3,
+		"duration": "60",
+		"advice": "💡 Prévois une collation digeste 1h avant la séance si elle a lieu en fin de journée. Pense à bien t'hydrater après avec eau + citron + pincée de sel.",
+		"estimatedCalorie": "500 kcal",
+		"distance": "2400",
+		"title": "Natation – Allure L + travail de relâchement",
+		"objective": "Travailler l’allure Half tout en maintenant relâchement et bonne technique.",
+		"warmups": [
+			{
+				"title": "Échauffement à sec",
+				"duration": 5,
+				"steps": [
+					"Cercles d’épaules avant/arrière (30 sec chacun)",
+					"Montées de bras alternées",
+					"2 x 30 sec de gainage dynamique"
+				]
+			},
+			{
+				"title": "Échauffement dans l’eau",
+				"duration": 10,
+				"steps": [
+					"200 m crawl facile",
+					"4 x 50 m éducatifs : rattrapé + poings fermés (10 sec récup)",
+					"100 m dos"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 35,
+				"steps": [
+					"3 x 400 m à allure Half (~2:00/100m), récup 30 sec",
+					"6 x 50 m souple en respiration 3 temps, récup 15 sec"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 10,
+			"steps": ["200 m crawl relâché", "100 m dos", "100 m respiration 5 temps"]
+		},
+		"status": "PLANNED",
+		"date": "2025-07-28"
+	},
+	"cap_footing_recup_28juillet": {
+		"weekid": "semaine29",
+		"sessionId": "cap_footing_recup_28juillet",
+		"type": "Course à pied",
+		"intensity": 2,
+		"duration": "45",
+		"advice": "💡 Garde ce footing en aisance respiratoire. Si tu transpires beaucoup, ajoute une pincée de sel dans ta boisson post-course.",
+		"estimatedCalorie": "350 kcal",
+		"distance": "8000",
+		"title": "Course à pied – Footing Z1-Z2 récupération active",
+		"objective": "Reprendre progressivement le rythme avec un footing en endurance fondamentale.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 10,
+				"steps": ["5 min de marche active", "5 min de footing progressif"]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 30,
+				"steps": [
+					"30 min à allure Z1-Z2 (confort respiratoire, 6:00 à 6:30/km)"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 5,
+			"steps": [
+				"5 min de marche + 3 étirements jambes : ischios, mollets, fessiers"
+			]
+		},
+		"status": "PLANNED",
+		"date": "2025-07-28"
+	},
+	"velo_tempo_half_cadence_29juillet": {
+		"weekid": "semaine29",
+		"sessionId": "velo_tempo_half_cadence_29juillet",
+		"type": "Cyclisme",
+		"intensity": 4,
+		"duration": "90",
+		"advice": "💡 Prévois une barre énergétique à mi-séance et bois toutes les 10-15 minutes. Note tes sensations sur les variations de cadence.",
+		"estimatedCalorie": "750 kcal",
+		"distance": "42000",
+		"title": "Vélo – Séries tempo L avec variations de cadence",
+		"objective": "Stimuler ton allure spécifique Half en jouant sur la cadence et l’endurance tempo.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 15,
+				"steps": [
+					"10 min en souplesse (cadence > 90)",
+					"3 x 30 sec à 90% FC max – récup 1 min Z1"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 60,
+				"steps": [
+					"3 x 12 min à allure Half (cadence 85-90), récup 4 min Z1",
+					"Dans chaque 12 min : 3x (30 sec cadence > 100 + 1 min normal)"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 15,
+			"steps": ["15 min à 60% FC max, cadence souple"]
+		},
+		"status": "PLANNED",
+		"date": "2025-07-29"
+	},
+	"cap_fractionne_400m_30juillet": {
+		"weekid": "semaine29",
+		"sessionId": "cap_fractionne_400m_30juillet",
+		"type": "Course à pied",
+		"intensity": 4,
+		"duration": "60",
+		"advice": "💡 Réalise cette séance sur piste ou terrain plat. Si possible, garde une montre avec autolap pour bien contrôler les temps sur 400 m.",
+		"estimatedCalorie": "600 kcal",
+		"distance": "10000",
+		"title": "Course à pied – Fractionné court : 12 x 400m allure 10K",
+		"objective": "Travailler la vitesse spécifique 10 km et la capacité à maintenir l’intensité sur des répétitions courtes.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 15,
+				"steps": [
+					"10 min de footing Z1",
+					"2 x 30 sec en accélération progressive, récup 1 min",
+					"Talons-fesses, montées de genoux, jambes tendues (30 sec chaque)"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 30,
+				"steps": ["12 x 400 m à allure 10K (4:30/km), récup 1’ footing lent"]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 15,
+			"steps": [
+				"5 min de footing très léger",
+				"Étirements passifs : quadris, ischios, mollets, 30 sec chacun"
+			]
+		},
+		"status": "PLANNED",
+		"date": "2025-07-30"
+	},
+	"renfo_gainage_tronc_31juillet": {
+		"weekid": "semaine29",
+		"sessionId": "renfo_gainage_tronc_31juillet",
+		"type": "Renforcement",
+		"intensity": 2,
+		"duration": "30",
+		"advice": "💡 Privilégie un tapis au sol et une tenue confortable. Ne bloque jamais ta respiration pendant les exercices de gainage.",
+		"estimatedCalorie": "200 kcal",
+		"distance": "0",
+		"title": "Renforcement – Stabilité tronc + gainage latéral",
+		"objective": "Renforcer la ceinture abdominale, améliorer la stabilité posturale en triathlon.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 5,
+				"steps": [
+					"20 jumping jacks",
+					"20 squats",
+					"10 rotations de buste + étirements dynamiques"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 20,
+				"steps": [
+					"3 tours :",
+					"- Planche 1’",
+					"- Planche latérale 30 sec de chaque côté",
+					"- Pont fessier dynamique 15 reps",
+					"- Gainage dynamique bras tendus 30 sec",
+					"Récupération : 1 min entre chaque tour"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 5,
+			"steps": ["Étirements doux : dos, abdominaux, hanches (30 sec chacun)"]
+		},
+		"status": "PLANNED",
+		"date": "2025-07-31"
+	},
+	"natation_respiration_longue_1aout": {
+		"weekid": "semaine29",
+		"sessionId": "natation_respiration_longue_1aout",
+		"type": "Natation",
+		"intensity": 3,
+		"duration": "60",
+		"advice": "💡 Entraîne-toi à respirer tous les 3 temps sans forcer : reste relâchée et concentre-toi sur l'expiration. Collation rapide si tu n’as pas mangé depuis plus de 3h.",
+		"estimatedCalorie": "500 kcal",
+		"distance": "2300",
+		"title": "Natation – Respiration 3 temps + séries longues",
+		"objective": "Améliorer la stabilité de ton rythme en crawl et la maîtrise de ta respiration sur la durée.",
+		"warmups": [
+			{
+				"title": "Échauffement à sec",
+				"duration": 5,
+				"steps": [
+					"Cercles d’épaules",
+					"Élévations de bras",
+					"Gainage dynamique bras tendus 2 x 30 sec"
+				]
+			},
+			{
+				"title": "Échauffement dans l’eau",
+				"duration": 10,
+				"steps": [
+					"200 m crawl facile",
+					"4 x 50 m éducatifs : rattrapé / poing fermé / battements",
+					"100 m dos ou brasse"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 35,
+				"steps": [
+					"3 x 400 m à allure Half avec respiration 3 temps (récup 30 sec)",
+					"4 x 50 m nage complète relâchée (récup 15 sec)"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 10,
+			"steps": [
+				"300 m nage douce en alternant crawl/dos",
+				"100 m respiration 5 temps"
+			]
+		},
+		"status": "PLANNED",
+		"date": "2025-08-01"
+	},
+	"velo_vallonne_tempo_2aout": {
+		"weekid": "semaine29",
+		"sessionId": "velo_vallonne_tempo_2aout",
+		"type": "Cyclisme",
+		"intensity": 3,
+		"duration": "120",
+		"advice": "💡 Emporte 1 bidon d’eau + 1 bidon avec boisson énergétique + une barre ou compote. Teste ton ravito Half !",
+		"estimatedCalorie": "1000 kcal",
+		"distance": "50000",
+		"title": "Vélo – Sortie vallonnée + finish tempo 30 min",
+		"objective": "Travailler la gestion de l’effort sur terrain varié et maintenir une allure soutenue en fin de sortie.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 20,
+				"steps": [
+					"10 min Z1 tranquille",
+					"3 x 1 min à 90 rpm – Z2, récup 1 min facile"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 85,
+				"steps": [
+					"1h15 en Z2 – terrain vallonné, souple en montée",
+					"Puis 30 min à allure Half (Z3) : cadence > 85 rpm"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 15,
+			"steps": ["15 min Z1 à faible intensité, cadence souple"]
+		},
+		"status": "PLANNED",
+		"date": "2025-08-02"
+	},
+	"cap_footing_long_finish_half_3aout": {
+		"weekid": "semaine29",
+		"sessionId": "cap_footing_long_finish_half_3aout",
+		"type": "Course à pied",
+		"intensity": 3,
+		"duration": "90",
+		"advice": "💡 Entraîne-toi à courir avec une ceinture ou un ravitaillement en main pour simuler les conditions de course.",
+		"estimatedCalorie": "800 kcal",
+		"distance": "17000",
+		"title": "Course à pied – Footing long Z2 + finish en allure L",
+		"objective": "Développer l’endurance et la capacité à maintenir l’allure spécifique Half en fin de course.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 10,
+				"steps": [
+					"10 min de footing très progressif",
+					"Montées de genoux + jambes tendues : 30 sec chacun"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 70,
+				"steps": [
+					"1h en Z2 (entre 5:30 et 5:45/km)",
+					"Puis 20 min à allure Half (4:50–5:00/km)"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 10,
+			"steps": ["10 min de marche active ou footing très doux"]
+		},
+		"status": "PLANNED",
+		"date": "2025-08-03"
+	},
+	"natation_allureL_eductaifs_4aout": {
+		"weekid": "semaine30",
+		"sessionId": "natation_allureL_eductaifs_4aout",
+		"type": "Natation",
+		"intensity": 3,
+		"duration": "60",
+		"advice": "💡 Séance à jeun possible si réalisée tôt, sinon petite collation 1h avant (banane + poignée d’amandes).",
+		"estimatedCalorie": "500 kcal",
+		"distance": "2500",
+		"title": "Natation – Allure L sur séries longues + éducatifs",
+		"objective": "Tenir l’allure Half sur des séries longues tout en gardant une bonne technique grâce aux éducatifs.",
+		"warmups": [
+			{
+				"title": "Échauffement à sec",
+				"duration": 5,
+				"steps": [
+					"Cercles de bras + poignets",
+					"2 x 30 sec gainage planche + 10 squats bras tendus"
+				]
+			},
+			{
+				"title": "Échauffement dans l’eau",
+				"duration": 10,
+				"steps": [
+					"200 m crawl souple",
+					"4 x 50 m éducatifs (25m poing fermé + 25m rattrapé)",
+					"100 m dos"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 40,
+				"steps": [
+					"3 x 400 m à allure Half (~2:00/100m) – récup 30 sec",
+					"6 x 100 m avec pull-buoy et plaquettes – récup 15 sec"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 5,
+			"steps": ["200 m nage libre relâchée"]
+		},
+		"status": "PLANNED",
+		"date": "2025-08-04"
+	},
+
+	"cap_footing_relache_educatifs_4aout": {
+		"weekid": "semaine30",
+		"sessionId": "cap_footing_relache_educatifs_4aout",
+		"type": "Course à pied",
+		"intensity": 2,
+		"duration": "45",
+		"advice": "💡 Bois un verre d’eau 30 min avant, et pense à bien dérouler tes foulées sur les éducatifs.",
+		"estimatedCalorie": "400 kcal",
+		"distance": "7500",
+		"title": "Course à pied – Footing relâchement avec éducatifs",
+		"objective": "Détendre les jambes après la natation tout en activant la foulée avec des éducatifs.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 10,
+				"steps": ["10 min de footing très léger"]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 30,
+				"steps": [
+					"20 min en Z1/Z2",
+					"5 x 30 sec éducatifs (montées de genoux, jambes tendues, talons-fesses...)",
+					"5 min à 5:30/km (Z2)"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 5,
+			"steps": ["Marche lente + étirements dynamiques"]
+		},
+		"status": "PLANNED",
+		"date": "2025-08-04"
+	},
+
+	"velo_tempo_cadence_basse_5aout": {
+		"weekid": "semaine30",
+		"sessionId": "velo_tempo_cadence_basse_5aout",
+		"type": "Cyclisme",
+		"intensity": 4,
+		"duration": "90",
+		"advice": "💡 Alterne eau pure et boisson isotonique. Teste ton alimentation course : compote ou barre après 45 min.",
+		"estimatedCalorie": "850 kcal",
+		"distance": "45000",
+		"title": "Vélo – Séries tempo 20 min + cadence basse",
+		"objective": "Travailler le tempo à allure Half et développer la force spécifique avec une cadence basse contrôlée.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 15,
+				"steps": [
+					"10 min Z1 (120-130W)",
+					"3 x 30 sec à 95-100 rpm (Z2), récup 1 min"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 65,
+				"steps": [
+					"2 x 20 min à allure Half (180-190W), cadence 85 rpm – récup 5 min Z1",
+					"2 x 5 min à cadence basse (60-70 rpm) à 200W"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 10,
+			"steps": ["10 min à 110-120W"]
+		},
+		"status": "PLANNED",
+		"date": "2025-08-05"
+	},
+	"cap_fractionne_long_800m_6aout": {
+		"weekid": "semaine30",
+		"sessionId": "cap_fractionne_long_800m_6aout",
+		"type": "Course à pied",
+		"intensity": 4,
+		"duration": "60",
+		"advice": "💡 Échauffe-toi sérieusement et pense à t’hydrater. Ce type de séance peut être éprouvant.",
+		"estimatedCalorie": "600 kcal",
+		"distance": "10000",
+		"title": "Course à pied – Fractionné long 5 x 800m à allure 10K",
+		"objective": "Améliorer ton endurance à allure soutenue, typique d’un 10 km.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 15,
+				"steps": [
+					"10 min footing Z1",
+					"3 x 30 sec en accélération progressive",
+					"2 min de marche + éducatifs"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 35,
+				"steps": [
+					"5 x 800 m à 4:20/km (Z4), récup 2 min footing lent entre les blocs"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 10,
+			"steps": ["10 min footing lent + étirements dynamiques"]
+		},
+		"status": "PLANNED",
+		"date": "2025-08-06"
+	},
+
+	"renfo_ceinture_pelvienne_mobilite_7aout": {
+		"weekid": "semaine30",
+		"sessionId": "renfo_ceinture_pelvienne_mobilite_7aout",
+		"type": "Renforcement",
+		"intensity": 2,
+		"duration": "30",
+		"advice": "💡 Réalise cette séance pieds nus si possible pour une meilleure stabilité.",
+		"estimatedCalorie": "250 kcal",
+		"distance": "0",
+		"title": "Renforcement – Ceinture pelvienne + mobilité",
+		"objective": "Stabiliser le bassin et développer la mobilité active autour des hanches.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 5,
+				"steps": [
+					"Mobilisation des hanches (cercles, balanciers)",
+					"20 squats aériens"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 20,
+				"steps": [
+					"3 x (30 sec gainage latéral G/D + 10 fentes arrière dynamiques)",
+					"2 x 12 ponts fessiers + 15 sec maintien",
+					"3 x 12 bird-dog alternés"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 5,
+			"steps": ["Étirements dynamiques : fessiers, psoas, lombaires"]
+		},
+		"status": "PLANNED",
+		"date": "2025-08-07"
+	},
+
+	"natation_simulation_half_8aout": {
+		"weekid": "semaine30",
+		"sessionId": "natation_simulation_half_8aout",
+		"type": "Natation",
+		"intensity": 4,
+		"duration": "60",
+		"advice": "💡 Teste ta stratégie nutrition/hydratation pré-course comme un jour de compétition.",
+		"estimatedCalorie": "550 kcal",
+		"distance": "2400",
+		"title": "Natation – Simulation Half : 2000 m en bloc + retour au calme",
+		"objective": "Travailler ton rythme de course en nageant un bloc continu proche des conditions de triathlon.",
+		"warmups": [
+			{
+				"title": "Échauffement à sec",
+				"duration": 5,
+				"steps": [
+					"Rotations épaules, bras, nuque",
+					"2 x 30 sec planche dynamique"
+				]
+			},
+			{
+				"title": "Échauffement dans l’eau",
+				"duration": 10,
+				"steps": [
+					"200 m crawl souple",
+					"2 x 50 m éducatifs : rattrapé + poings fermés"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 40,
+				"steps": ["2000 m à allure Half (~2:00/100m), respiration maîtrisée"]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 5,
+			"steps": ["200 m dos ou brasse douce"]
+		},
+		"status": "PLANNED",
+		"date": "2025-08-08"
+	},
+	"enchainement_velo_cap_allure_L": {
+		"weekid": "semaine30",
+		"sessionId": "enchainement_velo_cap_allure_L",
+		"type": "Enchaînement vélo-course",
+		"intensity": 4,
+		"duration": "120",
+		"advice": "💡 Prépare tes affaires de transition à l'avance pour un enchaînement fluide. Hydrate-toi bien sur le vélo et emporte une compote ou une boisson sucrée pour la CAP.",
+		"estimatedCalorie": "1100 kcal",
+		"distance": "50000",
+		"title": "Enchaînement – 1h30 vélo + 30 min CAP allure L",
+		"objective": "Travailler la transition vélo-course et habituer ton corps à maintenir l’allure spécifique Half après un effort soutenu.",
+		"warmups": [
+			{
+				"title": "Échauffement vélo",
+				"duration": 15,
+				"steps": ["10 min à 120-140W", "3 x 30 sec à 200W, récup 1 min"]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc vélo",
+				"duration": 75,
+				"steps": ["3 x 20 min à 180-190W (allure Half), récup 5 min à 130W"]
+			},
+			{
+				"title": "Transition + CAP",
+				"duration": 30,
+				"steps": [
+					"30 min à 5:00-5:10 min/km (allure L)",
+					"Focus sur cadence régulière et relâchement du haut du corps"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 0,
+			"steps": [
+				"Étirements ciblés post-effort : mollets, quadris, fessiers, lombaires"
+			]
+		},
+		"status": "PLANNED",
+		"date": "2025-08-09"
+	},
+	"cap_footing_nature_souple": {
+		"weekid": "semaine30",
+		"sessionId": "cap_footing_nature_souple",
+		"type": "Course à pied",
+		"intensity": 2,
+		"duration": "90",
+		"advice": "💡 Profite de ce footing pour relâcher mentalement. Terrain souple type chemin ou forêt si possible. Hydrate-toi si chaleur.",
+		"estimatedCalorie": "700 kcal",
+		"distance": "15000",
+		"title": "Course à pied – Footing long souple en nature",
+		"objective": "Favoriser la récupération active tout en entretenant ton endurance de fond.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 10,
+				"steps": [
+					"10 min à allure très facile (~6:00-6:15 min/km)",
+					"2 x 30 sec de jambes dynamiques sur place"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 70,
+				"steps": [
+					"70 min à 5:45-6:00 min/km",
+					"Allure Z1/Z2, respiration facile"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 10,
+			"steps": [
+				"10 min de marche active",
+				"Étirements doux : ischios, quadriceps, dos"
+			]
+		},
+		"status": "PLANNED",
+		"date": "2025-08-10"
+	}
+}

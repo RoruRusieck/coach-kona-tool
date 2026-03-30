@@ -1,0 +1,540 @@
+{
+  "natation_12x100_half_w12": {
+    "weekid": "semaine12_consolidation_regu",
+    "sessionId": "natation_12x100_half_w12",
+    "type": "Natation",
+    "intensity": 3,
+    "duration": "65",
+    "advice": "💡 Cherche la régularité sur chaque 100m. Tu dois tenir ton rythme Half sans finir essoufflé.",
+    "estimatedCalorie": "550 kcal",
+    "distance": "2300",
+    "title": "Lundi 22 sept – Natation – 12 x 100m allure Half – 1h05 – 2300 m – Intensité 3/5",
+    "objective": "Renforcer ta capacité à répéter l’allure Half avec récupération courte.",
+    "warmups": [
+      {
+        "title": "Échauffement à sec",
+        "duration": 5,
+        "steps": ["Mobilité épaules et nuque", "2 x 30 sec gainage dynamique"]
+      },
+      {
+        "title": "Échauffement dans l’eau",
+        "duration": 10,
+        "steps": [
+          "300 m crawl souple",
+          "4 x 50 m éducatifs (rattrapé / poings fermés)",
+          "4 x 25 m progressifs"
+        ]
+      }
+    ],
+    "mainSets": [
+      {
+        "title": "Bloc principal",
+        "duration": 40,
+        "steps": [
+          "12 x 100 m à 1’56–2’00/100m, récup 20 sec",
+          "200 m pull buoy en nage relâchée"
+        ]
+      }
+    ],
+    "cooldown": {
+      "title": "Retour au calme",
+      "duration": 10,
+      "steps": ["200 m nage libre souple", "Étirements pectoraux et dorsaux"]
+    },
+    "status": "PLANNED",
+    "date": "2025-09-22"
+  },
+
+  "velo_3x15_half_w12": {
+    "weekid": "semaine12_consolidation_regu",
+    "sessionId": "velo_3x15_half_w12",
+    "type": "Cyclisme",
+    "intensity": 4,
+    "duration": "95",
+    "advice": "💡 Reste calé sur ton allure cible (220–230W). L’objectif est la constance, pas de tout donner.",
+    "estimatedCalorie": "800 kcal",
+    "distance": "45000",
+    "title": "Mardi 23 sept – Vélo – 3 x 15 min tempo Half – 1h35 – 45 km – Intensité 4/5",
+    "objective": "Tenir ton allure cible sur blocs longs avec régularité.",
+    "warmups": [
+      {
+        "title": "Échauffement",
+        "duration": 15,
+        "steps": ["10 min Z1 cadence 90 rpm", "3 x 30 sec à 250W, récup 1 min"]
+      }
+    ],
+    "mainSets": [
+      {
+        "title": "Bloc principal",
+        "duration": 60,
+        "steps": [
+          "3 x 15 min à 220–230W, cadence 85–90 rpm",
+          "Récup 5 min Z1 entre les blocs"
+        ]
+      },
+      {
+        "title": "Variante Home Trainer",
+        "steps": ["3 x 12 min à 220W, récup 4 min", "5 min spinning à 95 rpm"]
+      }
+    ],
+    "cooldown": {
+      "title": "Retour au calme",
+      "duration": 15,
+      "steps": [
+        "10 min pédalage souple",
+        "Étirements quadriceps, ischios, mollets"
+      ]
+    },
+    "status": "PLANNED",
+    "date": "2025-09-23"
+  },
+
+  "cap_3x10_semi_w12": {
+    "weekid": "semaine12_consolidation_regu",
+    "sessionId": "cap_3x10_semi_w12",
+    "type": "Course à pied",
+    "intensity": 4,
+    "duration": "70",
+    "advice": "💡 Contrôle ton allure sur chaque bloc. Tu dois sentir un effort soutenu mais rester capable de relancer.",
+    "estimatedCalorie": "650 kcal",
+    "distance": "12000",
+    "title": "Mercredi 24 sept – CAP – 3 x 10 min allure semi – 1h10 – 12 km – Intensité 4/5",
+    "objective": "Approfondir ta tenue d’allure spécifique CAP.",
+    "warmups": [
+      {
+        "title": "Échauffement",
+        "duration": 15,
+        "steps": [
+          "10 min footing lent (6’00/km)",
+          "3 x 50 m progressifs",
+          "2 min mobilité chevilles/hanches"
+        ]
+      }
+    ],
+    "mainSets": [
+      {
+        "title": "Bloc principal",
+        "duration": 40,
+        "steps": [
+          "3 x 10 min à 4’30–4’35/km",
+          "Récup 3 min footing lent entre les blocs"
+        ]
+      }
+    ],
+    "cooldown": {
+      "title": "Retour au calme",
+      "duration": 15,
+      "steps": [
+        "10 min footing très lent",
+        "Étirements actifs (quadris, ischios, mollets)"
+      ]
+    },
+    "status": "PLANNED",
+    "date": "2025-09-24"
+  },
+  "renforcement_core_mobilite_w12": {
+    "weekid": "semaine12_consolidation_regu",
+    "sessionId": "renforcement_core_mobilite_w12",
+    "type": "Renforcement",
+    "intensity": 2,
+    "duration": "30",
+    "advice": "💡 Concentre-toi sur la qualité des mouvements. L’objectif est l’activation et la mobilité, pas la fatigue.",
+    "estimatedCalorie": "220 kcal",
+    "distance": "",
+    "title": "Vendredi 26 sept – Renforcement – Core + mobilité – 30 min – Intensité 2/5",
+    "objective": "Prévenir la fatigue musculaire et renforcer la posture.",
+    "warmups": [
+      {
+        "title": "Échauffement",
+        "duration": 5,
+        "steps": [
+          "Mobilité articulaire (épaules, hanches, chevilles)",
+          "2 min corde à sauter ou jumping jacks"
+        ]
+      }
+    ],
+    "mainSets": [
+      {
+        "title": "Bloc principal",
+        "duration": 20,
+        "steps": [
+          "3 x : Planche 30 sec + gainage latéral 30 sec/côté",
+          "2 x : Bird-dog 10 reps/côté",
+          "2 x : Pont fessier 15 reps",
+          "2 x : Squat profond avec ouverture hanches 10 reps"
+        ]
+      }
+    ],
+    "cooldown": {
+      "title": "Retour au calme",
+      "duration": 5,
+      "steps": [
+        "Étirements lombaires, ischios, fessiers",
+        "Respiration profonde 2 min"
+      ]
+    },
+    "status": "PLANNED",
+    "date": "2025-09-26"
+  },
+
+  "enchainement_half_w12": {
+    "weekid": "semaine12_consolidation_regu",
+    "sessionId": "enchainement_half_w12",
+    "type": "Enchaînement vélo-course",
+    "intensity": 4,
+    "duration": "130",
+    "advice": "💡 Soigne ta transition et reste calé sur ton allure cible. L’objectif est la régularité et la maîtrise.",
+    "estimatedCalorie": "1100 kcal",
+    "distance": "57000",
+    "title": "Samedi 27 sept – Enchaînement vélo/CAP – 50 km + 7 km – 2h10 – Intensité 4/5",
+    "objective": "Reproduire l’allure Half en conditions réelles avec transition maîtrisée.",
+    "warmups": [
+      {
+        "title": "Échauffement vélo",
+        "duration": 15,
+        "steps": [
+          "10 min en Z1 cadence 90 rpm",
+          "2 x 1 min vélocité 100 rpm, récup 1 min"
+        ]
+      }
+    ],
+    "mainSets": [
+      {
+        "title": "Bloc principal",
+        "duration": 100,
+        "steps": [
+          "Vélo : 2 x 15 min à 220–230W, récup 5 min",
+          "20 min roulage tempo à 200W",
+          "Transition rapide (< 3 min)",
+          "CAP : 7 km = 3 km à 5’10/km + 2 km à 4’55/km + 2 km à 4’40/km"
+        ]
+      }
+    ],
+    "cooldown": {
+      "title": "Retour au calme",
+      "duration": 15,
+      "steps": [
+        "5 min footing lent",
+        "Étirements quadriceps, mollets, lombaires"
+      ]
+    },
+    "status": "PLANNED",
+    "date": "2025-09-27"
+  },
+
+  "cap_longue_progressive_w12": {
+    "weekid": "semaine12_consolidation_regu",
+    "sessionId": "cap_longue_progressive_w12",
+    "type": "Course à pied",
+    "intensity": 3,
+    "duration": "105",
+    "advice": "💡 Ne pars pas trop vite. Construis ton allure par palier et termine plus fort.",
+    "estimatedCalorie": "850 kcal",
+    "distance": "15000",
+    "title": "Dimanche 28 sept – CAP – Sortie longue Z2 progressive – 1h45 – 15 km – Intensité 3/5",
+    "objective": "Travailler l’endurance fondamentale et finir par un bloc plus soutenu.",
+    "warmups": [
+      {
+        "title": "Échauffement",
+        "duration": 10,
+        "steps": [
+          "10 min footing lent (6’00/km)",
+          "3 x 50 m progressifs",
+          "2 min mobilité chevilles/genoux"
+        ]
+      }
+    ],
+    "mainSets": [
+      {
+        "title": "Bloc principal",
+        "duration": 85,
+        "steps": [
+          "40 min en Z2 (5’45–6’00/km)",
+          "30 min en Z3 (5’00–5’20/km)",
+          "15 min en Z4 (4’35–4’45/km)"
+        ]
+      }
+    ],
+    "cooldown": {
+      "title": "Retour au calme",
+      "duration": 10,
+      "steps": [
+        "5 min footing très lent",
+        "Étirements actifs (fessiers, ischios, mollets)"
+      ]
+    },
+    "status": "PLANNED",
+    "date": "2025-09-28"
+  },
+  "natation_5x300_half_w13": {
+    "weekid": "semaine13_bloc_half_specifique",
+    "sessionId": "natation_5x300_half_w13",
+    "type": "Natation",
+    "intensity": 4,
+    "duration": "70",
+    "advice": "💡 Cherche la régularité sur chaque 300 m, avec un relâchement maximal. L’endurance prime sur la vitesse brute.",
+    "estimatedCalorie": "600 kcal",
+    "distance": "2500",
+    "title": "Lundi 29 sept – Natation – 5 x 300m allure Half – 1h10 – 2500 m – Intensité 4/5",
+    "objective": "Développer ton endurance Half en natation.",
+    "warmups": [
+      {
+        "title": "Échauffement à sec",
+        "duration": 5,
+        "steps": ["Mobilité épaules et nuque", "2 x 30 sec gainage planche"]
+      },
+      {
+        "title": "Échauffement dans l’eau",
+        "duration": 10,
+        "steps": [
+          "400 m crawl souple",
+          "4 x 50 m éducatifs (rattrapé / poings fermés)",
+          "4 x 25 m progressifs vers allure seuil"
+        ]
+      }
+    ],
+    "mainSets": [
+      {
+        "title": "Bloc principal",
+        "duration": 40,
+        "steps": [
+          "5 x 300 m à 1’56–2’00/100m, récup 30 sec",
+          "200 m pull buoy en nage relâchée"
+        ]
+      }
+    ],
+    "cooldown": {
+      "title": "Retour au calme",
+      "duration": 15,
+      "steps": [
+        "200 m dos crawlé / nage libre",
+        "Étirements pectoraux et dorsaux"
+      ]
+    },
+    "status": "PLANNED",
+    "date": "2025-09-29"
+  },
+
+  "velo_4x15_half_w13": {
+    "weekid": "semaine13_bloc_half_specifique",
+    "sessionId": "velo_4x15_half_w13",
+    "type": "Cyclisme",
+    "intensity": 4,
+    "duration": "110",
+    "advice": "💡 Reste calé sur 220–230W, cadence 85–90 rpm. Concentre-toi sur la régularité et la nutrition pendant l’effort.",
+    "estimatedCalorie": "950 kcal",
+    "distance": "55000",
+    "title": "Mardi 30 sept – Vélo – 4 x 15 min tempo Half – 1h50 – 55 km – Intensité 4/5",
+    "objective": "Accentuer ta capacité à tenir ton allure cible sur des blocs répétés.",
+    "warmups": [
+      {
+        "title": "Échauffement",
+        "duration": 15,
+        "steps": ["10 min Z1 cadence 90 rpm", "3 x 30 sec à 250W, récup 1 min"]
+      }
+    ],
+    "mainSets": [
+      {
+        "title": "Bloc principal",
+        "duration": 70,
+        "steps": [
+          "4 x 15 min à 220–230W (Z3/Z4), cadence 85–90 rpm",
+          "Récup 5 min Z1 entre les blocs"
+        ]
+      },
+      {
+        "title": "Variante Home Trainer",
+        "steps": ["4 x 12 min à 225W, récup 4 min", "10 min spinning à 95 rpm"]
+      }
+    ],
+    "cooldown": {
+      "title": "Retour au calme",
+      "duration": 15,
+      "steps": [
+        "10 min pédalage souple",
+        "Étirements quadriceps, ischios, mollets"
+      ]
+    },
+    "status": "PLANNED",
+    "date": "2025-09-30"
+  },
+
+  "cap_2x15_semi_w13": {
+    "weekid": "semaine13_bloc_half_specifique",
+    "sessionId": "cap_2x15_semi_w13",
+    "type": "Course à pied",
+    "intensity": 4,
+    "duration": "75",
+    "advice": "💡 Tu dois sentir un effort soutenu mais contrôlé. Garde une foulée efficace, sans crispation.",
+    "estimatedCalorie": "700 kcal",
+    "distance": "12000",
+    "title": "Jeudi 2 oct – CAP – 2 x 15 min allure semi – 1h15 – 12 km – Intensité 4/5",
+    "objective": "Consolider ta tenue d’allure semi avec gestion du relâchement.",
+    "warmups": [
+      {
+        "title": "Échauffement",
+        "duration": 15,
+        "steps": [
+          "10 min footing lent (6’00/km)",
+          "3 x 50 m progressifs",
+          "2 min mobilité chevilles/hanches"
+        ]
+      }
+    ],
+    "mainSets": [
+      {
+        "title": "Bloc principal",
+        "duration": 40,
+        "steps": [
+          "2 x 15 min à 4’30–4’35/km",
+          "Récup 5 min footing lent entre les blocs"
+        ]
+      }
+    ],
+    "cooldown": {
+      "title": "Retour au calme",
+      "duration": 20,
+      "steps": [
+        "10 min footing très lent",
+        "Étirements actifs (quadris, mollets, ischios)"
+      ]
+    },
+    "status": "PLANNED",
+    "date": "2025-10-02"
+  },
+  "renforcement_tronc_hanches_w13": {
+    "weekid": "semaine13_bloc_half_specifique",
+    "sessionId": "renforcement_tronc_hanches_w13",
+    "type": "Renforcement",
+    "intensity": 2,
+    "duration": "30",
+    "advice": "💡 Cherche la stabilité et la précision des mouvements. Le but est de renforcer sans fatiguer.",
+    "estimatedCalorie": "230 kcal",
+    "distance": "",
+    "title": "Vendredi 3 oct – Renforcement – Stabilité tronc + hanches – 30 min – Intensité 2/5",
+    "objective": "Préparer les muscles stabilisateurs pour le vélo et la CAP.",
+    "warmups": [
+      {
+        "title": "Échauffement",
+        "duration": 5,
+        "steps": [
+          "Mobilité hanches, épaules, chevilles",
+          "2 min corde à sauter"
+        ]
+      }
+    ],
+    "mainSets": [
+      {
+        "title": "Bloc principal",
+        "duration": 20,
+        "steps": [
+          "3 x : Planche 30 sec + gainage latéral 30 sec/côté",
+          "2 x : Bird-dog 10 reps/côté",
+          "2 x : Pont fessier avec maintien 10 sec x 10 reps",
+          "2 x : Squat sur une jambe assisté 8 reps/jambe"
+        ]
+      }
+    ],
+    "cooldown": {
+      "title": "Retour au calme",
+      "duration": 5,
+      "steps": [
+        "Étirements lombaires, fessiers et quadriceps",
+        "Respiration abdominale 2 min"
+      ]
+    },
+    "status": "PLANNED",
+    "date": "2025-10-03"
+  },
+
+  "enchainement_long_half_w13": {
+    "weekid": "semaine13_bloc_half_specifique",
+    "sessionId": "enchainement_long_half_w13",
+    "type": "Enchaînement vélo-course",
+    "intensity": 5,
+    "duration": "180",
+    "advice": "💡 Traite cette séance comme une vraie répétition de course : nutrition, hydratation et gestion d’allure sont la priorité.",
+    "estimatedCalorie": "1700 kcal",
+    "distance": "77000",
+    "title": "Samedi 4 oct – Enchaînement vélo/CAP – 65 km + 12 km – 3h00 – Intensité 5/5",
+    "objective": "Simulation longue Half avec pacing et nutrition.",
+    "warmups": [
+      {
+        "title": "Échauffement vélo",
+        "duration": 15,
+        "steps": [
+          "10 min en Z1 cadence 90 rpm",
+          "2 x 1 min vélocité haute (100 rpm), récup 1 min",
+          "3 min souple"
+        ]
+      }
+    ],
+    "mainSets": [
+      {
+        "title": "Bloc principal",
+        "duration": 150,
+        "steps": [
+          "Vélo : 3 x 20 min à 220–230W, récup 5 min",
+          "25 min roulage tempo à 200W",
+          "Transition rapide (< 3 min)",
+          "CAP : 12 km = 4 km à 5’10/km + 4 km à 4’55/km + 4 km à 4’40/km"
+        ]
+      }
+    ],
+    "cooldown": {
+      "title": "Retour au calme",
+      "duration": 15,
+      "steps": [
+        "5 min footing très lent",
+        "Étirements quadriceps, mollets, lombaires"
+      ]
+    },
+    "status": "PLANNED",
+    "date": "2025-10-04"
+  },
+
+  "cap_longue_vallonnee_w13": {
+    "weekid": "semaine13_bloc_half_specifique",
+    "sessionId": "cap_longue_vallonnee_w13",
+    "type": "Course à pied",
+    "intensity": 3,
+    "duration": "105",
+    "advice": "💡 Ne cherche pas la vitesse en côte, garde une intensité régulière. Le but est la durée et la force mentale.",
+    "estimatedCalorie": "880 kcal",
+    "distance": "16000",
+    "title": "Dimanche 5 oct – CAP – Sortie longue vallonnée – 1h45 – 16 km – Intensité 3/5",
+    "objective": "Construire l’endurance musculaire et mentale.",
+    "warmups": [
+      {
+        "title": "Échauffement",
+        "duration": 10,
+        "steps": [
+          "10 min footing lent",
+          "3 x 50 m progressifs",
+          "2 min mobilité chevilles/genoux"
+        ]
+      }
+    ],
+    "mainSets": [
+      {
+        "title": "Bloc principal",
+        "duration": 85,
+        "steps": [
+          "85 min en terrain vallonné à 5’40–5’55/km",
+          "FC cible : 165–175 bpm",
+          "Marche autorisée en côte si FC > 180 bpm"
+        ]
+      }
+    ],
+    "cooldown": {
+      "title": "Retour au calme",
+      "duration": 10,
+      "steps": [
+        "5 min footing très lent",
+        "Étirements actifs (mollets, ischios, fessiers)"
+      ]
+    },
+    "status": "PLANNED",
+    "date": "2025-10-05"
+  }
+}

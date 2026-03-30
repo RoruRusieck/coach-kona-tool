@@ -1,0 +1,333 @@
+{
+  "programs": {
+    "nicolas_saint_raphael_2025": {
+      "programId": "nicolas_saint_raphael_2025",
+      "slug": "nicolas_saint_raphael_2025",
+      "context": {
+        "objectif": "Passer sous les 2h40 au triathlon M de Saint-Raphaël le 21 septembre 2025",
+        "niveau": "Avancé",
+        "disponibilités": "6 séances par semaine, volume max 15h",
+        "principauxDéfis": [
+          "Calibrer précisément les allures sur les trois disciplines",
+          "Intégrer la gestion de la chaleur et de la nutrition",
+          "Allier performance et plaisir malgré un emploi du temps exigeant"
+        ]
+      },
+      "status": "OPEN",
+      "startDate": "2025-08-04",
+      "endDate": "2025-09-21",
+      "cycles": [
+        {
+          "title": "Cycle 1 – Activation & reprise qualitative",
+          "startDate": "2025-08-04",
+          "endDate": "2025-08-11",
+          "order": 0,
+          "content": "Objectif : Reprise progressive et calibrage des allures sur les 3 disciplines. Tests, technique, et relance du corps à l'effort."
+        },
+        {
+          "title": "Cycle 2 – Consolidation du rythme & premières intensités",
+          "startDate": "2025-08-12",
+          "endDate": "2025-08-25",
+          "order": 1,
+          "content": "Objectif : Introduction des allures cibles, premiers enchaînements, travail sur le pacing et la nutrition."
+        },
+        {
+          "title": "Cycle 3 – Spécifique M et affûtage progressif",
+          "startDate": "2025-08-26",
+          "endDate": "2025-09-15",
+          "order": 2,
+          "content": "Objectif : Accent mis sur l’intensité course, simulations transitions, affûtage intelligent."
+        },
+        {
+          "title": "Semaine de course",
+          "startDate": "2025-09-16",
+          "endDate": "2025-09-21",
+          "order": 3,
+          "content": "Objectif : Garder de la tonicité, réduire le volume, optimiser la fraîcheur mentale et physique."
+        }
+      ],
+      "sessions": {
+        "natation_test_1000m": {
+          "weekid": "semaine1_base",
+          "sessionId": "natation_test_1000m",
+          "type": "Natation",
+          "intensity": 3,
+          "duration": "75",
+          "advice": "💡 Gère ton effort en négatif split si possible : pars en aisance et termine fort. Chrono précis.",
+          "estimatedCalorie": "550 kcal",
+          "distance": "2500",
+          "title": "Natation – Test 1000 m & technique",
+          "objective": "Évaluer ton allure seuil natation et ajuster tes futures intensités.",
+          "warmups": [
+            {
+              "title": "Échauffement à sec",
+              "duration": 5,
+              "steps": [
+                "Mobilisation des épaules et nuque",
+                "2 x 30 sec de gainage dynamique"
+              ]
+            },
+            {
+              "title": "Échauffement dans l’eau",
+              "duration": 15,
+              "steps": [
+                "300 m nage libre souple",
+                "4 x 50 m éducatifs (25 m poings fermés / 25 m nage complète)",
+                "4 x 25 m progressifs"
+              ]
+            }
+          ],
+          "mainSets": [
+            {
+              "title": "Bloc principal",
+              "duration": 45,
+              "steps": [
+                "1000 m test chronométré à allure seuil (Z4), note ton temps",
+                "200 m crawl récupération active",
+                "4 x 50 m en respiration 3-5-7, récup 15 sec"
+              ]
+            }
+          ],
+          "cooldown": {
+            "title": "Retour au calme",
+            "duration": 10,
+            "steps": ["200 m nage complète très relâchée à 2'40/100m"]
+          },
+          "status": "PLANNED",
+          "date": "2025-08-04"
+        },
+        "course_test_5km": {
+          "weekid": "semaine1_base",
+          "sessionId": "course_test_5km",
+          "type": "Course à pied",
+          "intensity": 4,
+          "duration": "60",
+          "advice": "💡 Ne pars pas trop vite, visualise 3 phases : régulier / tenir / tout donner.",
+          "estimatedCalorie": "700 kcal",
+          "distance": "11000",
+          "title": "Course à pied – Test 5 km allure seuil",
+          "objective": "Définir ton allure de seuil aérobie et ajuster les zones d'entraînement CAP.",
+          "warmups": [
+            {
+              "title": "Échauffement",
+              "duration": 15,
+              "steps": [
+                "10 min footing facile",
+                "3 x 50 m lignes droites progressives",
+                "Mobilisation chevilles/genoux"
+              ]
+            }
+          ],
+          "mainSets": [
+            {
+              "title": "Bloc principal",
+              "duration": 25,
+              "steps": [
+                "Test 5 km à intensité soutenue (Z4)",
+                "Note bien ton chrono final et ton ressenti (RPE 1-10)"
+              ]
+            }
+          ],
+          "cooldown": {
+            "title": "Retour au calme",
+            "duration": 20,
+            "steps": [
+              "10 min de footing lent",
+              "Étirements légers (mollets, ischios, psoas)"
+            ]
+          },
+          "status": "PLANNED",
+          "date": "2025-08-05"
+        },
+        "velo_test_ftp": {
+          "weekid": "semaine1_base",
+          "sessionId": "velo_test_ftp",
+          "type": "Cyclisme",
+          "intensity": 4,
+          "duration": "150",
+          "advice": "💡 Note bien ta puissance moyenne sur les 20 min, elle servira à calculer ta FTP (90 % de cette valeur).",
+          "estimatedCalorie": "1100 kcal",
+          "distance": "60000",
+          "title": "Cyclisme – Test PMA 5' + FTP 20'",
+          "objective": "Évaluer ta puissance de travail sur 5 et 20 minutes pour calibrer tes futures zones vélo.",
+          "warmups": [
+            {
+              "title": "Échauffement",
+              "duration": 25,
+              "steps": [
+                "15 min en Zone 1 (cadence 90 rpm)",
+                "3 x 1 min à 100 rpm, récup 1 min",
+                "5 min à 85-90 % de ton max perçu (Z3/Z4)",
+                "5 min retour Z1"
+              ]
+            }
+          ],
+          "mainSets": [
+            {
+              "title": "Bloc principal",
+              "duration": 90,
+              "steps": [
+                "Test PMA : 5 min à fond, note ta moyenne (puissance ou FC)",
+                "Récupération complète : 15 min roulage Z1",
+                "Test FTP : 20 min au maximum soutenable, note puissance/FC/RPE",
+                "5 min spinning 100 rpm"
+              ]
+            },
+            {
+              "title": "Variante Home trainer",
+              "steps": [
+                "Même protocole que sur route. Utilise ton home trainer connecté ou enregistre tes watts/FC manuellement."
+              ]
+            }
+          ],
+          "cooldown": {
+            "title": "Retour au calme",
+            "duration": 15,
+            "steps": ["15 min roulage à basse intensité, cadence libre"]
+          },
+          "status": "PLANNED",
+          "date": "2025-08-06"
+        },
+        "natation_technique_jeudi": {
+          "weekid": "semaine1_base",
+          "sessionId": "natation_technique_jeudi",
+          "type": "Natation",
+          "intensity": 2,
+          "duration": "60",
+          "advice": "💡 Concentre-toi sur la qualité de l’appui et la stabilité du tronc. Moins de force, plus d’efficacité.",
+          "estimatedCalorie": "500 kcal",
+          "distance": "2200",
+          "title": "Natation – Technique & éducatifs de posture",
+          "objective": "Travailler ta glisse, ton appui, et ta coordination pour améliorer ton économie gestuelle.",
+          "warmups": [
+            {
+              "title": "Échauffement à sec",
+              "duration": 5,
+              "steps": [
+                "Mobilité bras/épaules",
+                "Étirements dynamiques du tronc"
+              ]
+            },
+            {
+              "title": "Échauffement dans l’eau",
+              "duration": 10,
+              "steps": [
+                "300 m crawl souple",
+                "4 x 50 m éducatifs (rattrapé / poings fermés)",
+                "2 x 25 m progressifs"
+              ]
+            }
+          ],
+          "mainSets": [
+            {
+              "title": "Bloc principal",
+              "duration": 40,
+              "steps": [
+                "4 x 100 m en nage complète à 2’20/100m, récup 20 sec",
+                "6 x 50 m éducatifs spécifiques : 2 un bras / 2 water polo / 2 touché épaule",
+                "4 x 25 m battements planche, récup 15 sec"
+              ]
+            }
+          ],
+          "cooldown": {
+            "title": "Retour au calme",
+            "duration": 5,
+            "steps": ["200 m crawl relâché à 2’40/100m"]
+          },
+          "status": "PLANNED",
+          "date": "2025-08-07"
+        },
+        "velo_endurance_samedi": {
+          "weekid": "semaine1_base",
+          "sessionId": "velo_endurance_samedi",
+          "type": "Cyclisme",
+          "intensity": 2,
+          "duration": "150",
+          "advice": "💡 Concentre-toi sur une cadence fluide et régulière. Profite-en pour tester ton alimentation sur la selle.",
+          "estimatedCalorie": "1000 kcal",
+          "distance": "70000",
+          "title": "Cyclisme – Sortie longue en endurance douce",
+          "objective": "Travailler ta capacité à rouler longtemps à intensité basse pour consolider ton socle aérobie.",
+          "warmups": [
+            {
+              "title": "Échauffement",
+              "duration": 20,
+              "steps": [
+                "15 min Zone 1 cadence 90 rpm",
+                "3 x 1 min cadence 100 rpm, récup 1 min à 80 rpm"
+              ]
+            }
+          ],
+          "mainSets": [
+            {
+              "title": "Bloc principal",
+              "duration": 110,
+              "steps": [
+                "90 min en Zone 2 (60-70 % FC max), cadence 85-90 rpm",
+                "Toutes les 20 min : 1 min à 95-100 rpm pour stimuler vélocité",
+                "10 min tempo souple (cadence libre, Z1)"
+              ]
+            },
+            {
+              "title": "Variante Home trainer",
+              "steps": [
+                "1h10 à 150-160 W, cadence 85-90 rpm",
+                "Tous les 10 min : 1 min à 180 W, 100 rpm"
+              ]
+            }
+          ],
+          "cooldown": {
+            "title": "Retour au calme",
+            "duration": 20,
+            "steps": ["20 min roulage libre à cadence confortable"]
+          },
+          "status": "PLANNED",
+          "date": "2025-08-09"
+        },
+        "course_fondamentale_dimanche": {
+          "weekid": "semaine1_base",
+          "sessionId": "course_fondamentale_dimanche",
+          "type": "Course à pied",
+          "intensity": 3,
+          "duration": "90",
+          "advice": "💡 Reste relâché en descente, et pense à bien hydrater si chaleur. C’est une sortie de feeling, pas de chrono.",
+          "estimatedCalorie": "900 kcal",
+          "distance": "14000",
+          "title": "Course à pied – Footing allongé vallonné",
+          "objective": "Développer ton endurance fondamentale avec un terrain varié pour réveiller les appuis.",
+          "warmups": [
+            {
+              "title": "Échauffement",
+              "duration": 15,
+              "steps": [
+                "10 min footing lent",
+                "3 x 50 m foulées montantes",
+                "Mobilisation hanches/genoux"
+              ]
+            }
+          ],
+          "mainSets": [
+            {
+              "title": "Bloc principal",
+              "duration": 60,
+              "steps": [
+                "50 min à 5’40-5’50/km sur terrain vallonné",
+                "3 x 3 min en côte modérée à 5’00/km, récup en descente"
+              ]
+            }
+          ],
+          "cooldown": {
+            "title": "Retour au calme",
+            "duration": 15,
+            "steps": [
+              "10 min footing très lent",
+              "Étirements passifs jambes complètes"
+            ]
+          },
+          "status": "PLANNED",
+          "date": "2025-08-10"
+        }
+      }
+    }
+  }
+}

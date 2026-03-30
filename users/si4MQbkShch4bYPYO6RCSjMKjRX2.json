@@ -1,0 +1,105 @@
+{
+  "firstname": "Michael",
+  "lastname": "Clarke",
+  "email": "Michael.clarke@hotmail.be",
+  "acceptConditions": true,
+  "uid": "si4MQbkShch4bYPYO6RCSjMKjRX2",
+  "role": "USER",
+  "subscription": {
+    "hasAccess": true,
+    "source": "store",
+    "isBeta": false
+  },
+  "triathlonGoals": {
+    "primary": {
+      "distanceLabel": "XXL",
+      "distancesValues": {
+        "run": "42km",
+        "swim": "3,8km",
+        "bike": "180km"
+      },
+      "timeGoals": {
+        "swimSeconds": 5400,
+        "runSeconds": 14400,
+        "bikeSeconds": 21600,
+        "globalSeconds": 43200
+      },
+      "raceName": "IRONMAN Kaernten-Klagenfurt, Austria",
+      "raceTerrain": "UNDULATING",
+      "raceDate": "2026-06-14"
+    },
+    "secondary": []
+  },
+  "profile": {
+    "gender": "MALE",
+    "ageYears": 32,
+    "heightCm": 184,
+    "weightKg": 80
+  },
+  "metrics": {
+    "vmaKmh": 17
+  },
+  "triathlonExperience": {
+    "level": "BEGINNER",
+    "triathlonYears": 0,
+    "triathlonsCompleted": 1,
+    "swimExperience": {
+      "distanceMeters": null,
+      "timeSeconds": null,
+      "level": "BEGINNER"
+    },
+    "bikeExperience": {
+      "level": "BEGINNER",
+      "ftpWatts": null
+    },
+    "runningExperience": {
+      "distanceMeters": 10000,
+      "timeSeconds": 2280,
+      "level": "NOVICE"
+    },
+    "transitionComfort": {
+      "swimToBike": false,
+      "bikeToRun": false
+    }
+  },
+  "equipment": {
+    "hrSensor": false,
+    "watch": null,
+    "run": {
+      "treadmill": false
+    },
+    "swimGear": [
+      "none"
+    ],
+    "bike": {
+      "homeTrainer": true,
+      "powerMeter": false,
+      "bikeType": "road",
+      "cadenceSensor": false
+    }
+  },
+  "targetWeeklyTrainingSessions": 5,
+  "trainingStartDate": "2026-01-19",
+  "club": {
+    "name": null,
+    "isMember": false,
+    "loackedSessionsNote": null
+  },
+  "targetMaxWeeklyTrainingHours": 8,
+  "averageSleepPerNightHours": 9,
+  "preferredRestDay": "sunday",
+  "maxTrainingHoursPerDay": {
+    "sunday": 2,
+    "saturday": 4,
+    "tuesday": 1,
+    "friday": 1,
+    "thursday": 1,
+    "wednesday": 0,
+    "monday": 2
+  },
+  "currentWeeklyTrainingSessions": 5,
+  "injuriesNote": "Flechisseurs hanche douloureux & bas du dos L5",
+  "asCompleteForm": true,
+  "phone": "0476773556",
+  "department": "00"
+}

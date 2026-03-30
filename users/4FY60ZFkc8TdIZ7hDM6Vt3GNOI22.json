@@ -1,0 +1,113 @@
+{
+  "firstname": "Joren",
+  "lastname": "Helsen ",
+  "email": "Joren.helsen@telenet.be",
+  "acceptConditions": true,
+  "uid": "4FY60ZFkc8TdIZ7hDM6Vt3GNOI22",
+  "role": "USER",
+  "subscription": {
+    "hasAccess": true,
+    "source": "store",
+    "isBeta": false
+  },
+  "triathlonGoals": {
+    "primary": {
+      "distanceLabel": "L",
+      "distancesValues": {
+        "run": "21km",
+        "swim": "1,9km",
+        "bike": "90km"
+      },
+      "isInitial": true,
+      "timeGoals": {
+        "swimSeconds": 2400,
+        "runSeconds": 8400,
+        "bikeSeconds": 14400,
+        "globalSeconds": 25200
+      },
+      "raceName": "ironman 70.3 versailles ",
+      "raceTerrain": "FLAT",
+      "raceDate": "2026-07-12"
+    },
+    "secondary": []
+  },
+  "profile": {
+    "gender": "MALE",
+    "ageYears": 31,
+    "heightCm": 185,
+    "weightKg": 63
+  },
+  "metrics": {
+    "vmaKmh": 15
+  },
+  "triathlonExperience": {
+    "level": "NOVICE",
+    "triathlonYears": 1,
+    "triathlonsCompleted": 0,
+    "swimExperience": {
+      "distanceMeters": 3000,
+      "timeSeconds": 3720,
+      "level": "NOVICE"
+    },
+    "bikeExperience": {
+      "level": "BEGINNER",
+      "ftpWatts": null
+    },
+    "runningExperience": {
+      "distanceMeters": 16000,
+      "timeSeconds": 5400,
+      "level": "NOVICE"
+    },
+    "transitionComfort": {
+      "swimToBike": false,
+      "bikeToRun": false
+    }
+  },
+  "equipment": {
+    "hrSensor": false,
+    "watch": {
+      "model": "Forerunner 965",
+      "brand": "Garmin "
+    },
+    "run": {
+      "treadmill": false
+    },
+    "swimGear": [
+      "snorkel",
+      "fins",
+      "paddles",
+      "kickboard",
+      "pull_buoy"
+    ],
+    "bike": {
+      "homeTrainer": false,
+      "powerMeter": false,
+      "bikeType": "road",
+      "cadenceSensor": false
+    }
+  },
+  "targetWeeklyTrainingSessions": 7,
+  "trainingStartDate": "2026-02-23",
+  "club": {
+    "name": null,
+    "isMember": false,
+    "loackedSessionsNote": null
+  },
+  "targetMaxWeeklyTrainingHours": 12,
+  "averageSleepPerNightHours": 8,
+  "preferredRestDay": "friday",
+  "maxTrainingHoursPerDay": {
+    "sunday": null,
+    "saturday": null,
+    "tuesday": null,
+    "friday": null,
+    "thursday": null,
+    "wednesday": null,
+    "monday": null
+  },
+  "currentWeeklyTrainingSessions": 7,
+  "injuriesNote": null,
+  "asCompleteForm": true,
+  "phone": "0491897189",
+  "department": "5"
+}

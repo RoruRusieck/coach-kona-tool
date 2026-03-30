@@ -1,0 +1,148 @@
+{
+  "firstname": "Jordi",
+  "lastname": "Palou",
+  "email": "Jordi.palou56@gmail.com",
+  "acceptConditions": true,
+  "uid": "SaVOwnxptQfrl8jKjX3oLStryZY2",
+  "role": "USER",
+  "subscription": {
+    "hasAccess": true,
+    "source": "store",
+    "isBeta": false
+  },
+  "triathlonGoals": {
+    "primary": {
+      "distanceLabel": "L",
+      "distancesValues": {
+        "run": "21km",
+        "swim": "1,9km",
+        "bike": "90km"
+      },
+      "timeGoals": {
+        "swimSeconds": 2400,
+        "runSeconds": 6300,
+        "bikeSeconds": 11580,
+        "globalSeconds": 20700
+      },
+      "raceName": "Triathlon Dinard",
+      "raceTerrain": "UNDULATING",
+      "raceDate": "2026-09-12"
+    },
+    "secondary": [
+      {
+        "id": 0,
+        "type": "triathlon",
+        "eventName": "Triathlon Haute vilaine ",
+        "evenDate": "2026-05-10",
+        "distanceLabel": "M",
+        "distancesValues": {
+          "swim": "1,5km",
+          "bike": "40km",
+          "run": "10km"
+        },
+        "raceTerrain": "UNDULATING",
+        "priority": "A",
+        "timeGoals": {
+          "globalSeconds": 9600,
+          "swimSeconds": 1800,
+          "bikeSeconds": 4800,
+          "runSeconds": 2700
+        }
+      },
+      {
+        "id": 1,
+        "type": "half_marathon",
+        "eventName": "Semi Marathon Briere",
+        "evenDate": "2026-03-29",
+        "distanceLabel": "21 km",
+        "distancesValues": {
+          "bike": null,
+          "run": null,
+          "swim": null
+        },
+        "raceTerrain": "FLAT",
+        "priority": "C",
+        "timeGoals": {
+          "globalSeconds": 6960
+        }
+      }
+    ]
+  },
+  "profile": {
+    "gender": "MALE",
+    "ageYears": 40,
+    "heightCm": 182,
+    "weightKg": 83
+  },
+  "metrics": {
+    "vmaKmh": null
+  },
+  "triathlonExperience": {
+    "level": "BEGINNER",
+    "triathlonYears": 1,
+    "triathlonsCompleted": 4,
+    "swimExperience": {
+      "distanceMeters": null,
+      "timeSeconds": null,
+      "level": "NOVICE"
+    },
+    "bikeExperience": {
+      "level": "NOVICE",
+      "ftpWatts": null
+    },
+    "runningExperience": {
+      "distanceMeters": null,
+      "timeSeconds": null,
+      "level": "NOVICE"
+    },
+    "transitionComfort": {
+      "swimToBike": false,
+      "bikeToRun": false
+    }
+  },
+  "equipment": {
+    "hrSensor": false,
+    "watch": {
+      "model": "Forerunner 945",
+      "brand": "Garmin "
+    },
+    "run": {
+      "treadmill": false
+    },
+    "swimGear": [
+      "pull_buoy",
+      "paddles",
+      "kickboard"
+    ],
+    "bike": {
+      "homeTrainer": true,
+      "powerMeter": false,
+      "bikeType": "road",
+      "cadenceSensor": false
+    }
+  },
+  "targetWeeklyTrainingSessions": 6,
+  "trainingStartDate": "2026-01-05",
+  "club": {
+    "name": null,
+    "isMember": false,
+    "loackedSessionsNote": null
+  },
+  "targetMaxWeeklyTrainingHours": 8,
+  "averageSleepPerNightHours": 7,
+  "preferredRestDay": "friday",
+  "maxTrainingHoursPerDay": {
+    "sunday": 4,
+    "saturday": 2,
+    "tuesday": 1,
+    "friday": 1,
+    "thursday": 1,
+    "wednesday": 1,
+    "monday": 1
+  },
+  "currentWeeklyTrainingSessions": 4,
+  "injuriesNote": "Épaule gauche douloureuse et cheville gauche/ mollet faible\n",
+  "asCompleteForm": true,
+  "phone": "0626429246",
+  "department": "56"
+}

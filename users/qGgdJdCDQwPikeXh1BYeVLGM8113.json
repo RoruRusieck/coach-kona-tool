@@ -1,0 +1,102 @@
+{
+  "firstname": "Kona",
+  "lastname": "Coach",
+  "email": "coachkona01@gmail.com",
+  "acceptConditions": true,
+  "asCompleteForm": false,
+  "uid": "qGgdJdCDQwPikeXh1BYeVLGM8113",
+  "role": "ADMIN",
+  "triathlonGoals": {
+    "primary": {
+      "raceDate": null,
+      "raceName": null,
+      "timeGoals": {
+        "globalSeconds": null,
+        "swimSeconds": null,
+        "bikeSeconds": null,
+        "runSeconds": null
+      },
+      "distanceLabel": null,
+      "distanceValues": {
+        "swim": null,
+        "bike": null,
+        "run": null
+      },
+      "raceTerrain": null
+    },
+    "secondary": []
+  },
+  "trainingStartDate": null,
+  "profile": {
+    "gender": null,
+    "ageYears": null,
+    "weightKg": null,
+    "heightCm": null
+  },
+  "triathlonExperience": {
+    "triathlonYears": null,
+    "triathlonsCompleted": null,
+    "level": null,
+    "swimExperience": {
+      "level": null,
+      "distanceMeters": null,
+      "timeSeconds": null
+    },
+    "runningExperience": {
+      "level": null,
+      "distanceMeters": null,
+      "timeSeconds": null
+    },
+    "bikeExperience": {
+      "level": null,
+      "distanceMeters": null,
+      "timeSeconds": null,
+      "explanation": null
+    },
+    "transitionComfort": {
+      "swimToBike": null,
+      "bikeToRun": null
+    }
+  },
+  "club": {
+    "isMember": null,
+    "name": null,
+    "lockedSessionsNote": null
+  },
+  "metrics": {
+    "vmaKmh": null,
+    "ftpWatts": null
+  },
+  "targetmaxWeeklyTraininghours": null,
+  "targetWeeklyTrainingSessions": null,
+  "currentWeeklyTrainingSessions": null,
+  "averageSleepPerNightHours": null,
+  "maxTrainingHoursPerDay": {
+    "monday": 0,
+    "thursday": 0,
+    "friday": 0,
+    "sunday": 0,
+    "wednesday": 0,
+    "tuesday": 0,
+    "saturday": 0
+  },
+  "preferredRestDay": null,
+  "injuriesNote": null,
+  "equipment": {
+    "watch": {
+      "brand": null,
+      "model": null
+    },
+    "hrSensor": null,
+    "cadenceSensor": true,
+    "swimGear": [],
+    "bike": {
+      "powerMeter": false,
+      "bikeType": null,
+      "homeTrainer": false
+    },
+    "run": {
+      "treadmill": false
+    }
+  }
+}

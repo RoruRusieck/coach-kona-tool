@@ -1,0 +1,331 @@
+{
+  "semaine8_natation_seuil_relances": {
+    "weekid": "semaine8",
+    "sessionId": "semaine8_natation_seuil_relances",
+    "type": "Natation",
+    "intensity": 4,
+    "duration": "55",
+    "advice": "💡 Travaille les relances avec une poussée tonique dès le mur et garde ton relâchement entre les séries.",
+    "estimatedCalorie": "400 kcal",
+    "distance": "1300",
+    "title": "Lundi 18 août – Natation – Séries seuil & relances – 55 min – 1300 m – Intensité 4/5",
+    "objective": "Améliorer ton contrôle de l’allure avec des 100 m soutenus et transitions nage rapide / relâchée.",
+    "warmups": [
+      {
+        "title": "Échauffement à sec",
+        "duration": 5,
+        "steps": ["Rotations des bras", "2 x 30 sec gainage bras tendus"]
+      },
+      {
+        "title": "Échauffement dans l’eau",
+        "duration": 10,
+        "steps": [
+          "200 m crawl souple",
+          "4 x 50 m éducatifs (glisse, rattrapé, poings fermés)"
+        ]
+      }
+    ],
+    "mainSets": [
+      {
+        "title": "Bloc principal",
+        "duration": 30,
+        "steps": [
+          "4 x 100 m @ 2’35/100m (Z3), récup 20 sec",
+          "4 x 50 m relance en Z4, récup 30 sec",
+          "100 m crawl relâché"
+        ]
+      }
+    ],
+    "cooldown": {
+      "title": "Retour au calme",
+      "duration": 10,
+      "steps": ["200 m dos ou crawl facile"]
+    },
+    "status": "PLANNED",
+    "date": "2025-08-18"
+  },
+
+  "semaine8_velo_force_endurance": {
+    "weekid": "semaine8",
+    "sessionId": "semaine8_velo_force_endurance",
+    "type": "Cyclisme",
+    "intensity": 4,
+    "duration": "90",
+    "advice": "💡 Reste bien stable sur ta selle dans les portions en force, et pédale rond, sans tirer uniquement avec les quadris.",
+    "estimatedCalorie": "600 kcal",
+    "distance": "35000",
+    "title": "Mercredi 20 août – Vélo – Force/endurance – 1h30 – 35 km – Intensité 4/5",
+    "objective": "Travailler ton rythme triathlon avec du tempo long et de la puissance en terrain vallonné.",
+    "warmups": [
+      {
+        "title": "Échauffement",
+        "duration": 15,
+        "steps": ["10 min zone 1", "3 x 1 min vélocité > 100 rpm, récup 1 min"]
+      }
+    ],
+    "mainSets": [
+      {
+        "title": "Bloc principal",
+        "duration": 50,
+        "steps": [
+          "3 x 10 min à 27–29 km/h sur faux plat ou résistance, récupération 3 min",
+          "3 x 1 min relance puissante en côte ou braquet dur, récupération 2 min"
+        ]
+      }
+    ],
+    "cooldown": {
+      "title": "Retour au calme",
+      "duration": 15,
+      "steps": ["15 min pédalage souple terrain plat"]
+    },
+    "status": "PLANNED",
+    "date": "2025-08-20"
+  },
+
+  "semaine8_enchainement_tri_partiel": {
+    "weekid": "semaine8",
+    "sessionId": "semaine8_enchainement_tri_partiel",
+    "type": "Enchaînement vélo-course",
+    "intensity": 4,
+    "duration": "90",
+    "advice": "💡 Laisse-toi du temps dans les transitions. Observe tes sensations et reste régulière, c’est ça l’objectif.",
+    "estimatedCalorie": "650 kcal",
+    "distance": "23500",
+    "title": "Vendredi 22 août – Enchaînement – Tri partiel 500 m / 18 km / 4 km – 1h30 – Intensité 4/5",
+    "objective": "Simulation de tri S à intensité modérée. Travailler les transitions et les automatismes.",
+    "warmups": [
+      {
+        "title": "Échauffement natation",
+        "duration": 5,
+        "steps": ["100 m crawl progressif", "2 x 25 m éducatifs"]
+      }
+    ],
+    "mainSets": [
+      {
+        "title": "Tri partiel",
+        "duration": 75,
+        "steps": [
+          "500 m natation continue à Z2/Z3",
+          "Transition calme 15/20 min max",
+          "18 km vélo à 26–28 km/h",
+          "Transition 10 min max",
+          "4 km course à pied à 5’45–6’00/km"
+        ]
+      }
+    ],
+    "cooldown": {
+      "title": "Retour au calme",
+      "duration": 10,
+      "steps": ["Étirements jambes, dos, épaules"]
+    },
+    "status": "PLANNED",
+    "date": "2025-08-22"
+  },
+
+  "semaine8_renfo_tronc_debout": {
+    "weekid": "semaine8",
+    "sessionId": "semaine8_renfo_tronc_debout",
+    "type": "Renforcement",
+    "intensity": 3,
+    "duration": "40",
+    "advice": "💡 Respire profondément pendant les exercices de gainage, ne bloque jamais ta respiration.",
+    "estimatedCalorie": "300 kcal",
+    "distance": "",
+    "title": "Dimanche 24 août – Renforcement – Spécial tronc & gainage debout – 40 min – Intensité 3/5",
+    "objective": "Renforcer ton tronc et ta stabilité pour encaisser les transitions et la charge multisport.",
+    "warmups": [
+      {
+        "title": "Échauffement",
+        "duration": 5,
+        "steps": [
+          "2 min jumping jacks",
+          "2 min squats dynamiques",
+          "1 min fentes ouvertes"
+        ]
+      }
+    ],
+    "mainSets": [
+      {
+        "title": "Bloc principal",
+        "duration": 30,
+        "steps": [
+          "2 x : 30 sec planche + 30 sec gainage latéral + 10 bird-dog par côté",
+          "2 x : 10 squats sur demi-pointes + 15 s équilibre sur une jambe bras tendus",
+          "30 sec chaise + 30 sec respiration thoracique allongée"
+        ]
+      }
+    ],
+    "cooldown": {
+      "title": "Retour au calme",
+      "duration": 5,
+      "steps": ["Étirements actifs dos, hanches, épaules"]
+    },
+    "status": "PLANNED",
+    "date": "2025-08-24"
+  },
+  "semaine9_natation_200m_hypoxie": {
+    "weekid": "semaine9",
+    "sessionId": "semaine9_natation_200m_hypoxie",
+    "type": "Natation",
+    "intensity": 5,
+    "duration": "55",
+    "advice": "💡 Gère bien ton énergie sur les 200 m. Nage souple, longue et engagée. Sur l'hypoxie, reste calme.",
+    "estimatedCalorie": "450 kcal",
+    "distance": "1400",
+    "title": "Lundi 25 août – Natation – 3 x 200 m tempo + hypoxie – 55 min – 1400 m – Intensité 5/5",
+    "objective": "Travailler l’allure spécifique en séries longues et améliorer la respiration contrôlée.",
+    "warmups": [
+      {
+        "title": "Échauffement à sec",
+        "duration": 5,
+        "steps": ["Rotations articulaires", "2 x 30 sec gainage bras tendus"]
+      },
+      {
+        "title": "Échauffement dans l’eau",
+        "duration": 10,
+        "steps": [
+          "200 m crawl souple",
+          "4 x 50 m éducatifs (glisse, rattrapé, poings fermés)"
+        ]
+      }
+    ],
+    "mainSets": [
+      {
+        "title": "Bloc principal",
+        "duration": 30,
+        "steps": [
+          "3 x 200 m à 2’35/100m, récup 30 sec",
+          "4 x 50 m respiration 5/7/5, récup 30 sec"
+        ]
+      }
+    ],
+    "cooldown": {
+      "title": "Retour au calme",
+      "duration": 10,
+      "steps": ["200 m dos ou crawl très relâché"]
+    },
+    "status": "PLANNED",
+    "date": "2025-08-25"
+  },
+
+  "semaine9_velo_4x10_tempo_relances": {
+    "weekid": "semaine9",
+    "sessionId": "semaine9_velo_4x10_tempo_relances",
+    "type": "Cyclisme",
+    "intensity": 5,
+    "duration": "90",
+    "advice": "💡 Sois régulière dans tes blocs : cadence stable (85–90 rpm), position aéro si possible, et pense à boire.",
+    "estimatedCalorie": "650 kcal",
+    "distance": "35000",
+    "title": "Mercredi 27 août – Vélo – Blocs 10 min tempo + relances – 1h30 – 35 km – Intensité 5/5",
+    "objective": "Tenir une allure de course spécifique sur des blocs longs avec relances techniques.",
+    "warmups": [
+      {
+        "title": "Échauffement",
+        "duration": 15,
+        "steps": [
+          "10 min zone 1",
+          "3 x 30 sec vélocité > 100 rpm, récup 30 sec"
+        ]
+      }
+    ],
+    "mainSets": [
+      {
+        "title": "Bloc principal",
+        "duration": 50,
+        "steps": [
+          "4 x 10 min à 28–30 km/h avec 2 relances de 30 sec par bloc",
+          "Récup 3 min entre les blocs"
+        ]
+      }
+    ],
+    "cooldown": {
+      "title": "Retour au calme",
+      "duration": 15,
+      "steps": ["15 min pédalage doux terrain plat"]
+    },
+    "status": "PLANNED",
+    "date": "2025-08-27"
+  },
+
+  "semaine9_course_tempo_fractionne": {
+    "weekid": "semaine9",
+    "sessionId": "semaine9_course_tempo_fractionne",
+    "type": "Course à pied",
+    "intensity": 5,
+    "duration": "60",
+    "advice": "💡 Pendant le tempo, reste relâchée. Sur les 1 min rapides, pense à bien utiliser les bras et allonger ta foulée.",
+    "estimatedCalorie": "550 kcal",
+    "distance": "9000",
+    "title": "Vendredi 29 août – Course à pied – 2 x 8 min @ 5'30/km + 4 x 1 min @ 5’00/km – 1h00 – Intensité 5/5",
+    "objective": "Mixer du tempo et du fractionné pour simuler un effort de course soutenu et progressif.",
+    "warmups": [
+      {
+        "title": "Échauffement",
+        "duration": 10,
+        "steps": [
+          "10 min footing lent",
+          "3 x 40 m éducatifs : montées de genoux / foulées bondissantes"
+        ]
+      }
+    ],
+    "mainSets": [
+      {
+        "title": "Bloc principal",
+        "duration": 35,
+        "steps": [
+          "2 x 8 min à 5’30/km, récup 2 min",
+          "4 x 1 min à 5’00/km, récup 1 min footing"
+        ]
+      }
+    ],
+    "cooldown": {
+      "title": "Retour au calme",
+      "duration": 10,
+      "steps": ["10 min footing très lent + étirements"]
+    },
+    "status": "PLANNED",
+    "date": "2025-08-29"
+  },
+
+  "semaine9_renfo_mobilite_gainage": {
+    "weekid": "semaine9",
+    "sessionId": "semaine9_renfo_mobilite_gainage",
+    "type": "Renforcement",
+    "intensity": 3,
+    "duration": "50",
+    "advice": "💡 Bouge lentement, respire profondément et ressens tes amplitudes. On prépare le corps à absorber la charge.",
+    "estimatedCalorie": "300 kcal",
+    "distance": "",
+    "title": "Dimanche 31 août – Renforcement – Mobilité active + gainage dynamique – 50 min – Intensité 3/5",
+    "objective": "Améliorer la mobilité articulaire et l’activation posturale avant la semaine d’assimilation.",
+    "warmups": [
+      {
+        "title": "Échauffement",
+        "duration": 5,
+        "steps": [
+          "2 min mobilisation articulaire",
+          "3 min yoga flow (chien tête en bas / fente / squat)"
+        ]
+      }
+    ],
+    "mainSets": [
+      {
+        "title": "Bloc principal",
+        "duration": 35,
+        "steps": [
+          "2 x circuit : 30 sec planche dynamique + 20 sec chaise + 10 bird-dogs",
+          "2 x 1 min mobilité hanches / chevilles / thorax",
+          "Exercice postural : 2 min équilibre yeux fermés + 30 sec gainage oblique"
+        ]
+      }
+    ],
+    "cooldown": {
+      "title": "Retour au calme",
+      "duration": 10,
+      "steps": ["Étirements passifs : hanches, ischios, dos, épaules"]
+    },
+    "status": "PLANNED",
+    "date": "2025-08-31"
+  }
+}

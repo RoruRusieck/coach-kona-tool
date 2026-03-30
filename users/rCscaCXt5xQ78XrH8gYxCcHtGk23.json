@@ -1,0 +1,133 @@
+{
+  "firstname": "Victoria",
+  "lastname": "Dedôme ",
+  "email": "dedomevictoria@icloud.com",
+  "acceptConditions": true,
+  "uid": "rCscaCXt5xQ78XrH8gYxCcHtGk23",
+  "role": "USER",
+  "subscription": {
+    "hasAccess": true,
+    "source": "store",
+    "isBeta": false
+  },
+  "triathlonGoals": {
+    "primary": {
+      "distanceLabel": "L",
+      "distancesValues": {
+        "run": "21km",
+        "swim": "1,9km",
+        "bike": "90km"
+      },
+      "isInitial": true,
+      "timeGoals": {
+        "swimSeconds": 2700,
+        "runSeconds": 7800,
+        "bikeSeconds": 14400,
+        "globalSeconds": 25200
+      },
+      "raceName": "ironman 70.3 sables d'olonnes ",
+      "raceTerrain": "UNDULATING",
+      "raceDate": "2026-07-05"
+    },
+    "secondary": [
+      {
+        "id": 0,
+        "type": "triathlon",
+        "eventName": "Triathlon de saint-omer",
+        "evenDate": "2026-05-14",
+        "distanceLabel": "M",
+        "distancesValues": {
+          "swim": "1,5km",
+          "bike": "40km",
+          "run": "10km"
+        },
+        "raceTerrain": "DONT_KNOW",
+        "priority": "B",
+        "timeGoals": {
+          "globalSeconds": 12600,
+          "swimSeconds": 1800,
+          "bikeSeconds": 7200,
+          "runSeconds": 3300
+        }
+      }
+    ]
+  },
+  "profile": {
+    "gender": "FEMALE",
+    "ageYears": 27,
+    "heightCm": 165,
+    "weightKg": 70
+  },
+  "metrics": {
+    "vmaKmh": null
+  },
+  "triathlonExperience": {
+    "level": "NOVICE",
+    "triathlonYears": 1,
+    "triathlonsCompleted": 2,
+    "swimExperience": {
+      "distanceMeters": null,
+      "timeSeconds": null,
+      "level": "INTERMEDIATE"
+    },
+    "bikeExperience": {
+      "level": "NOVICE",
+      "ftpWatts": null
+    },
+    "runningExperience": {
+      "distanceMeters": 21000,
+      "timeSeconds": 7050,
+      "level": "INTERMEDIATE"
+    },
+    "transitionComfort": {
+      "swimToBike": false,
+      "bikeToRun": false
+    }
+  },
+  "equipment": {
+    "hrSensor": true,
+    "watch": {
+      "model": "Forerunner 965",
+      "brand": "garmin"
+    },
+    "run": {
+      "treadmill": false
+    },
+    "swimGear": [
+      "pull_buoy",
+      "kickboard",
+      "fins",
+      "snorkel"
+    ],
+    "bike": {
+      "homeTrainer": false,
+      "powerMeter": false,
+      "bikeType": "road",
+      "cadenceSensor": false
+    }
+  },
+  "targetWeeklyTrainingSessions": 6,
+  "trainingStartDate": "2026-03-09",
+  "club": {
+    "name": null,
+    "isMember": false,
+    "loackedSessionsNote": null
+  },
+  "targetMaxWeeklyTrainingHours": 10,
+  "averageSleepPerNightHours": 7,
+  "preferredRestDay": "friday",
+  "maxTrainingHoursPerDay": {
+    "sunday": 4,
+    "saturday": 4,
+    "tuesday": 2,
+    "friday": 1,
+    "thursday": 1,
+    "wednesday": 1,
+    "monday": 4
+  },
+  "currentWeeklyTrainingSessions": 3,
+  "injuriesNote": null,
+  "asCompleteForm": true,
+  "phone": "0776238073",
+  "department": "51"
+}

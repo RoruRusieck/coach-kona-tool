@@ -1,0 +1,510 @@
+{
+	"natation_recup_16sept": {
+		"weekid": "semaine2_recuperation",
+		"sessionId": "natation_recup_16sept",
+		"type": "Natation",
+		"intensity": 1,
+		"duration": "40",
+		"advice": "💡 Cherche uniquement à te relâcher, expire bien sous l’eau et prends ton temps.",
+		"estimatedCalorie": "350 kcal",
+		"distance": "1600",
+		"title": "Natation douce récupération",
+		"objective": "Relâcher les tensions musculaires et favoriser la récupération post-course.",
+		"warmups": [
+			{
+				"title": "Échauffement dans l’eau",
+				"duration": 10,
+				"steps": [
+					"200 m crawl souple",
+					"4 x 50 m éducatifs (rattrapé / crawl water-polo) récup 15 sec"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 20,
+				"steps": [
+					"4 x 200 m nage libre en Z1, récupération 30 sec",
+					"200 m dos crawlé relâché"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 10,
+			"steps": ["200 m crawl facile, respiration bilatérale"]
+		},
+		"status": "PLANNED",
+		"date": "2025-09-16"
+	},
+
+	"velo_recup_17sept": {
+		"weekid": "semaine2_recuperation",
+		"sessionId": "velo_recup_17sept",
+		"type": "Cyclisme",
+		"intensity": 1,
+		"duration": "75",
+		"advice": "💡 Reste facile, concentre-toi sur un pédalage souple et rond.",
+		"estimatedCalorie": "500 kcal",
+		"distance": "30000",
+		"title": "Vélo souple récupération",
+		"objective": "Tourner les jambes sans intensité, favoriser la circulation sanguine.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 15,
+				"steps": ["15 min en Zone 1, cadence 85-90 rpm"]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 50,
+				"steps": [
+					"50 min en Zone 1-2, pédalage souple",
+					"Toutes les 15 min : 1 min cadence 100 rpm"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 10,
+			"steps": ["10 min en Zone 1, cadence libre"]
+		},
+		"status": "PLANNED",
+		"date": "2025-09-17"
+	},
+
+	"cap_recup_18sept": {
+		"weekid": "semaine2_recuperation",
+		"sessionId": "cap_recup_18sept",
+		"type": "Course à pied",
+		"intensity": 1,
+		"duration": "40",
+		"advice": "💡 Respire profondément, garde une foulée relâchée, aucun objectif de vitesse.",
+		"estimatedCalorie": "400 kcal",
+		"distance": "7000",
+		"title": "Footing très facile récupération",
+		"objective": "Décrasser les jambes et activer la récupération sans contrainte mécanique.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 5,
+				"steps": ["5 min de footing très lent"]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 30,
+				"steps": ["30 min footing en Zone 1 (~6’00/km, respiration facile)"]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 5,
+			"steps": [
+				"5 min marche active ou footing lent",
+				"Étirements doux des mollets et ischios"
+			]
+		},
+		"status": "PLANNED",
+		"date": "2025-09-18"
+	},
+	"natation_technique_19sept": {
+		"weekid": "semaine2_recuperation",
+		"sessionId": "natation_technique_19sept",
+		"type": "Natation",
+		"intensity": 1,
+		"duration": "45",
+		"advice": "💡 Concentre-toi sur la glisse et la respiration bilatérale, zéro intensité.",
+		"estimatedCalorie": "350 kcal",
+		"distance": "1700",
+		"title": "Natation technique récupération",
+		"objective": "Améliorer la glisse et la respiration sans fatigue musculaire.",
+		"warmups": [
+			{
+				"title": "Échauffement dans l’eau",
+				"duration": 10,
+				"steps": [
+					"200 m nage libre douce",
+					"4 x 50 m éducatifs (rattrapé, un bras, crawl polo, dos crawlé)"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 25,
+				"steps": [
+					"6 x 100 m en nage complète souple, récupération 20 sec",
+					"200 m dos crawlé relâché"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 10,
+			"steps": ["200 m crawl souple", "2 x 25 m coulées longues"]
+		},
+		"status": "PLANNED",
+		"date": "2025-09-19"
+	},
+
+	"velo_balade_20sept": {
+		"weekid": "semaine2_recuperation",
+		"sessionId": "velo_balade_20sept",
+		"type": "Cyclisme",
+		"intensity": 1,
+		"duration": "90",
+		"advice": "💡 Balade tranquille, cadence mini 70 rpm, profite du paysage.",
+		"estimatedCalorie": "600 kcal",
+		"distance": "35000",
+		"title": "Vélo balade récupération",
+		"objective": "Entretenir le geste sans contrainte, activer la circulation et favoriser la régénération musculaire.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 10,
+				"steps": ["10 min souple en Zone 1, cadence 80 rpm"]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 70,
+				"steps": [
+					"70 min balade à allure facile (Zone 1)",
+					"Cadence mini 70 rpm",
+					"Évite les bosses longues ou les relances intenses"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 10,
+			"steps": ["10 min pédalage souple, cadence libre"]
+		},
+		"status": "PLANNED",
+		"date": "2025-09-20"
+	},
+
+	"recup_active_21sept": {
+		"weekid": "semaine2_recuperation",
+		"sessionId": "recup_active_21sept",
+		"type": "Renforcement",
+		"intensity": 1,
+		"duration": "35",
+		"advice": "💡 L’objectif est la détente : respiration, mobilité et relâchement.",
+		"estimatedCalorie": "150 kcal",
+		"distance": "",
+		"title": "Marche active ou yoga doux",
+		"objective": "Favoriser la récupération active, relâcher les tensions musculaires.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 5,
+				"steps": [
+					"Mobilisation articulaire douce : hanches, chevilles, épaules"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 25,
+				"steps": [
+					"Marche active 30-40 min en extérieur à allure naturelle",
+					"OU séance de yoga/stretching doux axée respiration et mobilité"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 5,
+			"steps": ["Respiration profonde et étirements doux"]
+		},
+		"status": "PLANNED",
+		"date": "2025-09-21"
+	},
+	"natation_22sept": {
+		"weekid": "semaine3_marathon",
+		"sessionId": "natation_22sept",
+		"type": "Natation",
+		"intensity": 2,
+		"duration": "55",
+		"advice": "💡 Concentre-toi sur la respiration bilatérale et l’allongement de ta glisse.",
+		"estimatedCalorie": "500 kcal",
+		"distance": "2000",
+		"title": "Natation technique & endurance",
+		"objective": "Travailler l’endurance aérobie avec un focus sur la respiration bilatérale et les appuis.",
+		"warmups": [
+			{
+				"title": "Échauffement dans l’eau",
+				"duration": 10,
+				"steps": [
+					"300 m crawl souple",
+					"4 x 50 m éducatifs respiration bilatérale, récup 15 sec"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 35,
+				"steps": [
+					"6 x 200 m en Zone 2, récup 30 sec",
+					"4 x 50 m crawl avec accent sur la glisse, récup 15 sec"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 10,
+			"steps": ["200 m crawl souple, relâchement complet"]
+		},
+		"status": "PLANNED",
+		"date": "2025-09-22"
+	},
+
+	"cap_seuil_23sept": {
+		"weekid": "semaine3_marathon",
+		"sessionId": "cap_seuil_23sept",
+		"type": "Course à pied",
+		"intensity": 3,
+		"duration": "70",
+		"advice": "💡 Reste relâché au niveau du haut du corps et concentre-toi sur une foulée économique.",
+		"estimatedCalorie": "700 kcal",
+		"distance": "12000",
+		"title": "Séance seuil 2 x 10 min",
+		"objective": "Améliorer ta capacité à tenir l’allure seuil en vue du marathon.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 15,
+				"steps": ["15 min footing progressif", "3 x 50 m lignes droites"]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 40,
+				"steps": [
+					"2 x 10 min à allure seuil (≈ 5’05/km), récup 3 min footing lent",
+					"10 min footing en Zone 2"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 15,
+			"steps": ["10 min footing lent", "Étirements actifs des jambes"]
+		},
+		"status": "PLANNED",
+		"date": "2025-09-23"
+	},
+
+	"velo_endurance_24sept": {
+		"weekid": "semaine3_marathon",
+		"sessionId": "velo_endurance_24sept",
+		"type": "Cyclisme",
+		"intensity": 2,
+		"duration": "120",
+		"advice": "💡 Garde une cadence fluide entre 85 et 90 rpm, sans chercher à forcer.",
+		"estimatedCalorie": "1000 kcal",
+		"distance": "55000",
+		"title": "Vélo endurance Z2",
+		"objective": "Construire une base d’endurance solide en maintenant un effort continu en Zone 2.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 20,
+				"steps": [
+					"15 min Zone 1, cadence 90 rpm",
+					"5 min en accélérations légères"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 90,
+				"steps": [
+					"90 min en Zone 2, cadence stable 85-90 rpm",
+					"Toutes les 20 min : 1 min cadence 100 rpm"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 10,
+			"steps": ["10 min Zone 1, pédalage souple"]
+		},
+		"status": "PLANNED",
+		"date": "2025-09-24"
+	},
+	"natation_25sept": {
+		"weekid": "semaine3_marathon",
+		"sessionId": "natation_25sept",
+		"type": "Natation",
+		"intensity": 3,
+		"duration": "60",
+		"advice": "💡 Cherche la précision de tes appuis : main qui pousse loin derrière et avant-bras bien vertical.",
+		"estimatedCalorie": "550 kcal",
+		"distance": "2200",
+		"title": "Natation appuis + séries 100 m",
+		"objective": "Améliorer la qualité des appuis et développer l’endurance de force en Z3.",
+		"warmups": [
+			{
+				"title": "Échauffement dans l’eau",
+				"duration": 10,
+				"steps": [
+					"300 m crawl souple",
+					"4 x 50 m éducatifs (catch-up / poings fermés / un bras), récup 15 sec"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 40,
+				"steps": [
+					"8 x 100 m en Zone 3, récup 20 sec",
+					"200 m dos crawlé relâché",
+					"6 x 50 m respiration bilatérale, récup 15 sec"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 10,
+			"steps": ["200 m crawl souple, respiration maîtrisée"]
+		},
+		"status": "PLANNED",
+		"date": "2025-09-25"
+	},
+
+	"renfo_26sept": {
+		"weekid": "semaine3_marathon",
+		"sessionId": "renfo_26sept",
+		"type": "Renforcement",
+		"intensity": 2,
+		"duration": "40",
+		"advice": "💡 Mets l’accent sur la qualité des mouvements, pas sur la vitesse d’exécution.",
+		"estimatedCalorie": "250 kcal",
+		"distance": "",
+		"title": "Renforcement core & mobilité",
+		"objective": "Renforcer le tronc et améliorer la mobilité des hanches et chevilles.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 5,
+				"steps": [
+					"2 min corde à sauter ou jumping jacks",
+					"3 min mobilité hanches, épaules et chevilles"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Circuit core/mobilité",
+				"duration": 30,
+				"steps": [
+					"3 x : Planche ventrale 30 sec",
+					"3 x : Gainage latéral 30 sec / côté",
+					"3 x : Deadbug contrôle 12 reps",
+					"3 x : Bird-dog 10 reps / côté",
+					"3 x : Squats poids du corps 15 reps",
+					"⏱ Récup 1 min entre circuits"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 5,
+			"steps": [
+				"Étirements doux (psoas, ischios, mollets)",
+				"Respiration contrôlée 2 min"
+			]
+		},
+		"status": "PLANNED",
+		"date": "2025-09-26"
+	},
+
+	"cap_longue_27sept": {
+		"weekid": "semaine3_marathon",
+		"sessionId": "cap_longue_27sept",
+		"type": "Course à pied",
+		"intensity": 3,
+		"duration": "85",
+		"advice": "💡 Gère bien ton allure en début de séance pour avoir du jus sur les 20 dernières minutes.",
+		"estimatedCalorie": "850 kcal",
+		"distance": "16000",
+		"title": "Sortie longue progressive",
+		"objective": "Développer l’endurance spécifique marathon avec un finish à allure cible (5’45/km).",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 10,
+				"steps": [
+					"10 min footing facile",
+					"3 x 50 m éducatifs (montées de genoux, talons-fesses, foulées bondissantes)"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 65,
+				"steps": [
+					"45 min en Zone 2 (≈ 6’00/km, allure confortable)",
+					"20 min à allure marathon (≈ 5’45/km)"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 10,
+			"steps": ["5 min footing lent", "Étirements actifs des jambes"]
+		},
+		"status": "PLANNED",
+		"date": "2025-09-27"
+	},
+
+	"cap_facile_28sept": {
+		"weekid": "semaine3_marathon",
+		"sessionId": "cap_facile_28sept",
+		"type": "Course à pied",
+		"intensity": 1,
+		"duration": "50",
+		"advice": "💡 Reste facile et relâché, la respiration doit être fluide du début à la fin.",
+		"estimatedCalorie": "450 kcal",
+		"distance": "8000",
+		"title": "Footing facile récupération",
+		"objective": "Favoriser la récupération active et entretenir le volume hebdo sans contrainte.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 5,
+				"steps": ["5 min footing très lent"]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 40,
+				"steps": [
+					"40 min en Zone 1-2 (allure 6’00-6’15/km, aisance respiratoire totale)"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 5,
+			"steps": ["Étirements doux (mollets, quadriceps, ischios)"]
+		},
+		"status": "PLANNED",
+		"date": "2025-09-28"
+	}
+}

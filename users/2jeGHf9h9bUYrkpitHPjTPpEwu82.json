@@ -1,0 +1,151 @@
+{
+  "firstname": "Garance",
+  "lastname": "Renard",
+  "email": "Garance.renard85@gmail.com",
+  "acceptConditions": true,
+  "uid": "2jeGHf9h9bUYrkpitHPjTPpEwu82",
+  "role": "USER",
+  "subscription": {
+    "hasAccess": true,
+    "source": "store",
+    "isBeta": false
+  },
+  "triathlonGoals": {
+    "primary": {
+      "distanceLabel": "L",
+      "distancesValues": {
+        "run": "21km",
+        "swim": "1,9km",
+        "bike": "90km"
+      },
+      "isInitial": true,
+      "timeGoals": {
+        "swimSeconds": 3000,
+        "runSeconds": 8100,
+        "bikeSeconds": 12600,
+        "globalSeconds": 25200
+      },
+      "raceName": "Ironman 70.3 les sables d’Olonne",
+      "raceTerrain": "UNDULATING",
+      "raceDate": "2026-07-05"
+    },
+    "secondary": [
+      {
+        "id": 0,
+        "type": "triathlon",
+        "eventName": "Triathlon olonne ",
+        "evenDate": "2026-05-17",
+        "distanceLabel": "M",
+        "distancesValues": {
+          "swim": "1,5km",
+          "bike": "40km",
+          "run": "10km"
+        },
+        "raceTerrain": "UNDULATING",
+        "priority": "C",
+        "timeGoals": {
+          "globalSeconds": 10800,
+          "runSeconds": 3300,
+          "bikeSeconds": 5400,
+          "swimSeconds": 2400
+        }
+      },
+      {
+        "id": 1,
+        "type": "triathlon",
+        "eventName": "Triathlon noirmoutier ",
+        "evenDate": "2026-06-06",
+        "distanceLabel": "M",
+        "distancesValues": {
+          "swim": "1,5km",
+          "bike": "40km",
+          "run": "10km"
+        },
+        "raceTerrain": "DONT_KNOW",
+        "priority": "C",
+        "timeGoals": {
+          "globalSeconds": 10800,
+          "swimSeconds": 2100,
+          "bikeSeconds": 4800,
+          "runSeconds": 3300
+        }
+      }
+    ]
+  },
+  "profile": {
+    "gender": "FEMALE",
+    "ageYears": 20,
+    "heightCm": 160,
+    "weightKg": 52
+  },
+  "metrics": {
+    "vmaKmh": null
+  },
+  "triathlonExperience": {
+    "level": "NOVICE",
+    "triathlonYears": 1,
+    "triathlonsCompleted": 3,
+    "swimExperience": {
+      "distanceMeters": 1000,
+      "timeSeconds": 1200,
+      "level": "INTERMEDIATE"
+    },
+    "bikeExperience": {
+      "level": "BEGINNER",
+      "ftpWatts": null
+    },
+    "runningExperience": {
+      "distanceMeters": 10000,
+      "timeSeconds": 3060,
+      "level": "INTERMEDIATE"
+    },
+    "transitionComfort": {
+      "swimToBike": false,
+      "bikeToRun": false
+    }
+  },
+  "equipment": {
+    "hrSensor": false,
+    "watch": {
+      "model": "Forerunner 570",
+      "brand": "Garmin"
+    },
+    "run": {
+      "treadmill": false
+    },
+    "swimGear": [
+      "pull_buoy",
+      "kickboard"
+    ],
+    "bike": {
+      "homeTrainer": false,
+      "powerMeter": false,
+      "bikeType": "road",
+      "cadenceSensor": false
+    }
+  },
+  "targetWeeklyTrainingSessions": 5,
+  "trainingStartDate": "2026-03-09",
+  "club": {
+    "name": null,
+    "isMember": false,
+    "loackedSessionsNote": null
+  },
+  "targetMaxWeeklyTrainingHours": 9,
+  "averageSleepPerNightHours": 9,
+  "preferredRestDay": "friday",
+  "maxTrainingHoursPerDay": {
+    "sunday": 4,
+    "saturday": 4,
+    "tuesday": 2,
+    "friday": 1,
+    "thursday": 2,
+    "wednesday": 2,
+    "monday": 3
+  },
+  "currentWeeklyTrainingSessions": 4,
+  "injuriesNote": null,
+  "asCompleteForm": true,
+  "phone": "0782640128",
+  "department": "85"
+}

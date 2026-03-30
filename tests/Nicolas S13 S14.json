@@ -1,0 +1,390 @@
+{
+  "mobilite_lundi_s13": {
+    "weekid": "semaine13",
+    "sessionId": "mobilite_lundi_s13",
+    "type": "Renforcement",
+    "intensity": 2,
+    "duration": "25",
+    "advice": "💡 Respire profondément et vas-y doucement. Le but est de relâcher, pas de forcer.",
+    "estimatedCalorie": "80 kcal",
+    "distance": "",
+    "title": "Déverrouiller le bassin + dos",
+    "objective": "Améliorer la mobilité du bassin et relâcher les tensions dorsales.",
+    "warmups": [],
+    "mainSets": [
+      {
+        "title": "Routine mobilité",
+        "duration": 25,
+        "steps": [
+          "2x30s bascule de bassin (assis ou allongé)",
+          "2x30s ouverture de hanches en position du lézard",
+          "2x30s rotation du tronc à genoux (position quadrupédie)",
+          "2x30s enroulé de dos (chat-vache)",
+          "2x30s étirement des flancs bras en l'air"
+        ]
+      }
+    ],
+    "cooldown": {
+      "title": "Respiration et retour au calme",
+      "duration": 3,
+      "steps": ["Assis ou allongé, 3 min de respiration profonde"]
+    },
+    "status": "PLANNED",
+    "date": "2025-09-22"
+  },
+  "cap_mercredi_s13": {
+    "weekid": "semaine13",
+    "sessionId": "cap_mercredi_s13",
+    "type": "Course à pied",
+    "intensity": 3,
+    "duration": "45",
+    "advice": "💡 Concentre-toi sur une foulée souple, légère et relâchée. Garde le regard loin devant toi.",
+    "estimatedCalorie": "450 kcal",
+    "distance": "7500",
+    "title": "Endurance facile + foulée légère",
+    "objective": "Travailler ton relâchement général à une allure d’endurance confortable.",
+    "warmups": [
+      {
+        "title": "Échauffement",
+        "duration": 10,
+        "steps": [
+          "10 min de footing en zone 1 (très facile)",
+          "3 x 30m de lignes droites avec accélération progressive"
+        ]
+      }
+    ],
+    "mainSets": [
+      {
+        "title": "Bloc principal",
+        "duration": 30,
+        "steps": [
+          "30 min à 70 % de ta FC max (~6’15 à 6’30/km selon sensations)",
+          "Concentre-toi sur la légèreté de ta foulée et la cadence"
+        ]
+      }
+    ],
+    "cooldown": {
+      "title": "Retour au calme",
+      "duration": 5,
+      "steps": ["5 min de footing lent + étirements actifs"]
+    },
+    "status": "PLANNED",
+    "date": "2025-09-24"
+  },
+  "renfo_mercredi_s13": {
+    "weekid": "semaine13",
+    "sessionId": "renfo_mercredi_s13",
+    "type": "Renforcement",
+    "intensity": 3,
+    "duration": "30",
+    "advice": "💡 Travaille avec précision : qualité > quantité, surtout sur les appuis au sol.",
+    "estimatedCalorie": "200 kcal",
+    "distance": "",
+    "title": "Stabilité tronc + proprio mollet",
+    "objective": "Renforcer la stabilité centrale et améliorer la proprioception des mollets.",
+    "warmups": [
+      {
+        "title": "Activation",
+        "duration": 5,
+        "steps": [
+          "1 min jumping jacks",
+          "1 min montée de genoux",
+          "1 min talons-fesses",
+          "1 min gainage dynamique (planche sur coudes)",
+          "1 min shadow squats"
+        ]
+      }
+    ],
+    "mainSets": [
+      {
+        "title": "Bloc principal",
+        "duration": 20,
+        "steps": [
+          "3 x 30s gainage frontal + 15s repos",
+          "3 x 30s gainage latéral chaque côté",
+          "2 x 12 ponts fessiers une jambe",
+          "2 x 30s équilibre sur une jambe yeux fermés",
+          "2 x 15 montées sur pointes + descente lente"
+        ]
+      }
+    ],
+    "cooldown": {
+      "title": "Étirement + respiration",
+      "duration": 5,
+      "steps": [
+        "Étirement mollet, ischios, dos",
+        "2 min respiration profonde allongé"
+      ]
+    },
+    "status": "PLANNED",
+    "date": "2025-09-24"
+  },
+  "cap_samedi_s13": {
+    "weekid": "semaine13",
+    "sessionId": "cap_samedi_s13",
+    "type": "Course à pied",
+    "intensity": 3,
+    "duration": "50",
+    "advice": "💡 Concentre-toi sur des variations légères de rythme, en gardant une bonne posture et un relâchement global.",
+    "estimatedCalorie": "500 kcal",
+    "distance": "8000",
+    "title": "Sortie progressive + variations légères",
+    "objective": "Améliorer ta capacité à moduler l’allure tout en gardant une bonne économie de course.",
+    "warmups": [
+      {
+        "title": "Échauffement",
+        "duration": 10,
+        "steps": [
+          "10 min de footing à allure confortable",
+          "3 x 30m en accélérations progressives"
+        ]
+      }
+    ],
+    "mainSets": [
+      {
+        "title": "Bloc principal",
+        "duration": 35,
+        "steps": [
+          "3 x 10 min progressifs (Zone 2 -> Zone 3), récup 2 min marche/footing entre",
+          "5 min en Zone 2 pour finir"
+        ]
+      }
+    ],
+    "cooldown": {
+      "title": "Retour au calme",
+      "duration": 5,
+      "steps": [
+        "5 min de footing très lent + étirements actifs (mollets, quadris, fessiers)"
+      ]
+    },
+    "status": "PLANNED",
+    "date": "2025-09-27"
+  },
+  "velo_dimanche_s13": {
+    "weekid": "semaine13",
+    "sessionId": "velo_dimanche_s13",
+    "type": "Cyclisme",
+    "intensity": 3,
+    "duration": "60",
+    "advice": "💡 Pense à bien t’hydrater et garde une cadence souple pour favoriser l’efficacité du pédalage.",
+    "estimatedCalorie": "600 kcal",
+    "distance": "25000",
+    "title": "Cadence + vélocité",
+    "objective": "Travailler la fréquence de pédalage pour améliorer l’économie de mouvement.",
+    "warmups": [
+      {
+        "title": "Échauffement",
+        "duration": 15,
+        "steps": ["15 min en Zone 1, cadence autour de 85-90 rpm"]
+      }
+    ],
+    "mainSets": [
+      {
+        "title": "Bloc principal",
+        "duration": 35,
+        "steps": [
+          "3 x 5 min à cadence élevée (95-100 rpm) en Zone 2, récup 3 min souple",
+          "10 min en Zone 2 à cadence normale"
+        ]
+      }
+    ],
+    "cooldown": {
+      "title": "Retour au calme",
+      "duration": 10,
+      "steps": ["10 min pédalage en roue libre, cadence libre, Zone 1"]
+    },
+    "status": "PLANNED",
+    "date": "2025-09-28"
+  },
+  "mobilite_lundi_s14": {
+    "weekid": "semaine14",
+    "sessionId": "mobilite_lundi_s14",
+    "type": "Renforcement",
+    "intensity": 2,
+    "duration": "30",
+    "advice": "💡 Prends ton temps sur chaque mouvement. Respire profondément pour relâcher les tensions.",
+    "estimatedCalorie": "100 kcal",
+    "distance": "",
+    "title": "Ouverture épaules + hanches",
+    "objective": "Favoriser la mobilité articulaire des zones clés en natation et course à pied.",
+    "warmups": [],
+    "mainSets": [
+      {
+        "title": "Routine mobilité",
+        "duration": 30,
+        "steps": [
+          "2 x 10 cercles d’épaules (avant/arrière)",
+          "2 x 10 rotations bras tendus",
+          "2 x 30 sec fente statique + ouverture bras (chaque jambe)",
+          "2 x 30 sec squat sumo + bras au ciel",
+          "1 min étirement dynamique du psoas"
+        ]
+      }
+    ],
+    "cooldown": {
+      "title": "Étirement doux",
+      "duration": 5,
+      "steps": [
+        "Respiration en position allongée, bras ouverts, jambes fléchies"
+      ]
+    },
+    "status": "PLANNED",
+    "date": "2025-09-29"
+  },
+  "renfo_mercredi_s14": {
+    "weekid": "semaine14",
+    "sessionId": "renfo_mercredi_s14",
+    "type": "Renforcement",
+    "intensity": 3,
+    "duration": "35",
+    "advice": "🎯 Concentre-toi sur la qualité du mouvement, pas sur la vitesse d’exécution.",
+    "estimatedCalorie": "200 kcal",
+    "distance": "",
+    "title": "Chaîne postérieure + gainage",
+    "objective": "Renforcer les muscles du dos, les fessiers et les abdominaux profonds pour plus de stabilité.",
+    "warmups": [
+      {
+        "title": "Activation",
+        "duration": 5,
+        "steps": [
+          "30 sec jumping jacks",
+          "30 sec mountain climbers",
+          "1 min planche dynamique"
+        ]
+      }
+    ],
+    "mainSets": [
+      {
+        "title": "Circuit renforcement",
+        "duration": 25,
+        "steps": [
+          "3 x 10 hip thrust",
+          "3 x 12 superman",
+          "3 x 10 bird-dog par côté",
+          "3 x 30 sec planche latérale chaque côté",
+          "3 x 20 crunch croisés"
+        ]
+      }
+    ],
+    "cooldown": {
+      "title": "Retour au calme",
+      "duration": 5,
+      "steps": ["Étirement ischio, fessiers, dos allongé"]
+    },
+    "status": "PLANNED",
+    "date": "2025-10-01"
+  },
+  "velo_mercredi_s14": {
+    "weekid": "semaine14",
+    "sessionId": "velo_mercredi_s14",
+    "type": "Cyclisme",
+    "intensity": 4,
+    "duration": "75",
+    "advice": "🚴‍♂️ Reste fluide et relâché en fréquence. Gère bien ton alimentation avant la séance.",
+    "estimatedCalorie": "600 kcal",
+    "distance": "30000",
+    "title": "Endurance + tempo en fréquence",
+    "objective": "Développer ton endurance à une cadence élevée pour gagner en efficacité.",
+    "warmups": [
+      {
+        "title": "Échauffement",
+        "duration": 15,
+        "steps": ["15 min Zone 1, cadence > 90 rpm"]
+      }
+    ],
+    "mainSets": [
+      {
+        "title": "Bloc principal",
+        "duration": 50,
+        "steps": [
+          "3 x 8 min en Zone 3, cadence 95-100 rpm",
+          "Récup 3 min en Zone 1 entre les blocs",
+          "2 x 4 min en danseuse, cadence 80 rpm"
+        ]
+      }
+    ],
+    "cooldown": {
+      "title": "Retour au calme",
+      "duration": 10,
+      "steps": ["10 min Zone 1, pédalage souple"]
+    },
+    "status": "PLANNED",
+    "date": "2025-10-01"
+  },
+  "cap_vendredi_s14": {
+    "weekid": "semaine14",
+    "sessionId": "cap_vendredi_s14",
+    "type": "Course à pied",
+    "intensity": 4,
+    "duration": "45",
+    "advice": "💡 Garde une posture dynamique et relâchée, surtout sur les phases rapides.",
+    "estimatedCalorie": "450 kcal",
+    "distance": "8500",
+    "title": "Allure spécifique courte",
+    "objective": "Travailler ta capacité à tenir une allure rapide proche de ta cible en course.",
+    "warmups": [
+      {
+        "title": "Échauffement",
+        "duration": 10,
+        "steps": [
+          "10 min footing léger (Zone 1)",
+          "3 x 30 sec en accélération progressive"
+        ]
+      }
+    ],
+    "mainSets": [
+      {
+        "title": "Bloc principal",
+        "duration": 25,
+        "steps": [
+          "3 x 6 min à 90-95 % allure cible (~4:45-5:00/km), récup 2 min",
+          "2 x 2 min à 95-100 %, récup 1 min"
+        ]
+      }
+    ],
+    "cooldown": {
+      "title": "Retour au calme",
+      "duration": 10,
+      "steps": ["Footing très léger 10 min + étirements actifs"]
+    },
+    "status": "PLANNED",
+    "date": "2025-10-03"
+  },
+  "cap_dimanche_s14": {
+    "weekid": "semaine14",
+    "sessionId": "cap_dimanche_s14",
+    "type": "Course à pied",
+    "intensity": 4,
+    "duration": "70",
+    "advice": "🧠 Reste à l’écoute de tes sensations. Conserve une foulée fluide même dans la relance finale.",
+    "estimatedCalorie": "700 kcal",
+    "distance": "13000",
+    "title": "Sortie progressive + relance finale",
+    "objective": "Travailler ton endurance avec une montée progressive en intensité et une relance sur la fin.",
+    "warmups": [
+      {
+        "title": "Échauffement",
+        "duration": 10,
+        "steps": ["10 min en Zone 1"]
+      }
+    ],
+    "mainSets": [
+      {
+        "title": "Bloc principal",
+        "duration": 50,
+        "steps": [
+          "20 min en Zone 2 (~5:50-6:00/km)",
+          "20 min en Zone 3 (~5:20-5:30/km)",
+          "10 min à allure proche course (~5:00-5:10/km)"
+        ]
+      }
+    ],
+    "cooldown": {
+      "title": "Retour au calme",
+      "duration": 10,
+      "steps": ["Footing très lent 10 min + respiration"]
+    },
+    "status": "PLANNED",
+    "date": "2025-10-05"
+  }
+}

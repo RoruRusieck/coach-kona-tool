@@ -1,0 +1,325 @@
+{
+  "semaine12_natation_5x100_allure_tri": {
+    "weekid": "semaine12",
+    "sessionId": "semaine12_natation_5x100_allure_tri",
+    "type": "Natation",
+    "intensity": 4,
+    "duration": "55",
+    "advice": "💡 Sur chaque 100 m, cherche une glisse fluide, épaule relâchée, et une expiration complète sous l’eau.",
+    "estimatedCalorie": "400 kcal",
+    "distance": "1300",
+    "title": "Lundi 15 septembre – Natation – 5 × 100 m allure tri + éducatifs – 55 min – 1300 m – Intensité 4/5",
+    "objective": "Rythme spécifique tri S avec relâchement actif, consolidation de l’allure course.",
+    "warmups": [
+      {
+        "title": "Échauffement à sec",
+        "duration": 5,
+        "steps": ["Rotations épaules/nuque", "2 × 30 s gainage bras tendus"]
+      },
+      {
+        "title": "Échauffement dans l’eau",
+        "duration": 10,
+        "steps": [
+          "200 m crawl souple",
+          "4 × 50 m éducatifs (glisse / rattrapé / poings fermés / respiration 3 temps)"
+        ]
+      }
+    ],
+    "mainSets": [
+      {
+        "title": "Bloc principal",
+        "duration": 30,
+        "steps": [
+          "5 × 100 m à allure tri (≈2’35/100m), récup 20 s",
+          "4 × 50 m crawl relâché, récup 20 s"
+        ]
+      }
+    ],
+    "cooldown": {
+      "title": "Retour au calme",
+      "duration": 10,
+      "steps": ["200 m dos ou crawl très souple"]
+    },
+    "status": "PLANNED",
+    "date": "2025-09-15"
+  },
+
+  "semaine12_velo_4x10_tempo_velocite": {
+    "weekid": "semaine12",
+    "sessionId": "semaine12_velo_4x10_tempo_velocite",
+    "type": "Cyclisme",
+    "intensity": 4,
+    "duration": "90",
+    "advice": "💡 Sur les blocs tempo, reste en contrôle : cadence 85–90 rpm, position stable, respiration régulière.",
+    "estimatedCalorie": "650 kcal",
+    "distance": "35000",
+    "title": "Mercredi 17 septembre – Vélo – 4 × 10 min tempo Z3 + vélocité – 1h30 – 35 km – Intensité 4/5",
+    "objective": "Blocs tempo soutenus (27–29 km/h) avec rappels de vélocité pour améliorer l’économie de pédalage.",
+    "warmups": [
+      {
+        "title": "Échauffement",
+        "duration": 15,
+        "steps": ["10 min zone 1", "3 × 1 min vélocité > 100 rpm, récup 1 min"]
+      }
+    ],
+    "mainSets": [
+      {
+        "title": "Bloc principal",
+        "duration": 55,
+        "steps": [
+          "4 × 10 min en Z3 (27–29 km/h), récup 3 min zone 1 entre les blocs",
+          "3 × 1 min vélocité 100–105 rpm, récup 1 min"
+        ]
+      }
+    ],
+    "cooldown": {
+      "title": "Retour au calme",
+      "duration": 20,
+      "steps": ["20 min pédalage souple terrain plat"]
+    },
+    "status": "PLANNED",
+    "date": "2025-09-17"
+  },
+
+  "semaine12_course_3x6_tempo_4x1_vite": {
+    "weekid": "semaine12",
+    "sessionId": "semaine12_course_3x6_tempo_4x1_vite",
+    "type": "Course à pied",
+    "intensity": 4,
+    "duration": "60",
+    "advice": "💡 Garde une posture fière et relâchée. Les minutes rapides se courent en souplesse, pas en crispation.",
+    "estimatedCalorie": "520 kcal",
+    "distance": "9000",
+    "title": "Vendredi 19 septembre – Course à pied – 3 × 6 min à 5’30/km + 4 × 1 min à 5’00/km – 1h00 – 9 km – Intensité 4/5",
+    "objective": "Travail combiné : allure course (5’30/km) puis finition nerveuse à 5’00/km.",
+    "warmups": [
+      {
+        "title": "Échauffement",
+        "duration": 10,
+        "steps": [
+          "10 min footing lent",
+          "3 × 40 m éducatifs dynamiques (montées de genoux / foulées bondissantes / talons-fesses)"
+        ]
+      }
+    ],
+    "mainSets": [
+      {
+        "title": "Bloc principal",
+        "duration": 35,
+        "steps": [
+          "3 × 6 min à 5’30/km, récup 2 min footing",
+          "4 × 1 min à 5’00/km, récup 1 min footing",
+          "5 min footing Z2 relâché"
+        ]
+      }
+    ],
+    "cooldown": {
+      "title": "Retour au calme",
+      "duration": 15,
+      "steps": [
+        "10 min footing très lent",
+        "5 min étirements actifs (mollets, quadriceps, fessiers)"
+      ]
+    },
+    "status": "PLANNED",
+    "date": "2025-09-19"
+  },
+
+  "semaine12_enchainement_velo_cap": {
+    "weekid": "semaine12",
+    "sessionId": "semaine12_enchainement_velo_cap",
+    "type": "Enchaînement vélo-course",
+    "intensity": 4,
+    "duration": "110",
+    "advice": "💡 En transition, simplicité et routine : chaussures, dossard, départ calme. Priorité à la fluidité.",
+    "estimatedCalorie": "700 kcal",
+    "distance": "24000",
+    "title": "Dimanche 21 septembre – Enchaînement – Vélo 20 km + CAP 4 km – 1h50 – Intensité 4/5",
+    "objective": "Simulation partielle avec transitions travaillées et maintien des allures spécifiques.",
+    "warmups": [
+      {
+        "title": "Échauffement vélo",
+        "duration": 10,
+        "steps": ["10 min zone 1, cadence 90–95 rpm"]
+      }
+    ],
+    "mainSets": [
+      {
+        "title": "Vélo",
+        "duration": 60,
+        "steps": [
+          "20 km à 26–28 km/h (Z2/Z3) avec 3 × 1 min de relance à 95–100 rpm (récup 2 min)"
+        ]
+      },
+      {
+        "title": "Transition",
+        "duration": 3,
+        "steps": ["Pose vélo, changement chaussures, départ CAP immédiat"]
+      },
+      {
+        "title": "Course à pied",
+        "duration": 30,
+        "steps": [
+          "4 km à 5’45–6’00/km en posture relâchée (premier km prudent, puis cale l’allure)"
+        ]
+      }
+    ],
+    "cooldown": {
+      "title": "Retour au calme",
+      "duration": 7,
+      "steps": [
+        "Marche 3 min",
+        "Étirements légers 4 min (mollets, ischios, dos)"
+      ]
+    },
+    "status": "PLANNED",
+    "date": "2025-09-21"
+  },
+  "natation_activation": {
+    "weekid": "semaine13_affutage_course",
+    "sessionId": "natation_activation",
+    "type": "Natation",
+    "intensity": 2,
+    "duration": "40",
+    "advice": "💡 Sensibilise-toi à ton rythme de départ, mais reste relâchée.",
+    "estimatedCalorie": "350 kcal",
+    "distance": "1000",
+    "title": "Activation technique + 6 × 50 m allure course",
+    "objective": "Travailler les appuis et retrouver le rythme de départ en course.",
+    "warmups": [
+      {
+        "title": "Échauffement à sec",
+        "duration": 5,
+        "steps": ["Mobilité épaules", "2 x 30 sec gainage léger"]
+      },
+      {
+        "title": "Échauffement dans l’eau",
+        "duration": 10,
+        "steps": ["200 m crawl souple", "4 x 50 m éducatifs respiration"]
+      }
+    ],
+    "mainSets": [
+      {
+        "title": "Bloc principal",
+        "duration": 20,
+        "steps": ["6 x 50 m allure course avec 20 sec récup"]
+      }
+    ],
+    "cooldown": {
+      "title": "Retour au calme",
+      "duration": 5,
+      "steps": ["200 m crawl relâché"]
+    },
+    "status": "PLANNED",
+    "date": "2025-09-22"
+  },
+  "velo_tempo_rappel": {
+    "weekid": "semaine13_affutage_course",
+    "sessionId": "velo_tempo_rappel",
+    "type": "Cyclisme",
+    "intensity": 2,
+    "duration": "50",
+    "advice": "💡 Ne cherche pas la performance, l’objectif est juste de réveiller les jambes.",
+    "estimatedCalorie": "400 kcal",
+    "distance": "20000",
+    "title": "3 × 3 min tempo Z3",
+    "objective": "Entretenir le rythme et la vélocité sans fatigue accumulée.",
+    "warmups": [
+      {
+        "title": "Échauffement",
+        "duration": 10,
+        "steps": ["10 min en Zone 1, cadence fluide"]
+      }
+    ],
+    "mainSets": [
+      {
+        "title": "Bloc principal",
+        "duration": 30,
+        "steps": ["3 × 3 min en Z3 (85-90 rpm), récup 4 min Z1"]
+      }
+    ],
+    "cooldown": {
+      "title": "Retour au calme",
+      "duration": 10,
+      "steps": ["10 min pédalage souple en Zone 1"]
+    },
+    "status": "PLANNED",
+    "date": "2025-09-24"
+  },
+  "brick_openers": {
+    "weekid": "semaine13_affutage_course",
+    "sessionId": "brick_openers",
+    "type": "Enchaînement vélo-course",
+    "intensity": 3,
+    "duration": "45",
+    "advice": "💡 Concentre-toi sur les sensations musculaires et la fluidité de ta transition.",
+    "estimatedCalorie": "500 kcal",
+    "distance": "17000",
+    "title": "Openers vélo + CAP",
+    "objective": "Réveiller la coordination vélo/course et activer les jambes avant la compétition.",
+    "warmups": [
+      {
+        "title": "Échauffement vélo",
+        "duration": 10,
+        "steps": ["10 min Z1 pédalage souple, cadence 90 rpm"]
+      }
+    ],
+    "mainSets": [
+      {
+        "title": "Bloc vélo",
+        "duration": 25,
+        "steps": [
+          "15 km à allure Z2 avec 2 × 2 min en Z3",
+          "Transition rapide vers CAP"
+        ]
+      },
+      {
+        "title": "Bloc CAP",
+        "duration": 10,
+        "steps": ["2 km à allure course tri S (5’30–5’40/km)"]
+      }
+    ],
+    "cooldown": {
+      "title": "Retour au calme",
+      "duration": 5,
+      "steps": ["Étirements légers quadriceps et mollets"]
+    },
+    "status": "PLANNED",
+    "date": "2025-09-26"
+  },
+  "course_officielle_granville": {
+    "weekid": "semaine13_affutage_course",
+    "sessionId": "course_officielle_granville",
+    "type": "Enchaînement vélo-course",
+    "intensity": 5,
+    "duration": "95",
+    "advice": "💡 Rappelle-toi : pars contrôlée, reste régulière, et profite de ton triathlon.",
+    "estimatedCalorie": "1200 kcal",
+    "distance": "25750",
+    "title": "🏁 Triathlon S de Granville – 750 m / 20 km / 5 km",
+    "objective": "Donner le meilleur de toi-même et viser ton chrono objectif ~1h35.",
+    "warmups": [
+      {
+        "title": "Activation pré-course",
+        "duration": 15,
+        "steps": [
+          "10 min footing léger",
+          "5 min mobilité + respiration contrôlée"
+        ]
+      }
+    ],
+    "mainSets": [
+      {
+        "title": "Bloc principal",
+        "steps": ["Natation 750 m", "Vélo 20 km", "Course 5 km"]
+      }
+    ],
+    "cooldown": {
+      "title": "Retour au calme",
+      "duration": 15,
+      "steps": ["Marche active, hydratation, étirements doux"]
+    },
+    "status": "PLANNED",
+    "date": "2025-09-28"
+  }
+}

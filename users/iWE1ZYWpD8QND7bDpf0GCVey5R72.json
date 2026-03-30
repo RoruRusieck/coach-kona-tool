@@ -1,0 +1,100 @@
+{
+  "firstname": "Maxime",
+  "lastname": "Houdebert",
+  "email": "Maximehoudebert@gmail.com",
+  "acceptConditions": true,
+  "uid": "iWE1ZYWpD8QND7bDpf0GCVey5R72",
+  "role": "USER",
+  "triathlonGoals": {
+    "date": "2025-10-05",
+    "distance": "XXL (3,8km / 180km / 42km)",
+    "name": "ironman barcelone",
+    "timeGoals": {
+      "running": {
+        "hours": "02",
+        "seconds": "0",
+        "minutes": "55"
+      },
+      "swimming": {
+        "hours": "0",
+        "seconds": "0",
+        "minutes": "57"
+      },
+      "biking": {
+        "hours": "4",
+        "seconds": "0",
+        "minutes": "30"
+      },
+      "global": {
+        "hours": "8",
+        "seconds": "0",
+        "minutes": "40"
+      }
+    },
+    "fieldType": "Plat"
+  },
+  "asCompleteForm": true,
+  "phone": "0683923052",
+  "department": "37",
+  "trainingStartDate": "2025-06-02",
+  "profile": {
+    "gender": "MALE",
+    "ageYears": 33,
+    "weightKg": 71,
+    "heightCm": 187
+  },
+  "triathlonExperience": {
+    "triathlonYears": "+ de 5 ans",
+    "triathlonsCompleted": 30,
+    "level": "intermediate",
+    "swimExperience": {
+      "level": "intermediate",
+      "distanceMeters": 400,
+      "timeSeconds": 290
+    },
+    "runningExperience": {
+      "level": "intermediate",
+      "distanceMeters": 21,
+      "timeSeconds": 4260
+    },
+    "bikeExperience": {
+      "level": "intermediate",
+      "distanceMeters": null,
+      "timeSeconds": null,
+      "explanation": null
+    },
+    "transitionComfort": {
+      "swimToBike": true,
+      "bikeToRun": true
+    }
+  },
+  "club": {
+    "isMember": true,
+    "name": "Tcj",
+    "lockedSessionsNote": "Natation le lundi et jeudi matin"
+  },
+  "metrics": {
+    "vmaKmh": null,
+    "ftpWatts": null
+  },
+  "targetmaxWeeklyTraininghours": 20,
+  "targetWeeklyTrainingSessions": 10,
+  "currentWeeklyTrainingSessions": 6,
+  "averageSleepPerNightHours": 8,
+  "maxTrainingHoursPerDay": {
+    "monday": 4,
+    "thursday": 6,
+    "friday": 2,
+    "sunday": 8,
+    "wednesday": 2,
+    "tuesday": 2,
+    "saturday": 8
+  },
+  "preferredRestDay": "wednesday",
+  "injuriesNote": null,
+  "equipment": {
+    "bike": {
+      "powerMeter": false
+    }
+  }
+}

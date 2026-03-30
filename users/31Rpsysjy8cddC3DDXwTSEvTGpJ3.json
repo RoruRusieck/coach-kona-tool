@@ -1,0 +1,98 @@
+{
+  "firstname": "Maxime",
+  "lastname": "De Saint Moulin",
+  "email": "maxime.desaintmoulin@hotmail.com",
+  "acceptConditions": true,
+  "uid": "31Rpsysjy8cddC3DDXwTSEvTGpJ3",
+  "role": "USER",
+  "triathlonGoals": {
+    "date": "2025-09-27",
+    "distance": "XXL (3,8km / 180km / 42km)",
+    "name": "LCW Newport",
+    "timeGoals": {
+      "running": {
+        "hours": "3",
+        "seconds": "",
+        "minutes": "50"
+      },
+      "swimming": {
+        "hours": "1",
+        "seconds": "",
+        "minutes": "15"
+      },
+      "biking": {
+        "hours": "5",
+        "seconds": "",
+        "minutes": "40"
+      },
+      "global": {
+        "hours": "11",
+        "seconds": "",
+        "minutes": "30"
+      }
+    },
+    "fieldType": "Plat"
+  },
+  "athleteProfile": {
+    "gender": "MALE",
+    "weight": "78",
+    "age": "39",
+    "height": "186",
+    "nbTriathlonExecuted": "5",
+    "level": "Intermédiaire",
+    "vma": "15",
+    "experience": "3-4 ans",
+    "natationExperience": {
+      "distance": "3800",
+      "level": "Intermédiaire",
+      "poolType": null,
+      "chrono": {
+        "hours": "1",
+        "seconds": "",
+        "minutes": "25"
+      }
+    },
+    "bikeExperience": {
+      "ftp": "267",
+      "distance": "",
+      "level": "Intermédiaire",
+      "explanation": null,
+      "chrono": null
+    },
+    "runningExperience": {
+      "distance": "42",
+      "level": "Intermédiaire",
+      "chrono": {
+        "hours": "3",
+        "seconds": "",
+        "minutes": "34"
+      }
+    },
+    "transitionSkills": {
+      "swimToBike": true,
+      "bikeToRun": true
+    },
+    "trainningHours": "15",
+    "hasClubLicense": true,
+    "club": "Triathlon Team Braine",
+    "clubSessions": "Non",
+    "startDate": "2025-07-28",
+    "trainingSessions": "11",
+    "dayOff": "Lundi",
+    "injuries": null,
+    "sleepHours": "7",
+    "trainingFrequency": "11",
+    "availability": {
+      "Monday": "2",
+      "Thursday": "2",
+      "Friday": "3",
+      "Sunday": "5",
+      "Wednesday": "2",
+      "Tuesday": "2",
+      "Saturday": "5"
+    }
+  },
+  "asCompleteForm": true,
+  "phone": "0473452995",
+  "department": "00"
+}

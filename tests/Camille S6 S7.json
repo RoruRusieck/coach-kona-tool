@@ -1,0 +1,279 @@
+{
+  "semaine6_natation_glisse": {
+    "weekid": "semaine6",
+    "sessionId": "semaine6_natation_glisse",
+    "type": "Natation",
+    "intensity": 2,
+    "duration": "45",
+    "advice": "💡 Sur les éducatifs, laisse le temps à ton corps de trouver son équilibre et concentre-toi sur la respiration.",
+    "estimatedCalorie": "300 kcal",
+    "distance": "1100",
+    "title": "Lundi 4 août – Natation – Glisse + respiration 3-5-3 – 45 min – 1100 m – Intensité 2/5",
+    "objective": "Assimiler les charges précédentes en travaillant la glisse et la respiration contrôlée.",
+    "warmups": [
+      {
+        "title": "Échauffement à sec",
+        "duration": 5,
+        "steps": ["Mobilité épaules et nuque", "2 x 30 sec gainage bras tendus"]
+      },
+      {
+        "title": "Échauffement dans l’eau",
+        "duration": 10,
+        "steps": [
+          "200 m crawl souple",
+          "4 x 50 m éducatifs (glisse + rattrapé)"
+        ]
+      }
+    ],
+    "mainSets": [
+      {
+        "title": "Bloc principal",
+        "duration": 20,
+        "steps": [
+          "3 x 100 m en Z2 (allure relâchée), récup 30 sec",
+          "4 x 50 m respiration 3-5-3, récup 30 sec"
+        ]
+      }
+    ],
+    "cooldown": {
+      "title": "Retour au calme",
+      "duration": 10,
+      "steps": ["200 m dos ou crawl souple"]
+    },
+    "status": "PLANNED",
+    "date": "2025-08-04"
+  },
+
+  "semaine6_course_endurance_facile": {
+    "weekid": "semaine6",
+    "sessionId": "semaine6_course_endurance_facile",
+    "type": "Course à pied",
+    "intensity": 2,
+    "duration": "75",
+    "advice": "💡 N’aie pas peur de courir lentement. C’est comme ça que tu construis ton moteur d’endurance.",
+    "estimatedCalorie": "500 kcal",
+    "distance": "9000",
+    "title": "Jeudi 7 août – Course à pied – Endurance basse intensité Z1/Z2 – 1h15 – 9 km – Intensité 2/5",
+    "objective": "Travailler l’endurance réelle à ta fréquence cardiaque basse en Z1/Z2 (allure 7’00 à 7’30/km).",
+    "warmups": [
+      {
+        "title": "Échauffement",
+        "duration": 10,
+        "steps": [
+          "10 min footing très lent",
+          "2 x 30 sec talons-fesses / montées de genoux"
+        ]
+      }
+    ],
+    "mainSets": [
+      {
+        "title": "Bloc principal",
+        "duration": 55,
+        "steps": ["55 min à allure libre en Z1/Z2 (7’00 à 7’30/km)"]
+      }
+    ],
+    "cooldown": {
+      "title": "Retour au calme",
+      "duration": 10,
+      "steps": ["5 min marche + 5 min étirements actifs"]
+    },
+    "status": "PLANNED",
+    "date": "2025-08-07"
+  },
+  "semaine6_renfo_posture_mobilite": {
+    "weekid": "semaine6",
+    "sessionId": "semaine6_renfo_posture_mobilite",
+    "type": "Renforcement",
+    "intensity": 2,
+    "duration": "45",
+    "advice": "💡 Sens ton corps dans chaque mouvement. Objectif : activation douce et qualité de geste.",
+    "estimatedCalorie": "250 kcal",
+    "distance": "",
+    "title": "Dimanche 10 août – Renforcement – Posture & mobilité – 45 min – Intensité 2/5",
+    "objective": "Améliorer la posture et la souplesse articulaire pour relâcher les tensions accumulées.",
+    "warmups": [
+      {
+        "title": "Échauffement",
+        "duration": 5,
+        "steps": [
+          "3 min mobilisation articulaire",
+          "2 min d’équilibre sur une jambe"
+        ]
+      }
+    ],
+    "mainSets": [
+      {
+        "title": "Bloc principal",
+        "duration": 35,
+        "steps": [
+          "2 x : 30 sec planche + 30 sec chaise contre mur + 10 bird-dog + 15 ponts fessiers",
+          "Enchaînement yoga mobilité : 1 min chien tête en bas → 1 min fente basse → 1 min squat sumo tenu"
+        ]
+      }
+    ],
+    "cooldown": {
+      "title": "Retour au calme",
+      "duration": 5,
+      "steps": ["Étirements passifs : hanches, lombaires, ischios"]
+    },
+    "status": "PLANNED",
+    "date": "2025-08-10"
+  },
+  "semaine7_natation_seuil_hypoxie": {
+    "weekid": "semaine7",
+    "sessionId": "semaine7_natation_seuil_hypoxie",
+    "type": "Natation",
+    "intensity": 4,
+    "duration": "55",
+    "advice": "💡 Sur les séries seuil, focalise-toi sur ta glisse et ton amplitude. Moins de mouvements, plus d'efficacité.",
+    "estimatedCalorie": "400 kcal",
+    "distance": "1300",
+    "title": "Lundi 11 août – Natation – Seuil 100 m + hypoxie – 55 min – 1300 m – Intensité 4/5",
+    "objective": "Relancer l’intensité avec des 100 m à allure seuil et des exercices de respiration limitée.",
+    "warmups": [
+      {
+        "title": "Échauffement à sec",
+        "duration": 5,
+        "steps": ["Rotations bras/épaules", "1 min gainage bras tendus"]
+      },
+      {
+        "title": "Échauffement dans l’eau",
+        "duration": 10,
+        "steps": [
+          "200 m crawl facile",
+          "4 x 50 m éducatifs (rattrapé / poings fermés)"
+        ]
+      }
+    ],
+    "mainSets": [
+      {
+        "title": "Bloc principal",
+        "duration": 30,
+        "steps": [
+          "4 x 100 m à 2’35/100m (Z3), récup 20 sec",
+          "4 x 50 m en respiration 5 temps, récup 30 sec"
+        ]
+      }
+    ],
+    "cooldown": {
+      "title": "Retour au calme",
+      "duration": 10,
+      "steps": ["300 m dos ou nage libre relâchée"]
+    },
+    "status": "PLANNED",
+    "date": "2025-08-11"
+  },
+
+  "semaine7_velo_tempo_blocs": {
+    "weekid": "semaine7",
+    "sessionId": "semaine7_velo_tempo_blocs",
+    "type": "Cyclisme",
+    "intensity": 4,
+    "duration": "90",
+    "advice": "💡 Sur chaque bloc, reste en contrôle : cadence régulière, respiration calme, posture tonique.",
+    "estimatedCalorie": "600 kcal",
+    "distance": "35000",
+    "title": "Mercredi 13 août – Vélo – 4 x 8 min tempo Z3 – 1h30 – Intensité 4/5",
+    "objective": "Stimuler ton rythme spécifique tri S avec 4 blocs tempo à intensité modérée (Z3).",
+    "warmups": [
+      {
+        "title": "Échauffement",
+        "duration": 15,
+        "steps": ["10 min zone 1", "3 x 30 sec cadence 100 rpm, récup 30 sec"]
+      }
+    ],
+    "mainSets": [
+      {
+        "title": "Bloc principal",
+        "duration": 45,
+        "steps": [
+          "4 x 8 min en Z3 (27–29 km/h), récup 3 min zone 1 entre les blocs"
+        ]
+      }
+    ],
+    "cooldown": {
+      "title": "Retour au calme",
+      "duration": 15,
+      "steps": ["15 min pédalage doux en terrain plat"]
+    },
+    "status": "PLANNED",
+    "date": "2025-08-13"
+  },
+
+  "semaine7_course_tempo_3x6": {
+    "weekid": "semaine7",
+    "sessionId": "semaine7_course_tempo_3x6",
+    "type": "Course à pied",
+    "intensity": 4,
+    "duration": "60",
+    "advice": "💡 Ne cherche pas à aller plus vite que 5’30/km. Tiens cette allure de manière régulière du début à la fin.",
+    "estimatedCalorie": "500 kcal",
+    "distance": "8500",
+    "title": "Vendredi 15 août – Course à pied – 3 x 6 min à 5’30/km – 1h00 – Intensité 4/5",
+    "objective": "Reprendre le tempo spécifique avec des efforts contrôlés sur 6 min.",
+    "warmups": [
+      {
+        "title": "Échauffement",
+        "duration": 10,
+        "steps": ["10 min footing lent", "3 x 40 m éducatifs dynamiques"]
+      }
+    ],
+    "mainSets": [
+      {
+        "title": "Bloc principal",
+        "duration": 30,
+        "steps": [
+          "3 x 6 min à 5’30/km",
+          "Récup 3 min footing très lent entre chaque"
+        ]
+      }
+    ],
+    "cooldown": {
+      "title": "Retour au calme",
+      "duration": 10,
+      "steps": ["10 min footing lent + étirements"]
+    },
+    "status": "PLANNED",
+    "date": "2025-08-15"
+  },
+
+  "semaine7_renfo_core_pliometrie": {
+    "weekid": "semaine7",
+    "sessionId": "semaine7_renfo_core_pliometrie",
+    "type": "Renforcement",
+    "intensity": 3,
+    "duration": "40",
+    "advice": "💡 Sur les sauts, cherche de la légèreté et du rebond, jamais de brutalité. Reste gainée.",
+    "estimatedCalorie": "350 kcal",
+    "distance": "",
+    "title": "Dimanche 17 août – Renforcement – Core + jambes pliométrie – 40 min – Intensité 3/5",
+    "objective": "Améliorer la puissance élastique des jambes et la stabilité du tronc pour les transitions.",
+    "warmups": [
+      {
+        "title": "Échauffement",
+        "duration": 5,
+        "steps": [
+          "2 min jumping jacks",
+          "1 min squats dynamiques",
+          "2 min fentes ouvertes"
+        ]
+      }
+    ],
+    "mainSets": [
+      {
+        "title": "Bloc principal",
+        "duration": 30,
+        "steps": [
+          "3 x : 10 squats sautés + 8 fentes sautées + 20 sec planche dynamique + 10 burpees (option low impact si besoin)"
+        ]
+      }
+    ],
+    "cooldown": {
+      "title": "Retour au calme",
+      "duration": 5,
+      "steps": ["Étirements : quadriceps, ischios, mollets"]
+    },
+    "status": "PLANNED",
+    "date": "2025-08-17"
+  }
+}

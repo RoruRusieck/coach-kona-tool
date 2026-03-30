@@ -1,0 +1,213 @@
+{
+	"natation_allure_relachee_educatifs_respi": {
+		"weekid": "semaine35",
+		"sessionId": "natation_allure_relachee_educatifs_respi",
+		"type": "Natation",
+		"intensity": 2,
+		"duration": "60",
+		"advice": "💡 Hydrate-toi bien post-séance (eau + pincée de sel ou eau pétillante). Snack léger type banane ou compote si séance le matin à jeun.",
+		"estimatedCalorie": "450 kcal",
+		"distance": "1400",
+		"title": "Natation – Allure relâchée + éducatifs respiration",
+		"objective": "Se relâcher, bien respirer, conserver les sensations d’appuis et de glisse.",
+		"warmups": [
+			{
+				"title": "Échauffement à sec",
+				"duration": 5,
+				"steps": [
+					"Cercles de bras avant/arrière",
+					"Mobilité cervicales et épaules",
+					"2 x 30 sec de gainage actif"
+				]
+			},
+			{
+				"title": "Échauffement dans l’eau",
+				"duration": 10,
+				"steps": [
+					"100 m crawl souple",
+					"4 x 50 m éducatifs (rattrapé / poings fermés), récup 15 sec",
+					"100 m dos ou brasse facile"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 30,
+				"steps": [
+					"300 m crawl en respiration 3 temps → Récup 30 sec",
+					"300 m avec pull-buoy, focus sur l’alignement → Récup 30 sec",
+					"300 m allure Half relâchée (~2:00/100m) → Récup 30 sec"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 10,
+			"steps": ["100 m dos", "100 m crawl relâché"]
+		},
+		"status": "PLANNED",
+		"date": "2025-09-08"
+	},
+	"cap_footing_relachement_z1": {
+		"weekid": "semaine35",
+		"sessionId": "cap_footing_relachement_z1",
+		"type": "Course à pied",
+		"intensity": 1,
+		"duration": "30",
+		"advice": "💡 Oublie la montre, écoute ton corps. Si tu sens que c’est trop lent… c’est que tu es dans le bon tempo.",
+		"estimatedCalorie": "250 kcal",
+		"distance": "5000",
+		"title": "Course à pied – Footing relâchement Z1",
+		"objective": "Activer doucement les jambes et relâcher le mental.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 5,
+				"steps": ["5 min de marche rapide ou trottinement très léger"]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 20,
+				"steps": [
+					"20 min à 6:00-6:15/km, respiration facile, focus sur relâchement postural"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 5,
+			"steps": [
+				"5 min de marche",
+				"Étirements doux (ischios, mollets, fessiers)"
+			]
+		},
+		"status": "PLANNED",
+		"date": "2025-09-08"
+	},
+	"velo_sortie_courte_souplesse": {
+		"weekid": "semaine35",
+		"sessionId": "velo_sortie_courte_souplesse",
+		"type": "Cyclisme",
+		"intensity": 2,
+		"duration": "60",
+		"advice": "💡 Pas de fatigue aujourd’hui. Bois régulièrement et profite du paysage.",
+		"estimatedCalorie": "500 kcal",
+		"distance": "25000",
+		"title": "Vélo – Sortie courte en souplesse",
+		"objective": "Mobiliser les jambes sans puiser dans les réserves, garder une bonne vélocité.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 15,
+				"steps": [
+					"10 min à 130-150W ou Z1",
+					"3 x 30 sec vélocité >100 rpm, récup 1 min"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 35,
+				"steps": [
+					"3 x 10 min à 160W / cadence 90-95 rpm",
+					"Récup 2 min entre chaque → Z1 120W"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 10,
+			"steps": ["10 min à 120W, cadence souple"]
+		},
+		"status": "PLANNED",
+		"date": "2025-09-09"
+	},
+	"cap_footing_3x3min_tempo_L": {
+		"weekid": "semaine35",
+		"sessionId": "cap_footing_3x3min_tempo_L",
+		"type": "Course à pied",
+		"intensity": 2,
+		"duration": "45",
+		"advice": "💡 Garde un bon relâchement sur les phases rapides, ne force pas. Ce n’est pas du fractionné dur, juste un rappel.",
+		"estimatedCalorie": "400 kcal",
+		"distance": "8000",
+		"title": "Course à pied – Footing avec 3x3 min tempo L",
+		"objective": "Faire un petit rappel à l’allure course sans générer de fatigue.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 10,
+				"steps": [
+					"10 min footing très facile",
+					"2 x 30 sec montées de genoux et talons-fesses"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 25,
+				"steps": [
+					"3 x 3 min à 5:00-5:10/km (allure L), récup 2 min footing lent entre chaque",
+					"Reste du temps en footing Z1"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 10,
+			"steps": [
+				"5 min de footing doux",
+				"Étirements légers : mollets, ischios, fessiers"
+			]
+		},
+		"status": "PLANNED",
+		"date": "2025-09-10"
+	},
+	"natation_2000m_controle_relache": {
+		"weekid": "semaine35",
+		"sessionId": "natation_2000m_controle_relache",
+		"type": "Natation",
+		"intensity": 2,
+		"duration": "60",
+		"advice": "💡 Visualise ta course pendant les 2000 m. Concentre-toi sur ta respiration et ton relâchement.",
+		"estimatedCalorie": "500 kcal",
+		"distance": "2200",
+		"title": "Natation – 2000 m continue en contrôle + retour au calme",
+		"objective": "Faire un rappel de distance dans les conditions proches de la course, en conservant calme et contrôle.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 10,
+				"steps": [
+					"100 m crawl souple",
+					"4 x 50 m éducatifs (rattrapé / poings fermés), récup 15 sec",
+					"100 m dos"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 40,
+				"steps": [
+					"2000 m nage continue à allure Half (~2:00/100m), focus sur régularité et relâchement"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 10,
+			"steps": [
+				"100 m brasse ou dos très doux",
+				"100 m crawl relâché avec respiration 5 temps"
+			]
+		},
+		"status": "PLANNED",
+		"date": "2025-09-11"
+	}
+}

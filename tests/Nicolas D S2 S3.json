@@ -1,0 +1,518 @@
+{
+	"natation_seuil_respi_lundi_s2": {
+		"weekid": "semaine2_progressive",
+		"sessionId": "natation_seuil_respi_lundi_s2",
+		"type": "Natation",
+		"intensity": 3,
+		"duration": "70",
+		"advice": "💡 Sur les 300 m à allure seuil, concentre-toi sur la régularité de ton rythme et ta respiration. Respiration bilatérale conseillée.",
+		"estimatedCalorie": "600 kcal",
+		"distance": "2600",
+		"title": "Natation – Travail d’allure seuil & respiration",
+		"objective": "Travailler ton aisance à allure soutenue (Z3/Z4) et optimiser ta respiration sur des blocs de 300 m.",
+		"warmups": [
+			{
+				"title": "Échauffement à sec",
+				"duration": 5,
+				"steps": ["Mobilisation des épaules", "2 x 30 sec de gainage dynamique"]
+			},
+			{
+				"title": "Échauffement dans l’eau",
+				"duration": 15,
+				"steps": [
+					"300 m crawl souple",
+					"4 x 50 m éducatifs (rattrapé / poings fermés)",
+					"4 x 25 m progressifs, récup 15 sec"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 40,
+				"steps": [
+					"3 x 300 m à allure seuil (2'10–2'15/100m), récup 30 sec",
+					"4 x 50 m respiration 3-5-7, récup 15 sec",
+					"4 x 25 m sprint technique, récup 20 sec"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 10,
+			"steps": ["200 m nage complète relâchée"]
+		},
+		"status": "PLANNED",
+		"date": "2025-08-18"
+	},
+	"cap_tempo_progressif_mardi_s2": {
+		"weekid": "semaine2_progressive",
+		"sessionId": "cap_tempo_progressif_mardi_s2",
+		"type": "Course à pied",
+		"intensity": 4,
+		"duration": "60",
+		"advice": "💡 Garde une bonne posture et pense à relâcher les épaules. Le dernier bloc doit être le plus rapide, sans forcer.",
+		"estimatedCalorie": "700 kcal",
+		"distance": "11000",
+		"title": "Course à pied – Tempo progressif seuil 3 x 10’",
+		"objective": "Travailler ta résistance à l’allure seuil en progressivité, pour t’habituer à finir fort.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 15,
+				"steps": [
+					"10 min footing souple",
+					"3 x 50 m lignes droites progressives",
+					"Mobilisation chevilles/genoux"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 30,
+				"steps": [
+					"3 x 10 min : 1er à 4’25/km (Z3), 2e à 4’15/km, 3e à 4’05/km (Z4)",
+					"Récupération : 2 min de footing lent entre chaque"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 15,
+			"steps": ["10 min de footing lent", "Étirements actifs jambes"]
+		},
+		"status": "PLANNED",
+		"date": "2025-08-19"
+	},
+	"velo_force_velocite_mercredi_s2": {
+		"weekid": "semaine2_progressive",
+		"sessionId": "velo_force_velocite_mercredi_s2",
+		"type": "Cyclisme",
+		"intensity": 3,
+		"duration": "150",
+		"advice": "💡 Pour les blocs en force, cadence basse mais fluide. Ne tire pas trop gros, l’idée est de faire travailler les fibres sans bloquer le pédalage.",
+		"estimatedCalorie": "1100 kcal",
+		"distance": "65000",
+		"title": "Cyclisme – Force sous max + vélocité",
+		"objective": "Développer ta force spécifique et ta vélocité pour optimiser ton rendement à vélo.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 20,
+				"steps": [
+					"15 min Zone 1 cadence 90 rpm",
+					"3 x 30 sec à 100 rpm – récup 1 min"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 105,
+				"steps": [
+					"4 x 6 min en côte ou braquet lourd à 55-60 rpm (Z3), récup 4 min entre",
+					"3 x 3 min vélocité à 110-115 rpm en Z2, récup 2 min",
+					"20 min en continu en Z2 cadence libre"
+				]
+			},
+			{
+				"title": "Variante Home trainer",
+				"steps": [
+					"4 x 6 min à 200–210 W, cadence 55-60 rpm, récup 4 min à 130 W",
+					"3 x 3 min à 95 W, cadence 110 rpm, récup 2 min",
+					"20 min à 150 W cadence libre"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 25,
+			"steps": ["25 min Zone 1, cadence confortable"]
+		},
+		"status": "PLANNED",
+		"date": "2025-08-20"
+	},
+	"natation_enchainement_jeudi_s2": {
+		"weekid": "semaine2_progressive",
+		"sessionId": "natation_enchainement_jeudi_s2",
+		"type": "Natation",
+		"intensity": 2,
+		"duration": "60",
+		"advice": "💡 Concentre-toi sur la glisse et l’économie de mouvement sur les 400 m. Pas de précipitation.",
+		"estimatedCalorie": "550 kcal",
+		"distance": "2400",
+		"title": "Natation – Enchaînements 400 m et technique",
+		"objective": "Travailler l’endurance technique et maintenir un geste propre sur des distances plus longues.",
+		"warmups": [
+			{
+				"title": "Échauffement à sec",
+				"duration": 5,
+				"steps": ["Mobilité épaules/nuque", "2 x 30 sec gainage dynamique"]
+			},
+			{
+				"title": "Échauffement dans l’eau",
+				"duration": 10,
+				"steps": [
+					"200 m nage libre souple",
+					"4 x 50 m éducatifs (1 bras / rattrapé / poings fermés / complet)",
+					"2 x 25 m progressifs"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 40,
+				"steps": [
+					"3 x 400 m en Z2, récup 30 sec",
+					"4 x 50 m éducatifs respiration bilatérale, récup 15 sec"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 5,
+			"steps": ["200 m crawl très relâché + dos brassé"]
+		},
+		"status": "PLANNED",
+		"date": "2025-08-21"
+	},
+	"enchainement_velo_cap_samedi_s2": {
+		"weekid": "semaine2_progressive",
+		"sessionId": "enchainement_velo_cap_samedi_s2",
+		"type": "Enchaînement vélo-course",
+		"intensity": 4,
+		"duration": "140",
+		"advice": "💡 Active bien tes bras en sortie de vélo pour relancer la foulée. Pense à t’alimenter sur le vélo avant la CAP.",
+		"estimatedCalorie": "1200 kcal",
+		"distance": "66000",
+		"title": "Enchaînement – Simulation allure M",
+		"objective": "Reproduire l’effort spécifique d’un triathlon M avec des blocs à intensité cible et une transition rapide.",
+		"warmups": [
+			{
+				"title": "Échauffement vélo",
+				"duration": 15,
+				"steps": ["10 min à 110 W", "3 x 30 sec à 200 W, récup 1 min"]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal vélo",
+				"duration": 85,
+				"steps": [
+					"2 x 20 min à 180–190 W, relance 30 sec à 220 W toutes les 6 min",
+					"Récup 5 min à 130 W entre les blocs",
+					"15 min en Z2 à 150 W"
+				]
+			},
+			{
+				"title": "Transition",
+				"duration": 3,
+				"steps": ["Pose vélo, change chaussures, départ CAP immédiat"]
+			},
+			{
+				"title": "Bloc principal CAP",
+				"duration": 32,
+				"steps": ["2 km à 4’45/km", "3 km à 4’30/km", "1 km à 4’15/km"]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 5,
+			"steps": ["5 min footing lent à 5’30/km + étirements"]
+		},
+		"status": "PLANNED",
+		"date": "2025-08-23"
+	},
+	"cap_long_relances_dimanche_s2": {
+		"weekid": "semaine2_progressive",
+		"sessionId": "cap_long_relances_dimanche_s2",
+		"type": "Course à pied",
+		"intensity": 3,
+		"duration": "90",
+		"advice": "💡 Les relances doivent rester fluides. Profite du terrain vallonné pour varier l’amplitude.",
+		"estimatedCalorie": "900 kcal",
+		"distance": "15000",
+		"title": "Course à pied – Footing long + relances",
+		"objective": "Consolider ton endurance de base et réveiller la dynamique de course sur terrain naturel.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 15,
+				"steps": [
+					"10 min footing lent",
+					"3 x 50 m foulées actives",
+					"Mobilité chevilles/hanches"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 60,
+				"steps": [
+					"50 min à 5’40/km sur terrain vallonné",
+					"4 x 2 min à 4’30/km, récup 2 min footing lent"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 15,
+			"steps": ["10 min footing lent", "Étirements passifs jambes complètes"]
+		},
+		"status": "PLANNED",
+		"date": "2025-08-24"
+	},
+	"natation_endurance_lundi_s3": {
+		"weekid": "semaine3_volume_L",
+		"sessionId": "natation_endurance_lundi_s3",
+		"type": "Natation",
+		"intensity": 3,
+		"duration": "70",
+		"advice": "💡 Sur les 400 m, reste concentré sur ta glisse et ton relâchement, surtout dans la seconde moitié.",
+		"estimatedCalorie": "650 kcal",
+		"distance": "2800",
+		"title": "Natation – Endurance 5 x 400 m",
+		"objective": "Développer ton endurance aérobie en crawl sur des distances longues, avec un geste propre et relâché.",
+		"warmups": [
+			{
+				"title": "Échauffement à sec",
+				"duration": 5,
+				"steps": [
+					"Mobilisation articulaire épaules et hanches",
+					"2 x 30 sec gainage dynamique"
+				]
+			},
+			{
+				"title": "Échauffement dans l’eau",
+				"duration": 15,
+				"steps": [
+					"300 m nage libre",
+					"4 x 50 m éducatifs (rattrapé, poings fermés)",
+					"2 x 25 m progressifs, récup 15 sec"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 40,
+				"steps": [
+					"5 x 400 m en Z2 (2'20 à 2'25 / 100 m), récup 30 sec",
+					"1 x 100 m battements planche"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 10,
+			"steps": ["200 m crawl très souple, 100 m dos brassé"]
+		},
+		"status": "PLANNED",
+		"date": "2025-08-25"
+	},
+	"cap_allure_L_mardi_s3": {
+		"weekid": "semaine3_volume_L",
+		"sessionId": "cap_allure_L_mardi_s3",
+		"type": "Course à pied",
+		"intensity": 3,
+		"duration": "70",
+		"advice": "💡 Garde une foulée légère et fluide. Hydrate-toi si tu cours le midi ou en soirée.",
+		"estimatedCalorie": "750 kcal",
+		"distance": "13000",
+		"title": "Course à pied – Allure L sur 2 blocs de 20 min",
+		"objective": "Travailler ton endurance spécifique à l’allure visée pour le triathlon L.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 15,
+				"steps": [
+					"10 min footing lent",
+					"3 x 50 m foulées montantes",
+					"Mobilité hanches/genoux"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 35,
+				"steps": [
+					"2 x 20 min à 4'40 à 4'50/km (Z3), récup 5 min footing très lent entre"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 20,
+			"steps": [
+				"10 min footing lent",
+				"Étirements actifs, mollets et ischios en priorité"
+			]
+		},
+		"status": "PLANNED",
+		"date": "2025-08-26"
+	},
+	"velo_long_nutrition_mercredi_s3": {
+		"weekid": "semaine3_volume_L",
+		"sessionId": "velo_long_nutrition_mercredi_s3",
+		"type": "Cyclisme",
+		"intensity": 3,
+		"duration": "195",
+		"advice": "💡 Applique ta stratégie nutrition : 1 gel toutes les 45 min + 500 ml de boisson par heure. Note ce qui passe bien ou non.",
+		"estimatedCalorie": "1500 kcal",
+		"distance": "90000",
+		"title": "Cyclisme – Sortie longue avec pacing nutrition",
+		"objective": "Préparer ton corps aux efforts longs en conditions réalistes. Tester nutrition, hydratation, tenue et rythme.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 20,
+				"steps": ["15 min Zone 1", "5 min en cadence 90-95 rpm"]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 150,
+				"steps": [
+					"3 x 30 min à 160–170 W (Z2-Z3), récup 10 min à 130 W entre",
+					"30 min tempo libre avec relances 10 sec toutes les 5 min"
+				]
+			},
+			{
+				"title": "Variante Home trainer",
+				"steps": [
+					"3 x 25 min à 150-160 W, récup 5 min à 120 W",
+					"15 min tempo en vélocité à 95 rpm"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 25,
+			"steps": ["25 min Zone 1 à cadence libre"]
+		},
+		"status": "PLANNED",
+		"date": "2025-08-27"
+	},
+	"natation_recup_jeudi_s3": {
+		"weekid": "semaine3_volume_L",
+		"sessionId": "natation_recup_jeudi_s3",
+		"type": "Natation",
+		"intensity": 1,
+		"duration": "45",
+		"advice": "💡 Concentre-toi sur tes sensations dans l’eau. C’est une séance pour te détendre et affiner ta technique.",
+		"estimatedCalorie": "400 kcal",
+		"distance": "2000",
+		"title": "Natation – Récupération active + drills",
+		"objective": "Délasser les muscles, favoriser la récupération et travailler des points techniques sans fatigue.",
+		"warmups": [
+			{
+				"title": "Échauffement dans l’eau",
+				"duration": 10,
+				"steps": [
+					"300 m nage souple",
+					"4 x 50 m éducatifs (rattrapé / un bras / poings fermés / complet)",
+					"2 x 25 m dos brassé"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 25,
+				"steps": [
+					"4 x 100 m nage complète très relâchée, récup 15 sec",
+					"4 x 50 m respiration bilatérale",
+					"2 x 200 m battements planche + dos"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 10,
+			"steps": ["200 m nage libre douce + étirements dans l’eau"]
+		},
+		"status": "PLANNED",
+		"date": "2025-08-28"
+	},
+	"triathlon_frejus_samedi_s3": {
+		"weekid": "semaine3_volume_L",
+		"sessionId": "triathlon_frejus_samedi_s3",
+		"type": "Enchaînement vélo-course",
+		"intensity": 3,
+		"duration": "240",
+		"advice": "💡 Prends du plaisir ! Ne regarde pas la montre, observe ton corps, ton matos, et ton énergie. Ce triathlon est un test terrain, pas un objectif.",
+		"estimatedCalorie": "2800 kcal",
+		"distance": "96000",
+		"title": "Triathlon L – T100 Fréjus",
+		"objective": "Faire une course en conditions réelles sans pression, pour valider des repères d’allure, de nutrition et de ressenti.",
+		"warmups": [
+			{
+				"title": "Pré-course",
+				"duration": 10,
+				"steps": [
+					"10 min nage libre progressive",
+					"Respiration / visualisation / mise en condition calme"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Triathlon format L",
+				"duration": 230,
+				"steps": [
+					"2000 m natation",
+					"80 km vélo vallonné",
+					"18 km course à pied (allure libre, selon sensations)"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 10,
+			"steps": ["Marche douce, alimentation, hydratation, étirements légers"]
+		},
+		"status": "PLANNED",
+		"date": "2025-08-30"
+	},
+	"repos_actif_dimanche_s3": {
+		"weekid": "semaine3_volume_L",
+		"sessionId": "repos_actif_dimanche_s3",
+		"type": "Renforcement",
+		"intensity": 1,
+		"duration": "30",
+		"advice": "💡 Marche tranquille et conscience corporelle. Respire profondément, relâche les tensions post-course.",
+		"estimatedCalorie": "150 kcal",
+		"distance": "",
+		"title": "Repos actif – Marche & étirements",
+		"objective": "Accélérer la récupération post-triathlon et reconnecter ton corps en douceur.",
+		"warmups": [
+			{
+				"title": "Déverrouillage",
+				"duration": 5,
+				"steps": ["Respiration diaphragmatique", "Mobilisation hanches/genoux"]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 20,
+				"steps": [
+					"15 min de marche douce en extérieur",
+					"5 min de respiration consciente"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Étirements",
+			"duration": 5,
+			"steps": ["Étirements passifs : quadris, mollets, dos, épaules"]
+		},
+		"status": "PLANNED",
+		"date": "2025-08-31"
+	}
+}

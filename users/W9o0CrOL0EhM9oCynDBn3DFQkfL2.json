@@ -1,0 +1,194 @@
+{
+  "firstname": "Jean-philippe",
+  "lastname": "Fadier",
+  "email": "jeanphilippe.fadier@gmail.com",
+  "acceptConditions": true,
+  "uid": "W9o0CrOL0EhM9oCynDBn3DFQkfL2",
+  "role": "USER",
+  "subscription": {
+    "hasAccess": true,
+    "source": "store",
+    "isBeta": false
+  },
+  "triathlonGoals": {
+    "primary": {
+      "distanceLabel": "M",
+      "distancesValues": {
+        "run": "10km",
+        "swim": "1,5km",
+        "bike": "40km"
+      },
+      "isInitial": true,
+      "timeGoals": {
+        "swimSeconds": 1500,
+        "runSeconds": 2400,
+        "bikeSeconds": 3900,
+        "globalSeconds": 7800
+      },
+      "raceName": "Sable et Cap",
+      "raceTerrain": "UNDULATING",
+      "raceDate": "2026-07-26"
+    },
+    "secondary": [
+      {
+        "id": 0,
+        "type": "triathlon",
+        "eventName": "Dinard",
+        "evenDate": "2026-09-12",
+        "distanceLabel": "L",
+        "distancesValues": {
+          "swim": "1,9km",
+          "bike": "90km",
+          "run": "21km"
+        },
+        "raceTerrain": "FLAT",
+        "priority": "A",
+        "timeGoals": {
+          "globalSeconds": 16500,
+          "runSeconds": 5700,
+          "swimSeconds": 1680,
+          "bikeSeconds": 8700
+        }
+      },
+      {
+        "id": 1,
+        "type": "triathlon",
+        "eventName": "Vitre",
+        "evenDate": "2026-05-10",
+        "distanceLabel": "M",
+        "distancesValues": {
+          "swim": "1,5km",
+          "bike": "40km",
+          "run": "10km"
+        },
+        "raceTerrain": "UNDULATING",
+        "priority": "C",
+        "timeGoals": {
+          "globalSeconds": 8100,
+          "swimSeconds": 1500,
+          "runSeconds": 2580,
+          "bikeSeconds": 3900
+        }
+      },
+      {
+        "id": 2,
+        "type": "triathlon",
+        "eventName": "Noirmoutier ",
+        "evenDate": "2026-06-07",
+        "distanceLabel": "M",
+        "distancesValues": {
+          "swim": "1,5km",
+          "bike": "40km",
+          "run": "10km"
+        },
+        "raceTerrain": "FLAT",
+        "priority": "B",
+        "timeGoals": {
+          "globalSeconds": 7800,
+          "swimSeconds": 1500,
+          "runSeconds": 2400,
+          "bikeSeconds": 3900
+        }
+      },
+      {
+        "id": 3,
+        "type": "triathlon",
+        "eventName": "Val André ",
+        "evenDate": "2026-07-05",
+        "distanceLabel": "M",
+        "distancesValues": {
+          "swim": "1,5km",
+          "bike": "40km",
+          "run": "10km"
+        },
+        "raceTerrain": "UNDULATING",
+        "priority": "B",
+        "timeGoals": {
+          "globalSeconds": 8100,
+          "swimSeconds": 1500,
+          "runSeconds": 2520,
+          "bikeSeconds": 4080
+        }
+      }
+    ]
+  },
+  "profile": {
+    "gender": "MALE",
+    "ageYears": 39,
+    "heightCm": 177,
+    "weightKg": 71
+  },
+  "metrics": {
+    "vmaKmh": 18
+  },
+  "triathlonExperience": {
+    "level": "INTERMEDIATE",
+    "triathlonYears": 6,
+    "triathlonsCompleted": 25,
+    "swimExperience": {
+      "distanceMeters": null,
+      "timeSeconds": null,
+      "level": "NOVICE"
+    },
+    "bikeExperience": {
+      "level": "INTERMEDIATE",
+      "ftpWatts": 250
+    },
+    "runningExperience": {
+      "distanceMeters": 10000,
+      "timeSeconds": 2260,
+      "level": "INTERMEDIATE"
+    },
+    "transitionComfort": {
+      "swimToBike": true,
+      "bikeToRun": true
+    }
+  },
+  "equipment": {
+    "hrSensor": true,
+    "watch": {
+      "model": "Epix pro gen 2",
+      "brand": "Garmin "
+    },
+    "run": {
+      "treadmill": false
+    },
+    "swimGear": [
+      "fins",
+      "paddles",
+      "kickboard",
+      "pull_buoy",
+      "snorkel"
+    ],
+    "bike": {
+      "homeTrainer": true,
+      "powerMeter": true,
+      "bikeType": "time_trial",
+      "cadenceSensor": true
+    }
+  },
+  "targetWeeklyTrainingSessions": 6,
+  "trainingStartDate": "2026-03-16",
+  "club": {
+    "name": null,
+    "isMember": false,
+    "loackedSessionsNote": null
+  },
+  "targetMaxWeeklyTrainingHours": 12,
+  "averageSleepPerNightHours": 8,
+  "preferredRestDay": "thursday",
+  "maxTrainingHoursPerDay": {
+    "sunday": 4,
+    "saturday": 1,
+    "tuesday": 1,
+    "friday": 1,
+    "thursday": 1,
+    "wednesday": 2,
+    "monday": 2
+  },
+  "currentWeeklyTrainingSessions": 6,
+  "injuriesNote": null,
+  "asCompleteForm": true,
+  "phone": "0633030252",
+  "department": "35"
+}

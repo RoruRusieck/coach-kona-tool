@@ -1,0 +1,133 @@
+{
+  "firstname": "Lucie",
+  "lastname": "Roossens",
+  "email": "roossens.lucie0@gmail.com",
+  "acceptConditions": true,
+  "uid": "S1ZhTTxXOXWZ7xIWGZL7wq00pJF3",
+  "role": "USER",
+  "subscription": {
+    "hasAccess": true,
+    "source": "store",
+    "isBeta": false
+  },
+  "triathlonGoals": {
+    "primary": {
+      "distanceLabel": "L",
+      "distancesValues": {
+        "run": "21km",
+        "swim": "1,9km",
+        "bike": "90km"
+      },
+      "isInitial": true,
+      "timeGoals": {
+        "swimSeconds": 1200,
+        "runSeconds": 6300,
+        "bikeSeconds": 9900,
+        "globalSeconds": 19800
+      },
+      "raceName": "chtri man",
+      "raceTerrain": "FLAT",
+      "raceDate": "2026-06-28"
+    },
+    "secondary": [
+      {
+        "id": 0,
+        "type": "triathlon",
+        "eventName": "Half ",
+        "evenDate": "2026-05-01",
+        "distanceLabel": "L",
+        "distancesValues": {
+          "swim": "1,9km",
+          "bike": "90km",
+          "run": "21km"
+        },
+        "raceTerrain": "FLAT",
+        "priority": "B",
+        "timeGoals": {
+          "globalSeconds": 21600,
+          "swimSeconds": 1200,
+          "bikeSeconds": 10800,
+          "runSeconds": 6600
+        }
+      }
+    ]
+  },
+  "profile": {
+    "gender": "FEMALE",
+    "ageYears": 26,
+    "heightCm": 165,
+    "weightKg": 57
+  },
+  "metrics": {
+    "vmaKmh": 16
+  },
+  "triathlonExperience": {
+    "level": "NOVICE",
+    "triathlonYears": 3,
+    "triathlonsCompleted": 10,
+    "swimExperience": {
+      "distanceMeters": 1600,
+      "timeSeconds": 2100,
+      "level": "INTERMEDIATE"
+    },
+    "bikeExperience": {
+      "level": "NOVICE",
+      "ftpWatts": null
+    },
+    "runningExperience": {
+      "distanceMeters": 5000,
+      "timeSeconds": 1410,
+      "level": "NOVICE"
+    },
+    "transitionComfort": {
+      "swimToBike": true,
+      "bikeToRun": true
+    }
+  },
+  "equipment": {
+    "hrSensor": true,
+    "watch": {
+      "model": "Forerunner",
+      "brand": "garmin"
+    },
+    "run": {
+      "treadmill": true
+    },
+    "swimGear": [
+      "pull_buoy",
+      "paddles",
+      "fins",
+      "snorkel"
+    ],
+    "bike": {
+      "homeTrainer": true,
+      "powerMeter": false,
+      "bikeType": "road",
+      "cadenceSensor": false
+    }
+  },
+  "targetWeeklyTrainingSessions": 14,
+  "trainingStartDate": "2026-03-30",
+  "club": {
+    "name": "Cambrai triathlon ",
+    "isMember": true,
+    "loackedSessionsNote": "Mercredi soir course à pied "
+  },
+  "targetMaxWeeklyTrainingHours": 20,
+  "averageSleepPerNightHours": 8,
+  "preferredRestDay": "saturday",
+  "maxTrainingHoursPerDay": {
+    "sunday": 4,
+    "saturday": 4,
+    "tuesday": 4,
+    "friday": 4,
+    "thursday": 4,
+    "wednesday": 4,
+    "monday": 4
+  },
+  "currentWeeklyTrainingSessions": 13,
+  "injuriesNote": null,
+  "asCompleteForm": true,
+  "phone": "0644219880",
+  "department": "62"
+}

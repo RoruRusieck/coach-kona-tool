@@ -1,0 +1,941 @@
+{
+	"natation_allure_course_depart_semaine7": {
+		"weekid": "semaine7_intensite_transitions",
+		"sessionId": "natation_allure_course_depart_semaine7",
+		"type": "Natation",
+		"intensity": 3,
+		"duration": "55",
+		"advice": "💡 Les départs rapides simulent la densité du pack. Concentre-toi sur la respiration et le relâchement après l’accélération.",
+		"estimatedCalorie": "480 kcal",
+		"distance": "2400",
+		"title": "Allure course + départs rapides",
+		"objective": "Simuler un départ triathlon avec montée en intensité, puis stabilisation à l’allure spécifique M.",
+		"warmups": [
+			{
+				"title": "Échauffement à sec",
+				"duration": 5,
+				"steps": ["Mobilité épaules et tronc", "2 x 20 sec gainage bras tendus"]
+			},
+			{
+				"title": "Échauffement dans l’eau",
+				"duration": 10,
+				"steps": [
+					"200 m crawl souple",
+					"4 x 50 m éducatifs : un bras, rattrapé, poings fermés, respiration 3 temps",
+					"100 m dos"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 35,
+				"steps": [
+					"6 x 50 m départ rapide (15 m sprint puis allure course), récup 20 sec",
+					"3 x 400 m allure course (1’36–1’38/100m), récup 30 sec",
+					"4 x 100 m pull + plaquettes à 1’34/100m, récup 20 sec"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 5,
+			"steps": ["200 m crawl très souple"]
+		},
+		"status": "PLANNED",
+		"date": "2025-08-25"
+	},
+	"renforcement_core_mobilite_semaine7": {
+		"weekid": "semaine7_intensite_transitions",
+		"sessionId": "renforcement_core_mobilite_semaine7",
+		"type": "Renforcement",
+		"intensity": 2,
+		"duration": "35",
+		"advice": "💡 Mets la priorité sur le contrôle et l’amplitude. Chaque mouvement doit être fluide et précis.",
+		"estimatedCalorie": "250 kcal",
+		"distance": "",
+		"title": "Core & mobilité dynamique",
+		"objective": "Entretenir la stabilité du tronc et la mobilité des hanches/épaules sans générer de fatigue résiduelle.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 5,
+				"steps": [
+					"1 min jumping jacks",
+					"1 min gainage bras tendus",
+					"Mobilité hanches et épaules"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 25,
+				"steps": [
+					"3 tours :",
+					"- 30 sec planche dynamique + 30 sec planche latérale",
+					"- 10 fentes avant + 10 fentes latérales",
+					"- 20 sec équilibre unipodal bras croisés",
+					"- 15 squats amplitude complète",
+					"- 10 rotations tronc assis jambes tendues",
+					"- Récup 1 min entre les tours"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 5,
+			"steps": ["Étirements dynamiques : psoas, lombaires, épaules"]
+		},
+		"status": "PLANNED",
+		"date": "2025-08-25"
+	},
+	"velo_vallonne_tempo_semaine7": {
+		"weekid": "semaine7_intensite_transitions",
+		"sessionId": "velo_vallonne_tempo_semaine7",
+		"type": "Cyclisme",
+		"intensity": 4,
+		"duration": "120",
+		"advice": "💡 Gère les vallons : reste assis en force basse cadence sur les bosses, et relance proprement en haut.",
+		"estimatedCalorie": "900 kcal",
+		"distance": "60000",
+		"title": "Vallonné + blocs tempo",
+		"objective": "Renforcer ton endurance spécifique sur terrain type Gérardmer, avec travail tempo et relances.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 20,
+				"steps": ["15 min Z1 cadence 90 rpm", "3 x 30 sec @ 270 W, récup 1 min"]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 85,
+				"steps": [
+					"3 x 12 min en Z3 (200–220 W), récup 5 min roulage",
+					"5 x 3 min montée force (65 rpm), récup descente",
+					"5 x 30 sec relances @ 280 W, récup 1 min",
+					"10 min tempo final Z3"
+				]
+			},
+			{
+				"title": "Variante Home Trainer",
+				"steps": [
+					"2 x 15 min sweetspot (210–230 W), récup 5 min",
+					"5 x 2 min force basse cadence (60 rpm)",
+					"5 x 30 sec 300 W, récup 1 min"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 15,
+			"steps": ["15 min roulage Z1"]
+		},
+		"status": "PLANNED",
+		"date": "2025-08-26"
+	},
+	"cap_3x2km_allure_semi_semaine7": {
+		"weekid": "semaine7_intensite_transitions",
+		"sessionId": "cap_3x2km_allure_semi_semaine7",
+		"type": "Course à pied",
+		"intensity": 4,
+		"duration": "65",
+		"advice": "💡 L’allure doit être stable du 1er au dernier 2000. Si tu finis au-dessus de la cible, c’est que tu es parti trop vite 😉",
+		"estimatedCalorie": "820 kcal",
+		"distance": "13000",
+		"title": "3 x 2 km allure semi",
+		"objective": "Développer ton endurance à allure soutenue, proche du seuil aérobie, pour habituer ton corps à courir vite longtemps.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 15,
+				"steps": [
+					"10 min footing à 5’20/km",
+					"3 x 30 sec éducatifs (skipping, talons-fesses, foulées bondissantes)",
+					"3 x 20 sec progressifs"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 35,
+				"steps": [
+					"3 x 2000 m à 4’00–4’05/km (allure semi visée)",
+					"Récup 3 min footing lent entre les blocs"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 15,
+			"steps": [
+				"10 min footing très lent",
+				"Étirements psoas, ischios, mollets"
+			]
+		},
+		"status": "PLANNED",
+		"date": "2025-08-26"
+	},
+	"cap_trail_groupe_semaine7": {
+		"weekid": "semaine7_intensite_transitions",
+		"sessionId": "cap_trail_groupe_semaine7",
+		"type": "Course à pied",
+		"intensity": 3,
+		"duration": "60",
+		"advice": "💡 Profite de cette sortie conviviale. Relance en montée, cadence fluide en descente, sans chercher le chrono.",
+		"estimatedCalorie": "700 kcal",
+		"distance": "11000",
+		"title": "Trail groupe – sortie nature",
+		"objective": "Travailler endurance et proprioception sur terrain vallonné tout en gardant une séance plaisir en groupe.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 10,
+				"steps": [
+					"10 min footing progressif",
+					"Mobilisation chevilles et hanches"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 45,
+				"steps": [
+					"Footing nature en groupe (~5’30–5’45/km)",
+					"Relances en montée",
+					"Descentes relâchées cadence > 180 ppm"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 5,
+			"steps": ["Étirements rapides : quadris, fessiers, mollets"]
+		},
+		"status": "PLANNED",
+		"date": "2025-08-27"
+	},
+	"natation_appuis_respiration_semaine7": {
+		"weekid": "semaine7_intensite_transitions",
+		"sessionId": "natation_appuis_respiration_semaine7",
+		"type": "Natation",
+		"intensity": 2,
+		"duration": "50",
+		"advice": "💡 Sens bien la prise d’eau dès l’entrée de main. En respiration, cherche la fluidité plutôt que l’apnée.",
+		"estimatedCalorie": "400 kcal",
+		"distance": "2100",
+		"title": "Technique appuis & respiration",
+		"objective": "Améliorer l’efficacité des appuis sous l’eau et la régularité respiratoire en effort contrôlé.",
+		"warmups": [
+			{
+				"title": "Échauffement à sec",
+				"duration": 5,
+				"steps": ["Mobilité épaules", "20 sec gainage bras tendus"]
+			},
+			{
+				"title": "Échauffement dans l’eau",
+				"duration": 10,
+				"steps": [
+					"200 m crawl souple",
+					"4 x 50 m éducatifs (poings fermés, rattrapé, un bras, respiration 5 temps)",
+					"100 m dos"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 30,
+				"steps": [
+					"6 x 100 m éducatifs appuis + 50 m crawl complet",
+					"4 x 200 m crawl respiration 3–5–7 alternée, récup 30 sec",
+					"4 x 50 m rapide fréquence élevée, récup 20 sec"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 5,
+			"steps": ["200 m crawl très souple"]
+		},
+		"status": "PLANNED",
+		"date": "2025-08-27"
+	},
+	"natation_seuil_8x200m_semaine7": {
+		"weekid": "semaine7_intensite_transitions",
+		"sessionId": "natation_seuil_8x200m_semaine7",
+		"type": "Natation",
+		"intensity": 4,
+		"duration": "55",
+		"advice": "💡 Soigne la régularité. Un 200 m trop rapide au début = séance ratée. Vise la constance.",
+		"estimatedCalorie": "520 kcal",
+		"distance": "2500",
+		"title": "Seuil 8 x 200 m",
+		"objective": "Améliorer ta tolérance à l’allure seuil et ton efficacité technique en effort soutenu.",
+		"warmups": [
+			{
+				"title": "Échauffement à sec",
+				"duration": 5,
+				"steps": ["Rotations épaules, 20 sec gainage bras tendus"]
+			},
+			{
+				"title": "Échauffement dans l’eau",
+				"duration": 10,
+				"steps": [
+					"200 m crawl souple",
+					"4 x 50 m éducatifs : rattrapé, poings fermés, un bras, respiration 5 temps",
+					"100 m dos"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 35,
+				"steps": ["8 x 200 m à 1’34–1’36/100m", "Récup 30 sec entre les séries"]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 5,
+			"steps": ["200 m crawl très relâché"]
+		},
+		"status": "PLANNED",
+		"date": "2025-08-28"
+	},
+	"cap_footing_z1_semaine7": {
+		"weekid": "semaine7_intensite_transitions",
+		"sessionId": "cap_footing_z1_semaine7",
+		"type": "Course à pied",
+		"intensity": 1,
+		"duration": "40",
+		"advice": "💡 Relâche total. Respire bas, cadence fluide. Tu dois finir plus frais que tu n’as commencé.",
+		"estimatedCalorie": "340 kcal",
+		"distance": "7000",
+		"title": "Footing Z1",
+		"objective": "Faciliter la récupération active et garder une dynamique de course sans créer de fatigue.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 5,
+				"steps": ["5 min marche rapide ou footing très lent"]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 30,
+				"steps": ["30 min à 5’45–6’00/km (Zone 1)"]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 5,
+			"steps": ["Étirements légers mollets, quadris, dos"]
+		},
+		"status": "PLANNED",
+		"date": "2025-08-28"
+	},
+	"velo_endurance_cadence_semaine7": {
+		"weekid": "semaine7_intensite_transitions",
+		"sessionId": "velo_endurance_cadence_semaine7",
+		"type": "Cyclisme",
+		"intensity": 3,
+		"duration": "135",
+		"advice": "💡 Surveille la fluidité de ton pédalage. Cherche à garder la même puissance en haut et en bas du coup de pédale.",
+		"estimatedCalorie": "1000 kcal",
+		"distance": "65000",
+		"title": "Endurance + cadence",
+		"objective": "Travailler l’endurance fondamentale et la vélocité, avec du volume sur terrain vallonné.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 20,
+				"steps": ["15 min Z1", "3 x 30 sec relances à 100 rpm"]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 100,
+				"steps": [
+					"3 x 20 min Zone 2 (180–200 W), récup 5 min",
+					"5 x 2 min cadence haute > 100 rpm",
+					"4 x 3 min force basse cadence (65 rpm)",
+					"10 min tempo final Z2+"
+				]
+			},
+			{
+				"title": "Variante Home Trainer",
+				"steps": [
+					"2 x 15 min sweetspot (210–230 W), récup 5 min",
+					"5 x 2 min cadence haute > 100 rpm",
+					"5 x 2 min force basse cadence (60 rpm)"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 15,
+			"steps": ["15 min roulage souple + hydratation"]
+		},
+		"status": "PLANNED",
+		"date": "2025-08-29"
+	},
+	"enchainement_velo_cap8km_semaine7": {
+		"weekid": "semaine7_intensite_transitions",
+		"sessionId": "enchainement_velo_cap8km_semaine7",
+		"type": "Enchaînement vélo-course",
+		"intensity": 4,
+		"duration": "150",
+		"advice": "💡 Mets-toi en conditions course : tenue, ravito, pacing. Sur la CAP, cale ton allure tri sans excès.",
+		"estimatedCalorie": "1100 kcal",
+		"distance": "63000",
+		"title": "Vélo 55 km + CAP 8 km allure course",
+		"objective": "Simuler la charge de Gérardmer avec un vélo costaud suivi d’une CAP soutenue proche allure cible.",
+		"warmups": [
+			{
+				"title": "Échauffement vélo",
+				"duration": 15,
+				"steps": ["15 min Z1 cadence 90 rpm", "2 x 30 sec à 250 W, récup 1 min"]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal vélo",
+				"duration": 105,
+				"steps": [
+					"3 x 15 min à 200–220 W (Z3), récup 5 min",
+					"Relances : 5 x 30 sec à 280 W, récup 1 min",
+					"Total 55 km"
+				]
+			},
+			{
+				"title": "Transition T2",
+				"duration": 5,
+				"steps": ["Transition rapide (< 2 min), départ CAP"]
+			},
+			{
+				"title": "Bloc principal CAP",
+				"duration": 25,
+				"steps": ["8 km à 3’55–4’05/km", "Allure régulière, cadence haute"]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 5,
+			"steps": ["5 min footing lent + étirements"]
+		},
+		"status": "PLANNED",
+		"date": "2025-08-30"
+	},
+	"cap_recup_soir_semaine7": {
+		"weekid": "semaine7_intensite_transitions",
+		"sessionId": "cap_recup_soir_semaine7",
+		"type": "Course à pied",
+		"intensity": 1,
+		"duration": "30",
+		"advice": "💡 Objectif = dérouler, pas performer. Mets un podcast ou de la musique, et profite.",
+		"estimatedCalorie": "280 kcal",
+		"distance": "5000",
+		"title": "Footing récup soir",
+		"objective": "Dissiper la charge musculaire de l’enchaînement, favoriser la récupération active.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 5,
+				"steps": ["5 min marche rapide ou footing très lent"]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 20,
+				"steps": ["20 min footing à 5’45–6’00/km (Zone 1)"]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 5,
+			"steps": ["Étirements légers (mollets, fessiers, bas du dos)"]
+		},
+		"status": "PLANNED",
+		"date": "2025-08-30"
+	},
+	"natation_longue_glisse_semaine7": {
+		"weekid": "semaine7_intensite_transitions",
+		"sessionId": "natation_longue_glisse_semaine7",
+		"type": "Natation",
+		"intensity": 2,
+		"duration": "50",
+		"advice": "💡 Cherche la fluidité et la sensation de glisse. Chaque mouvement doit t’amener plus loin, sans forcer.",
+		"estimatedCalorie": "420 kcal",
+		"distance": "2200",
+		"title": "Longue & glisse",
+		"objective": "Assimiler la charge de la semaine en travaillant la continuité du geste et le relâchement.",
+		"warmups": [
+			{
+				"title": "Échauffement à sec",
+				"duration": 5,
+				"steps": ["Mobilité épaules + respiration profonde"]
+			},
+			{
+				"title": "Échauffement dans l’eau",
+				"duration": 10,
+				"steps": [
+					"300 m crawl souple",
+					"4 x 50 m éducatifs (glisse, rattrapé, un bras, respiration)",
+					"100 m dos"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 30,
+				"steps": [
+					"2 x 600 m à 1’42–1’45/100m",
+					"4 x 100 m éducatifs respiration / glisse",
+					"100 m battements planche",
+					"100 m crawl relâché"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 5,
+			"steps": ["200 m crawl ou brasse coulée très souple"]
+		},
+		"status": "PLANNED",
+		"date": "2025-08-31"
+	},
+	"natation_allure_tri_relachee_semaine8": {
+		"weekid": "semaine8_affutage_gerardmer",
+		"sessionId": "natation_allure_tri_relachee_semaine8",
+		"type": "Natation",
+		"intensity": 2,
+		"duration": "50",
+		"advice": "💡 Sensations > chrono. Cherche la glisse, la respiration naturelle et un relâchement complet.",
+		"estimatedCalorie": "380 kcal",
+		"distance": "2000",
+		"title": "Allure tri relâchée",
+		"objective": "Travailler le relâchement à l’allure tri M, sans effort maximal, pour garder de la fraîcheur.",
+		"warmups": [
+			{
+				"title": "Échauffement à sec",
+				"duration": 5,
+				"steps": ["Mobilité épaules + 20 sec gainage bras tendus"]
+			},
+			{
+				"title": "Échauffement dans l’eau",
+				"duration": 10,
+				"steps": [
+					"200 m crawl",
+					"4 x 50 m éducatifs glisse + respiration",
+					"100 m dos"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 30,
+				"steps": [
+					"2 x 400 m allure tri relâchée (~1’40–1’42/100m), récup 30 sec",
+					"4 x 100 m fréquence moyenne, récup 20 sec",
+					"200 m éducatifs respiration",
+					"100 m jambes battements"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 5,
+			"steps": ["200 m crawl très souple"]
+		},
+		"status": "PLANNED",
+		"date": "2025-09-01"
+	},
+	"velo_vallonne_tempo_semaine8": {
+		"weekid": "semaine8_affutage_gerardmer",
+		"sessionId": "velo_vallonne_tempo_semaine8",
+		"type": "Cyclisme",
+		"intensity": 3,
+		"duration": "110",
+		"advice": "💡 Profite pour visualiser Gérardmer : monte en contrôle, cadence régulière, et reste souple en descente.",
+		"estimatedCalorie": "780 kcal",
+		"distance": "55000",
+		"title": "Vallonné tempo",
+		"objective": "Maintenir un tempo soutenu sur terrain vallonné sans accumuler trop de fatigue.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 15,
+				"steps": [
+					"15 min Z1, cadence 90 rpm",
+					"3 x 30 sec relances 260 W, récup 1 min"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 80,
+				"steps": [
+					"3 x 15 min Z2+/Z3 (190–210 W), récup 5 min roulage",
+					"5 x 2 min en montée 65 rpm",
+					"10 min tempo final Z3"
+				]
+			},
+			{
+				"title": "Variante Home Trainer",
+				"steps": [
+					"2 x 15 min sweetspot 210–220 W, récup 5 min",
+					"5 x 2 min force basse cadence 60 rpm"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 15,
+			"steps": ["15 min roulage Z1"]
+		},
+		"status": "PLANNED",
+		"date": "2025-09-02"
+	},
+	"cap_12x400m_allure10k_semaine8": {
+		"weekid": "semaine8_affutage_gerardmer",
+		"sessionId": "cap_12x400m_allure10k_semaine8",
+		"type": "Course à pied",
+		"intensity": 4,
+		"duration": "60",
+		"advice": "💡 Reste précis. Chaque 400 m doit sortir à la même allure, pas plus vite. La régularité prime.",
+		"estimatedCalorie": "780 kcal",
+		"distance": "12000",
+		"title": "12 x 400 m allure 10 km",
+		"objective": "Booster la vitesse spécifique 10 km et ta capacité à répéter l’allure sous fatigue.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 15,
+				"steps": [
+					"10 min footing 5’20–5’30/km",
+					"3 x 30 sec éducatifs (skipping, foulées bondissantes, talons-fesses)",
+					"3 x 20 sec progressifs"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 30,
+				"steps": [
+					"12 x 400 m à 3’45/km",
+					"Récup 1’ footing entre les fractions"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 15,
+			"steps": [
+				"10 min footing très lent",
+				"Étirements mollets, quadris, psoas"
+			]
+		},
+		"status": "PLANNED",
+		"date": "2025-09-02"
+	},
+	"cap_trail_groupe_semaine8": {
+		"weekid": "semaine8_affutage_gerardmer",
+		"sessionId": "cap_trail_groupe_semaine8",
+		"type": "Course à pied",
+		"intensity": 3,
+		"duration": "60",
+		"advice": "💡 Reste souple sur les descentes, cadence haute. En montée, petits pas toniques pour ne pas forcer.",
+		"estimatedCalorie": "700 kcal",
+		"distance": "11000",
+		"title": "Trail groupe – sortie nature",
+		"objective": "Entretenir l’endurance et la proprioception tout en variant les appuis, sans chercher l’intensité.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 10,
+				"steps": [
+					"10 min footing progressif",
+					"Mobilité chevilles/genoux/hanches"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 45,
+				"steps": [
+					"Footing nature vallonné en groupe (~5’30–5’45/km)",
+					"Relances légères en montée, descentes relâchées"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 5,
+			"steps": ["Étirements légers"]
+		},
+		"status": "PLANNED",
+		"date": "2025-09-03"
+	},
+	"natation_educatifs_glisse_semaine8": {
+		"weekid": "semaine8_affutage_gerardmer",
+		"sessionId": "natation_educatifs_glisse_semaine8",
+		"type": "Natation",
+		"intensity": 1,
+		"duration": "45",
+		"advice": "💡 Cherche à ‘sentir l’eau’. Plus tu es relâché, plus tu avances avec économie.",
+		"estimatedCalorie": "350 kcal",
+		"distance": "2000",
+		"title": "Éducatifs & glisse",
+		"objective": "Favoriser la récupération active tout en travaillant la technique, la glisse et le relâchement.",
+		"warmups": [
+			{
+				"title": "Échauffement à sec",
+				"duration": 5,
+				"steps": ["Mobilité épaules + rotations tronc"]
+			},
+			{
+				"title": "Échauffement dans l’eau",
+				"duration": 10,
+				"steps": [
+					"200 m crawl souple",
+					"4 x 50 m éducatifs (glisse, rattrapé, un bras, respiration 3 temps)",
+					"100 m dos"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 25,
+				"steps": [
+					"2 x 400 m crawl relâché",
+					"4 x 100 m éducatifs variés",
+					"4 x 50 m glisse amplitude max",
+					"100 m battements planche"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 5,
+			"steps": ["200 m crawl ou brasse coulée"]
+		},
+		"status": "PLANNED",
+		"date": "2025-09-03"
+	},
+	"enchainement_velo_cap6km_semaine8": {
+		"weekid": "semaine8_affutage_gerardmer",
+		"sessionId": "enchainement_velo_cap6km_semaine8",
+		"type": "Enchaînement vélo-course",
+		"intensity": 4,
+		"duration": "120",
+		"advice": "💡 Mets-toi en conditions Gérardmer : nutrition, transitions rapides, pacing vélo contrôlé avant d’attaquer la CAP.",
+		"estimatedCalorie": "900 kcal",
+		"distance": "46000",
+		"title": "Vélo 40 km + CAP 6 km allure course",
+		"objective": "Simuler la dynamique course sur un volume réduit. Vérifier que l’allure CAP est tenable en sortie de vélo.",
+		"warmups": [
+			{
+				"title": "Échauffement vélo",
+				"duration": 15,
+				"steps": [
+					"15 min roulage Z1",
+					"3 x 30 sec relances à 260 W, récup 1 min"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal vélo",
+				"duration": 75,
+				"steps": [
+					"40 km roulage tempo en Z2/Z3 (200–220 W)",
+					"Relances 6 x 30 sec à 280 W, récup 1 min"
+				]
+			},
+			{
+				"title": "Transition T2",
+				"duration": 5,
+				"steps": ["Transition chrono, départ CAP immédiat"]
+			},
+			{
+				"title": "Bloc principal CAP",
+				"duration": 20,
+				"steps": ["6 km à 3’55–4’00/km (allure course M visée)"]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 5,
+			"steps": ["5 min footing lent + étirements"]
+		},
+		"status": "PLANNED",
+		"date": "2025-09-04"
+	},
+	"cap_recup_semaine8": {
+		"weekid": "semaine8_affutage_gerardmer",
+		"sessionId": "cap_recup_semaine8",
+		"type": "Course à pied",
+		"intensity": 1,
+		"duration": "30",
+		"advice": "💡 Laisse filer la foulée sans forcer. Tu dois sentir tes jambes se délester de la séance précédente.",
+		"estimatedCalorie": "280 kcal",
+		"distance": "5000",
+		"title": "Footing récupération",
+		"objective": "Faciliter la récupération active post-enchaînement, sans charge supplémentaire.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 5,
+				"steps": ["5 min marche rapide ou footing très lent"]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 20,
+				"steps": ["20 min footing 5’45–6’00/km (Z1)"]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 5,
+			"steps": ["Étirements doux mollets, quadris, lombaires"]
+		},
+		"status": "PLANNED",
+		"date": "2025-09-04"
+	},
+	"velo_souple_cadence_semaine8": {
+		"weekid": "semaine8_affutage_gerardmer",
+		"sessionId": "velo_souple_cadence_semaine8",
+		"type": "Cyclisme",
+		"intensity": 2,
+		"duration": "90",
+		"advice": "💡 Cherche la fluidité. Pédale rond, cadence haute, sans forcer. Sens-toi léger.",
+		"estimatedCalorie": "600 kcal",
+		"distance": "45000",
+		"title": "Souple + cadence",
+		"objective": "Entretenir la vélocité et activer sans accumuler de fatigue avant la course.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 15,
+				"steps": ["15 min Z1 à 90 rpm"]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 60,
+				"steps": [
+					"4 x 8 min cadence haute > 95–100 rpm",
+					"Récup 3 min roulage facile entre les blocs",
+					"20 min roulage Z2 fluide"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 15,
+			"steps": ["15 min roulage Z1"]
+		},
+		"status": "PLANNED",
+		"date": "2025-09-05"
+	},
+	"cap_allure_tri_semaine8": {
+		"weekid": "semaine8_affutage_gerardmer",
+		"sessionId": "cap_allure_tri_semaine8",
+		"type": "Course à pied",
+		"intensity": 2,
+		"duration": "40",
+		"advice": "💡 Visualise-toi à Gérardmer. Pose la foulée, cadence haute, respiration maîtrisée. C’est de la projection mentale.",
+		"estimatedCalorie": "500 kcal",
+		"distance": "9000",
+		"title": "Sortie allure tri",
+		"objective": "Verrouiller l’allure spécifique course M, sans aller chercher la fatigue.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 10,
+				"steps": [
+					"10 min footing progressif (5’20 ➝ 5’00/km)",
+					"2 x 20 sec accélérations"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 25,
+				"steps": [
+					"6 km à 3’55–4’00/km (allure tri cible)",
+					"2 km relâché à 4’30/km"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 5,
+			"steps": ["5 min footing lent + étirements"]
+		},
+		"status": "PLANNED",
+		"date": "2025-09-06"
+	},
+	"triathlon_gerardmerM": {
+		"weekid": "semaine8_affutage_gerardmer",
+		"sessionId": "triathlon_gerardmerM",
+		"type": "Enchaînement vélo-course",
+		"intensity": 5,
+		"duration": "150",
+		"advice": "💡 Reste concentré sur le pacing. Gérardmer se gagne sur la gestion, pas sur l’euphorie du départ.",
+		"estimatedCalorie": "2000 kcal",
+		"distance": "53500",
+		"title": "Triathlon Gérardmer M",
+		"objective": "Valider tout ton cycle d’entraînement, en visant ton objectif chrono global de 2h23 avec une gestion intelligente sur un parcours exigeant.",
+		"warmups": [
+			{
+				"title": "Échauffement pré-course",
+				"duration": 20,
+				"steps": [
+					"10 min mobilité + activation à sec",
+					"5 min natation progressive",
+					"2 x 30 sec accélérations en crawl"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 130,
+				"steps": [
+					"🏊 Natation 1500 m : Objectif 23’00 (1’32–1’34/100 m) avec départ rapide puis stabilisation allure tri",
+					"🚴 Vélo 41 km / 1000D+ : Objectif 1h18, gérer 3x montée de la Rayée (3 km à 65–70 rpm, 240 W), relances sur les sommets, cadence 85–90 rpm sur le reste",
+					"🏃 CAP 11 km / 140D+ : Objectif 39’00, soit 3’33–3’35/km, partir contrôlé (1er km > 3’45/km) puis maintenir rythme cible jusqu’à la fin"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme post-course",
+			"duration": 15,
+			"steps": [
+				"10 min marche + étirements doux",
+				"Hydratation + récupération active"
+			]
+		},
+		"status": "PLANNED",
+		"date": "2025-09-07"
+	}
+}

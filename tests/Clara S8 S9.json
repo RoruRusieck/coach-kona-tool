@@ -1,0 +1,235 @@
+{
+	"course_8x400m_lundi_s8": {
+		"weekid": "semaine8_consolidation",
+		"sessionId": "course_8x400m_lundi_s8",
+		"type": "Course à pied",
+		"intensity": 5,
+		"duration": "55",
+		"advice": "💡 Tiens chaque 400 m régulier, vise la même allure du 1er au 8e. Ne pars pas trop vite.",
+		"estimatedCalorie": "650 kcal",
+		"distance": "9000",
+		"title": "8 x 400 m allure 5 km",
+		"objective": "Développer la vitesse et la tolérance à l’allure rapide.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 15,
+				"steps": ["10 min footing progressif", "4 x 80 m éducatifs rapides"]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 35,
+				"steps": [
+					"8 x 400 m à ~4’50/km (allure 5 km)",
+					"Récup 1’15 footing lent entre chaque"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 5,
+			"steps": ["5 min footing lent", "Étirements ischios, mollets"]
+		},
+		"status": "PLANNED",
+		"date": "2025-09-08"
+	},
+
+	"renfo_fullbody_mardi_s8": {
+		"weekid": "semaine8_consolidation",
+		"sessionId": "renfo_fullbody_mardi_s8",
+		"type": "Renforcement",
+		"intensity": 3,
+		"duration": "40",
+		"advice": "💡 Exécute chaque mouvement lentement et avec amplitude, mise sur la qualité pas la vitesse.",
+		"estimatedCalorie": "320 kcal",
+		"distance": "",
+		"title": "Full body fonctionnel & mobilité",
+		"objective": "Renforcer l’équilibre global musculaire et améliorer la mobilité articulaire.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 5,
+				"steps": [
+					"2 min corde à sauter",
+					"Mobilité hanches/épaules",
+					"10 squats dynamiques"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Circuit fonctionnel",
+				"duration": 30,
+				"steps": [
+					"3 x : 10 burpees",
+					"3 x : 12 squats + développé épaules (charge légère)",
+					"3 x : 10 fentes latérales avec tirage élastique",
+					"3 x : 30 sec gainage dynamique",
+					"3 x : 20 mountain climbers"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 5,
+			"steps": ["Étirements quadriceps, dos, épaules", "Respiration contrôlée"]
+		},
+		"status": "PLANNED",
+		"date": "2025-09-09"
+	},
+
+	"course_tempo_vendredi_s8": {
+		"weekid": "semaine8_consolidation",
+		"sessionId": "course_tempo_vendredi_s8",
+		"type": "Course à pied",
+		"intensity": 4,
+		"duration": "60",
+		"advice": "💡 Reste concentrée sur ta foulée et ton souffle, cherche la constance tout du long.",
+		"estimatedCalorie": "680 kcal",
+		"distance": "10000",
+		"title": "Sortie tempo 5 km allure course",
+		"objective": "Renforcer la capacité à tenir l’allure cible sur une portion continue.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 15,
+				"steps": ["10 min footing progressif", "3 x 80 m accélérations"]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 35,
+				"steps": [
+					"5 km à 5’00–5’05/km (allure 10 km)",
+					"Reste régulière, pas de sprint final"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 10,
+			"steps": ["10 min footing lent", "Étirements complets"]
+		},
+		"status": "PLANNED",
+		"date": "2025-09-12"
+	},
+
+	"course_12x200m_lundi_s9": {
+		"weekid": "semaine9_affutage",
+		"sessionId": "course_12x200m_lundi_s9",
+		"type": "Course à pied",
+		"intensity": 4,
+		"duration": "50",
+		"advice": "💡 Reste souple et relâchée, ce n’est pas un sprint mais un rappel de vitesse pour garder de la fraîcheur.",
+		"estimatedCalorie": "520 kcal",
+		"distance": "8000",
+		"title": "12 x 200 m allure 5 km",
+		"objective": "Entretenir la vivacité et garder du rythme sans générer de fatigue excessive.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 15,
+				"steps": ["10 min footing progressif", "5 x 80 m éducatifs dynamiques"]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 25,
+				"steps": [
+					"12 x 200 m à ~4’50/km (allure 5 km)",
+					"Récupération : 1 min footing lent entre les 200 m"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 10,
+			"steps": ["10 min footing lent", "Étirements doux"]
+		},
+		"status": "PLANNED",
+		"date": "2025-09-15"
+	},
+
+	"renfo_gainage_mardi_s9": {
+		"weekid": "semaine9_affutage",
+		"sessionId": "renfo_gainage_mardi_s9",
+		"type": "Renforcement",
+		"intensity": 2,
+		"duration": "30",
+		"advice": "💡 Concentre-toi sur la respiration et la qualité du mouvement. C’est une séance légère, juste pour activer.",
+		"estimatedCalorie": "180 kcal",
+		"distance": "",
+		"title": "Gainage & mobilité légère",
+		"objective": "Préparer ton corps à la course, relâcher les tensions et activer en douceur sans générer de fatigue.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 5,
+				"steps": [
+					"2 min corde à sauter légère",
+					"3 min mobilisation hanches/épaules/chevilles"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Circuit léger",
+				"duration": 20,
+				"steps": [
+					"Planche ventrale 3 x 30 sec",
+					"Gainage latéral 3 x 20 sec/côté",
+					"Bird-dog 3 x 10 reps/côté",
+					"Étirements dynamiques : 3 x 20 sec par zone"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 5,
+			"steps": ["Respiration profonde", "Étirements doux du dos et des jambes"]
+		},
+		"status": "PLANNED",
+		"date": "2025-09-16"
+	},
+
+	"course_officielle_swimrun_vendredi_s9": {
+		"weekid": "semaine9_affutage",
+		"sessionId": "course_officielle_swimrun_vendredi_s9",
+		"type": "Course à pied",
+		"intensity": 5,
+		"duration": "50",
+		"advice": "💡 Garde ton pacing : pars contrôlée, trouve ton rythme avec Kéké et garde de l’énergie pour finir fort.",
+		"estimatedCalorie": "700 kcal",
+		"distance": "10000",
+		"title": "Course officielle Swimrun – 10 km",
+		"objective": "Valider ton objectif de chrono 50–52 min sur 10 km en course officielle.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 10,
+				"steps": ["10 min footing progressif", "3 x 50 m foulées actives"]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 40,
+				"steps": [
+					"Course officielle 10 km",
+					"Objectif chrono : 50–52 min (allure ~5’00–5’10/km)"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 5,
+			"steps": ["Étirements doux", "Hydratation + récupération active"]
+		},
+		"status": "PLANNED",
+		"date": "2025-09-19"
+	}
+}

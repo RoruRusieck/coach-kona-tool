@@ -1,0 +1,147 @@
+{
+  "firstname": "Marie",
+  "lastname": "Champin",
+  "email": "Marie38champin@gmail.com",
+  "acceptConditions": true,
+  "uid": "qunxSi9uUqcixauspqrYonuopsW2",
+  "role": "USER",
+  "subscription": {
+    "hasAccess": true,
+    "source": "store",
+    "isBeta": false
+  },
+  "triathlonGoals": {
+    "primary": {
+      "distanceLabel": "L",
+      "distancesValues": {
+        "run": "21km",
+        "swim": "1,9km",
+        "bike": "90km"
+      },
+      "timeGoals": {
+        "swimSeconds": 2100,
+        "runSeconds": 110,
+        "bikeSeconds": 225,
+        "globalSeconds": 360
+      },
+      "raceName": "Triathlon d'Embrun",
+      "raceTerrain": "UNDULATING",
+      "raceDate": "2026-06-28"
+    },
+    "secondary": [
+      {
+        "id": 0,
+        "type": "triathlon",
+        "eventName": "Triathlon Gorges de la Loire",
+        "evenDate": "2026-05-23",
+        "distanceLabel": "M",
+        "distancesValues": {
+          "swim": "1,5km",
+          "bike": "40km",
+          "run": "10km"
+        },
+        "raceTerrain": "UNDULATING",
+        "priority": "B",
+        "timeGoals": {
+          "globalSeconds": 160,
+          "swimSeconds": 1680,
+          "bikeSeconds": 100,
+          "runSeconds": 2700
+        }
+      },
+      {
+        "id": 1,
+        "type": "run_bike",
+        "eventName": "Cyclospotive Vache qui rit",
+        "evenDate": "2026-05-31",
+        "distanceLabel": "112km de vélo",
+        "distancesValues": {
+          "bike": null,
+          "run": null,
+          "swim": null
+        },
+        "raceTerrain": "UNDULATING",
+        "priority": "C",
+        "timeGoals": {
+          "globalSeconds": 280
+        }
+      }
+    ]
+  },
+  "profile": {
+    "gender": "FEMALE",
+    "ageYears": 25,
+    "heightCm": 170,
+    "weightKg": 62
+  },
+  "metrics": {
+    "vmaKmh": 14
+  },
+  "triathlonExperience": {
+    "level": "NOVICE",
+    "triathlonYears": 1,
+    "triathlonsCompleted": 2,
+    "bikeExperience": {
+      "level": "INTERMEDIATE",
+      "ftpWatts": 168
+    },
+    "swimExperience": {
+      "distanceMeters": 1500,
+      "level": "NOVICE",
+      "timeSeconds": 1680
+    },
+    "runningExperience": {
+      "distanceMeters": 10000,
+      "timeSeconds": 2880,
+      "level": "INTERMEDIATE"
+    },
+    "transitionComfort": {
+      "swimToBike": true,
+      "bikeToRun": true
+    }
+  },
+  "equipment": {
+    "hrSensor": true,
+    "watch": {
+      "model": "Forerunner 255",
+      "brand": "Garmin"
+    },
+    "run": {
+      "treadmill": false
+    },
+    "swimGear": [
+      "pull_buoy",
+      "fins"
+    ],
+    "bike": {
+      "homeTrainer": true,
+      "powerMeter": true,
+      "bikeType": "road",
+      "cadenceSensor": true
+    }
+  },
+  "targetWeeklyTrainingSessions": 7,
+  "trainingStartDate": "2026-01-12",
+  "club": {
+    "name": null,
+    "isMember": false,
+    "loackedSessionsNote": null
+  },
+  "targetMaxWeeklyTrainingHours": 12,
+  "averageSleepPerNightHours": 7,
+  "preferredRestDay": "friday",
+  "maxTrainingHoursPerDay": {
+    "sunday": 5,
+    "saturday": 5,
+    "tuesday": 2,
+    "friday": 1,
+    "thursday": 2,
+    "wednesday": 5,
+    "monday": 2
+  },
+  "currentWeeklyTrainingSessions": 6,
+  "injuriesNote": "Actuellement : fin d'une tendinopathie de la coiffe des rotateurs sur l'épaule gauche et en rééducation d'une déchirure de l'ischio jambier.",
+  "asCompleteForm": true,
+  "phone": "0645717635",
+  "department": "38"
+}

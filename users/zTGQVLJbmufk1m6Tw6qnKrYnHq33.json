@@ -1,0 +1,132 @@
+{
+  "firstname": "François",
+  "lastname": "Mauduit",
+  "email": "f.mauduit70@laposte.net",
+  "acceptConditions": true,
+  "uid": "zTGQVLJbmufk1m6Tw6qnKrYnHq33",
+  "role": "USER",
+  "subscription": {
+    "hasAccess": true,
+    "source": "store",
+    "isBeta": false
+  },
+  "triathlonGoals": {
+    "primary": {
+      "distanceLabel": "L",
+      "distancesValues": {
+        "run": "21km",
+        "swim": "1,9km",
+        "bike": "90km"
+      },
+      "isInitial": true,
+      "raceTerrain": "MONTAINOUS",
+      "raceDate": "2026-08-06",
+      "timeGoals": {
+        "swimSeconds": 2520,
+        "runSeconds": 7200,
+        "bikeSeconds": 360,
+        "globalSeconds": 31500
+      },
+      "raceName": "Triathlon XL de l’alpe d’huez "
+    },
+    "secondary": [
+      {
+        "id": 0,
+        "type": "triathlon",
+        "eventName": "Triathlon L de Deauville",
+        "evenDate": "2026-06-20",
+        "distanceLabel": "L",
+        "distancesValues": {
+          "swim": "1,9km",
+          "bike": "90km",
+          "run": "21km"
+        },
+        "raceTerrain": "UNDULATING",
+        "priority": "C",
+        "timeGoals": {
+          "globalSeconds": 21600,
+          "swimSeconds": 2280,
+          "bikeSeconds": 12000,
+          "runSeconds": 6900
+        }
+      }
+    ]
+  },
+  "profile": {
+    "gender": "MALE",
+    "ageYears": 42,
+    "heightCm": 185,
+    "weightKg": 85
+  },
+  "metrics": {
+    "vmaKmh": 17
+  },
+  "triathlonExperience": {
+    "level": "NOVICE",
+    "triathlonYears": 6,
+    "triathlonsCompleted": 10,
+    "swimExperience": {
+      "distanceMeters": 2600,
+      "timeSeconds": 3060,
+      "level": "NOVICE"
+    },
+    "bikeExperience": {
+      "level": "NOVICE",
+      "ftpWatts": null
+    },
+    "runningExperience": {
+      "distanceMeters": 42000,
+      "timeSeconds": 12300,
+      "level": "NOVICE"
+    },
+    "transitionComfort": {
+      "swimToBike": true,
+      "bikeToRun": true
+    }
+  },
+  "equipment": {
+    "hrSensor": true,
+    "watch": {
+      "model": "Forerunner 955",
+      "brand": "Garmin "
+    },
+    "run": {
+      "treadmill": true
+    },
+    "swimGear": [
+      "pull_buoy",
+      "paddles",
+      "snorkel"
+    ],
+    "bike": {
+      "homeTrainer": true,
+      "powerMeter": false,
+      "bikeType": "road",
+      "cadenceSensor": true
+    }
+  },
+  "targetWeeklyTrainingSessions": 5,
+  "trainingStartDate": "2026-03-30",
+  "club": {
+    "name": null,
+    "isMember": false,
+    "loackedSessionsNote": null
+  },
+  "targetMaxWeeklyTrainingHours": 10,
+  "averageSleepPerNightHours": 7,
+  "preferredRestDay": "sunday",
+  "maxTrainingHoursPerDay": {
+    "sunday": 1,
+    "saturday": 6,
+    "tuesday": 1,
+    "friday": 1,
+    "thursday": 2,
+    "wednesday": 3,
+    "monday": 2
+  },
+  "currentWeeklyTrainingSessions": 4,
+  "injuriesNote": "Épaule gauche douloureuse ",
+  "asCompleteForm": true,
+  "phone": "0612700499",
+  "department": "14"
+}

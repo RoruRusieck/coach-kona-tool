@@ -1,0 +1,437 @@
+{
+  "nicolas_distance_m_mob_Sem17_Session01": {
+    "weekid": "nicolas_distance_m_sem17",
+    "sessionId": "nicolas_distance_m_mob_Sem17_Session01",
+    "type": "Renforcement",
+    "intensity": 2,
+    "duration": "30",
+    "advice": "💡 Prends le temps sur chaque mouvement pour ressentir les zones qui s’ouvrent. Respire profondément.",
+    "estimatedCalorie": "100 kcal",
+    "distance": "",
+    "title": "Ouverture hanches + relâchement dos",
+    "objective": "Libérer les tensions dans les hanches et le bas du dos pour améliorer l’amplitude gestuelle en course et à vélo.",
+    "warmups": [],
+    "mainSets": [
+      {
+        "title": "Routine mobilité",
+        "duration": 30,
+        "steps": [
+          "2 x 1 min Étirement du psoas jambe arrière surélevée",
+          "2 x 1 min Étirement du piriforme au sol",
+          "2 x 1 min Ouverture de hanche en grenouille",
+          "2 x 1 min Chat-vache pour la colonne vertébrale",
+          "2 x 1 min Roll-down + swing bras",
+          "Respiration allongée 3 min"
+        ]
+      }
+    ],
+    "cooldown": {
+      "title": "Retour au calme",
+      "duration": 0,
+      "steps": []
+    },
+    "status": "PLANNED",
+    "date": "2024-10-20"
+  },
+
+  "nicolas_distance_m_renfo_Sem17_Session02": {
+    "weekid": "nicolas_distance_m_sem17",
+    "sessionId": "nicolas_distance_m_renfo_Sem17_Session02",
+    "type": "Renforcement",
+    "intensity": 3,
+    "duration": "30",
+    "advice": "💡 Maîtrise chaque mouvement, surtout dans les phases excentriques. Qualité avant quantité.",
+    "estimatedCalorie": "250 kcal",
+    "distance": "",
+    "title": "Core + excentrique mollet",
+    "objective": "Renforcer la sangle abdominale profonde et renforcer la résistance musculaire des mollets en excentrique.",
+    "warmups": [
+      {
+        "title": "Activation",
+        "duration": 5,
+        "steps": [
+          "2 x 30 sec jumping jacks",
+          "2 x 30 sec montées de genoux",
+          "2 x 30 sec squats dynamiques"
+        ]
+      }
+    ],
+    "mainSets": [
+      {
+        "title": "Circuit renfo",
+        "duration": 20,
+        "steps": [
+          "3 x (30 sec planche + 30 sec side plank de chaque côté)",
+          "3 x 15 crunch jambes levées",
+          "3 x 10 descentes lentes talons suspendus (excentrique mollet)",
+          "3 x 12 bird dog alterné",
+          "3 x 20 sec hollow body hold"
+        ]
+      }
+    ],
+    "cooldown": {
+      "title": "Retour au calme",
+      "duration": 5,
+      "steps": [
+        "Étirements des mollets contre un mur",
+        "Étirements du dos en position de l’enfant"
+      ]
+    },
+    "status": "PLANNED",
+    "date": "2024-10-22"
+  },
+
+  "nicolas_distance_m_velo_Sem17_Session03": {
+    "weekid": "nicolas_distance_m_sem17",
+    "sessionId": "nicolas_distance_m_velo_Sem17_Session03",
+    "type": "Cyclisme",
+    "intensity": 4,
+    "duration": "75",
+    "advice": "💡 Sois rigoureux sur les relances : cadence fluide, posture haute, traction des jambes.",
+    "estimatedCalorie": "650 kcal",
+    "distance": "32000",
+    "title": "Endurance tempo + relances",
+    "objective": "Travailler ton maintien d’un tempo soutenu et ta capacité à relancer proprement après une phase de récupération.",
+    "warmups": [
+      {
+        "title": "Échauffement",
+        "duration": 15,
+        "steps": ["10 min à 60 % FC max", "3 x 1 min à 90 rpm, récup 1 min"]
+      }
+    ],
+    "mainSets": [
+      {
+        "title": "Bloc principal",
+        "duration": 50,
+        "steps": [
+          "3 x 10 min à 75 % FC max (zone tempo), récup 3 min Z1",
+          "5 x 1 min relance à 95 rpm, récup 1 min facile"
+        ]
+      }
+    ],
+    "cooldown": {
+      "title": "Retour au calme",
+      "duration": 10,
+      "steps": ["10 min à faible intensité (50-60 % FC max), pédalage souple"]
+    },
+    "status": "PLANNED",
+    "date": "2024-10-22"
+  },
+  "nicolas_distance_m_cap_Sem17_Session04": {
+    "weekid": "nicolas_distance_m_sem17",
+    "sessionId": "nicolas_distance_m_cap_Sem17_Session04",
+    "type": "Course à pied",
+    "intensity": 4,
+    "duration": "50",
+    "advice": "💡 Garde une posture dynamique en zone tempo et relâche-toi complètement sur le retour au calme.",
+    "estimatedCalorie": "500 kcal",
+    "distance": "8000",
+    "title": "Allure spécifique + retour au calme actif",
+    "objective": "Travailler ton aisance à l’allure visée sur 5 à 10 km, tout en soignant ta récupération active.",
+    "warmups": [
+      {
+        "title": "Échauffement",
+        "duration": 10,
+        "steps": [
+          "10 min footing à 65 % FC max",
+          "3 x 30 sec de foulées dynamiques"
+        ]
+      }
+    ],
+    "mainSets": [
+      {
+        "title": "Bloc principal",
+        "duration": 30,
+        "steps": [
+          "2 x 10 min à 5:30/km (allure spécifique), récup 2 min footing",
+          "5 min à 5:00/km",
+          "5 min retour au calme actif à 6:30/km"
+        ]
+      }
+    ],
+    "cooldown": {
+      "title": "Retour au calme",
+      "duration": 10,
+      "steps": ["10 min footing très lent + respiration ventrale"]
+    },
+    "status": "PLANNED",
+    "date": "2024-10-24"
+  },
+
+  "nicolas_distance_m_cap_Sem17_Session05": {
+    "weekid": "nicolas_distance_m_sem17",
+    "sessionId": "nicolas_distance_m_cap_Sem17_Session05",
+    "type": "Course à pied",
+    "intensity": 3,
+    "duration": "60",
+    "advice": "💡 Gère ton énergie en montée progressive, sans forcer le rythme, concentre-toi sur ta respiration.",
+    "estimatedCalorie": "550 kcal",
+    "distance": "9500",
+    "title": "Sortie progressive longue",
+    "objective": "Travailler l’endurance fondamentale en augmentant légèrement le tempo dans la seconde moitié.",
+    "warmups": [
+      {
+        "title": "Échauffement",
+        "duration": 10,
+        "steps": [
+          "10 min footing facile à 65 % FC max",
+          "2 x 30 sec accélérations contrôlées"
+        ]
+      }
+    ],
+    "mainSets": [
+      {
+        "title": "Bloc principal",
+        "duration": 40,
+        "steps": ["20 min à 6:30/km", "15 min à 6:00/km", "5 min à 5:45/km"]
+      }
+    ],
+    "cooldown": {
+      "title": "Retour au calme",
+      "duration": 10,
+      "steps": ["10 min footing lent + étirements"]
+    },
+    "status": "PLANNED",
+    "date": "2024-10-25"
+  },
+
+  "nicolas_distance_m_velo_Sem17_Session06": {
+    "weekid": "nicolas_distance_m_sem17",
+    "sessionId": "nicolas_distance_m_velo_Sem17_Session06",
+    "type": "Cyclisme",
+    "intensity": 3,
+    "duration": "95",
+    "advice": "💡 Concentre-toi sur une posture haute et stable, cadence souple entre 90 et 95 rpm.",
+    "estimatedCalorie": "700 kcal",
+    "distance": "38000",
+    "title": "Travail de cadence + posture haute",
+    "objective": "Développer ton efficacité gestuelle en maintenant une bonne fréquence de pédalage sur la durée.",
+    "warmups": [
+      {
+        "title": "Échauffement",
+        "duration": 15,
+        "steps": ["10 min à 60 % FC max", "3 x 1 min à 95 rpm, récup 1 min"]
+      }
+    ],
+    "mainSets": [
+      {
+        "title": "Bloc principal",
+        "duration": 60,
+        "steps": [
+          "3 x 15 min à 75 % FC max en cadence 90-95 rpm, récup 3 min",
+          "3 x 1 min relance à 100 rpm, récup 1 min"
+        ]
+      }
+    ],
+    "cooldown": {
+      "title": "Retour au calme",
+      "duration": 10,
+      "steps": ["10 min pédalage souple à basse intensité"]
+    },
+    "status": "PLANNED",
+    "date": "2024-10-26"
+  },
+  "nicolas_distance_m_mob_Sem18_Session01": {
+    "weekid": "nicolas_distance_m_sem18",
+    "sessionId": "nicolas_distance_m_mob_Sem18_Session01",
+    "type": "Renforcement",
+    "intensity": 2,
+    "duration": "25",
+    "advice": "💡 Respire profondément sur chaque mouvement pour relâcher les tensions et améliorer l’amplitude.",
+    "estimatedCalorie": "150 kcal",
+    "distance": "",
+    "title": "Gain de mobilité chevilles + colonne",
+    "objective": "Améliorer la souplesse des chevilles et la mobilité vertébrale pour un geste plus fluide en course et en natation.",
+    "warmups": [],
+    "mainSets": [
+      {
+        "title": "Routine mobilité",
+        "duration": 25,
+        "steps": [
+          "3 x 45 sec étirement dynamique du mollet (pieds surélevés)",
+          "2 x 10 mobilisations genoux-chevilles en fente basse",
+          "2 x 1 min étirement assis rotation thoracique bras tendus",
+          "3 x 30 sec rotation de la colonne au sol (genoux pliés)",
+          "3 x 30 sec posture de l’enfant + extensions latérales"
+        ]
+      }
+    ],
+    "cooldown": {
+      "title": "Retour au calme",
+      "duration": 0,
+      "steps": []
+    },
+    "status": "PLANNED",
+    "date": "2024-10-27"
+  },
+
+  "nicolas_distance_m_renf_Sem18_Session02": {
+    "weekid": "nicolas_distance_m_sem18",
+    "sessionId": "nicolas_distance_m_renf_Sem18_Session02",
+    "type": "Renforcement",
+    "intensity": 3,
+    "duration": "30",
+    "advice": "💡 Garde le bassin stable tout au long des exercices. Qualité > quantité.",
+    "estimatedCalorie": "200 kcal",
+    "distance": "",
+    "title": "Stabilité bassin + gainage dynamique",
+    "objective": "Renforcer la ceinture pelvienne et abdominale pour améliorer l’efficacité gestuelle en course et vélo.",
+    "warmups": [
+      {
+        "title": "Échauffement",
+        "duration": 5,
+        "steps": [
+          "2 x 30 sec jumping jacks",
+          "2 x 30 sec montée de genoux",
+          "Mobilité des hanches (cercles + rotations)"
+        ]
+      }
+    ],
+    "mainSets": [
+      {
+        "title": "Bloc principal",
+        "duration": 20,
+        "steps": [
+          "3 x 30 sec gainage latéral dynamique (levée de jambe) R=15 sec",
+          "3 x 45 sec pont fessier unilatéral R=20 sec",
+          "2 x 8 fentes arrière avec genou au sol",
+          "2 x 10 bird-dog lent (5 par côté)"
+        ]
+      }
+    ],
+    "cooldown": {
+      "title": "Retour au calme",
+      "duration": 5,
+      "steps": [
+        "Étirements des fléchisseurs de hanche",
+        "Respiration profonde en position allongée"
+      ]
+    },
+    "status": "PLANNED",
+    "date": "2024-10-29"
+  },
+
+  "nicolas_distance_m_velo_Sem18_Session03": {
+    "weekid": "nicolas_distance_m_sem18",
+    "sessionId": "nicolas_distance_m_velo_Sem18_Session03",
+    "type": "Cyclisme",
+    "intensity": 3,
+    "duration": "70",
+    "advice": "💡 Vise une fluidité maximale sur la cadence, sans tension dans les épaules ou le haut du corps.",
+    "estimatedCalorie": "550 kcal",
+    "distance": "32000",
+    "title": "Vélocité + fluidité de pédalage",
+    "objective": "Travailler l’efficacité du pédalage et l’économie de mouvement à cadence élevée.",
+    "warmups": [
+      {
+        "title": "Échauffement",
+        "duration": 15,
+        "steps": [
+          "10 min à 60 % FC max en pédalage souple",
+          "3 x 1 min à 100 rpm, récup 1 min"
+        ]
+      }
+    ],
+    "mainSets": [
+      {
+        "title": "Bloc principal",
+        "duration": 45,
+        "steps": [
+          "4 x 5 min à 90–95 rpm à 70 % FC max, récup 3 min",
+          "3 x 1 min à 105 rpm, récup 1 min",
+          "10 min en posture aéro avec cadence fluide"
+        ]
+      }
+    ],
+    "cooldown": {
+      "title": "Retour au calme",
+      "duration": 10,
+      "steps": ["10 min à 60 rpm, respiration relâchée"]
+    },
+    "status": "PLANNED",
+    "date": "2024-10-29"
+  },
+  "nicolas_distance_m_cap_Sem18_Session04": {
+    "weekid": "nicolas_distance_m_sem18",
+    "sessionId": "nicolas_distance_m_cap_Sem18_Session04",
+    "type": "Course à pied",
+    "intensity": 3,
+    "duration": "45",
+    "advice": "💡 Reste relâché sur tout le haut du corps, pose légère du pied et cadence régulière.",
+    "estimatedCalorie": "450 kcal",
+    "distance": "7000",
+    "title": "Footing relâché + petits appuis",
+    "objective": "Travailler la foulée légère et relâchée pour réduire les tensions musculaires et améliorer la récupération active.",
+    "warmups": [
+      {
+        "title": "Échauffement",
+        "duration": 10,
+        "steps": [
+          "10 min de footing lent à 65 % FC max",
+          "3 x 30 sec éducatifs : montée de genoux, talons-fesses, foulées bondissantes"
+        ]
+      }
+    ],
+    "mainSets": [
+      {
+        "title": "Bloc principal",
+        "duration": 30,
+        "steps": [
+          "30 min à 70–75 % FC max, cadence entre 170 et 180 pas/min",
+          "Focus : poser le pied sous le centre de gravité, relâcher les épaules"
+        ]
+      }
+    ],
+    "cooldown": {
+      "title": "Retour au calme",
+      "duration": 5,
+      "steps": [
+        "5 min de marche active",
+        "Étirement mollets, ischios et fessiers"
+      ]
+    },
+    "status": "PLANNED",
+    "date": "2024-10-31"
+  },
+
+  "nicolas_distance_m_enchainement_Sem18_Session05": {
+    "weekid": "nicolas_distance_m_sem18",
+    "sessionId": "nicolas_distance_m_enchainement_Sem18_Session05",
+    "type": "Enchaînement vélo-course",
+    "intensity": 4,
+    "duration": "110",
+    "advice": "💡 Sois fluide dans la transition. Reste concentré sur les sensations et ton alimentation.",
+    "estimatedCalorie": "950 kcal",
+    "distance": "38000",
+    "title": "Simulation brick courte fluide",
+    "objective": "Simuler une course enchaînée pour renforcer les automatismes physiques et mentaux en fin de bloc d'entraînement.",
+    "warmups": [
+      {
+        "title": "Échauffement",
+        "duration": 15,
+        "steps": [
+          "10 min de vélo à 60 % FC max",
+          "3 x 1 min à 90 rpm, récup 1 min"
+        ]
+      }
+    ],
+    "mainSets": [
+      {
+        "title": "Bloc principal",
+        "duration": 80,
+        "steps": [
+          "Vélo : 60 min dont 3 x 10 min à 75–80 % FC max, récup 5 min entre chaque",
+          "Transition rapide (moins de 3 min)",
+          "Course à pied : 20 min à allure modérée (Z2), cadence ≥ 170 pas/min"
+        ]
+      }
+    ],
+    "cooldown": {
+      "title": "Retour au calme",
+      "duration": 15,
+      "steps": ["5 min de footing lent", "Étirements quadriceps, mollets, dos"]
+    },
+    "status": "PLANNED",
+    "date": "2024-11-02"
+  }
+}

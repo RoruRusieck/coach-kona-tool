@@ -1,0 +1,111 @@
+{
+  "firstname": "Laurane",
+  "lastname": "Lahaut ",
+  "email": "Laurane.lahaut@hotmail.com",
+  "acceptConditions": true,
+  "uid": "LFxi1H0Il3Si9hRlysrotpWlIG72",
+  "role": "USER",
+  "subscription": {
+    "hasAccess": true,
+    "source": "store",
+    "isBeta": false
+  },
+  "triathlonGoals": {
+    "primary": {
+      "distanceLabel": "S",
+      "distancesValues": {
+        "run": "5km",
+        "swim": "750m",
+        "bike": "20km"
+      },
+      "isInitial": true,
+      "timeGoals": {
+        "swimSeconds": 1140,
+        "runSeconds": 1800,
+        "bikeSeconds": 3000,
+        "globalSeconds": 5700
+      },
+      "raceName": "gerardmer",
+      "raceTerrain": "UNDULATING",
+      "raceDate": "2026-09-05"
+    },
+    "secondary": []
+  },
+  "profile": {
+    "gender": "FEMALE",
+    "ageYears": 30,
+    "heightCm": 170,
+    "weightKg": 65
+  },
+  "metrics": {
+    "vmaKmh": 12
+  },
+  "triathlonExperience": {
+    "level": "NOVICE",
+    "triathlonYears": 2,
+    "triathlonsCompleted": 3,
+    "swimExperience": {
+      "distanceMeters": 1025,
+      "timeSeconds": 1273,
+      "level": "NOVICE"
+    },
+    "bikeExperience": {
+      "level": "BEGINNER",
+      "ftpWatts": 101
+    },
+    "runningExperience": {
+      "distanceMeters": null,
+      "timeSeconds": null,
+      "level": "NOVICE"
+    },
+    "transitionComfort": {
+      "swimToBike": true,
+      "bikeToRun": true
+    }
+  },
+  "equipment": {
+    "hrSensor": false,
+    "watch": {
+      "model": "Forerunner 245",
+      "brand": "Garmin"
+    },
+    "run": {
+      "treadmill": false
+    },
+    "swimGear": [
+      "kickboard",
+      "paddles",
+      "fins"
+    ],
+    "bike": {
+      "homeTrainer": true,
+      "powerMeter": false,
+      "bikeType": "road",
+      "cadenceSensor": false
+    }
+  },
+  "targetWeeklyTrainingSessions": 3,
+  "trainingStartDate": "2026-03-22",
+  "club": {
+    "name": null,
+    "isMember": false,
+    "loackedSessionsNote": null
+  },
+  "targetMaxWeeklyTrainingHours": 6,
+  "averageSleepPerNightHours": 7,
+  "preferredRestDay": "friday",
+  "maxTrainingHoursPerDay": {
+    "sunday": 3,
+    "saturday": 3,
+    "tuesday": 1,
+    "friday": 1,
+    "thursday": 1,
+    "wednesday": 1,
+    "monday": 2
+  },
+  "currentWeeklyTrainingSessions": 2,
+  "injuriesNote": "Je me fais très vite  des entorses",
+  "asCompleteForm": true,
+  "phone": "0479442043",
+  "department": "0"
+}

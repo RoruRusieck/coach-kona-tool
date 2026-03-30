@@ -1,0 +1,282 @@
+{
+	"mardi_s7_marathon": {
+		"weekid": "semaine7",
+		"sessionId": "mardi_s7_marathon",
+		"type": "Course à pied",
+		"intensity": 3,
+		"duration": "70",
+		"advice": "💡 Les accélérations doivent être fluides, sans te mettre dans le rouge. Juste activer les jambes.",
+		"estimatedCalorie": "700 kcal",
+		"distance": "12000",
+		"title": "Footing avec accélérations contrôlées 1h10 - 12 000 m",
+		"objective": "Entretenir ta dynamique en course à pied avec un footing actif intégrant quelques relances progressives.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 10,
+				"steps": ["10 min footing très léger", "3 x 50 m foulées dynamiques"]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 50,
+				"steps": [
+					"40 min en zone 2 (5’45-5’50/km)",
+					"6 x 30 sec d'accélérations progressives à 4’45-5’00/km, récup 1 min footing",
+					"5 min retour zone 2"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 10,
+			"steps": ["10 min footing lent", "Étirements rapides si besoin"]
+		},
+		"status": "PLANNED",
+		"date": "2025-08-19"
+	},
+	"jeudi_s7_natation": {
+		"weekid": "semaine7",
+		"sessionId": "jeudi_s7_natation",
+		"type": "Natation",
+		"intensity": 2,
+		"duration": "60",
+		"advice": "💡 Cherche la glisse avant tout, n’essaie pas d’aller vite, mais d’être efficace sur chaque mouvement.",
+		"estimatedCalorie": "400 kcal",
+		"distance": "1800",
+		"title": "Technique et glisse en crawl 1h00 - 1 800 m",
+		"objective": "Améliorer ton économie de nage et ta sensation de glisse à travers des éducatifs spécifiques.",
+		"warmups": [
+			{
+				"title": "Échauffement à sec",
+				"duration": 5,
+				"steps": ["Mobilité bras/épaules", "2 x 20 sec gainage ventral"]
+			},
+			{
+				"title": "Échauffement dans l’eau",
+				"duration": 10,
+				"steps": [
+					"200 m crawl souple",
+					"4 x 50 m éducatifs (rattrapé, un bras devant, point fermé, crawl water polo)"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 40,
+				"steps": [
+					"4 x 100 m nage complète (Z2), récup 20 sec",
+					"4 x 50 m jambes + planche",
+					"4 x 50 m en progressif",
+					"200 m mix éducatif / nage complète"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 5,
+			"steps": ["200 m crawl relâché"]
+		},
+		"status": "PLANNED",
+		"date": "2025-08-21"
+	},
+	"dimanche_s7_triathloncap": {
+		"weekid": "semaine7",
+		"sessionId": "dimanche_s7_triathloncap",
+		"type": "Course à pied",
+		"intensity": 2,
+		"duration": "90",
+		"advice": "💡 Privilégie un parcours nature agréable et varié. Respiration facile, allure en aisance.",
+		"estimatedCalorie": "780 kcal",
+		"distance": "14000",
+		"title": "Footing nature en endurance fondamentale 1h30 - 14 000 m",
+		"objective": "Travailler ton endurance de fond dans un cadre agréable, sans pression, en restant en aisance respiratoire.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 10,
+				"steps": [
+					"10 min footing très lent",
+					"Mobilité chevilles/genoux/hanches"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 70,
+				"steps": [
+					"70 min en zone 2 (5’45-6’00/km) sur parcours varié",
+					"Inclure si possible des passages sentiers ou chemins souples"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 10,
+			"steps": [
+				"10 min marche active ou footing lent",
+				"Hydratation + étirements doux"
+			]
+		},
+		"status": "PLANNED",
+		"date": "2025-08-24"
+	},
+
+	"mardi_s8_marathon": {
+		"weekid": "semaine8",
+		"sessionId": "mardi_s8_marathon",
+		"type": "Course à pied",
+		"intensity": 4,
+		"duration": "80",
+		"advice": "💡 Reste concentrée sur l’allure : ni trop vite, ni trop lent, garde le bon tempo.",
+		"estimatedCalorie": "820 kcal",
+		"distance": "14000",
+		"title": "2 x 10 min allure marathon + tempo 1h20 - 14 000 m",
+		"objective": "Travailler ton aisance à l’allure marathon et ta capacité à finir fort avec des blocs tempo.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 15,
+				"steps": ["15 min footing lent", "3 x 50 m accélérations progressives"]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 45,
+				"steps": [
+					"2 x 10 min : 5 min à 5’15/km + 5 min à 4’55/km",
+					"Récupération : 4 min footing lent entre les blocs",
+					"1 x 5 min tempo (4’45/km)"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 10,
+			"steps": ["10 min footing très lent", "Étirements ciblés"]
+		},
+		"status": "PLANNED",
+		"date": "2025-08-26"
+	},
+	"mercredi_s8_natation": {
+		"weekid": "semaine8",
+		"sessionId": "mercredi_s8_natation",
+		"type": "Natation",
+		"intensity": 3,
+		"duration": "65",
+		"advice": "💡 Enchaîne les séries sans précipitation, garde une bonne position dans l’eau.",
+		"estimatedCalorie": "500 kcal",
+		"distance": "2000",
+		"title": "Travail d’allure + relances 1h05 - 2 000 m",
+		"objective": "Renforcer ta régularité à allure soutenue et ta capacité à relancer dans la fatigue.",
+		"warmups": [
+			{
+				"title": "Échauffement à sec",
+				"duration": 5,
+				"steps": ["Mobilité épaules + cercles", "2 x 30 sec gainage dynamique"]
+			},
+			{
+				"title": "Échauffement dans l’eau",
+				"duration": 10,
+				"steps": ["300 m crawl", "4 x 50 éducatifs (rattrapé, un bras devant)"]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 45,
+				"steps": [
+					"4 x 200 m en Z3, récup 30 sec",
+					"4 x 50 m battements planche",
+					"4 x 25 m sprint départ arrêté"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 5,
+			"steps": ["200 m crawl relâché"]
+		},
+		"status": "PLANNED",
+		"date": "2025-08-27"
+	},
+	"jeudi_s8_velo": {
+		"weekid": "semaine8",
+		"sessionId": "jeudi_s8_velo",
+		"type": "Cyclisme",
+		"intensity": 2,
+		"duration": "90",
+		"advice": "💡 Garde une cadence élevée sur les relances mais reste en aisance cardio.",
+		"estimatedCalorie": "650 kcal",
+		"distance": "35000",
+		"title": "Sortie souple + vélocité 1h30 - 35 000 m",
+		"objective": "Entretenir l’endurance avec une intensité modérée et du travail de cadence.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 15,
+				"steps": ["15 min Z1 cadence 90 rpm", "3 x 1 min à 100 rpm récup 1 min"]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 60,
+				"steps": [
+					"3 x 10 min à 90-95 rpm, Z2",
+					"3 x 3 min vélocité à 100-110 rpm",
+					"10 min terrain varié au feeling"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 15,
+			"steps": ["15 min pédalage souple Z1"]
+		},
+		"status": "PLANNED",
+		"date": "2025-08-28"
+	},
+	"dimanche_s8_triathloncap": {
+		"weekid": "semaine8",
+		"sessionId": "dimanche_s8_triathloncap",
+		"type": "Course à pied",
+		"intensity": 3,
+		"duration": "110",
+		"advice": "💡 Ne pars pas trop vite, réserve-toi pour monter en allure sur la fin.",
+		"estimatedCalorie": "880 kcal",
+		"distance": "16000",
+		"title": "Sortie longue progressive 1h50 - 16 000 m",
+		"objective": "Stimuler ton endurance et ta capacité à terminer fort en fin de sortie longue.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 10,
+				"steps": ["10 min footing lent", "3 x 50 m foulées dynamiques"]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 85,
+				"steps": [
+					"30 min à 5’50/km",
+					"30 min à 5’30/km",
+					"15 min à 5’15/km",
+					"10 min footing très léger"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 10,
+			"steps": ["10 min marche ou footing doux", "Hydratation + étirements"]
+		},
+		"status": "PLANNED",
+		"date": "2025-08-31"
+	}
+}

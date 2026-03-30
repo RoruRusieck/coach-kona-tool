@@ -1,0 +1,370 @@
+{
+  "natation_serie_courte_rythme_s7": {
+    "weekid": "semaine7_affutage",
+    "sessionId": "natation_serie_courte_rythme_s7",
+    "type": "Natation",
+    "intensity": 2,
+    "duration": "45",
+    "advice": "Cherche la tonicité sans forcer. Ta sensation de glisse doit rester agréable, fluide, presque facile.",
+    "estimatedCalorie": "400 kcal",
+    "distance": "1800",
+    "title": "Séries courtes + rythme",
+    "objective": "Entretenir les repères de cadence, d’appuis et de respiration sans accumuler de fatigue.",
+    "warmups": [
+      {
+        "title": "Échauffement",
+        "duration": 10,
+        "steps": [
+          "200 m crawl souple",
+          "4 x 50 m éducatifs (glisse, un bras, catch-up, rattrapé)"
+        ]
+      }
+    ],
+    "mainSets": [
+      {
+        "title": "Bloc principal",
+        "duration": 25,
+        "steps": [
+          "6 x 100 m à allure tri (récup 20\")",
+          "4 x 50 m progressifs (récup 15\")",
+          "4 x 50 m pull-buoy bras seuls",
+          "2 x 100 m relâché"
+        ]
+      }
+    ],
+    "cooldown": {
+      "title": "Retour au calme",
+      "duration": 10,
+      "steps": ["200 m dos ou brasse"]
+    },
+    "status": "PLANNED",
+    "date": "2025-07-29"
+  },
+  "cap_allure_course_3x5min_s7": {
+    "weekid": "semaine7_affutage",
+    "sessionId": "cap_allure_course_3x5min_s7",
+    "type": "Course à pied",
+    "intensity": 2,
+    "duration": "45",
+    "advice": "Sens-toi relâché, rapide mais en contrôle. Le but n’est pas de forcer, mais de réveiller la machine.",
+    "estimatedCalorie": "500 kcal",
+    "distance": "8000",
+    "title": "Allure course 3 x 5'",
+    "objective": "Travailler des rappels d’allure L pour maintenir ton automatisme sans fatiguer ton système nerveux.",
+    "warmups": [
+      {
+        "title": "Échauffement",
+        "duration": 10,
+        "steps": ["10 min footing lent", "2 x 50 m progressif"]
+      }
+    ],
+    "mainSets": [
+      {
+        "title": "Bloc principal",
+        "duration": 20,
+        "steps": [
+          "3 x 5 min à 4'50–5'00/km",
+          "Récup 2 min footing lent entre chaque"
+        ]
+      }
+    ],
+    "cooldown": {
+      "title": "Retour au calme",
+      "duration": 15,
+      "steps": ["10 min footing souple", "5 min étirements"]
+    },
+    "status": "PLANNED",
+    "date": "2025-07-30"
+  },
+  "mobilite_respiration_relax_s7": {
+    "weekid": "semaine7_affutage",
+    "sessionId": "mobilite_respiration_relax_s7",
+    "type": "Renforcement",
+    "intensity": 1,
+    "duration": "30",
+    "advice": "Relâche-toi totalement. Cette séance est mentale autant que physique : tout est dans le calme, le souffle, la concentration.",
+    "estimatedCalorie": "100 kcal",
+    "distance": "0",
+    "title": "Prépa mental & relâchement",
+    "objective": "Diminuer les tensions musculaires, relâcher le mental et activer doucement sans sollicitation forte.",
+    "warmups": [
+      {
+        "title": "Éveil articulaire",
+        "duration": 5,
+        "steps": [
+          "Rotations articulaires (chevilles, genoux, hanches, épaules)"
+        ]
+      }
+    ],
+    "mainSets": [
+      {
+        "title": "Mobilité & respiration",
+        "duration": 20,
+        "steps": [
+          "5 min étirements dynamiques doux",
+          "10 min d’exercices de mobilité active",
+          "5 min respiration lente (cohérence cardiaque)"
+        ]
+      }
+    ],
+    "cooldown": {
+      "title": "Fin de séance",
+      "duration": 5,
+      "steps": ["Relaxation au sol / visualisation de la course"]
+    },
+    "status": "PLANNED",
+    "date": "2025-07-31"
+  },
+  "natation_reconnaissance_veille_s7": {
+    "weekid": "semaine7_affutage",
+    "sessionId": "natation_reconnaissance_veille_s7",
+    "type": "Natation",
+    "intensity": 1,
+    "duration": "30",
+    "advice": "Sois concentré sur chaque geste. C’est une séance pour te mettre dans ta bulle, pas pour te fatiguer.",
+    "estimatedCalorie": "200 kcal",
+    "distance": "1200",
+    "title": "Reconnaissance mentale + 200 m",
+    "objective": "Entrer mentalement dans la course, repasser les automatismes en toute légèreté et te détendre la veille.",
+    "warmups": [
+      {
+        "title": "Échauffement doux",
+        "duration": 5,
+        "steps": [
+          "100 m crawl très souple",
+          "2 x 50 m éducatifs (glisse, catch-up)"
+        ]
+      }
+    ],
+    "mainSets": [
+      {
+        "title": "Bloc principal",
+        "duration": 15,
+        "steps": [
+          "2 x 200 m crawl avec concentration sur la respiration",
+          "2 x 100 m allure tri très relâchée",
+          "4 x 50 m récupération active"
+        ]
+      }
+    ],
+    "cooldown": {
+      "title": "Retour au calme",
+      "duration": 10,
+      "steps": ["200 m dos ou brasse en flottant"]
+    },
+    "status": "PLANNED",
+    "date": "2025-08-01"
+  },
+  "velo_visualisation_repos_actif_s7": {
+    "weekid": "semaine7_affutage",
+    "sessionId": "velo_visualisation_repos_actif_s7",
+    "type": "Cyclisme",
+    "intensity": 1,
+    "duration": "30",
+    "advice": "C’est juste pour bouger un peu les jambes, valider le matos, et te visualiser en course. Zéro stress, tout en fluidité.",
+    "estimatedCalorie": "150 kcal",
+    "distance": "12000",
+    "title": "Petit vélo + visualisation",
+    "objective": "Maintenir une légère activité musculaire sans provoquer de fatigue et visualiser le déroulement de la course.",
+    "warmups": [],
+    "mainSets": [
+      {
+        "title": "Bloc unique",
+        "duration": 30,
+        "steps": [
+          "30 min roulage souple en Z1 (cadence fluide)",
+          "Respiration calme et focus mental sur les transitions, parcours, départ"
+        ]
+      }
+    ],
+    "cooldown": {
+      "title": "Retour",
+      "duration": 0,
+      "steps": []
+    },
+    "status": "PLANNED",
+    "date": "2025-08-02"
+  },
+  "triathlon_ostbelgien_s7": {
+    "weekid": "semaine7_affutage",
+    "sessionId": "triathlon_ostbelgien_s7",
+    "type": "Enchaînement vélo-course",
+    "intensity": 5,
+    "duration": "405",
+    "advice": "Tu es prêt. Gère ton début de course avec calme, reste lucide, et pense toujours : 1 sport à la fois. Tu sais faire.",
+    "estimatedCalorie": "3500 kcal",
+    "distance": "112900",
+    "title": "TRIATHLON L – OSTBELGIEN",
+    "objective": "Donner le meilleur de toi-même sur ton objectif principal de saison. Gérer, performer, et savourer ton engagement.",
+    "warmups": [
+      {
+        "title": "Échauffement pré-course",
+        "duration": 15,
+        "steps": [
+          "5 min activation articulaire",
+          "5 min natation légère",
+          "focus mental sur le parcours"
+        ]
+      }
+    ],
+    "mainSets": [
+      {
+        "title": "Triathlon L",
+        "duration": 390,
+        "steps": [
+          "Natation : 1,9 km",
+          "Vélo : 90 km vallonné (+1200 m D+)",
+          "Course à pied : 21,1 km à allure semi"
+        ]
+      }
+    ],
+    "cooldown": {
+      "title": "Fin de course",
+      "duration": 0,
+      "steps": ["Récupération libre + hydratation + étirements si possible"]
+    },
+    "status": "PLANNED",
+    "date": "2025-08-03"
+  },
+  "natation_recupe_souple_s8": {
+    "weekid": "semaine8_recup",
+    "sessionId": "natation_recupe_souple_s8",
+    "type": "Natation",
+    "intensity": 1,
+    "duration": "40",
+    "advice": "Laisse-toi flotter dans l’eau, prends ton temps. Le but c’est de relâcher, pas de performer.",
+    "estimatedCalorie": "300 kcal",
+    "distance": "1500",
+    "title": "Nage souple + jambes",
+    "objective": "Favoriser la récupération musculaire en douceur, relâcher les tensions post-course.",
+    "warmups": [
+      {
+        "title": "Échauffement",
+        "duration": 10,
+        "steps": [
+          "200 m crawl très souple",
+          "4 x 50 m éducatifs (glisse, un bras, catch-up)"
+        ]
+      }
+    ],
+    "mainSets": [
+      {
+        "title": "Bloc principal",
+        "duration": 20,
+        "steps": [
+          "4 x 100 m en glisse",
+          "4 x 50 m jambes planche",
+          "2 x 100 m pull-buoy souple"
+        ]
+      }
+    ],
+    "cooldown": {
+      "title": "Retour au calme",
+      "duration": 10,
+      "steps": ["200 m dos / crawl relâché"]
+    },
+    "status": "PLANNED",
+    "date": "2025-08-05"
+  },
+  "cap_footing_strides_s8": {
+    "weekid": "semaine8_recup",
+    "sessionId": "cap_footing_strides_s8",
+    "type": "Course à pied",
+    "intensity": 1,
+    "duration": "40",
+    "advice": "Les strides sont là pour relancer doucement. Ne cherche pas la vitesse, reste fluide et relâché.",
+    "estimatedCalorie": "350 kcal",
+    "distance": "6000",
+    "title": "Footing souple + 4x20s strides",
+    "objective": "Redonner du mouvement aux jambes, sans tension ni effort intense.",
+    "warmups": [
+      {
+        "title": "Échauffement",
+        "duration": 10,
+        "steps": ["10 min footing très tranquille"]
+      }
+    ],
+    "mainSets": [
+      {
+        "title": "Bloc principal",
+        "duration": 20,
+        "steps": [
+          "4 x 20 sec strides progressifs (récup 1 min footing)",
+          "10 min footing fluide"
+        ]
+      }
+    ],
+    "cooldown": {
+      "title": "Retour au calme",
+      "duration": 10,
+      "steps": ["Étirements dynamiques doux"]
+    },
+    "status": "PLANNED",
+    "date": "2025-08-07"
+  },
+  "cyclisme_sortie_detente_s8": {
+    "weekid": "semaine8_recup",
+    "sessionId": "cyclisme_sortie_detente_s8",
+    "type": "Cyclisme",
+    "intensity": 1,
+    "duration": "90",
+    "advice": "C’est une balade. Tourne les jambes, reste en Z1, profite de l’air libre et détends-toi.",
+    "estimatedCalorie": "500 kcal",
+    "distance": "40000",
+    "title": "Sortie détente en Z1",
+    "objective": "Stimuler la circulation et relâcher les muscles à vélo, sans aucune contrainte d’intensité.",
+    "warmups": [
+      {
+        "title": "Échauffement",
+        "duration": 10,
+        "steps": ["10 min roulage très souple"]
+      }
+    ],
+    "mainSets": [
+      {
+        "title": "Bloc principal",
+        "duration": 70,
+        "steps": ["40 km en Z1, cadence libre, terrain plat ou roulant"]
+      }
+    ],
+    "cooldown": {
+      "title": "Retour au calme",
+      "duration": 10,
+      "steps": ["5 min roulage + 5 min étirements hors selle"]
+    },
+    "status": "PLANNED",
+    "date": "2025-08-09"
+  },
+  "renfo_auto_massage_s8": {
+    "weekid": "semaine8_recup",
+    "sessionId": "renfo_auto_massage_s8",
+    "type": "Renforcement",
+    "intensity": 1,
+    "duration": "30",
+    "advice": "Respire profondément et prends le temps. Ton corps te dira merci.",
+    "estimatedCalorie": "100 kcal",
+    "distance": "0",
+    "title": "Auto-massage + gainage doux",
+    "objective": "Relâcher les tensions résiduelles, relancer la souplesse et entretenir un tonus léger.",
+    "warmups": [],
+    "mainSets": [
+      {
+        "title": "Bloc unique",
+        "duration": 30,
+        "steps": [
+          "10 min rouleau / balle auto-massage (quadri, fessiers, mollets, dos)",
+          "2 x planche 30 sec",
+          "2 x gainage latéral 20 sec",
+          "Étirements passifs : ischios, psoas, épaules"
+        ]
+      }
+    ],
+    "cooldown": {
+      "title": "Fin de séance",
+      "duration": 0,
+      "steps": []
+    },
+    "status": "PLANNED",
+    "date": "2025-08-10"
+  }
+}

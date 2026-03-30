@@ -1,0 +1,110 @@
+{
+  "firstname": "Jerome ",
+  "lastname": "Delparte",
+  "email": "Jeromedelparte@msn.com",
+  "acceptConditions": true,
+  "uid": "RXoaS5xJ7MVHGTO7CWJvR0gIaiX2",
+  "role": "USER",
+  "subscription": {
+    "hasAccess": true,
+    "source": "store",
+    "isBeta": false
+  },
+  "triathlonGoals": {
+    "primary": {
+      "distanceLabel": "XXL",
+      "distancesValues": {
+        "run": "42km",
+        "swim": "3,8km",
+        "bike": "180km"
+      },
+      "isInitial": true,
+      "timeGoals": {
+        "swimSeconds": 6300,
+        "runSeconds": 13800,
+        "bikeSeconds": 36000,
+        "globalSeconds": 61200
+      },
+      "raceName": "reunion tri tour ",
+      "raceTerrain": "MONTAINOUS",
+      "raceDate": "2026-09-05"
+    },
+    "secondary": []
+  },
+  "profile": {
+    "gender": "MALE",
+    "ageYears": 37,
+    "heightCm": 172,
+    "weightKg": 76
+  },
+  "metrics": {
+    "vmaKmh": 20
+  },
+  "triathlonExperience": {
+    "level": "BEGINNER",
+    "triathlonYears": 2,
+    "triathlonsCompleted": 2,
+    "swimExperience": {
+      "distanceMeters": 1500,
+      "timeSeconds": 2520,
+      "level": "BEGINNER"
+    },
+    "bikeExperience": {
+      "level": "BEGINNER",
+      "ftpWatts": null
+    },
+    "runningExperience": {
+      "distanceMeters": 21000,
+      "timeSeconds": 6000,
+      "level": "INTERMEDIATE"
+    },
+    "transitionComfort": {
+      "swimToBike": false,
+      "bikeToRun": false
+    }
+  },
+  "equipment": {
+    "hrSensor": false,
+    "watch": {
+      "model": "Fenix 6",
+      "brand": "Garmin"
+    },
+    "run": {
+      "treadmill": true
+    },
+    "swimGear": [
+      "pull_buoy",
+      "kickboard"
+    ],
+    "bike": {
+      "homeTrainer": true,
+      "powerMeter": false,
+      "bikeType": "road",
+      "cadenceSensor": false
+    }
+  },
+  "targetWeeklyTrainingSessions": 4,
+  "trainingStartDate": "2026-03-26",
+  "club": {
+    "name": null,
+    "isMember": false,
+    "loackedSessionsNote": null
+  },
+  "targetMaxWeeklyTrainingHours": 6,
+  "averageSleepPerNightHours": 7,
+  "preferredRestDay": "sunday",
+  "maxTrainingHoursPerDay": {
+    "sunday": 0,
+    "saturday": 1,
+    "tuesday": 2,
+    "friday": 2,
+    "thursday": 2,
+    "wednesday": 2,
+    "monday": 2
+  },
+  "currentWeeklyTrainingSessions": 7,
+  "injuriesNote": null,
+  "asCompleteForm": true,
+  "phone": "0672489478",
+  "department": "02"
+}

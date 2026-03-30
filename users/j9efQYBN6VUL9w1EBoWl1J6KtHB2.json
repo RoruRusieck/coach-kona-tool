@@ -1,0 +1,170 @@
+{
+  "firstname": "Maxime",
+  "lastname": "Gautier ",
+  "email": "Maxime.gautier95@gmail.com",
+  "acceptConditions": true,
+  "uid": "j9efQYBN6VUL9w1EBoWl1J6KtHB2",
+  "role": "USER",
+  "subscription": {
+    "hasAccess": true,
+    "source": "store",
+    "isBeta": false
+  },
+  "profile": {
+    "gender": "MALE",
+    "ageYears": 30,
+    "heightCm": 178,
+    "weightKg": 76
+  },
+  "metrics": {
+    "vmaKmh": 23
+  },
+  "triathlonGoals": {
+    "primary": {
+      "distanceLabel": "XXL",
+      "distancesValues": {
+        "run": "42km",
+        "swim": "3,8km",
+        "bike": "180km"
+      },
+      "raceTerrain": "UNDULATING",
+      "raceDate": "2026-06-28",
+      "timeGoals": {
+        "runSeconds": 8100,
+        "globalSeconds": 25200,
+        "swimSeconds": 2280,
+        "bikeSeconds": 15300
+      },
+      "raceName": "Triathlon embrun "
+    },
+    "secondary": [
+      {
+        "id": 0,
+        "type": "triathlon",
+        "eventName": "Cannes",
+        "evenDate": "2026-04-26",
+        "distanceLabel": "M",
+        "distancesValues": {
+          "swim": "1,5km",
+          "bike": "40km",
+          "run": "10km"
+        },
+        "raceTerrain": "MIXED",
+        "priority": "B",
+        "timeGoals": {
+          "globalSeconds": 9900,
+          "runSeconds": 2700,
+          "bikeSeconds": 4500,
+          "swimSeconds": 900
+        }
+      },
+      {
+        "id": 1,
+        "type": "triathlon",
+        "eventName": "Sausset",
+        "evenDate": "2026-05-08",
+        "distanceLabel": "M",
+        "distancesValues": {
+          "swim": "1,5km",
+          "bike": "40km",
+          "run": "10km"
+        },
+        "raceTerrain": "FLAT",
+        "priority": "B",
+        "timeGoals": {
+          "globalSeconds": 8520,
+          "runSeconds": 2700,
+          "bikeSeconds": 4500,
+          "swimSeconds": 1320
+        }
+      },
+      {
+        "id": 2,
+        "type": "run_10k",
+        "eventName": "Embrun ",
+        "evenDate": "2026-05-17",
+        "distanceLabel": "10 km",
+        "distancesValues": {
+          "bike": null,
+          "run": null,
+          "swim": null
+        },
+        "raceTerrain": "FLAT",
+        "priority": "B",
+        "timeGoals": {
+          "globalSeconds": 2100
+        }
+      }
+    ]
+  },
+  "triathlonExperience": {
+    "level": "ADVANCED",
+    "triathlonYears": 5,
+    "triathlonsCompleted": 10,
+    "swimExperience": {
+      "distanceMeters": 400,
+      "timeSeconds": 330,
+      "level": "ADVANCED"
+    },
+    "bikeExperience": {
+      "level": "INTERMEDIATE",
+      "ftpWatts": null
+    },
+    "runningExperience": {
+      "distanceMeters": 10000,
+      "timeSeconds": 2100,
+      "level": "ADVANCED"
+    },
+    "transitionComfort": {
+      "swimToBike": true,
+      "bikeToRun": false
+    }
+  },
+  "equipment": {
+    "hrSensor": true,
+    "watch": {
+      "model": "Forerunner 935",
+      "brand": "Garmin"
+    },
+    "run": {
+      "treadmill": false
+    },
+    "swimGear": [
+      "pull_buoy",
+      "kickboard",
+      "paddles",
+      "fins",
+      "snorkel"
+    ],
+    "bike": {
+      "homeTrainer": true,
+      "powerMeter": true,
+      "bikeType": "road",
+      "cadenceSensor": true
+    }
+  },
+  "targetWeeklyTrainingSessions": 12,
+  "trainingStartDate": "2026-02-02",
+  "club": {
+    "name": "Embrun ",
+    "isMember": true,
+    "loackedSessionsNote": "Non"
+  },
+  "targetMaxWeeklyTrainingHours": 17,
+  "averageSleepPerNightHours": 7,
+  "preferredRestDay": "thursday",
+  "maxTrainingHoursPerDay": {
+    "sunday": 11,
+    "saturday": 4,
+    "tuesday": 4,
+    "friday": 4,
+    "thursday": 4,
+    "wednesday": 4,
+    "monday": 4
+  },
+  "currentWeeklyTrainingSessions": 10,
+  "injuriesNote": null,
+  "asCompleteForm": true,
+  "phone": "0643847886",
+  "department": "05"
+}

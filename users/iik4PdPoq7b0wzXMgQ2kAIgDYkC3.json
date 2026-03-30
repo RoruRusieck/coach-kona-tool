@@ -1,0 +1,132 @@
+{
+  "firstname": "Léa",
+  "lastname": "Porte-Petit",
+  "email": "Leaportepetit@gmail.com",
+  "acceptConditions": true,
+  "uid": "iik4PdPoq7b0wzXMgQ2kAIgDYkC3",
+  "role": "USER",
+  "subscription": {
+    "hasAccess": true,
+    "source": "store",
+    "isBeta": false
+  },
+  "triathlonGoals": {
+    "primary": {
+      "distanceLabel": "S",
+      "distancesValues": {
+        "run": "5km",
+        "swim": "750m",
+        "bike": "20km"
+      },
+      "isInitial": true,
+      "timeGoals": {
+        "swimSeconds": 600,
+        "runSeconds": 2700,
+        "bikeSeconds": 3600,
+        "globalSeconds": 7800
+      },
+      "raceName": "Pop Triathlon Guiche",
+      "raceTerrain": "UNDULATING",
+      "raceDate": "2026-05-30"
+    },
+    "secondary": [
+      {
+        "id": 0,
+        "type": "triathlon",
+        "eventName": "Challenge Vieux Boucau ",
+        "evenDate": "2026-10-10",
+        "distanceLabel": "M",
+        "distancesValues": {
+          "swim": "1,5km",
+          "bike": "40km",
+          "run": "10km"
+        },
+        "raceTerrain": "FLAT",
+        "priority": "B",
+        "timeGoals": {
+          "globalSeconds": 14400,
+          "swimSeconds": 1800,
+          "bikeSeconds": 5400,
+          "runSeconds": 4500
+        }
+      }
+    ]
+  },
+  "profile": {
+    "gender": "FEMALE",
+    "ageYears": 29,
+    "heightCm": 160,
+    "weightKg": 78
+  },
+  "metrics": {
+    "vmaKmh": null
+  },
+  "triathlonExperience": {
+    "level": "BEGINNER",
+    "triathlonYears": 1,
+    "triathlonsCompleted": 1,
+    "swimExperience": {
+      "distanceMeters": 750,
+      "timeSeconds": 720,
+      "level": "NOVICE"
+    },
+    "bikeExperience": {
+      "level": "BEGINNER",
+      "ftpWatts": null
+    },
+    "runningExperience": {
+      "distanceMeters": 5000,
+      "timeSeconds": 2100,
+      "level": "BEGINNER"
+    },
+    "transitionComfort": {
+      "swimToBike": false,
+      "bikeToRun": false
+    }
+  },
+  "equipment": {
+    "hrSensor": false,
+    "watch": {
+      "model": "Forerunner 255",
+      "brand": "gamin"
+    },
+    "run": {
+      "treadmill": false
+    },
+    "swimGear": [
+      "pull_buoy",
+      "kickboard",
+      "paddles"
+    ],
+    "bike": {
+      "homeTrainer": false,
+      "powerMeter": false,
+      "bikeType": "road",
+      "cadenceSensor": true
+    }
+  },
+  "targetWeeklyTrainingSessions": 4,
+  "trainingStartDate": "2026-03-09",
+  "club": {
+    "name": null,
+    "isMember": false,
+    "loackedSessionsNote": null
+  },
+  "targetMaxWeeklyTrainingHours": 1,
+  "averageSleepPerNightHours": 8,
+  "preferredRestDay": "sunday",
+  "maxTrainingHoursPerDay": {
+    "sunday": null,
+    "saturday": 1,
+    "tuesday": 1,
+    "friday": 1,
+    "thursday": 1,
+    "wednesday": 1,
+    "monday": 1
+  },
+  "currentWeeklyTrainingSessions": 3,
+  "injuriesNote": "Syndrome de l’essuie glace ",
+  "asCompleteForm": true,
+  "phone": "0637217477",
+  "department": "40"
+}

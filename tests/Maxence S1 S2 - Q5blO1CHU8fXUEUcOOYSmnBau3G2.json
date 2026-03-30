@@ -1,0 +1,439 @@
+{
+	"natation_appuis_lundi": {
+		"weekid": "semaine1_semi_booster",
+		"sessionId": "natation_appuis_lundi",
+		"type": "Natation",
+		"intensity": 2,
+		"duration": "45",
+		"advice": "💡 Concentre-toi sur la sensation d’appui dans l’eau. Moins tu forces, plus tu glisses. Respiration fluide = nage fluide.",
+		"estimatedCalorie": "350 kcal",
+		"distance": "1800",
+		"title": "Travail d’appuis + respiration",
+		"objective": "Améliorer la coordination bras-respiration, renforcer l’efficacité des appuis pour une nage plus économique.",
+		"warmups": [
+			{
+				"title": "Échauffement à sec",
+				"duration": 5,
+				"steps": [
+					"Mobilisation bras/épaules",
+					"2 x 30 sec gainage planche + hollow hold"
+				]
+			},
+			{
+				"title": "Échauffement dans l’eau",
+				"duration": 10,
+				"steps": [
+					"200 m nage libre souple",
+					"4 x 50 m éducatifs : rattrapé / un bras / respiration 3 temps / nage complète"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 20,
+				"steps": [
+					"6 x 100 m : appuis forts + respiration tous les 3 temps (récup 20 sec)",
+					"4 x 50 m jambes planche"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 10,
+			"steps": ["200 m dos ou brasse relâchée", "100 m crawl très souple"]
+		},
+		"status": "PLANNED",
+		"date": "2025-09-22"
+	},
+	"cap_2x10min_mardi": {
+		"weekid": "semaine1_semi_booster",
+		"sessionId": "cap_2x10min_mardi",
+		"type": "Course à pied",
+		"intensity": 4,
+		"duration": "60",
+		"advice": "💡 Garde un relâchement dans les bras et le souffle pendant les blocs. Les 1 min vite doivent être franches mais bien contrôlées.",
+		"estimatedCalorie": "650 kcal",
+		"distance": "11000",
+		"title": "2 x 10 min allure semi + 5 x 1 min vite",
+		"objective": "Stabiliser l’allure semi-marathon et activer ta capacité à relancer en fin de course.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 15,
+				"steps": [
+					"10 min footing à 6’00/km",
+					"3 x 30 sec éducatifs (skipping, talons-fesses, foulées dynamiques)",
+					"2 lignes droites progressives"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 30,
+				"steps": [
+					"2 x 10 min à 4’45–4’50/km (récup 3 min footing)",
+					"5 x 1 min à 4’10–4’15/km, récup 1 min footing"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 15,
+			"steps": [
+				"10 min footing à 6’15/km",
+				"Étirements mollets, ischios, psoas"
+			]
+		},
+		"status": "PLANNED",
+		"date": "2025-09-23"
+	},
+	"cap_tempo_progressif_jeudi": {
+		"weekid": "semaine1_semi_booster",
+		"sessionId": "cap_tempo_progressif_jeudi",
+		"type": "Course à pied",
+		"intensity": 4,
+		"duration": "60",
+		"advice": "💡 Sens ton corps accélérer sans forcer. Le but ici c’est d’augmenter l’intensité par le relâchement et le souffle, pas par la crispation.",
+		"estimatedCalorie": "650 kcal",
+		"distance": "11000",
+		"title": "Sortie tempo en progressif (40 min)",
+		"objective": "Améliorer ta capacité à gérer une montée progressive de l’intensité, comme sur un semi bien mené.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 15,
+				"steps": [
+					"10 min footing à 6’00/km",
+					"3 lignes droites + 2 éducatifs (skipping, montées de genoux)"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 30,
+				"steps": [
+					"40 min en progressif :",
+					"- 15 min à 5’15/km",
+					"- 15 min à 5’00/km",
+					"- 10 min à 4’45/km"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 15,
+			"steps": [
+				"10 min footing à 6’15/km",
+				"Étirements ciblés (ischios, fessiers, dos)"
+			]
+		},
+		"status": "PLANNED",
+		"date": "2025-09-25"
+	},
+	"velo_plaisir_z2_samedi": {
+		"weekid": "semaine1_semi_booster",
+		"sessionId": "velo_plaisir_z2_samedi",
+		"type": "Cyclisme",
+		"intensity": 2,
+		"duration": "90",
+		"advice": "💡 L’objectif est simple : du relâchement, du plaisir, et quelques relances en vélocité pour garder les jambes vives sans puiser dans la fatigue.",
+		"estimatedCalorie": "500 kcal",
+		"distance": "35000",
+		"title": "Sortie Z2 cool + vélocité",
+		"objective": "Activer sans puiser : entretenir ton endurance et ta fluidité de pédalage en aérobie légère.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 15,
+				"steps": [
+					"10 min en Zone 1 à 85–90 rpm",
+					"2 x 30 sec à 100–110 rpm, récup 1 min"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 60,
+				"steps": [
+					"Sortie en Zone 2 (60–70 % FC max)",
+					"Tous les 10 min : 1 min en vélocité > 100 rpm",
+					"Cadence cible sur la sortie : 90–95 rpm"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 15,
+			"steps": ["Pédalage souple", "Étirements : quadris, ischios, hanches"]
+		},
+		"status": "PLANNED",
+		"date": "2025-09-27"
+	},
+	"cap_longue_3x8min_dimanche": {
+		"weekid": "semaine1_semi_booster",
+		"sessionId": "cap_longue_3x8min_dimanche",
+		"type": "Course à pied",
+		"intensity": 4,
+		"duration": "75",
+		"advice": "💡 C’est LA séance de fond de la semaine. Reste lucide sur tes allures en montée et en descente, et concentre-toi sur l’économie de course.",
+		"estimatedCalorie": "750 kcal",
+		"distance": "14000",
+		"title": "Sortie longue vallonnée avec 3 x 8 min semi",
+		"objective": "Travailler ton endurance en terrain vallonné tout en plaçant des efforts à l’allure cible semi pour fixer ton rythme dans la durée.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 15,
+				"steps": [
+					"10 min footing souple (6’00/km)",
+					"2 x 30 sec éducatifs + 2 lignes droites"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 45,
+				"steps": [
+					"Sortie en terrain vallonné :",
+					"3 x 8 min à 4’45/km (allure semi) sur le plat ou légère montée",
+					"Récup 3 min footing entre les blocs",
+					"Le reste de la sortie à 5’30–5’45/km"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 15,
+			"steps": [
+				"10 min footing très lent",
+				"Étirements : mollets, hanches, fessiers"
+			]
+		},
+		"status": "PLANNED",
+		"date": "2025-09-28"
+	},
+	"natation_100m_rythmes_lundi": {
+		"weekid": "semaine2_semi_tempo_control",
+		"sessionId": "natation_100m_rythmes_lundi",
+		"type": "Natation",
+		"intensity": 2,
+		"duration": "45",
+		"advice": "💡 Concentre-toi sur le rythme et l’équilibre dans l’eau. Respiration fluide, bonne sensation de glisse = récupération active optimale.",
+		"estimatedCalorie": "350 kcal",
+		"distance": "1800",
+		"title": "100 m rythmés + jambes",
+		"objective": "Entretenir la tonicité et la coordination tout en favorisant la récupération active après la semaine précédente.",
+		"warmups": [
+			{
+				"title": "Échauffement à sec",
+				"duration": 5,
+				"steps": [
+					"Mobilisation des épaules",
+					"2 x 30 sec gainage bras tendus + hollow hold"
+				]
+			},
+			{
+				"title": "Échauffement dans l’eau",
+				"duration": 10,
+				"steps": [
+					"300 m nage libre",
+					"4 x 50 m éducatifs (rattrapé, un bras, 3 temps, nage complète)"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 20,
+				"steps": [
+					"6 x 100 m à 90 % allure course (récup 20 sec)",
+					"4 x 50 m jambes planche",
+					"2 x 100 m glisse + respiration lente"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 10,
+			"steps": ["200 m dos ou brasse douce", "100 m crawl souple"]
+		},
+		"status": "PLANNED",
+		"date": "2025-09-29"
+	},
+	"cap_3x8min_relance_mardi": {
+		"weekid": "semaine2_semi_tempo_control",
+		"sessionId": "cap_3x8min_relance_mardi",
+		"type": "Course à pied",
+		"intensity": 4,
+		"duration": "60",
+		"advice": "💡 Gère chaque 8 min comme un bloc régulier : ni trop vite, ni trop facile. La relance finale t’oblige à mobiliser de la fraîcheur mentale.",
+		"estimatedCalorie": "650 kcal",
+		"distance": "11000",
+		"title": "3 x 8 min allure semi + relance",
+		"objective": "Renforcer la capacité à maintenir ton allure cible semi sous fatigue et à relancer l’intensité en fin de séance.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 15,
+				"steps": [
+					"10 min footing à 6’00/km",
+					"3 x 30 sec éducatifs (montées de genoux, foulées bondissantes, talons-fesses)",
+					"2 lignes droites"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 30,
+				"steps": [
+					"3 x 8 min à 4’45/km (récup 3 min footing)",
+					"Relance : 2 min à 4’30/km juste après la dernière récup"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 15,
+			"steps": [
+				"10 min footing lent à 6’15/km",
+				"Étirements : ischios, mollets, dos"
+			]
+		},
+		"status": "PLANNED",
+		"date": "2025-09-30"
+	},
+	"cap_tempo_vitesse_jeudi": {
+		"weekid": "semaine2_semi_tempo_control",
+		"sessionId": "cap_tempo_vitesse_jeudi",
+		"type": "Course à pied",
+		"intensity": 4,
+		"duration": "60",
+		"advice": "💡 Le tempo doit être fluide, solide mais pas crispé. Tu dois pouvoir aligner 25 min à l’allure cible sans perdre ta forme.",
+		"estimatedCalorie": "650 kcal",
+		"distance": "11000",
+		"title": "25 min tempo + 6 x 30 sec vite",
+		"objective": "Développer ton endurance à allure soutenue et ta capacité à relancer en fin d’effort.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 15,
+				"steps": [
+					"10 min footing à 6’00/km",
+					"3 éducatifs (skipping, pas chassés, montées de genoux)",
+					"2 lignes droites progressives"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 30,
+				"steps": [
+					"25 min à 4’50/km (allure tempo proche course)",
+					"6 x 30 sec à 4’10/km (récup 30 sec footing)"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 15,
+			"steps": [
+				"10 min footing lent",
+				"Étirements dynamiques et respiration guidée"
+			]
+		},
+		"status": "PLANNED",
+		"date": "2025-10-02"
+	},
+
+	"velo_tempo_plaisir_04_octobre": {
+		"weekid": "semaine2_objectif_semi_1h40",
+		"sessionId": "velo_tempo_plaisir_04_octobre",
+		"type": "Cyclisme",
+		"intensity": 2,
+		"duration": "90",
+		"estimatedCalorie": "600 kcal",
+		"distance": "35000",
+		"title": "Souple + 3 x 5 min tempo",
+		"objective": "Sortie plaisir en endurance Z2 avec quelques variations pour garder du rythme sans générer de fatigue.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 15,
+				"steps": ["15 min en Zone 1, cadence fluide 90 rpm"]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 60,
+				"steps": [
+					"30 min en Zone 2, cadence 85-90 rpm",
+					"3 x 5 min en Zone 3 (tempo), cadence 90 rpm – récup 3 min Z1 entre chaque"
+				]
+			},
+			{
+				"title": "Variante Home trainer",
+				"steps": [
+					"3 x 4 min à 180 watts, cadence 90 rpm – récup 3 min à 120 watts"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 15,
+			"steps": ["15 min pédalage souple, cadence libre"]
+		},
+		"advice": "💡 Profite de cette séance pour observer ton coup de pédale : cherche la fluidité, sans tension dans les bras.",
+		"status": "PLANNED",
+		"date": "2025-10-04"
+	},
+	"cap_longue_progressive_05_octobre": {
+		"weekid": "semaine2_objectif_semi_1h40",
+		"sessionId": "cap_longue_progressive_05_octobre",
+		"type": "Course à pied",
+		"intensity": 4,
+		"duration": "90",
+		"estimatedCalorie": "1000 kcal",
+		"distance": "15000",
+		"title": "Sortie longue progressive (12 km à 5’30 → 4’45/km)",
+		"objective": "Travailler la gestion de course sur semi en installant un tempo contrôlé, puis en augmentant progressivement l’intensité.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 15,
+				"steps": [
+					"10 min footing lent (6’00/km)",
+					"3 x 50 m en foulées progressives"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 60,
+				"steps": [
+					"12 km en progression : commencer à 5’30/km et finir autour de 4’45/km",
+					"Hydratation tous les 15 min recommandée"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 15,
+			"steps": [
+				"5 min footing très lent (6’15/km)",
+				"Étirements : ischios, mollets, fessiers"
+			]
+		},
+		"advice": "💡 Sois très progressif dans l'accélération. Visualise la dernière partie de ton semi-marathon et apprends à ‘accrocher’ le bon rythme dans la fatigue.",
+		"status": "PLANNED",
+		"date": "2025-10-05"
+	}
+}

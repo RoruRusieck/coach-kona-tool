@@ -1,0 +1,420 @@
+{
+	"natation_29septembre": {
+		"weekid": "semaine13_simulation",
+		"sessionId": "natation_29septembre",
+		"type": "Natation",
+		"intensity": 3,
+		"duration": "60",
+		"advice": "💡 Sois concentré sur ta posture et ta respiration dès les premiers mètres. Le départ est une zone clé à maîtriser pour ta course.",
+		"estimatedCalorie": "500 kcal",
+		"distance": "2200",
+		"title": "Allure course + travail de départ",
+		"objective": "Travailler les automatismes de l’allure course avec un focus sur la phase de départ et les premiers 400 m.",
+		"warmups": [
+			{
+				"title": "Échauffement à sec",
+				"duration": 5,
+				"steps": ["Mobilité épaules/nuque", "2 x 30 sec gainage bras tendus"]
+			},
+			{
+				"title": "Échauffement dans l’eau",
+				"duration": 10,
+				"steps": [
+					"200 m nage libre souple",
+					"4 x 50 m éducatifs glisse/rattrapé, récup 15 sec"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 35,
+				"steps": [
+					"4 x 100 m départ rapide puis régulation (1er 50m en Z4, 2e 50m Z2), récup 30 sec",
+					"2 x 400 m à allure course (2’00/100m), récup 45 sec",
+					"4 x 50 m battements planche, récup 20 sec"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 10,
+			"steps": ["300 m nage relâchée"]
+		},
+		"status": "PLANNED",
+		"date": "2025-09-29"
+	},
+	"velo_01octobre": {
+		"weekid": "semaine13_simulation",
+		"sessionId": "velo_01octobre",
+		"type": "Cyclisme",
+		"intensity": 3,
+		"duration": "75",
+		"advice": "💡 Ta cadence doit rester fluide. Sur les blocs tempo, cherche la régularité. C’est un travail d’affinage, pas de volume.",
+		"estimatedCalorie": "650 kcal",
+		"distance": "40000",
+		"title": "3 x 10 min tempo (Z3) + vélocité",
+		"objective": "Stimuler le rythme course tout en gardant une faible charge globale. Accent sur la vélocité et la fluidité.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 15,
+				"steps": ["15 min Zone 1, cadence 90 rpm"]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 45,
+				"steps": [
+					"3 x 10 min à 200–210 watts (Z3), récup 5 min Z2 à 160–170w",
+					"5 x 30 sec vélocité 100–110 rpm, récup 30 sec"
+				]
+			},
+			{
+				"title": "Variante Home trainer",
+				"steps": [
+					"Même structure, pense à bien t’hydrater et ventiler ta pièce"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 15,
+			"steps": ["15 min roulage souple"]
+		},
+		"status": "PLANNED",
+		"date": "2025-10-01"
+	},
+	"cap_02octobre": {
+		"weekid": "semaine13_simulation",
+		"sessionId": "cap_02octobre",
+		"type": "Course à pied",
+		"intensity": 2,
+		"duration": "35",
+		"advice": "💡 Sois léger, relâché, attentif à ta foulée. Les lignes droites permettent d’activer sans créer de fatigue.",
+		"estimatedCalorie": "320 kcal",
+		"distance": "6000",
+		"title": "Footing court + 4 lignes droites",
+		"objective": "Favoriser la récupération tout en maintenant de la tonicité musculaire et du relâchement.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 5,
+				"steps": ["5 min footing très lent", "Mobilité chevilles + hanches"]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 25,
+				"steps": [
+					"25 min en Z2 à 5’30–5’45/km",
+					"4 x 80 m lignes droites progressives"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 5,
+			"steps": ["5 min marche + étirements légers"]
+		},
+		"status": "PLANNED",
+		"date": "2025-10-02"
+	},
+	"enchainement_04octobre": {
+		"weekid": "semaine13_simulation",
+		"sessionId": "enchainement_04octobre",
+		"type": "Enchaînement vélo-course",
+		"intensity": 5,
+		"duration": "180",
+		"advice": "💡 Teste ta stratégie nutrition, ton pacing et ta transition. Cette séance est ta répétition générale, traite-la comme un jour de course.",
+		"estimatedCalorie": "1600 kcal",
+		"distance": "72000",
+		"title": "Simulation : 2h vélo + 12 km CAP allure course",
+		"objective": "Simuler les sensations du triathlon L avec un enchaînement long et spécifique. Stabiliser ton allure course sous fatigue.",
+		"warmups": [
+			{
+				"title": "Échauffement – Vélo",
+				"duration": 15,
+				"steps": ["15 min en Zone 1 (150–160w), cadence 90 rpm"]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal – Vélo",
+				"duration": 105,
+				"steps": [
+					"90 min Zone 2 (180–190w), cadence 85–90 rpm",
+					"3 x 5 min Zone 3 (200–210w), récup 3 min Z2",
+					"5 min roulage souple avant transition"
+				]
+			},
+			{
+				"title": "Bloc principal – Course à pied",
+				"duration": 50,
+				"steps": [
+					"12 km à 4’45–5’00/km (Z2/Z3), départ progressif, puis maintien d’une allure constante"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 10,
+			"steps": [
+				"Étirements longs (mollets, ischios, hanches, dos)",
+				"2 min respiration diaphragmatique"
+			]
+		},
+		"status": "PLANNED",
+		"date": "2025-10-04"
+	},
+	"natation_05octobre": {
+		"weekid": "semaine13_simulation",
+		"sessionId": "natation_05octobre",
+		"type": "Natation",
+		"intensity": 1,
+		"duration": "45",
+		"advice": "💡 Nage sans montre, relâche-toi. Sens ton corps s’allonger et relâcher les tensions après la simulation.",
+		"estimatedCalorie": "300 kcal",
+		"distance": "1800",
+		"title": "Récupération technique & relâchement",
+		"objective": "Permettre une régénération active après la simulation, en travaillant la glisse, la respiration et le relâchement global.",
+		"warmups": [
+			{
+				"title": "Échauffement à sec",
+				"duration": 5,
+				"steps": ["Respiration lente, mobilité épaules/nuque"]
+			},
+			{
+				"title": "Échauffement dans l’eau",
+				"duration": 10,
+				"steps": [
+					"200 m nage libre souple",
+					"4 x 25 m éducatifs (glisse + respiration)"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 25,
+				"steps": [
+					"2 x 300 m crawl relâché",
+					"2 x 200 m respiration 3-5-3",
+					"4 x 50 m dos crawlé ou nage libre bras seuls"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 5,
+			"steps": ["100 m très souple, yeux fermés si possible"]
+		},
+		"status": "PLANNED",
+		"date": "2025-10-05"
+	},
+	"natation_06octobre": {
+		"weekid": "semaine14_affutage_final",
+		"sessionId": "natation_06octobre",
+		"type": "Natation",
+		"intensity": 2,
+		"duration": "40",
+		"advice": "💡 Concentre-toi sur tes appuis, ta glisse et ton souffle. Cette séance sert à t’activer sans créer de fatigue.",
+		"estimatedCalorie": "250 kcal",
+		"distance": "1000",
+		"title": "Activation technique + 6 × 50 m allure course",
+		"objective": "Travailler la sensation d’allure course et réactiver la technique avec peu de volume.",
+		"warmups": [
+			{
+				"title": "Échauffement à sec",
+				"duration": 5,
+				"steps": [
+					"Mobilité articulaire (nuque, épaules, hanches)",
+					"2 x 30 sec gainage bras tendus"
+				]
+			},
+			{
+				"title": "Échauffement dans l’eau",
+				"duration": 10,
+				"steps": [
+					"200 m nage libre souple",
+					"4 x 25 m éducatifs (rattrapé, glisse), récup 15 sec"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 20,
+				"steps": [
+					"6 x 50 m à allure course (2’00/100m), récup 20 sec",
+					"2 x 100 m crawl en glisse relâchée"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 5,
+			"steps": ["100 m crawl très relâché"]
+		},
+		"status": "PLANNED",
+		"date": "2025-10-06"
+	},
+	"velo_08octobre": {
+		"weekid": "semaine14_affutage_final",
+		"sessionId": "velo_08octobre",
+		"type": "Cyclisme",
+		"intensity": 2,
+		"duration": "50",
+		"advice": "💡 Tu dois sortir de cette séance avec des jambes réactives, pas fatiguées. Cherche la fluidité et l’efficacité.",
+		"estimatedCalorie": "400 kcal",
+		"distance": "20000",
+		"title": "3 × 3 min tempo Z3 + vélocité",
+		"objective": "Maintenir un minimum d’intensité pour entretenir la tonicité musculaire sans créer de charge.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 10,
+				"steps": ["10 min Zone 1, cadence 90–95 rpm"]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 25,
+				"steps": [
+					"3 x 3 min à 200w (Z3), récup 3 min Z1",
+					"5 x 30 sec à 100–110 rpm (vélocité), récup 30 sec"
+				]
+			},
+			{
+				"title": "Variante Home trainer",
+				"steps": ["Même structure, ventile bien et reste hydraté"]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 15,
+			"steps": ["15 min roulage souple, cadence libre"]
+		},
+		"status": "PLANNED",
+		"date": "2025-10-08"
+	},
+	"cap_09octobre": {
+		"weekid": "semaine14_affutage_final",
+		"sessionId": "cap_09octobre",
+		"type": "Course à pied",
+		"intensity": 4,
+		"duration": "70",
+		"advice": "💡 C’est ta dernière vraie séance à pied avant la course. Cherche la régularité, pas la performance. Chaque répétition doit te renforcer mentalement.",
+		"estimatedCalorie": "700 kcal",
+		"distance": "13000",
+		"title": "Tempo 3 x 12 min allure semi-marathon (5’00/km)",
+		"objective": "Travailler la stabilité de ton allure course sur des blocs longs pour renforcer ta confiance et ta sensation de rythme.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 10,
+				"steps": ["10 min footing lent", "3 x 50 m lignes droites"]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 40,
+				"steps": ["3 x 12 min à 5’00/km, récup 2 min footing entre chaque"]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 10,
+			"steps": ["10 min footing très lent + étirements actifs"]
+		},
+		"status": "PLANNED",
+		"date": "2025-10-09"
+	},
+	"natation_10octobre": {
+		"weekid": "semaine14_affutage_final",
+		"sessionId": "natation_10octobre",
+		"type": "Natation",
+		"intensity": 3,
+		"duration": "55",
+		"advice": "💡 Laisse-toi guider par la sensation. Cette séance est là pour t’apaiser, t’activer doucement et finir de te mettre en confiance.",
+		"estimatedCalorie": "450 kcal",
+		"distance": "2000",
+		"title": "Veille de course – 1500 m nage continue + éducatifs",
+		"objective": "Activer ton schéma moteur de nage course sans puiser dans l’énergie. Favoriser la fluidité, la respiration et le relâchement.",
+		"warmups": [
+			{
+				"title": "Échauffement à sec",
+				"duration": 5,
+				"steps": ["Respiration profonde", "Mobilité des épaules et du dos"]
+			},
+			{
+				"title": "Échauffement dans l’eau",
+				"duration": 10,
+				"steps": ["200 m crawl souple", "4 x 25 m éducatifs glisse/rattrapé"]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 30,
+				"steps": [
+					"1500 m nage continue à 2’18–2’20/100m",
+					"3 x 100 m respiration 3-5-3, récup 20 sec"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 10,
+			"steps": ["200 m très souple", "2 min flottement + respiration lente"]
+		},
+		"status": "PLANNED",
+		"date": "2025-10-10"
+	},
+	"triathlon_11octobre": {
+		"weekid": "semaine14_affutage_final",
+		"sessionId": "triathlon_11octobre",
+		"type": "Course officielle",
+		"intensity": 5,
+		"duration": "300",
+		"advice": "💡 C’est le grand jour ! Respire, fais confiance à ta prépa. Nutrition, gestion, lucidité : tu es prêt. Profite de chaque instant.",
+		"estimatedCalorie": "3500 kcal",
+		"distance": "112900",
+		"title": "🏁 Jour J – TRIATHLON L BAYMAN",
+		"objective": "Appliquer tout le travail accompli, gérer ton énergie intelligemment, et donner le meilleur de toi-même le jour de la course.",
+		"warmups": [
+			{
+				"title": "Échauffement pré-course",
+				"duration": 15,
+				"steps": [
+					"10 min mobilité + activation générale",
+					"5 min nage à sec ou mise à l’eau si possible"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Course officielle",
+				"duration": null,
+				"steps": [
+					"🏊 1,9 km natation (objectif ~2’00/100m)",
+					"🚴 90 km vélo vallonné (objectif ~180-200w)",
+					"🏃 21 km course à pied (objectif ~4’50–5’00/km)"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Après la course",
+			"duration": "",
+			"steps": [
+				"Hydratation, marche lente, récupération active et étirements doux dès que possible"
+			]
+		},
+		"status": "PLANNED",
+		"date": "2025-10-11"
+	}
+}

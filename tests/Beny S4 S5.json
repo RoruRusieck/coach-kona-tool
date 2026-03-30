@@ -1,0 +1,744 @@
+{
+	"hyrox_lundi_s4": {
+		"weekid": "semaine4_stabilite_reg",
+		"sessionId": "hyrox_lundi_s4",
+		"type": "Renforcement",
+		"intensity": 3,
+		"duration": "60",
+		"advice": "Séance Hyrox en salle (cours collectif) : concentre-toi sur la constance et la qualité des mouvements.",
+		"estimatedCalorie": "600 kcal",
+		"distance": "",
+		"title": "Hyrox – cours en salle",
+		"objective": "Développer l’endurance musculaire et la puissance cardio spécifique Hyrox.",
+		"warmups": [
+			{
+				"title": "Échauffement général",
+				"duration": 10,
+				"steps": [
+					"5 min ergomètre (rameur ou ski erg)",
+					"Mobilité hanches/épaules + 10 squats aériens, 10 fentes"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Cours Hyrox",
+				"duration": 40,
+				"steps": [
+					"Suivre le WOD proposé par le coach en salle",
+					"Adapter les charges pour garder une technique propre"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 10,
+			"steps": [
+				"Marche active 3–5 min",
+				"Étirements légers quadriceps/ischios/épaules"
+			]
+		},
+		"status": "PLANNED",
+		"date": "2025-09-15"
+	},
+
+	"abdos_lundi_s4": {
+		"weekid": "semaine4_stabilite_reg",
+		"sessionId": "abdos_lundi_s4",
+		"type": "Renforcement",
+		"intensity": 1,
+		"duration": "20",
+		"advice": "Qualité avant quantité : reste gainé, respiration fluide, ne creuse pas les lombaires.",
+		"estimatedCalorie": "120 kcal",
+		"distance": "",
+		"title": "Renforcement abdos – circuit core",
+		"objective": "Renforcer le tronc pour améliorer la posture et la stabilité sur les 3 disciplines.",
+		"warmups": [
+			{
+				"title": "Activation",
+				"duration": 3,
+				"steps": [
+					"30 sec jumping jacks",
+					"30 sec montées de genoux",
+					"2 x 20 sec planche dynamique"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Circuit core x3",
+				"duration": 15,
+				"steps": [
+					"Planche ventrale 30 sec",
+					"Hollow hold 20 sec",
+					"Gainage latéral 20 sec / côté",
+					"Deadbug 10 reps / côté",
+					"Bird-dog 10 reps / côté",
+					"Récup 1 min entre les tours"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 2,
+			"steps": ["Étirement lombaires", "Respiration abdominale"]
+		},
+		"status": "PLANNED",
+		"date": "2025-09-15"
+	},
+
+	"muscu_haut_mardi_s4": {
+		"weekid": "semaine4_stabilite_reg",
+		"sessionId": "muscu_haut_mardi_s4",
+		"type": "Renforcement",
+		"intensity": 2,
+		"duration": "45",
+		"advice": "Charge guidée : vise 60–70 % du max avec une exécution parfaite.",
+		"estimatedCalorie": "350 kcal",
+		"distance": "",
+		"title": "Musculation haut du corps + tronc",
+		"objective": "Développer la force du haut du corps et renforcer le core, utile pour la nage, le vélo et la CAP.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 7,
+				"steps": [
+					"2 min corde à sauter",
+					"2 min mobilité épaules/omoplates",
+					"2 x 12 pompes contrôlées",
+					"2 x 12 rowing élastique"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Force & core",
+				"duration": 30,
+				"steps": [
+					"Tractions assistées/lestées 3 x 8 @ ~60–65 % max",
+					"Développé couché haltères 3 x 10 @ ~60–65 % max",
+					"Rowing barre/haltères 3 x 10 @ ~60 % max",
+					"Développé militaire 3 x 8 @ ~55–60 % max",
+					"Gainage ventral lesté 3 x 30 sec",
+					"Gainage latéral dynamique 3 x 20 sec / côté"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 5,
+			"steps": [
+				"Étirements pectoraux, triceps, dorsaux",
+				"Respiration contrôlée"
+			]
+		},
+		"status": "PLANNED",
+		"date": "2025-09-16"
+	},
+	"velo_mercredi_s4": {
+		"weekid": "semaine4_stabilite_reg",
+		"sessionId": "velo_mercredi_s4",
+		"type": "Cyclisme",
+		"intensity": 3,
+		"duration": "90",
+		"advice": "Travaille ton endurance sur terrain vallonné : cadence souple en montée, relâchement en descente.",
+		"estimatedCalorie": "850 kcal",
+		"distance": "42000",
+		"title": "Vélo – Endurance vallonnée",
+		"objective": "Développer l’endurance fondamentale et la capacité à gérer un parcours avec du relief.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 15,
+				"steps": [
+					"10 min en Z1, cadence 90–95 rpm",
+					"5 min avec 3 × 20 sec vélocité (>100 rpm) récup 40 sec souple"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 60,
+				"steps": [
+					"3 × 12 min en Z2 sur routes vallonnées (cadence 80–85 rpm en montée, 90–95 rpm sur le plat)",
+					"Récup 3 min entre les blocs en descente ou pédalage souple"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 15,
+			"steps": [
+				"15 min roulage facile en Z1",
+				"Étirements rapides quadriceps et ischios"
+			]
+		},
+		"status": "PLANNED",
+		"date": "2025-09-17"
+	},
+
+	"natation_jeudi_s4": {
+		"weekid": "semaine4_stabilite_reg",
+		"sessionId": "natation_jeudi_s4",
+		"type": "Natation",
+		"intensity": 2,
+		"duration": "55",
+		"advice": "Cherche la précision technique avant la vitesse, relâche tes épaules.",
+		"estimatedCalorie": "500 kcal",
+		"distance": "1800",
+		"title": "Natation technique + éducatifs",
+		"objective": "Améliorer la technique de nage et la glisse tout en travaillant l’endurance aérobie.",
+		"warmups": [
+			{
+				"title": "Échauffement à sec",
+				"duration": 5,
+				"steps": [
+					"Mobilité épaules, nuque, hanches",
+					"2 × 20 sec gainage dynamique"
+				]
+			},
+			{
+				"title": "Échauffement dans l’eau",
+				"duration": 10,
+				"steps": [
+					"200 m crawl souple",
+					"4 × 50 m éducatifs (25 m rattrapé / 25 m crawl complet)",
+					"100 m dos crawlé relâché"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 35,
+				"steps": [
+					"6 × 100 m crawl en Z2 (≈2’30/100m), récup 20 sec",
+					"6 × 50 m éducatifs : poings fermés / rattrapé / un bras",
+					"200 m crawl relâché"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 5,
+			"steps": ["200 m crawl souple, amplitude maximale"]
+		},
+		"status": "PLANNED",
+		"date": "2025-09-18"
+	},
+
+	"muscu_bas_jeudi_s4": {
+		"weekid": "semaine4_stabilite_reg",
+		"sessionId": "muscu_bas_jeudi_s4",
+		"type": "Renforcement",
+		"intensity": 2,
+		"duration": "45",
+		"advice": "Travaille en contrôle, garde l’alignement genoux/pieds, engage le core.",
+		"estimatedCalorie": "380 kcal",
+		"distance": "",
+		"title": "Musculation bas du corps + gainage",
+		"objective": "Renforcer la puissance et la stabilité des jambes pour le vélo et la course à pied.",
+		"warmups": [
+			{
+				"title": "Activation",
+				"duration": 7,
+				"steps": [
+					"2 min vélo léger",
+					"10 squats aériens",
+					"10 fentes dynamiques",
+					"2 × 20 sec planche ventrale"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Circuit force x3",
+				"duration": 30,
+				"steps": [
+					"Squat barre/haltères 3 × 8–10 @ 65–70 % max",
+					"Fentes arrière alternées 3 × 10 / jambe",
+					"Soulevé de terre jambes tendues 3 × 12 @ ~60 %",
+					"Hip thrust (pont fessier) 3 × 12",
+					"Gainage planche avec taps d’épaules 3 × 30 sec"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 8,
+			"steps": [
+				"Étirements quadriceps, ischios, fessiers",
+				"Respiration profonde"
+			]
+		},
+		"status": "PLANNED",
+		"date": "2025-09-18"
+	},
+	"hyrox_vendredi_s4": {
+		"weekid": "semaine4_stabilite_reg",
+		"sessionId": "hyrox_vendredi_s4",
+		"type": "Renforcement",
+		"intensity": 3,
+		"duration": "60",
+		"advice": "Cours Hyrox en salle : rythme constant, charges adaptées pour rester propre techniquement.",
+		"estimatedCalorie": "600 kcal",
+		"distance": "",
+		"title": "Hyrox – cours en salle",
+		"objective": "Développer l’endurance musculaire et la puissance cardio spécifique Hyrox.",
+		"warmups": [
+			{
+				"title": "Échauffement général",
+				"duration": 10,
+				"steps": [
+					"5 min ergomètre (rameur/ski)",
+					"Mobilité hanches/épaules + 10 squats aériens, 10 fentes"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Cours Hyrox",
+				"duration": 40,
+				"steps": [
+					"Suivre le WOD du coach en salle",
+					"Adapter les charges pour conserver une technique propre"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 10,
+			"steps": ["Marche active 3–5 min", "Étirements légers membres inférieurs"]
+		},
+		"status": "PLANNED",
+		"date": "2025-09-19"
+	},
+
+	"cap_tempo_samedi_s4": {
+		"weekid": "semaine4_stabilite_reg",
+		"sessionId": "cap_tempo_samedi_s4",
+		"type": "Course à pied",
+		"intensity": 4,
+		"duration": "65",
+		"advice": "Reste régulier sur chaque bloc de 10 min : mieux vaut 3 segments égaux que 1 trop rapide puis 2 en déclin.",
+		"estimatedCalorie": "750 kcal",
+		"distance": "12000",
+		"title": "CAP – Tempo (3 × 10 min allure 10 km)",
+		"objective": "Travailler le seuil et l’allure spécifique 10 km pour préparer le sub-40.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 12,
+				"steps": [
+					"10 min footing très lent",
+					"3 × 50 m foulées progressives (récup marche)"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 45,
+				"steps": [
+					"3 × 10 min à allure 10 km (4:35–4:40/km)",
+					"Récupération 3 min footing lent entre les blocs"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 8,
+			"steps": ["8 min footing très lent", "Étirements légers mollets/ischios"]
+		},
+		"status": "PLANNED",
+		"date": "2025-09-20"
+	},
+
+	"hyrox_lundi_s5": {
+		"weekid": "semaine5_montee_intensite",
+		"sessionId": "hyrox_lundi_s5",
+		"type": "Renforcement",
+		"intensity": 3,
+		"duration": "60",
+		"advice": "Cours Hyrox en salle : vise un rythme constant et des mouvements propres. Ajuste les charges.",
+		"estimatedCalorie": "600 kcal",
+		"distance": "",
+		"title": "Hyrox – cours en salle",
+		"objective": "Développer l’endurance musculaire et la puissance cardio spécifique Hyrox.",
+		"warmups": [
+			{
+				"title": "Échauffement général",
+				"duration": 10,
+				"steps": [
+					"5 min ergomètre (rameur/ski)",
+					"Mobilité hanches/épaules + 10 squats aériens, 10 fentes"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Cours Hyrox",
+				"duration": 40,
+				"steps": [
+					"Suivre le WOD du coach en salle",
+					"Garder une technique propre du début à la fin"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 10,
+			"steps": [
+				"Marche active 3–5 min",
+				"Étirements légers membres inférieurs/épaules"
+			]
+		},
+		"status": "PLANNED",
+		"date": "2025-09-22"
+	},
+
+	"abdos_lundi_s5": {
+		"weekid": "semaine5_montee_intensite",
+		"sessionId": "abdos_lundi_s5",
+		"type": "Renforcement",
+		"intensity": 1,
+		"duration": "20",
+		"advice": "Qualité > quantité : transverse engagé, pas de cambrure lombaire.",
+		"estimatedCalorie": "120 kcal",
+		"distance": "",
+		"title": "Renforcement abdos – circuit core",
+		"objective": "Renforcer la ceinture abdominale pour améliorer la stabilité en natation, vélo et CAP.",
+		"warmups": [
+			{
+				"title": "Activation",
+				"duration": 3,
+				"steps": [
+					"30 sec jumping jacks",
+					"30 sec montées de genoux",
+					"2 x 20 sec planche ventrale dynamique"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Circuit core x3",
+				"duration": 15,
+				"steps": [
+					"Planche ventrale 30 sec",
+					"Hollow hold 20 sec",
+					"Gainage latéral 20 sec / côté",
+					"Deadbug 10 reps / côté",
+					"Bird-dog 10 reps / côté",
+					"Récup 1 min entre les tours"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 2,
+			"steps": ["Étirement lombaires", "Respiration diaphragmatique"]
+		},
+		"status": "PLANNED",
+		"date": "2025-09-22"
+	},
+
+	"muscu_haut_mardi_s5": {
+		"weekid": "semaine5_montee_intensite",
+		"sessionId": "muscu_haut_mardi_s5",
+		"type": "Renforcement",
+		"intensity": 2,
+		"duration": "45",
+		"advice": "Travaille à 60–70 % du max avec une exécution parfaite. Si c’est trop facile, +2,5 kg la prochaine fois.",
+		"estimatedCalorie": "350 kcal",
+		"distance": "",
+		"title": "Musculation haut du corps + tronc",
+		"objective": "Développer la force du haut du corps et la stabilité du tronc pour la posture et la nage.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 7,
+				"steps": [
+					"2 min corde à sauter",
+					"2 min mobilité épaules/omoplates",
+					"2 x 12 pompes contrôlées",
+					"2 x 12 rowing élastique"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Force & core",
+				"duration": 30,
+				"steps": [
+					"Tractions assistées/lestées 3 x 8 @ ~60–65 % max",
+					"Développé couché haltères 3 x 10 @ ~60–65 %",
+					"Rowing barre/haltères 3 x 10 @ ~60 %",
+					"Développé militaire 3 x 8 @ ~55–60 %",
+					"Gainage ventral lesté 3 x 30 sec",
+					"Gainage latéral dynamique 3 x 20 sec / côté"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 5,
+			"steps": [
+				"Étirements pectoraux, triceps, dorsaux",
+				"Respiration contrôlée"
+			]
+		},
+		"status": "PLANNED",
+		"date": "2025-09-23"
+	},
+	"hyrox_w5_vendredi": {
+		"weekid": "semaine5_progressive",
+		"sessionId": "hyrox_w5_vendredi",
+		"type": "Renforcement",
+		"intensity": 4,
+		"duration": "60",
+		"advice": "💡 Donne-toi à fond, mais reste attentif à ta technique pour éviter les blessures.",
+		"estimatedCalorie": "650 kcal",
+		"distance": "0",
+		"title": "Hyrox – Travail intensif en salle",
+		"objective": "Améliorer la puissance, l’endurance musculaire et la résistance globale.",
+		"warmups": [
+			{
+				"title": "Échauffement général",
+				"duration": 10,
+				"steps": [
+					"5 min rameur à allure progressive",
+					"Mobilité épaules/hanches/genoux",
+					"2 x 20 squats aériens"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 45,
+				"steps": [
+					"Séance Hyrox encadrée (enchaînement course + ateliers fonctionnels)",
+					"Exemple : 1 km run + sled push/pull + wall balls"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 5,
+			"steps": ["Étirements dynamiques du dos, quadriceps et ischios"]
+		},
+		"status": "PLANNED",
+		"date": "2025-09-26"
+	},
+	"cap_w5_samedi": {
+		"weekid": "semaine5_progressive",
+		"sessionId": "cap_w5_samedi",
+		"type": "Course à pied",
+		"intensity": 4,
+		"duration": "65",
+		"advice": "💡 Garde une allure régulière dans tes blocs tempo, évite de partir trop vite.",
+		"estimatedCalorie": "750 kcal",
+		"distance": "12000",
+		"title": "CAP Tempo – 3 × 10 min allure 10 km",
+		"objective": "Développer ta vitesse et ta capacité à maintenir une allure soutenue.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 15,
+				"steps": [
+					"10 min footing lent",
+					"3 × 100 m progressifs",
+					"2 × 30 sec montées de genoux"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 40,
+				"steps": [
+					"3 × 10 min à allure 10 km (4:30–4:35/km), récup 3 min footing",
+					"Rester en Z4 (80–90 % FCmax)"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 10,
+			"steps": ["10 min footing très lent + étirements légers"]
+		},
+		"status": "PLANNED",
+		"date": "2025-09-27"
+	},
+	"cap_w5_dimanche": {
+		"weekid": "semaine5_progressive",
+		"sessionId": "cap_w5_dimanche",
+		"type": "Course à pied",
+		"intensity": 4,
+		"duration": "60",
+		"advice": "💡 Concentre-toi sur ta foulée et reste relâché même dans les dernières répétitions.",
+		"estimatedCalorie": "700 kcal",
+		"distance": "11000",
+		"title": "CAP Fractionné court – 12 × 400 m",
+		"objective": "Améliorer la vitesse de base et la capacité anaérobie.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 15,
+				"steps": [
+					"15 min footing progressif",
+					"3 × 80 m accélérations",
+					"Étirements dynamiques (ischios, quadriceps)"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 35,
+				"steps": [
+					"12 × 400 m à 4:00–4:10/km (Z4-Z5)",
+					"Récup 1 min footing entre chaque fraction"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 10,
+			"steps": ["10 min footing lent + étirements actifs"]
+		},
+		"status": "PLANNED",
+		"date": "2025-09-28"
+	},
+	"velo_mercredi_s5": {
+		"weekid": "semaine5_montee_intensite",
+		"sessionId": "velo_mercredi_s5",
+		"type": "Cyclisme",
+		"intensity": 4,
+		"duration": "100",
+		"advice": "Travail en force : cadence basse et régulière, garde les mains légères sur le guidon.",
+		"estimatedCalorie": "950 kcal",
+		"distance": "45000",
+		"title": "Vélo – Force + cadence (4 × 10 min)",
+		"objective": "Améliorer la force spécifique et la coordination cadence/puissance.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 20,
+				"steps": [
+					"10 min Z1, cadence 90–95 rpm",
+					"5 × 30 sec vélocité >100 rpm / récup 30 sec",
+					"5 min souple"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 60,
+				"steps": [
+					"4 × 10 min en Z3 à cadence 60–65 rpm",
+					"Récup 5 min souple entre les blocs"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 20,
+			"steps": ["20 min roulage Z1", "Étirements légers quadriceps/ischios"]
+		},
+		"status": "PLANNED",
+		"date": "2025-09-24"
+	},
+
+	"natation_jeudi_s5": {
+		"weekid": "semaine5_montee_intensite",
+		"sessionId": "natation_jeudi_s5",
+		"type": "Natation",
+		"intensity": 3,
+		"duration": "60",
+		"advice": "Concentre-toi sur la régularité : même allure du début à la fin.",
+		"estimatedCalorie": "550 kcal",
+		"distance": "2300",
+		"title": "Natation endurance continue",
+		"objective": "Développer l’endurance aérobie et l’économie de nage.",
+		"warmups": [
+			{
+				"title": "Échauffement dans l’eau",
+				"duration": 10,
+				"steps": [
+					"300 m crawl souple",
+					"4 × 50 m éducatifs (25 m rattrapé / 25 m crawl complet)",
+					"100 m dos crawlé relâché"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 40,
+				"steps": [
+					"3 × 400 m crawl Z2, récup 30 sec",
+					"6 × 100 m crawl respiration 3-5-3, récup 20 sec",
+					"200 m crawl relâché"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 10,
+			"steps": ["200 m crawl souple, amplitude maximale"]
+		},
+		"status": "PLANNED",
+		"date": "2025-09-25"
+	},
+
+	"muscu_bas_jeudi_s5": {
+		"weekid": "semaine5_montee_intensite",
+		"sessionId": "muscu_bas_jeudi_s5",
+		"type": "Renforcement",
+		"intensity": 3,
+		"duration": "45",
+		"advice": "Soigne l’alignement genoux/pieds, contrôle la descente, engage le core.",
+		"estimatedCalorie": "400 kcal",
+		"distance": "",
+		"title": "Musculation bas du corps + gainage",
+		"objective": "Développer la puissance et la stabilité des jambes pour le vélo et la course.",
+		"warmups": [
+			{
+				"title": "Activation",
+				"duration": 7,
+				"steps": [
+					"2 min vélo ou rameur léger",
+					"10 squats aériens",
+					"10 fentes dynamiques",
+					"2 × 20 sec planche ventrale"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Force jambes & core",
+				"duration": 30,
+				"steps": [
+					"Squat barre/haltères 3 × 8 @ 65–70 % max",
+					"Fentes arrière alternées 3 × 10 / jambe",
+					"Soulevé de terre jambes tendues 3 × 12 @ ~60 %",
+					"Hip thrust 3 × 12",
+					"Gainage planche avec taps d’épaules 3 × 30 sec"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 8,
+			"steps": [
+				"Étirements quadriceps, ischios, fessiers",
+				"Respiration profonde"
+			]
+		},
+		"status": "PLANNED",
+		"date": "2025-09-25"
+	}
+}

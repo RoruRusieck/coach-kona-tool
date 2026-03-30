@@ -1,0 +1,460 @@
+{
+  "natation_aerobie_technique": {
+    "weekid": "semaine9_bloc_trail_robustesse",
+    "sessionId": "natation_aerobie_technique",
+    "type": "Natation",
+    "intensity": 2,
+    "duration": "60",
+    "advice": "💡 Reste concentré sur ton relâchement dans l’eau. Plus tu es fluide, moins tu consommes d’énergie.",
+    "estimatedCalorie": "500 kcal",
+    "distance": "2000",
+    "title": "Allure aérobie et technique propre",
+    "objective": "Travailler la nage fluide en aérobie avec un bon positionnement du corps et des appuis propres.",
+    "warmups": [
+      {
+        "title": "Échauffement à sec",
+        "duration": 5,
+        "steps": ["Mobilisation épaules et bras", "2 x 30 sec gainage debout"]
+      },
+      {
+        "title": "Échauffement dans l’eau",
+        "duration": 10,
+        "steps": [
+          "200 m crawl facile",
+          "4 x 50 éducatifs : 2 rattrapé / 2 un bras",
+          "2 x 25 m respi 3-5-7"
+        ]
+      }
+    ],
+    "mainSets": [
+      {
+        "title": "Bloc principal",
+        "duration": 40,
+        "steps": [
+          "3 x 300 m à 2’05–2’10/100m – récup 30 sec",
+          "4 x 100 m avec pull buoy – récup 20 sec",
+          "4 x 50 m éducatif avec plaquettes (appuis profonds)"
+        ]
+      }
+    ],
+    "cooldown": {
+      "title": "Retour au calme",
+      "duration": 5,
+      "steps": ["200 m nage libre souple"]
+    },
+    "status": "PLANNED",
+    "date": "2025-08-18"
+  },
+
+  "trail_2x25min_tempo": {
+    "weekid": "semaine9_bloc_trail_robustesse",
+    "sessionId": "trail_2x25min_tempo",
+    "type": "Course à pied",
+    "intensity": 4,
+    "duration": "85",
+    "advice": "💡 Garde une foulée active en montée et stabilise ta cadence en descente. Ne cours pas contre le terrain, cours avec lui.",
+    "estimatedCalorie": "950 kcal",
+    "distance": "13000",
+    "title": "2 x 25 min à 5’05/km sur parcours vallonné",
+    "objective": "Travailler ta capacité à maintenir un tempo solide sur terrain irrégulier, proche de l’intensité course trail.",
+    "warmups": [
+      {
+        "title": "Échauffement",
+        "duration": 10,
+        "steps": [
+          "10 min footing lent",
+          "3 éducatifs (montées de genoux, foulée bondissante, jambes tendues)"
+        ]
+      }
+    ],
+    "mainSets": [
+      {
+        "title": "Bloc principal",
+        "duration": 60,
+        "steps": [
+          "2 x 25 min à 5’05/km sur terrain vallonné – récup 5 min footing souple",
+          "5 min de descente active en relâchement"
+        ]
+      }
+    ],
+    "cooldown": {
+      "title": "Retour au calme",
+      "duration": 15,
+      "steps": ["Étirements : ischios, mollets, hanches"]
+    },
+    "status": "PLANNED",
+    "date": "2025-08-19"
+  },
+
+  "velo_z2_velocite_mixte": {
+    "weekid": "semaine9_bloc_trail_robustesse",
+    "sessionId": "velo_z2_velocite_mixte",
+    "type": "Cyclisme",
+    "intensity": 3,
+    "duration": "90",
+    "advice": "💡 En Z2, cherche l’aisance et la fluidité. Tu dois pouvoir tenir une discussion tout en gardant une bonne fréquence de pédalage.",
+    "estimatedCalorie": "750 kcal",
+    "distance": "45000",
+    "title": "Sortie mixte Z2 + cadence haute",
+    "objective": "Développer l’endurance de base et la souplesse de pédalage avec un focus sur la vélocité.",
+    "warmups": [
+      {
+        "title": "Échauffement",
+        "duration": 15,
+        "steps": ["15 min Z1 à 90 rpm"]
+      }
+    ],
+    "mainSets": [
+      {
+        "title": "Bloc principal",
+        "duration": 60,
+        "steps": [
+          "3 x 10 min en Z2 à 90–95 rpm – récup 5 min Z1",
+          "3 x 3 min à 100–105 rpm (Z2) – récup 2 min",
+          "5 min roulage libre"
+        ]
+      }
+    ],
+    "cooldown": {
+      "title": "Retour au calme",
+      "duration": 15,
+      "steps": ["Roulage Z1 souple + étirements hors selle"]
+    },
+    "status": "PLANNED",
+    "date": "2025-08-20"
+  },
+  "renfo_gainage_proprio_trail": {
+    "weekid": "semaine9_bloc_trail_robustesse",
+    "sessionId": "renfo_gainage_proprio_trail",
+    "type": "Renforcement",
+    "intensity": 3,
+    "duration": "45",
+    "advice": "💡 Garde le contrôle sur chaque mouvement. Plus le travail est lent et précis, plus il est efficace pour ton équilibre trail.",
+    "estimatedCalorie": "450 kcal",
+    "title": "Gainage + proprioception trail",
+    "objective": "Améliorer ta stabilité, ton gainage profond et ta proprioception pour mieux encaisser les irrégularités du terrain trail.",
+    "warmups": [
+      {
+        "title": "Échauffement",
+        "duration": 5,
+        "steps": [
+          "Cercles de hanches",
+          "Squats dynamiques",
+          "Mobilisation cheville/genou"
+        ]
+      }
+    ],
+    "mainSets": [
+      {
+        "title": "Bloc principal",
+        "duration": 35,
+        "steps": [
+          "3 circuits :",
+          "1 min planche dynamique (alternance bras/jambes)",
+          "30 sec sur BOSU (ou sol instable) par jambe",
+          "15 squats sur une jambe",
+          "30 sec side plank par côté",
+          "15 ponts fessiers unilatéraux",
+          "20 bird-dogs"
+        ]
+      }
+    ],
+    "cooldown": {
+      "title": "Retour au calme",
+      "duration": 5,
+      "steps": ["Étirements : dos, hanches, ischios"]
+    },
+    "status": "PLANNED",
+    "date": "2025-08-21"
+  },
+
+  "trail_long_technique": {
+    "weekid": "semaine9_bloc_trail_robustesse",
+    "sessionId": "trail_long_technique",
+    "type": "Course à pied",
+    "intensity": 4,
+    "duration": "130",
+    "advice": "💡 Choisis un parcours technique si possible : racines, cailloux, petites relances. Reste relâché dans les bras, vigilant dans les appuis.",
+    "estimatedCalorie": "1350 kcal",
+    "distance": "21000",
+    "title": "Trail long technique",
+    "objective": "Renforcer ta tolérance à la fatigue musculaire et ta concentration sur terrain varié avec du D+ et du dénivelé technique.",
+    "warmups": [
+      {
+        "title": "Échauffement",
+        "duration": 10,
+        "steps": [
+          "10 min footing sur terrain souple",
+          "Montées de genoux, talons-fesses, mobilité chevilles"
+        ]
+      }
+    ],
+    "mainSets": [
+      {
+        "title": "Bloc principal",
+        "duration": 110,
+        "steps": [
+          "2h trail sur parcours technique (si possible 600–800 m D+)",
+          "Alterne marche/course en montée",
+          "Relâche en descente, pied actif"
+        ]
+      }
+    ],
+    "cooldown": {
+      "title": "Retour au calme",
+      "duration": 10,
+      "steps": ["5 min marche + étirements ischios, mollets, psoas"]
+    },
+    "status": "PLANNED",
+    "date": "2025-08-23"
+  },
+
+  "enchainement_velo_course_5545": {
+    "weekid": "semaine9_bloc_trail_robustesse",
+    "sessionId": "enchainement_velo_course_5545",
+    "type": "Enchaînement vélo-course",
+    "intensity": 4,
+    "duration": "145",
+    "advice": "💡 Sois attentif aux sensations musculaires sur la CAP post-vélo. Objectif : garder de la cadence et de l’économie, même en fin de séance.",
+    "estimatedCalorie": "1200 kcal",
+    "distance": "63000",
+    "title": "Enchaînement vélo/course tempo",
+    "objective": "Simuler la fatigue de course type triathlon L, et t’apprendre à relancer efficacement en course après une longue charge vélo.",
+    "warmups": [
+      {
+        "title": "Vélo – Échauffement",
+        "duration": 15,
+        "steps": ["15 min roulage Z1 à 90 rpm"]
+      }
+    ],
+    "mainSets": [
+      {
+        "title": "Bloc principal",
+        "duration": 115,
+        "steps": [
+          "1h40 vélo :",
+          "- 3 x 20 min en Z3 (85–90 rpm), récup 5 min Z2",
+          "- 10 min roulage souple",
+          "Transition rapide (<3 min)",
+          "45 min course à pied :",
+          "- 15 min à 5’25/km",
+          "- 15 min à 5’00/km",
+          "- 15 min à 4’50/km"
+        ]
+      }
+    ],
+    "cooldown": {
+      "title": "Retour au calme",
+      "duration": 15,
+      "steps": [
+        "Étirements post-enchaînement : quadriceps, mollets, bas du dos"
+      ]
+    },
+    "status": "PLANNED",
+    "date": "2025-08-24"
+  },
+  "natation_glisse_relachement": {
+    "weekid": "semaine10_assimilation_relachement",
+    "sessionId": "natation_glisse_relachement",
+    "type": "Natation",
+    "intensity": 1,
+    "duration": "45",
+    "advice": "💡 Cherche à faire un minimum de mouvements par longueur. Moins tu bouges, plus tu glisses.",
+    "estimatedCalorie": "400 kcal",
+    "distance": "1700",
+    "title": "Séance de glisse & relâchement",
+    "objective": "Favoriser la récupération active, améliorer la glisse et ta sensation d’économie dans l’eau.",
+    "warmups": [
+      {
+        "title": "Échauffement à sec",
+        "duration": 5,
+        "steps": ["Mobilité épaules", "2 x 30 sec gainage léger"]
+      },
+      {
+        "title": "Échauffement dans l’eau",
+        "duration": 10,
+        "steps": [
+          "200 m crawl souple",
+          "4 x 50 m éducatifs : un bras / rattrapé",
+          "2 x 25 m respi 3-5"
+        ]
+      }
+    ],
+    "mainSets": [
+      {
+        "title": "Bloc principal",
+        "duration": 25,
+        "steps": [
+          "3 x 300 m crawl fluide à 2’10–2’15/100m – récup 30 sec",
+          "4 x 50 m avec pull buoy – glisse longue, récup 15 sec"
+        ]
+      }
+    ],
+    "cooldown": {
+      "title": "Retour au calme",
+      "duration": 5,
+      "steps": ["200 m nage libre relâchée"]
+    },
+    "status": "PLANNED",
+    "date": "2025-08-25"
+  },
+
+  "trail_4x4min_tempo": {
+    "weekid": "semaine10_assimilation_relachement",
+    "sessionId": "trail_4x4min_tempo",
+    "type": "Course à pied",
+    "intensity": 3,
+    "duration": "65",
+    "advice": "💡 Concentre-toi sur la sensation d’effort, pas sur la vitesse : ton tempo peut varier selon le terrain, mais ton intensité reste stable.",
+    "estimatedCalorie": "750 kcal",
+    "distance": "11000",
+    "title": "Footing vallonné avec 4 x 4 min tempo",
+    "objective": "Entretenir le rythme sans générer de fatigue, tout en gardant une bonne foulée en terrain mixte.",
+    "warmups": [
+      {
+        "title": "Échauffement",
+        "duration": 10,
+        "steps": [
+          "10 min footing lent",
+          "3 x 50 m éducatifs : foulée bondissante, jambes tendues, montées de genoux"
+        ]
+      }
+    ],
+    "mainSets": [
+      {
+        "title": "Bloc principal",
+        "duration": 40,
+        "steps": [
+          "4 x 4 min à 5’00/km – récup 2 min footing",
+          "10 min footing retour à 5’50–6’00/km"
+        ]
+      }
+    ],
+    "cooldown": {
+      "title": "Retour au calme",
+      "duration": 15,
+      "steps": ["Étirements actifs : quadris, ischios, mollets"]
+    },
+    "status": "PLANNED",
+    "date": "2025-08-26"
+  },
+
+  "velo_souple_velocite": {
+    "weekid": "semaine10_assimilation_relachement",
+    "sessionId": "velo_souple_velocite",
+    "type": "Cyclisme",
+    "intensity": 2,
+    "duration": "75",
+    "advice": "💡 Laisse tourner les jambes, sans résistance. Tu dois pouvoir respirer par le nez la plupart du temps.",
+    "estimatedCalorie": "550 kcal",
+    "distance": "35000",
+    "title": "Sortie souple avec vélocité",
+    "objective": "Favoriser la récupération musculaire tout en entretenant ta fréquence de pédalage.",
+    "warmups": [
+      {
+        "title": "Échauffement",
+        "duration": 10,
+        "steps": ["10 min Z1 à 90 rpm"]
+      }
+    ],
+    "mainSets": [
+      {
+        "title": "Bloc principal",
+        "duration": 50,
+        "steps": [
+          "3 x 10 min Z2 à 90–95 rpm – récup 5 min Z1",
+          "2 x 3 min vélocité > 100 rpm – récup 2 min"
+        ]
+      }
+    ],
+    "cooldown": {
+      "title": "Retour au calme",
+      "duration": 15,
+      "steps": ["15 min roulage libre"]
+    },
+    "status": "PLANNED",
+    "date": "2025-08-28"
+  },
+  "renfo_mobilite_gainage": {
+    "weekid": "semaine10_assimilation_relachement",
+    "sessionId": "renfo_mobilite_gainage",
+    "type": "Renforcement",
+    "intensity": 2,
+    "duration": "40",
+    "advice": "💡 Bouge lentement et avec contrôle. Chaque mouvement doit être propre, sans compensation. Qualité > quantité.",
+    "estimatedCalorie": "350 kcal",
+    "title": "Mobilité active + gainage postural",
+    "objective": "Entretenir ta posture globale, relâcher les tensions, renforcer les muscles stabilisateurs.",
+    "warmups": [
+      {
+        "title": "Échauffement",
+        "duration": 5,
+        "steps": [
+          "Mobilisation articulations : hanches, chevilles, épaules",
+          "1 min jumping jacks"
+        ]
+      }
+    ],
+    "mainSets": [
+      {
+        "title": "Bloc principal",
+        "duration": 30,
+        "steps": [
+          "2 à 3 circuits :",
+          "30 sec planche classique",
+          "30 sec side plank par côté",
+          "15 fentes avant dynamiques",
+          "15 ponts fessiers",
+          "10 rotations thoraciques au sol",
+          "20 bird-dogs"
+        ]
+      }
+    ],
+    "cooldown": {
+      "title": "Retour au calme",
+      "duration": 5,
+      "steps": ["Étirements doux : psoas, lombaires, épaules"]
+    },
+    "status": "PLANNED",
+    "date": "2025-08-29"
+  },
+
+  "trail_long_relache": {
+    "weekid": "semaine10_assimilation_relachement",
+    "sessionId": "trail_long_relache",
+    "type": "Course à pied",
+    "intensity": 3,
+    "duration": "90",
+    "advice": "💡 L’objectif aujourd’hui c’est d’enchaîner tranquillement, pas de forcer. Si le terrain monte, marche sans problème.",
+    "estimatedCalorie": "950 kcal",
+    "distance": "15000",
+    "title": "Trail long relâché",
+    "objective": "Entretenir l’endurance longue sans fatigue, tout en gardant des repères sur terrain vallonné.",
+    "warmups": [
+      {
+        "title": "Échauffement",
+        "duration": 10,
+        "steps": [
+          "10 min footing lent ou marche active",
+          "3 x 30 sec accélérations progressives"
+        ]
+      }
+    ],
+    "mainSets": [
+      {
+        "title": "Bloc principal",
+        "duration": 70,
+        "steps": [
+          "1h10 de trail à allure confortable (zone 2), 300–400 m D+ si possible"
+        ]
+      }
+    ],
+    "cooldown": {
+      "title": "Retour au calme",
+      "duration": 10,
+      "steps": ["5 min marche + étirements ischios, mollets, dos"]
+    },
+    "status": "PLANNED",
+    "date": "2025-08-31"
+  }
+}

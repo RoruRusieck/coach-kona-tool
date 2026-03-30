@@ -1,0 +1,862 @@
+{
+	"natation_technique_6x200_w13_2025-09-15": {
+		"sessionId": "natation_technique_6x200_w13_2025-09-15",
+		"weekid": "semaine13",
+		"type": "Natation",
+		"title": "Technique + 6 x 200 m allure test 1500",
+		"objective": "Travailler ta régularité à allure test 1500 m et améliorer ta technique de glisse.",
+		"intensity": 3,
+		"duration": "55",
+		"estimatedCalorie": "500 kcal",
+		"distance": "2000",
+		"date": "2025-09-15",
+		"advice": "💡 Reste concentré sur la longueur de tes mouvements. Respiration bilatérale pour garder une bonne symétrie.",
+		"warmups": [
+			{
+				"title": "Échauffement à sec",
+				"duration": 5,
+				"steps": ["Mobilité épaules et tronc", "2 x 30 sec gainage bras tendus"]
+			},
+			{
+				"title": "Échauffement dans l’eau",
+				"duration": 10,
+				"steps": [
+					"200 m crawl souple (~2’20/100m)",
+					"4 x 50 éducatifs (un bras, rattrapé, poings fermés, glisse)",
+					"100 m dos crawlé"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 35,
+				"steps": [
+					"6 x 200 m à allure test 1500 (~2’15–2’20/100m), récup 30 sec"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 5,
+			"steps": ["200 m crawl très relâché (~2’25/100m)"]
+		},
+		"status": "PLANNED"
+	},
+
+	"velo_velocite_4x6minZ3_w13": {
+		"sessionId": "velo_velocite_4x6minZ3_w13",
+		"weekid": "semaine13",
+		"type": "Cyclisme",
+		"title": "Vélocité + 4 x 6 min Zone 3",
+		"objective": "Développer ton coup de pédale à haute cadence et travailler ton seuil aérobie en Zone 3.",
+		"intensity": 3,
+		"duration": "75",
+		"estimatedCalorie": "600 kcal",
+		"distance": "35000",
+		"date": "2025-09-16",
+		"advice": "💡 Reste fluide sur la vélocité. Les blocs Z3 doivent être soutenus mais stables, sans montée dans le rouge.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 15,
+				"steps": [
+					"10 min Zone 1 à 90 rpm (<100W)",
+					"3 x 30 sec accélérations à 100 rpm, récup 1 min"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 45,
+				"steps": [
+					"4 x 6 min Zone 3 (**130–145W**) cadence 90–95 rpm, récup 3 min Zone 1 (<100W)",
+					"3 x 2 min vélocité à >105 rpm en Zone 2 (**115–125W**), récup 2 min"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 15,
+			"steps": ["15 min Zone 1 (<100W), pédalage souple"]
+		},
+		"status": "PLANNED"
+	},
+
+	"cap_footing_gammes_w13": {
+		"sessionId": "cap_footing_gammes_w13",
+		"weekid": "semaine13",
+		"type": "Course à pied",
+		"title": "Footing + gammes de foulée",
+		"objective": "Entretenir ton endurance fondamentale et améliorer ta technique de course grâce aux gammes.",
+		"intensity": 2,
+		"duration": "50",
+		"estimatedCalorie": "440 kcal",
+		"distance": "9000",
+		"date": "2025-09-17",
+		"advice": "💡 Soigne ta posture, cadence >175 ppm, reste relâché au niveau des bras.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 10,
+				"steps": ["10 min footing lent (~6’00/km)"]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 30,
+				"steps": [
+					"20 min footing à 5’45–5’50/km",
+					"5 x 80 m éducatifs (montées de genoux, talons-fesses, foulées bondissantes, pas chassés, accélérations), récup 1 min"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 10,
+			"steps": [
+				"10 min footing très lent (~6’15–6’20/km)",
+				"Étirements courts : mollets, ischios"
+			]
+		},
+		"status": "PLANNED"
+	},
+	"velo_vallonne_tempo_w13_2025-09-18": {
+		"sessionId": "velo_vallonne_tempo_w13_2025-09-18",
+		"weekid": "semaine13",
+		"type": "Cyclisme",
+		"title": "Sortie vallonnée + tempo",
+		"objective": "Améliorer ton endurance de force sur terrain vallonné et introduire des blocs tempo.",
+		"intensity": 3,
+		"duration": "90",
+		"estimatedCalorie": "720 kcal",
+		"distance": "42000",
+		"date": "2025-09-18",
+		"advice": "💡 Dans les bosses, accepte une cadence plus basse (75–85 rpm). Sur le plat, reste fluide (90–95 rpm).",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 15,
+				"steps": ["15 min Zone 1 (<100W), cadence 85–90 rpm"]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 60,
+				"steps": [
+					"2 x 12 min Zone 3 (**130–145W**), récup 5 min Zone 1",
+					"4 x 5 min Zone 2 (**110–125W**) en terrain vallonné",
+					"5 min relâchement total (<100W)"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 15,
+			"steps": ["15 min Zone 1 (<100W), pédalage souple"]
+		},
+		"status": "PLANNED"
+	},
+
+	"natation_endurance_respi_w13_2025-09-19": {
+		"sessionId": "natation_endurance_respi_w13_2025-09-19",
+		"weekid": "semaine13",
+		"type": "Natation",
+		"title": "Endurance continue + éducatifs respiration",
+		"objective": "Travailler ton endurance de base tout en améliorant ton relâchement respiratoire.",
+		"intensity": 2,
+		"duration": "55",
+		"estimatedCalorie": "440 kcal",
+		"distance": "1900",
+		"date": "2025-09-19",
+		"advice": "💡 Concentre-toi sur une expiration forte sous l’eau et une respiration bilatérale régulière.",
+		"warmups": [
+			{
+				"title": "Échauffement à sec",
+				"duration": 5,
+				"steps": ["Mobilité bras / épaules", "2 x 30 sec gainage bras tendus"]
+			},
+			{
+				"title": "Échauffement dans l’eau",
+				"duration": 10,
+				"steps": [
+					"200 m crawl souple (~2’20/100m)",
+					"4 x 50 éducatifs respiration 3T",
+					"100 m dos crawlé"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 35,
+				"steps": [
+					"3 x 300 m à allure 1500 m (~2’15–2’20/100m), récup 30 sec",
+					"4 x 50 éducatifs respiration 5T",
+					"2 x 100 m nage complète relâchée (~2’20/100m)"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 5,
+			"steps": ["200 m crawl facile (~2’25/100m)"]
+		},
+		"status": "PLANNED"
+	},
+
+	"cap_longue_progressive_w13_2025-09-20": {
+		"sessionId": "cap_longue_progressive_w13_2025-09-20",
+		"weekid": "semaine13",
+		"type": "Course à pied",
+		"title": "Sortie longue progressive (finish allure Ironman)",
+		"objective": "Développer ton endurance et intégrer un finish à allure spécifique Ironman (~6’00/km).",
+		"intensity": 4,
+		"duration": "80",
+		"estimatedCalorie": "780 kcal",
+		"distance": "13000",
+		"date": "2025-09-20",
+		"advice": "💡 Ne pars pas trop vite. Garde de l’énergie pour le finish à allure Ironman.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 10,
+				"steps": ["10 min footing lent (~6’15/km)"]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 55,
+				"steps": [
+					"30 min à 5’50–6’00/km (Zone 2)",
+					"20 min à 5’30–5’40/km (Zone 3)",
+					"5 min finish à allure Ironman (~6’00/km)"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 15,
+			"steps": [
+				"10 min footing très lent (~6’20–6’30/km)",
+				"5 min étirements mollets, quadris, ischios"
+			]
+		},
+		"status": "PLANNED"
+	},
+	"velo_longue_nutrition_w13_2025-09-21": {
+		"sessionId": "velo_longue_nutrition_w13_2025-09-21",
+		"weekid": "semaine13",
+		"type": "Cyclisme",
+		"title": "Sortie longue Z2 + nutrition",
+		"objective": "Travailler ton endurance de base sur une sortie longue et tester ta stratégie nutritionnelle.",
+		"intensity": 3,
+		"duration": "120",
+		"estimatedCalorie": "900 kcal",
+		"distance": "55000",
+		"date": "2025-09-21",
+		"advice": "💡 Bois toutes les 10 min et mange toutes les 35–40 min. Teste différents apports (gels, barres, boisson) pour voir ce qui passe le mieux.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 15,
+				"steps": ["15 min Zone 1 à 85–90 rpm (<100W)"]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 90,
+				"steps": [
+					"3 x 25 min Zone 2 (**110–125W**) cadence 90 rpm, récup 5 min Zone 1 (<100W)",
+					"15 min roulage libre <100W pour assimilation nutrition"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 15,
+			"steps": ["15 min Zone 1 (<100W), pédalage souple"]
+		},
+		"status": "PLANNED"
+	},
+	"natation_tempo_10x100_w14": {
+		"sessionId": "natation_tempo_10x100_w14",
+		"weekid": "semaine14",
+		"type": "Natation",
+		"title": "10 x 100 m tempo (allure test 1500) + éducatifs",
+		"objective": "Améliorer ta régularité à allure 1500 m et renforcer ton aisance respiratoire.",
+		"intensity": 4,
+		"duration": "55",
+		"estimatedCalorie": "520 kcal",
+		"distance": "2000",
+		"date": "2025-09-22",
+		"advice": "💡 Vise une allure régulière proche de ton test 1500 (~2’15–2’20/100m). Mets l’accent sur la respiration bilatérale et la glisse.",
+		"warmups": [
+			{
+				"title": "Échauffement à sec",
+				"duration": 5,
+				"steps": ["Mobilité épaules / tronc", "2 x 30 sec gainage bras tendus"]
+			},
+			{
+				"title": "Échauffement dans l’eau",
+				"duration": 10,
+				"steps": [
+					"200 m crawl souple (~2’20/100m)",
+					"4 x 50 éducatifs (rattrapé, un bras, poings fermés, glisse)",
+					"100 m dos crawlé relâché"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 35,
+				"steps": [
+					"10 x 100 m à allure test 1500 (~2’15–2’20/100m), récup 20 sec",
+					"4 x 50 éducatifs respiration 5T"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 5,
+			"steps": ["200 m crawl relâché (~2’25/100m)"]
+		},
+		"status": "PLANNED"
+	},
+
+	"velo_zone3_cadence_w14": {
+		"sessionId": "velo_zone3_cadence_w14",
+		"weekid": "semaine14",
+		"type": "Cyclisme",
+		"title": "3 x 10 min Zone 3 – cadence stable",
+		"objective": "Travailler ton seuil aérobie avec un effort soutenu mais contrôlé en cadence régulière.",
+		"intensity": 4,
+		"duration": "75",
+		"estimatedCalorie": "650 kcal",
+		"distance": "35000",
+		"date": "2025-09-23",
+		"advice": "💡 Reste entre 90–95 rpm, respiration soutenue mais maîtrisée. Les watts doivent rester stables du début à la fin.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 15,
+				"steps": [
+					"10 min Zone 1 (<100W)",
+					"3 x 30 sec accélérations à 100 rpm (120–130W), récup 1 min"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 40,
+				"steps": [
+					"3 x 10 min Zone 3 (**130–145W**) à cadence 90–95 rpm, récup 5 min Zone 1 (<100W)"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 15,
+			"steps": ["15 min Zone 1 (<100W), pédalage souple"]
+		},
+		"status": "PLANNED"
+	},
+
+	"cap_fractionne_5x5_w14": {
+		"sessionId": "cap_fractionne_5x5_w14",
+		"weekid": "semaine14",
+		"type": "Course à pied",
+		"title": "Fractionné long 5 x 5 min allure 10 km",
+		"objective": "Améliorer ton endurance de vitesse et renforcer ta capacité à tenir une allure soutenue.",
+		"intensity": 4,
+		"duration": "55",
+		"estimatedCalorie": "480 kcal",
+		"distance": "10000",
+		"date": "2025-09-24",
+		"advice": "💡 Vise 4’40/km sur les fractions. Garde de la régularité, cadence >175 ppm, et ne pars pas trop vite.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 15,
+				"steps": [
+					"10 min footing lent (~6’00/km)",
+					"5 min gammes : talons-fesses, montées de genoux, foulées bondissantes"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 30,
+				"steps": ["5 x 5 min à 4’40/km, récup 2 min footing (~6’15/km)"]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 10,
+			"steps": [
+				"10 min footing très lent (~6’20–6’30/km)",
+				"Étirements courts : mollets, quadris, ischios"
+			]
+		},
+		"status": "PLANNED"
+	},
+	"velo_vallonne_force_w14": {
+		"sessionId": "velo_vallonne_force_w14",
+		"weekid": "semaine14",
+		"type": "Cyclisme",
+		"title": "Sortie vallonnée + travail de force (bosse)",
+		"objective": "Développer la force et la capacité à soutenir un effort régulier en côte.",
+		"intensity": 4,
+		"duration": "95",
+		"estimatedCalorie": "780 kcal",
+		"distance": "45000",
+		"date": "2025-09-25",
+		"advice": "💡 Garde une cadence basse en bosse (60–70 rpm) en appuyant fort mais sans te crisper. Assieds-toi pour travailler la force spécifique.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 15,
+				"steps": ["15 min Zone 1 à 85–90 rpm (<100W)"]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 65,
+				"steps": [
+					"3 x 8 min en bosse Zone 3–4 (**135–160W**) cadence 60–70 rpm, récup descente",
+					"2 x 10 min Zone 2 (**110–125W**) cadence 90 rpm",
+					"10 min relâchement total <100W"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 15,
+			"steps": ["15 min Zone 1 (<100W), pédalage souple"]
+		},
+		"status": "PLANNED"
+	},
+
+	"natation_continue_1500_w14": {
+		"sessionId": "natation_continue_1500_w14",
+		"weekid": "semaine14",
+		"type": "Natation",
+		"title": "Nage continue 1500 m + éducatifs respiration",
+		"objective": "Travailler ta régularité sur une nage longue et améliorer ton aisance respiratoire.",
+		"intensity": 3,
+		"duration": "55",
+		"estimatedCalorie": "500 kcal",
+		"distance": "2000",
+		"date": "2025-09-26",
+		"advice": "💡 Vise une allure stable (~2’15–2’20/100m). Concentre-toi sur l’expiration complète sous l’eau et la glisse.",
+		"warmups": [
+			{
+				"title": "Échauffement à sec",
+				"duration": 5,
+				"steps": ["Mobilité bras / épaules", "2 x 30 sec gainage dynamique"]
+			},
+			{
+				"title": "Échauffement dans l’eau",
+				"duration": 10,
+				"steps": [
+					"200 m crawl souple",
+					"4 x 50 éducatifs respiration 3T",
+					"100 m dos crawlé relâché"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 35,
+				"steps": [
+					"1 x 1500 m nage continue (~2’15–2’20/100m)",
+					"4 x 50 éducatifs respiration 5T"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 5,
+			"steps": ["200 m crawl très facile (~2’25/100m)"]
+		},
+		"status": "PLANNED"
+	},
+
+	"cap_longue_finish500_w14": {
+		"sessionId": "cap_longue_finish500_w14",
+		"weekid": "semaine14",
+		"type": "Course à pied",
+		"title": "Sortie longue progressive avec finish allure 5’00/km",
+		"objective": "Construire ton endurance et renforcer ta capacité à accélérer en fin de séance.",
+		"intensity": 4,
+		"duration": "85",
+		"estimatedCalorie": "820 kcal",
+		"distance": "14000",
+		"date": "2025-09-27",
+		"advice": "💡 Garde de la réserve dans la première moitié. Le finish doit être fort mais contrôlé, pas un sprint.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 15,
+				"steps": [
+					"10 min footing lent (~6’00/km)",
+					"5 min gammes (talons-fesses, montées de genoux, foulées bondissantes)"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 55,
+				"steps": [
+					"35 min à 5’50/km (Zone 2)",
+					"15 min à 5’20/km (Zone 3)",
+					"5 min finish à 5’00/km (Zone 3 haut)"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 15,
+			"steps": [
+				"10 min footing très lent (~6’20/km)",
+				"5 min étirements courts"
+			]
+		},
+		"status": "PLANNED"
+	},
+	"velo_longue_tempo_w14": {
+		"sessionId": "velo_longue_tempo_w14",
+		"weekid": "semaine14",
+		"type": "Cyclisme",
+		"title": "Sortie longue Z2 + 3 x 10 min tempo",
+		"objective": "Développer ton endurance aérobie avec une sortie longue et intégrer des blocs tempo en fatigue pour simuler la course.",
+		"intensity": 4,
+		"duration": "125",
+		"estimatedCalorie": "1000 kcal",
+		"distance": "60000",
+		"date": "2025-09-28",
+		"advice": "💡 Teste ton ravitaillement comme en course : bois toutes les 10–12 min et mange toutes les 40 min. Les blocs tempo doivent rester stables.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 15,
+				"steps": ["15 min Zone 1 (<100W) à 85–90 rpm"]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 95,
+				"steps": [
+					"3 x 20 min Zone 2 (**110–125W**), récup 5 min Zone 1",
+					"3 x 10 min Zone 3 tempo (**130–145W**) cadence 90 rpm, récup 5 min"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 15,
+			"steps": ["15 min Zone 1 (<100W), cadence libre, pédalage souple"]
+		},
+		"status": "PLANNED"
+	},
+	"natation_technique_2025_09_08": {
+		"weekid": "semaine12_progressive",
+		"sessionId": "natation_technique_2025_09_08",
+		"type": "Natation",
+		"intensity": 3,
+		"duration": "55",
+		"advice": "💡 Concentre-toi sur ta glisse et sur le relâchement en début de chaque 200 m.",
+		"estimatedCalorie": "500 kcal",
+		"distance": "2000",
+		"title": "Technique + 6 x 200 m allure test 1500",
+		"objective": "Améliorer la maîtrise technique et travailler l’allure spécifique (≈2’15–2’20/100m).",
+		"warmups": [
+			{
+				"title": "Échauffement à sec",
+				"duration": 5,
+				"steps": [
+					"Mobilité épaules et tronc",
+					"2 x 30 sec gainage planche + bird-dog"
+				]
+			},
+			{
+				"title": "Échauffement dans l’eau",
+				"duration": 10,
+				"steps": [
+					"200 m crawl souple",
+					"4 x 50 m éducatifs (rattrapé / un bras)"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 35,
+				"steps": ["6 x 200 m allure test 1500 (≈2’15–2’20/100m), récup 30 sec"]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 5,
+			"steps": ["200 m crawl relâché"]
+		},
+		"status": "PLANNED",
+		"date": "2025-09-08"
+	},
+	"cyclisme_velocite_2025_09_09": {
+		"weekid": "semaine12_progressive",
+		"sessionId": "cyclisme_velocite_2025_09_09",
+		"type": "Cyclisme",
+		"intensity": 3,
+		"duration": "75",
+		"advice": "💡 Cherche une cadence fluide et régulière, reste relâché dans le haut du corps.",
+		"estimatedCalorie": "650 kcal",
+		"distance": "35000",
+		"title": "Vélocité + 4 x 6 min Zone 3",
+		"objective": "Travailler la vélocité et la puissance au seuil.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 15,
+				"steps": [
+					"10 min Z1 cadence 90–95",
+					"3 x 30 sec en vélocité >100 rpm, récup 1 min"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 45,
+				"steps": [
+					"4 x 6 min Zone 3 (≈130–145 W, cadence 90–95)",
+					"Récupération 3 min Z1 entre les blocs"
+				]
+			},
+			{
+				"title": "Variante Home Trainer",
+				"steps": [
+					"4 x 5 min à 135–145 W, cadence 90–95",
+					"Récup 3 min à 100–110 W"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 10,
+			"steps": ["10 min Z1 cadence libre"]
+		},
+		"status": "PLANNED",
+		"date": "2025-09-09"
+	},
+	"cap_footing_2025_09_10": {
+		"weekid": "semaine12_progressive",
+		"sessionId": "cap_footing_2025_09_10",
+		"type": "Course à pied",
+		"intensity": 2,
+		"duration": "50",
+		"advice": "💡 Concentre-toi sur la cadence (170–180 pas/min) et la relâche des épaules.",
+		"estimatedCalorie": "500 kcal",
+		"distance": "9000",
+		"title": "Footing + gammes de foulée",
+		"objective": "Développer la technique de course et renforcer l’économie gestuelle.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 10,
+				"steps": ["10 min footing lent (6’00–6’10/km)"]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 30,
+				"steps": [
+					"20 min footing en Z2 (5’45–6’00/km)",
+					"6 éducatifs : montées de genoux, talons-fesses, foulées bondissantes",
+					"4 x 80 m lignes droites dynamiques"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 10,
+			"steps": ["10 min footing très lent (6’15–6’30/km) + étirements actifs"]
+		},
+		"status": "PLANNED",
+		"date": "2025-09-10"
+	},
+	"velo_vallonne_tempo_w13": {
+		"weekid": "semaine13",
+		"sessionId": "velo_vallonne_tempo_w13",
+		"type": "Cyclisme",
+		"intensity": 3,
+		"duration": "90",
+		"advice": "💡 Dans les bosses, reste assis et concentre-toi sur la poussée. Cadence plus basse (75–85 rpm) autorisée. Sur le plat, vise 90–95 rpm.",
+		"estimatedCalorie": "700 kcal",
+		"distance": "42000",
+		"title": "Sortie vallonnée + tempo (2 x 12 min Z3 130–145 W)",
+		"objective": "Développer ton endurance de force sur terrain vallonné et ta capacité à soutenir du tempo prolongé.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 15,
+				"steps": ["15 min Zone 1 à 85–90 rpm (<100W)"]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 60,
+				"steps": [
+					"2 x 12 min Zone 3 (**130–145 W**) cadence 85–90 rpm, récup 6 min Zone 1",
+					"3 x 6 min Zone 2 (**110–125 W**) en terrain vallonné",
+					"6 min roulage souple (<100W)"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 15,
+			"steps": ["15 min Zone 1 pédalage libre (<100W)"]
+		},
+		"status": "PLANNED",
+		"date": "2025-09-11"
+	},
+
+	"natation_endurance_respi_w13": {
+		"weekid": "semaine13",
+		"sessionId": "natation_endurance_respi_w13",
+		"type": "Natation",
+		"intensity": 2,
+		"duration": "55",
+		"advice": "💡 Cherche une respiration fluide. Expire fort sous l’eau, inspire calmement. Mets de la précision dans les éducatifs.",
+		"estimatedCalorie": "440 kcal",
+		"distance": "1900",
+		"title": "Endurance continue + éducatifs respiration",
+		"objective": "Développer ton endurance fondamentale en natation et travailler la maîtrise respiratoire.",
+		"warmups": [
+			{
+				"title": "Échauffement à sec",
+				"duration": 5,
+				"steps": ["Mobilité bras / épaules", "2 x 30 sec gainage bras tendus"]
+			},
+			{
+				"title": "Échauffement dans l’eau",
+				"duration": 10,
+				"steps": [
+					"200 m crawl souple (~2’20/100m)",
+					"4 x 50 éducatifs respiration 3T",
+					"100 m dos crawlé"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 35,
+				"steps": [
+					"3 x 300 m à allure 1500 m (~2’15–2’20/100m), récup 30 sec",
+					"4 x 50 éducatifs respiration 5T",
+					"2 x 100 m crawl relâché (~2’20/100m)"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 5,
+			"steps": ["200 m crawl très souple (~2’25/100m)"]
+		},
+		"status": "PLANNED",
+		"date": "2025-09-12"
+	},
+
+	"cap_longue_progressive_w13": {
+		"weekid": "semaine13",
+		"sessionId": "cap_longue_progressive_w13",
+		"type": "Course à pied",
+		"intensity": 4,
+		"duration": "80",
+		"advice": "💡 Garde ton énergie pour la fin. Le bloc finish à 6’00/km correspond à ton allure Ironman, vise la régularité.",
+		"estimatedCalorie": "780 kcal",
+		"distance": "13000",
+		"title": "Sortie longue progressive (finish allure IM ~6’00/km)",
+		"objective": "Travailler ton endurance longue et habituer ton corps à finir à l’allure cible Ironman.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 10,
+				"steps": ["10 min footing lent (~6’10–6’20/km)"]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 55,
+				"steps": [
+					"30 min à 5’55–6’00/km (Zone 2)",
+					"20 min à 5’30–5’40/km (Zone 3)",
+					"5 min finish à 6’00/km (allure Ironman)"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 15,
+			"steps": [
+				"10 min footing très lent (~6’20–6’30/km)",
+				"5 min étirements courts"
+			]
+		},
+		"status": "PLANNED",
+		"date": "2025-09-13"
+	},
+	"velo_longue_nutrition_w13": {
+		"weekid": "semaine13",
+		"sessionId": "velo_longue_nutrition_w13",
+		"type": "Cyclisme",
+		"title": "Sortie longue Z2 + nutrition",
+		"objective": "Développer ton endurance aérobie et tester ta stratégie nutritionnelle sur une sortie longue.",
+		"intensity": 3,
+		"duration": "120",
+		"estimatedCalorie": "900 kcal",
+		"distance": "55000",
+		"date": "2025-09-14",
+		"advice": "💡 Bois toutes les 10–12 min et mange toutes les 35–40 min. Teste différents apports (gels, barres, boisson) pour voir ce qui passe le mieux.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 15,
+				"steps": ["15 min Zone 1 à 85–90 rpm (<100W)"]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 90,
+				"steps": [
+					"3 x 25 min Zone 2 (**110–125 W**) cadence 90 rpm, récup 5 min Zone 1 (<100W)",
+					"15 min roulage libre <100W pour assimilation nutrition"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 15,
+			"steps": ["15 min Zone 1 (<100W), pédalage souple"]
+		},
+		"status": "PLANNED"
+	}
+}

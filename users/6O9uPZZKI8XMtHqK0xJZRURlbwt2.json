@@ -1,0 +1,150 @@
+{
+  "firstname": "Gregory",
+  "lastname": "Chiner",
+  "email": "gregory.chiner@gmail.com",
+  "acceptConditions": true,
+  "uid": "6O9uPZZKI8XMtHqK0xJZRURlbwt2",
+  "role": "USER",
+  "subscription": {
+    "hasAccess": true,
+    "source": "store",
+    "isBeta": false
+  },
+  "triathlonGoals": {
+    "primary": {
+      "distanceLabel": "M",
+      "distancesValues": {
+        "run": "10km",
+        "swim": "1,5km",
+        "bike": "40km"
+      },
+      "timeGoals": {
+        "swimSeconds": 1800,
+        "runSeconds": 2700,
+        "bikeSeconds": 4500,
+        "globalSeconds": 9000
+      },
+      "raceName": "Dinard",
+      "raceTerrain": "UNDULATING",
+      "raceDate": "2026-09-13"
+    },
+    "secondary": [
+      {
+        "id": 0,
+        "type": "triathlon",
+        "eventName": "Triathlon vitré ",
+        "evenDate": "2026-05-10",
+        "distanceLabel": "M",
+        "distancesValues": {
+          "swim": "1,5km",
+          "bike": "40km",
+          "run": "10km"
+        },
+        "raceTerrain": "UNDULATING",
+        "priority": "B",
+        "timeGoals": {
+          "globalSeconds": 9600,
+          "swimSeconds": 2100,
+          "bikeSeconds": 4500,
+          "runSeconds": 3000
+        }
+      },
+      {
+        "id": 1,
+        "type": "duathlon",
+        "eventName": "Duathlon ernee",
+        "evenDate": "2026-03-08",
+        "distanceLabel": "S",
+        "distancesValues": {
+          "bike": null,
+          "run": null,
+          "swim": null
+        },
+        "raceTerrain": "DONT_KNOW",
+        "priority": "B",
+        "timeGoals": {
+          "globalSeconds": 4500
+        }
+      }
+    ]
+  },
+  "profile": {
+    "gender": "MALE",
+    "ageYears": 44,
+    "heightCm": 183,
+    "weightKg": 87
+  },
+  "metrics": {
+    "vmaKmh": null
+  },
+  "triathlonExperience": {
+    "level": "BEGINNER",
+    "triathlonYears": 1,
+    "triathlonsCompleted": 4,
+    "swimExperience": {
+      "distanceMeters": 1500,
+      "timeSeconds": 1920,
+      "level": "BEGINNER"
+    },
+    "bikeExperience": {
+      "level": "BEGINNER",
+      "ftpWatts": null
+    },
+    "runningExperience": {
+      "distanceMeters": 10000,
+      "timeSeconds": 2862,
+      "level": "BEGINNER"
+    },
+    "transitionComfort": {
+      "swimToBike": true,
+      "bikeToRun": true
+    }
+  },
+  "equipment": {
+    "hrSensor": false,
+    "watch": {
+      "model": "Forerunner 255",
+      "brand": "Garmin"
+    },
+    "run": {
+      "treadmill": false
+    },
+    "swimGear": [
+      "pull_buoy",
+      "paddles",
+      "snorkel",
+      "fins",
+      "kickboard"
+    ],
+    "bike": {
+      "homeTrainer": true,
+      "powerMeter": false,
+      "bikeType": "road",
+      "cadenceSensor": false
+    }
+  },
+  "targetWeeklyTrainingSessions": 7,
+  "trainingStartDate": "2026-01-05",
+  "club": {
+    "name": null,
+    "isMember": false,
+    "loackedSessionsNote": null
+  },
+  "targetMaxWeeklyTrainingHours": 4,
+  "averageSleepPerNightHours": 8,
+  "preferredRestDay": "saturday",
+  "maxTrainingHoursPerDay": {
+    "sunday": 2,
+    "saturday": 1,
+    "tuesday": 1,
+    "friday": 1,
+    "thursday": 2,
+    "wednesday": 1,
+    "monday": 2
+  },
+  "currentWeeklyTrainingSessions": 5,
+  "injuriesNote": null,
+  "asCompleteForm": true,
+  "phone": "0687193140",
+  "department": "35"
+}

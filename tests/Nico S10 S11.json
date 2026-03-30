@@ -1,0 +1,447 @@
+{
+	"natation_lundi_s10": {
+		"weekid": "semaine10",
+		"sessionId": "natation_lundi_s10",
+		"type": "Natation",
+		"intensity": 3,
+		"duration": "50",
+		"advice": "💡 Concentre-toi sur ta respiration tous les 3 temps, et garde une bonne régularité sur les longues distances.",
+		"estimatedCalorie": "400 kcal",
+		"distance": "1800",
+		"title": "Séries longues + respiration 3T",
+		"objective": "Travailler ton endurance avec une respiration maîtrisée et réguli.",
+		"warmups": [
+			{
+				"title": "Échauffement à sec",
+				"duration": 5,
+				"steps": [
+					"Mobilisation bras/épaules",
+					"3 min de corde à sauter (optionnel)"
+				]
+			},
+			{
+				"title": "Échauffement dans l’eau",
+				"duration": 10,
+				"steps": [
+					"300m nage libre facile",
+					"4 x 50m éducatifs : rattrapé / poings fermés / crawl en glisse / crawl normal (15s récup)"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 30,
+				"steps": [
+					"3 x 300m à 70-75% intensité, respiration 3 temps ➝ récup 30s",
+					"4 x 100m nage libre à 80% ➝ récup 20s"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 5,
+			"steps": ["200m nage libre très relâchée, accent sur la glisse"]
+		},
+		"status": "PLANNED",
+		"date": "2025-09-01"
+	},
+	"cap_mardi_s10": {
+		"weekid": "semaine10",
+		"sessionId": "cap_mardi_s10",
+		"type": "Course à pied",
+		"intensity": 4,
+		"duration": "50",
+		"advice": "💡 Garde un bon relâchement sur la partie tempo, reste en contrôle.",
+		"estimatedCalorie": "550 kcal",
+		"distance": "9000",
+		"title": "Seuil + allure course",
+		"objective": "Stimuler ton endurance à haute intensité pour améliorer ton allure cible.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 10,
+				"steps": ["Footing 10 min en Z1", "3 x 50m lignes droites progressives"]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 30,
+				"steps": [
+					"2 x 8 min à allure seuil (5:00/km), récup 2 min",
+					"6 min à allure course (5:15/km)"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 10,
+			"steps": ["10 min footing lent + étirements dynamiques"]
+		},
+		"status": "PLANNED",
+		"date": "2025-09-02"
+	},
+	"velo_mercredi_s10": {
+		"weekid": "semaine10",
+		"sessionId": "velo_mercredi_s10",
+		"type": "Cyclisme",
+		"intensity": 3,
+		"duration": "75",
+		"advice": "💡 Sur les blocs tempo, reste bien calé sur ta cadence et ton allure cible.",
+		"estimatedCalorie": "600 kcal",
+		"distance": "32000",
+		"title": "Endurance + tempo",
+		"objective": "Travailler ton endurance aérobique tout en introduisant des variations de rythme.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 15,
+				"steps": ["15 min Z1, cadence > 85 rpm"]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 50,
+				"steps": [
+					"2 x 10 min tempo à 28-30 km/h, récup 3 min",
+					"20 min endurance stable en Z2",
+					"3 x 1 min vélocité à 100 rpm, récup 1 min"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 10,
+			"steps": ["10 min souple, cadence libre"]
+		},
+		"status": "PLANNED",
+		"date": "2025-09-03"
+	},
+	"natation_jeudi_s10": {
+		"weekid": "semaine10",
+		"sessionId": "natation_jeudi_s10",
+		"type": "Natation",
+		"intensity": 4,
+		"duration": "40",
+		"advice": "💡 Les départs rapides simulent l'intensité du début de course. Reste concentré sur ta respiration.",
+		"estimatedCalorie": "380 kcal",
+		"distance": "1700",
+		"title": "Allure course + départs rapides",
+		"objective": "Travailler ta capacité à tenir ton allure course après un départ dynamique.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 10,
+				"steps": [
+					"200m nage libre facile",
+					"4 x 50m éducatifs : poings fermés / crawl rattrapé / glisse / normal (15s récup)"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 25,
+				"steps": [
+					"4 x 25m départ rapide (100%), récup 30s",
+					"4 x 100m à allure course (~2’20/100m), récup 20s",
+					"4 x 50m en respiration 3 temps, récup 15s"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 5,
+			"steps": ["200m très souple, accent sur la glisse"]
+		},
+		"status": "PLANNED",
+		"date": "2025-09-04"
+	},
+	"renfo_vendredi_s10": {
+		"weekid": "semaine10",
+		"sessionId": "renfo_vendredi_s10",
+		"type": "Renforcement",
+		"intensity": 2,
+		"duration": "30",
+		"advice": "💡 Garde une respiration lente et régulière, surtout pendant les exercices de gainage.",
+		"estimatedCalorie": "200 kcal",
+		"distance": "",
+		"title": "Gainage + mobilité",
+		"objective": "Stabiliser ton tronc et détendre tes hanches pour une meilleure posture en course.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 5,
+				"steps": ["5 min de mobilisation articulaire + jumping jacks"]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 20,
+				"steps": [
+					"2 x circuit suivant :",
+					"- 45s planche bras tendus",
+					"- 30s gainage latéral chaque côté",
+					"- 45s pont fessier",
+					"- 30s squats dynamiques",
+					"- 30s ciseaux"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 5,
+			"steps": ["5 min d'étirements dynamiques (dos, hanches, ischios)"]
+		},
+		"status": "PLANNED",
+		"date": "2025-09-05"
+	},
+	"encha_vc_dimanche_s10": {
+		"weekid": "semaine10",
+		"sessionId": "encha_vc_dimanche_s10",
+		"type": "Enchaînement vélo-course",
+		"intensity": 5,
+		"duration": "120",
+		"advice": "💡 Bois toutes les 15 min à vélo et garde une transition fluide vers la course.",
+		"estimatedCalorie": "1000 kcal",
+		"distance": "48000",
+		"title": "Simulation S complète",
+		"objective": "Simuler les conditions réelles d’un triathlon S pour tester allure, ravitaillement et transitions.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 15,
+				"steps": ["15 min vélo en Z1 + quelques relances"]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 95,
+				"steps": [
+					"Vélo : 45 min à allure course (~30-32 km/h) + 5 min relâché",
+					"Transition : 3 min rapide",
+					"Course : 5 km à allure course (5:15/km) ➝ Dernier km à fond",
+					"Finir par 10 min en footing léger"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 10,
+			"steps": ["5 min marche active + étirements"]
+		},
+		"status": "PLANNED",
+		"date": "2025-09-07"
+	},
+	"natation_lundi_s11": {
+		"weekid": "semaine11",
+		"sessionId": "natation_lundi_s11",
+		"type": "Natation",
+		"intensity": 4,
+		"duration": "45",
+		"advice": "💡 Sur les sprints, garde une bonne coordination pour éviter de te crisper.",
+		"estimatedCalorie": "380 kcal",
+		"distance": "1600",
+		"title": "Allures variées + vitesse",
+		"objective": "Améliorer ta capacité à varier les rythmes et gagner en efficacité sur les phases rapides.",
+		"warmups": [
+			{
+				"title": "Échauffement à sec",
+				"duration": 5,
+				"steps": [
+					"Mobilisation bras, épaules, nuque",
+					"3 minutes corde à sauter ou jumping jacks"
+				]
+			},
+			{
+				"title": "Échauffement dans l’eau",
+				"duration": 10,
+				"steps": [
+					"200m nage libre souple",
+					"4 x 50m éducatifs : rattrapé, poings fermés, glisse, crawl complet (récup 15s)"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 25,
+				"steps": [
+					"3 x 200m à allure modérée (~2’20/100m) – récup 30s",
+					"6 x 50m à 90% intensité (2’00-2’05/100m) – récup 20s"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 5,
+			"steps": ["200m très souple, nage libre ou dos"]
+		},
+		"status": "PLANNED",
+		"date": "2025-09-08"
+	},
+
+	"cap_mardi_s11": {
+		"weekid": "semaine11",
+		"sessionId": "cap_mardi_s11",
+		"type": "Course à pied",
+		"intensity": 5,
+		"duration": "45",
+		"advice": "💡 Gère bien la récupération entre les fractions pour être explosif à chaque répétition.",
+		"estimatedCalorie": "500 kcal",
+		"distance": "8500",
+		"title": "VMA courte",
+		"objective": "Booster ta VMA et améliorer ta capacité à soutenir des allures rapides.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 15,
+				"steps": [
+					"10 min footing Z1",
+					"3 lignes droites de 50m en accélération progressive"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 20,
+				"steps": [
+					"10 x 1 min à 4’30/km (zone VMA), récup 1 min footing lent",
+					"2 min marche ou footing très lent"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 10,
+			"steps": ["Footing très lent 5 min + étirements actifs"]
+		},
+		"status": "PLANNED",
+		"date": "2025-09-09"
+	},
+
+	"velo_jeudi_s11": {
+		"weekid": "semaine11",
+		"sessionId": "velo_jeudi_s11",
+		"type": "Cyclisme",
+		"intensity": 4,
+		"duration": "70",
+		"advice": "💡 Concentre-toi sur la qualité de l’effort, chaque relance doit être explosive mais maîtrisée.",
+		"estimatedCalorie": "700 kcal",
+		"distance": "30000",
+		"title": "Relances + puissance aérobie",
+		"objective": "Développer ta capacité à produire des efforts intenses répétés, utiles sur parcours accidenté ou sortie de virage.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 15,
+				"steps": ["15 min Zone 1-2 à 85-90 rpm, 3 relances de 20s en Z4"]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 40,
+				"steps": [
+					"5 x (2 min à 100-105% effort, suivi de 3 min tempo Z3)",
+					"Récup 2 min entre les blocs"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 10,
+			"steps": ["Pédalage souple en Z1 à 90 rpm"]
+		},
+		"status": "PLANNED",
+		"date": "2025-09-11"
+	},
+	"natation_vendredi_s11": {
+		"weekid": "semaine11",
+		"sessionId": "natation_vendredi_s11",
+		"type": "Natation",
+		"intensity": 3,
+		"duration": "40",
+		"advice": "🧘‍♂️ Concentre-toi sur ton relâchement, ta respiration et la régularité de ton mouvement.",
+		"estimatedCalorie": "350 kcal",
+		"distance": "1300",
+		"title": "Endurance technique + respiration",
+		"objective": "Améliorer ton efficacité technique tout en conservant une respiration maîtrisée.",
+		"warmups": [
+			{
+				"title": "Échauffement à sec",
+				"duration": 5,
+				"steps": ["Mobilisation des épaules, nuque et poignets"]
+			},
+			{
+				"title": "Échauffement dans l'eau",
+				"duration": 10,
+				"steps": [
+					"200m nage libre souple",
+					"4 x 50m éducatifs (rattrapé, poings fermés, crawl 3T, crawl normal)"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 20,
+				"steps": [
+					"3 x 200m en Z2 (2’25/100m) – récup 30s",
+					"4 x 50m respiration 3T – récup 20s"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 5,
+			"steps": ["100m nage libre très relâchée"]
+		},
+		"status": "PLANNED",
+		"date": "2025-09-12"
+	},
+	"cap_dimanche_s11": {
+		"weekid": "semaine11",
+		"sessionId": "cap_dimanche_s11",
+		"type": "Course à pied",
+		"intensity": 5,
+		"duration": "50",
+		"advice": "💥 Tu peux tout donner sur la partie 5km ! Simule la course comme si tu étais sur la ligne de départ.",
+		"estimatedCalorie": "500 kcal",
+		"distance": "8000",
+		"title": "Simulation 5km",
+		"objective": "Travailler ta capacité à tenir ton allure cible 5km dans des conditions proches de la course.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 10,
+				"steps": [
+					"10 min footing souple",
+					"3 x 50m lignes droites progressives"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 30,
+				"steps": [
+					"5km à allure course (~4'50 à 5’00/km)",
+					"Ressens ton souffle et ta foulée, cherche à rester relâché(e)"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 10,
+			"steps": ["10 min footing très lent", "Étirements actifs"]
+		},
+		"status": "PLANNED",
+		"date": "2025-09-14"
+	}
+}

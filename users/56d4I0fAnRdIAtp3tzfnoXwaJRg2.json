@@ -1,0 +1,109 @@
+{
+  "firstname": "Simon",
+  "lastname": "Karcher",
+  "email": "Simon.karcher85@gmail.com",
+  "acceptConditions": true,
+  "uid": "56d4I0fAnRdIAtp3tzfnoXwaJRg2",
+  "role": "USER",
+  "subscription": {
+    "hasAccess": true,
+    "source": "store",
+    "isBeta": false
+  },
+  "triathlonGoals": {
+    "primary": {
+      "distanceLabel": "XXL",
+      "distancesValues": {
+        "run": "42km",
+        "swim": "3,8km",
+        "bike": "180km"
+      },
+      "isInitial": true,
+      "timeGoals": {
+        "swimSeconds": 5400,
+        "runSeconds": 16200,
+        "bikeSeconds": 360,
+        "globalSeconds": 43200
+      },
+      "raceName": "iron man les sables",
+      "raceTerrain": "DONT_KNOW",
+      "raceDate": "2027-06-20"
+    },
+    "secondary": []
+  },
+  "profile": {
+    "gender": "MALE",
+    "ageYears": 24,
+    "heightCm": 175,
+    "weightKg": 95
+  },
+  "metrics": {
+    "vmaKmh": 13
+  },
+  "triathlonExperience": {
+    "level": "BEGINNER",
+    "triathlonYears": 0,
+    "triathlonsCompleted": 0,
+    "swimExperience": {
+      "distanceMeters": null,
+      "timeSeconds": null,
+      "level": "BEGINNER"
+    },
+    "bikeExperience": {
+      "level": "INTERMEDIATE",
+      "ftpWatts": null
+    },
+    "runningExperience": {
+      "distanceMeters": 5000,
+      "timeSeconds": 1800,
+      "level": "NOVICE"
+    },
+    "transitionComfort": {
+      "swimToBike": false,
+      "bikeToRun": false
+    }
+  },
+  "equipment": {
+    "hrSensor": false,
+    "watch": {
+      "model": "Venu 4",
+      "brand": "Garmin"
+    },
+    "run": {
+      "treadmill": false
+    },
+    "swimGear": [
+      "none"
+    ],
+    "bike": {
+      "homeTrainer": false,
+      "powerMeter": false,
+      "bikeType": "road",
+      "cadenceSensor": false
+    }
+  },
+  "targetWeeklyTrainingSessions": 4,
+  "trainingStartDate": "2026-03-23",
+  "club": {
+    "name": null,
+    "isMember": false,
+    "loackedSessionsNote": null
+  },
+  "targetMaxWeeklyTrainingHours": 8,
+  "averageSleepPerNightHours": 7,
+  "preferredRestDay": "monday",
+  "maxTrainingHoursPerDay": {
+    "sunday": 0,
+    "saturday": 4,
+    "tuesday": 2,
+    "friday": 3,
+    "thursday": 2,
+    "wednesday": 0,
+    "monday": 0
+  },
+  "currentWeeklyTrainingSessions": 6,
+  "injuriesNote": null,
+  "asCompleteForm": true,
+  "phone": "0637212370",
+  "department": "85"
+}

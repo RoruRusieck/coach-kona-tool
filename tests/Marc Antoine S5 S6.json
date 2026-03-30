@@ -1,0 +1,414 @@
+{
+	"cap_lundi_s5": {
+		"weekid": "semaine5",
+		"sessionId": "cap_lundi_s5",
+		"type": "Course à pied",
+		"intensity": 2,
+		"duration": "55",
+		"advice": "💡 Reste concentré sur la légèreté de ta foulée, et relâche bien les épaules pendant les lignes droites.",
+		"estimatedCalorie": "550 kcal",
+		"distance": "8500",
+		"title": "Footing EF + 4 lignes droites",
+		"objective": "Renforcer l’endurance de base tout en réveillant la foulée avec des lignes droites en fin de séance.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 10,
+				"steps": ["10 min footing très lent (7:00/km)"]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 40,
+				"steps": [
+					"40 min en Zone 2 (6:30–6:45/km)",
+					"4 x 100 m lignes droites, récup 1 min footing lent"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 5,
+			"steps": ["Footing lent + étirements dynamiques jambes"]
+		},
+		"status": "PLANNED",
+		"date": "2025-08-04"
+	},
+
+	"velo_mardi_s5": {
+		"weekid": "semaine5",
+		"sessionId": "velo_mardi_s5",
+		"type": "Cyclisme",
+		"intensity": 3,
+		"duration": "75",
+		"advice": "💡 Garde un pédalage fluide et ne monte pas trop dans les tours sur les blocs : reste en contrôle.",
+		"estimatedCalorie": "600 kcal",
+		"distance": "30000",
+		"title": "Home Trainer – 4 x 8 min Z2/Z3",
+		"objective": "Stimuler l’endurance soutenue et la capacité à tenir un effort prolongé en cadence.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 10,
+				"steps": ["10 min Zone 1 – cadence 85–90 rpm"]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 60,
+				"steps": [
+					"4 x 8 min en Zone 2/3 (140–160 W), cadence 90–95 rpm",
+					"Récupération 3 min Zone 1 entre les blocs"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 5,
+			"steps": ["Zone 1, cadence libre"]
+		},
+		"status": "PLANNED",
+		"date": "2025-08-05"
+	},
+
+	"cap_mercredi_s5": {
+		"weekid": "semaine5",
+		"sessionId": "cap_mercredi_s5",
+		"type": "Course à pied",
+		"intensity": 3.5,
+		"duration": "60",
+		"advice": "💡 Sur les blocs tempo, reste relâché et pense à bien souffler en sortie d’expiration, tu dois pouvoir parler par petites phrases.",
+		"estimatedCalorie": "600 kcal",
+		"distance": "10000",
+		"title": "Allure tempo 2 x 8 min",
+		"objective": "Travailler ta capacité à tenir une allure soutenue proche du seuil.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 10,
+				"steps": ["10 min footing lent", "3 x 50 m lignes droites progressives"]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 40,
+				"steps": [
+					"2 x 8 min en Zone 3 (5:30–5:45/km), récup 3 min footing lent",
+					"Reste du temps : footing Zone 2"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 10,
+			"steps": ["Footing lent + étirements jambes"]
+		},
+		"status": "PLANNED",
+		"date": "2025-08-06"
+	},
+	"renfo_vendredi_s5": {
+		"weekid": "semaine5",
+		"sessionId": "renfo_vendredi_s5",
+		"type": "Renforcement",
+		"intensity": 2.5,
+		"duration": "40",
+		"advice": "💡 Concentre-toi sur la qualité de l’alignement postural et la respiration contrôlée sur chaque mouvement.",
+		"estimatedCalorie": "300 kcal",
+		"distance": "",
+		"title": "Core + jambes",
+		"objective": "Renforcer ta stabilité, ton gainage et la chaîne postérieure pour soutenir le volume de la semaine.",
+		"warmups": [],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 35,
+				"steps": [
+					"3 x 40 sec planche classique",
+					"3 x 30 sec gainage latéral (chaque côté)",
+					"3 x 12 reps bird-dog",
+					"3 x 10 reps deadbug",
+					"3 x 15 squats contrôlés",
+					"3 x 12 fentes arrière alternées",
+					"3 x 20 sec chaise statique"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 5,
+			"steps": ["Étirements actifs jambes, fessiers, lombaires"]
+		},
+		"status": "PLANNED",
+		"date": "2025-08-08"
+	},
+
+	"velo_samedi_s5": {
+		"weekid": "semaine5",
+		"sessionId": "velo_samedi_s5",
+		"type": "Cyclisme",
+		"intensity": 3,
+		"duration": "120",
+		"advice": "💡 Sur terrain vallonné, gère ton effort : reste en aisance respiratoire même dans les bosses.",
+		"estimatedCalorie": "850 kcal",
+		"distance": "50000",
+		"title": "Endurance longue vallonnée",
+		"objective": "Construire une base d’endurance solide et développer l’économie de pédalage sur parcours varié.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 15,
+				"steps": ["15 min en Zone 1, cadence 85–90 rpm"]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 90,
+				"steps": [
+					"90 min en Zone 2 (130–145 W), cadence 85–90 rpm",
+					"Relances progressives sur les montées (cadence 75–80 rpm en côte)"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 15,
+			"steps": ["Zone 1, cadence libre"]
+		},
+		"status": "PLANNED",
+		"date": "2025-08-09"
+	},
+
+	"cap_dimanche_s5": {
+		"weekid": "semaine5",
+		"sessionId": "cap_dimanche_s5",
+		"type": "Course à pied",
+		"intensity": 3,
+		"duration": "90",
+		"advice": "💡 N’attends pas d’avoir soif pour boire : une gorgée toutes les 20 minutes dès le début.",
+		"estimatedCalorie": "800 kcal",
+		"distance": "13000",
+		"title": "Sortie longue EF progressive",
+		"objective": "Améliorer ton endurance longue en augmentant légèrement l’allure en fin de sortie.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 10,
+				"steps": ["10 min footing très lent + mobilisation articulaire"]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 70,
+				"steps": [
+					"50 min Zone 2 basse (6:45–6:50/km)",
+					"20 min Zone 2 haute / seuil bas (6:10–6:20/km)"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 10,
+			"steps": ["Footing très lent + 5 min d’étirements actifs"]
+		},
+		"status": "PLANNED",
+		"date": "2025-08-10"
+	},
+	"cap_lundi_s6": {
+		"weekid": "semaine6",
+		"sessionId": "cap_lundi_s6",
+		"type": "Course à pied",
+		"intensity": 4,
+		"duration": "60",
+		"advice": "💡 Ne pars pas trop fort sur la première répétition : vise la régularité et une bonne posture sur la durée.",
+		"estimatedCalorie": "650 kcal",
+		"distance": "10000",
+		"title": "3 x 6 min Z3/Z4",
+		"objective": "Travailler ta capacité à maintenir un effort proche de ton seuil, avec une bonne mécanique de course.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 10,
+				"steps": ["10 min footing lent", "3 x 50 m accélérations progressives"]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 40,
+				"steps": [
+					"3 x 6 min en Zone 3/4 (5:00 à 5:15/km)",
+					"Récupération 3 min footing lent entre chaque bloc",
+					"Reste du temps : footing Zone 2"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 10,
+			"steps": ["Footing très lent + étirements actifs"]
+		},
+		"status": "PLANNED",
+		"date": "2025-08-11"
+	},
+
+	"velo_mardi_s6": {
+		"weekid": "semaine6",
+		"sessionId": "velo_mardi_s6",
+		"type": "Cyclisme",
+		"intensity": 3.5,
+		"duration": "75",
+		"advice": "💡 Cherche une bonne stabilité de cadence pendant les blocs tempo. Respire profondément, surtout en fin de bloc.",
+		"estimatedCalorie": "600 kcal",
+		"distance": "32000",
+		"title": "Home Trainer – 3 x 10 min tempo",
+		"objective": "Renforcer ta capacité à tenir un effort soutenu en Z3 avec cadence efficace.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 10,
+				"steps": ["10 min Zone 1 – cadence 85–90 rpm"]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 60,
+				"steps": [
+					"3 x 10 min en Zone 3 (150–165 W), cadence 90–95 rpm",
+					"Récupération 4 min Zone 1 entre les blocs",
+					"10 min Zone 2 pour finir le bloc"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 5,
+			"steps": ["Zone 1, cadence libre"]
+		},
+		"status": "PLANNED",
+		"date": "2025-08-12"
+	},
+
+	"cap_mercredi_s6": {
+		"weekid": "semaine6",
+		"sessionId": "cap_mercredi_s6",
+		"type": "Course à pied",
+		"intensity": 2,
+		"duration": "50",
+		"advice": "💡 Profite de cette séance pour ressentir chaque phase de ta foulée, sans chercher à aller vite.",
+		"estimatedCalorie": "480 kcal",
+		"distance": "8000",
+		"title": "Footing technique + éducatifs",
+		"objective": "Travailler la technique de course à faible intensité et renforcer l’efficacité gestuelle.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 10,
+				"steps": ["10 min footing lent", "Mobilité chevilles / hanches"]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 30,
+				"steps": [
+					"20 min en Zone 2 (6:30–6:45/km)",
+					"6 x 40 m éducatifs : montées de genoux, talons-fesses, foulées bondissantes, jambes tendues, montées rapides, pieds réactifs"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 10,
+			"steps": ["Footing lent + 5 min d’étirements actifs"]
+		},
+		"status": "PLANNED",
+		"date": "2025-08-13"
+	},
+	"renfo_vendredi_s6": {
+		"weekid": "semaine6",
+		"sessionId": "renfo_vendredi_s6",
+		"type": "Renforcement",
+		"intensity": 2,
+		"duration": "35",
+		"advice": "💡 Sur les exercices de stabilité, va lentement et ressens chaque appui : contrôle avant amplitude.",
+		"estimatedCalorie": "250 kcal",
+		"distance": "",
+		"title": "Mobilité + stabilité",
+		"objective": "Améliorer ta mobilité articulaire et ta stabilité posturale pour limiter les risques de blessure.",
+		"warmups": [],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 30,
+				"steps": [
+					"3 x 30 sec planche dynamique",
+					"3 x 30 sec gainage latéral (chaque côté)",
+					"3 x 10 squats avec bras en l'air (mobilité épaules + hanches)",
+					"3 x 10 bird-dog lent (contrôle postural)",
+					"3 x 10 fentes statiques, bras levés",
+					"3 x 12 ponts fessiers sur une jambe"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 5,
+			"steps": ["Étirements actifs épaules, hanches, dos"]
+		},
+		"status": "PLANNED",
+		"date": "2025-08-15"
+	},
+
+	"enchainement_dimanche_s6": {
+		"weekid": "semaine6",
+		"sessionId": "enchainement_dimanche_s6",
+		"type": "Enchaînement vélo-course",
+		"intensity": 4,
+		"duration": "135",
+		"advice": "💡 Gère bien ta nutrition dès le vélo, et sur la CAP, surveille ton relâchement en début de course pour éviter les jambes lourdes.",
+		"estimatedCalorie": "1000 kcal",
+		"distance": "",
+		"title": "Enchaînement vélo-course – 1h30 + 45 min",
+		"objective": "Travailler la transition et la capacité à soutenir un effort prolongé multi-discipline.",
+		"warmups": [
+			{
+				"title": "Échauffement vélo",
+				"duration": 15,
+				"steps": ["15 min Zone 1, cadence 85–90 rpm"]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc vélo",
+				"duration": 75,
+				"steps": [
+					"3 x 10 min Zone 2/3 (140–160 W), récup 5 min Zone 1",
+					"Reste du temps : Zone 2 stable, cadence 85–90 rpm"
+				]
+			},
+			{
+				"title": "Transition",
+				"duration": 5,
+				"steps": ["Transition rapide, hydratation + changement équipement"]
+			},
+			{
+				"title": "Bloc course à pied",
+				"duration": 45,
+				"steps": ["35 min Zone 2 (6:30/km)", "10 min Zone 3 (5:45/km)"]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 10,
+			"steps": ["Footing lent + étirements actifs jambes"]
+		},
+		"status": "PLANNED",
+		"date": "2025-08-17"
+	}
+}

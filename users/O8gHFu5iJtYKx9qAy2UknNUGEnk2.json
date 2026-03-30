@@ -1,0 +1,111 @@
+{
+  "firstname": "Quentin",
+  "lastname": "Pallardy",
+  "email": "Quentin.pallardy1@gmail.com",
+  "acceptConditions": true,
+  "uid": "O8gHFu5iJtYKx9qAy2UknNUGEnk2",
+  "role": "USER",
+  "subscription": {
+    "hasAccess": true,
+    "source": "store",
+    "isBeta": false
+  },
+  "triathlonGoals": {
+    "primary": {
+      "distanceLabel": "XXL",
+      "distancesValues": {
+        "run": "42km",
+        "swim": "3,8km",
+        "bike": "180km"
+      },
+      "isInitial": true,
+      "timeGoals": {
+        "swimSeconds": 3600,
+        "runSeconds": 12000,
+        "bikeSeconds": 19800,
+        "globalSeconds": 36000
+      },
+      "raceName": "Challenge Almere Amsterdam",
+      "raceTerrain": "FLAT",
+      "raceDate": "2026-09-12"
+    },
+    "secondary": []
+  },
+  "profile": {
+    "gender": "MALE",
+    "ageYears": 29,
+    "heightCm": 177,
+    "weightKg": 73
+  },
+  "metrics": {
+    "vmaKmh": null
+  },
+  "triathlonExperience": {
+    "level": "NOVICE",
+    "triathlonYears": 0,
+    "triathlonsCompleted": 0,
+    "swimExperience": {
+      "distanceMeters": 50,
+      "timeSeconds": 30,
+      "level": "INTERMEDIATE"
+    },
+    "bikeExperience": {
+      "level": "BEGINNER",
+      "ftpWatts": null
+    },
+    "runningExperience": {
+      "distanceMeters": 10000,
+      "timeSeconds": 2437,
+      "level": "INTERMEDIATE"
+    },
+    "transitionComfort": {
+      "swimToBike": false,
+      "bikeToRun": false
+    }
+  },
+  "equipment": {
+    "hrSensor": false,
+    "watch": {
+      "model": "Coros pace 3",
+      "brand": "Coros"
+    },
+    "run": {
+      "treadmill": false
+    },
+    "swimGear": [
+      "pull_buoy",
+      "kickboard",
+      "snorkel"
+    ],
+    "bike": {
+      "homeTrainer": true,
+      "powerMeter": true,
+      "bikeType": "road",
+      "cadenceSensor": true
+    }
+  },
+  "targetWeeklyTrainingSessions": 8,
+  "trainingStartDate": "2026-02-09",
+  "club": {
+    "name": null,
+    "isMember": false,
+    "loackedSessionsNote": null
+  },
+  "targetMaxWeeklyTrainingHours": 12,
+  "averageSleepPerNightHours": 8,
+  "preferredRestDay": "monday",
+  "maxTrainingHoursPerDay": {
+    "sunday": 4,
+    "saturday": 5,
+    "tuesday": 3,
+    "friday": 4,
+    "thursday": 2,
+    "wednesday": 3,
+    "monday": 2
+  },
+  "currentWeeklyTrainingSessions": 5,
+  "injuriesNote": null,
+  "asCompleteForm": true,
+  "phone": "0631208365",
+  "department": "92"
+}

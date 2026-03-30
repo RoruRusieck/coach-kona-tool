@@ -1,0 +1,178 @@
+{
+  "natation_mobilite_douce_mardi_s12": {
+    "weekid": "semaine12_affutage_final",
+    "sessionId": "natation_mobilite_douce_mardi_s12",
+    "type": "Natation",
+    "intensity": 1,
+    "duration": "45",
+    "advice": "💡 Priorise les sensations de glisse et la respiration. C’est une séance pour retrouver du confort dans l’eau, pas pour faire des chronos.",
+    "estimatedCalorie": "280 kcal",
+    "distance": "1200",
+    "title": "Renforcement",
+    "objective": "Retrouver les sensations de glisse sans forcer, relancer la coordination.",
+    "warmups": [
+      {
+        "title": "Échauffement à sec",
+        "duration": 5,
+        "steps": ["Mobilisation des épaules", "Respiration abdominale"]
+      },
+      {
+        "title": "Échauffement dans l’eau",
+        "duration": 10,
+        "steps": [
+          "100 m nage libre souple",
+          "4 x 25 m éducatifs (rattrapé, glisse, poings fermés, respiration 3 temps)"
+        ]
+      }
+    ],
+    "mainSets": [
+      {
+        "title": "Bloc principal",
+        "duration": 20,
+        "steps": [
+          "4 x 100 m nage complète en glisse relâchée, récup 20 sec",
+          "2 x 100 m pull buoy, focus respiration",
+          "4 x 25 m dos ou brasse souple"
+        ]
+      }
+    ],
+    "cooldown": {
+      "title": "Retour au calme",
+      "duration": 10,
+      "steps": [
+        "100 m nage libre très lente",
+        "Étirements bras / épaules hors de l’eau"
+      ]
+    },
+    "status": "PLANNED",
+    "date": "2025-09-16"
+  },
+
+  "velo_rappel_cadence_jeudi_s12": {
+    "weekid": "semaine12_affutage_final",
+    "sessionId": "velo_rappel_cadence_jeudi_s12",
+    "type": "Cyclisme",
+    "intensity": 2,
+    "duration": "60",
+    "advice": "💡 Laisse-toi guider par les sensations. L’objectif est d’activer la machine sans la bousculer. Fluide, relâché, efficace.",
+    "estimatedCalorie": "450 kcal",
+    "distance": "25000",
+    "title": "Rappel de cadence & tempo léger",
+    "objective": "Tourner les jambes sans pression, reprendre contact avec l’allure cible.",
+    "warmups": [
+      {
+        "title": "Échauffement",
+        "duration": 15,
+        "steps": [
+          "10 min Z1",
+          "3 x 30 sec vélocité > 100 rpm / récup 30 sec tranquille"
+        ]
+      }
+    ],
+    "mainSets": [
+      {
+        "title": "Bloc principal",
+        "duration": 30,
+        "steps": [
+          "2 x 10 min à 160–170 W (bas de Z3), cadence 90–95 rpm",
+          "2 x 5 min en vélocité 95–100 rpm, Z2 (135–150 W)"
+        ]
+      }
+    ],
+    "cooldown": {
+      "title": "Retour au calme",
+      "duration": 15,
+      "steps": [
+        "15 min roulage Z1, cadence libre",
+        "Hydratation + étirements légers"
+      ]
+    },
+    "status": "PLANNED",
+    "date": "2025-09-18"
+  },
+  "cap_footing_relache_vendredi_s12": {
+    "weekid": "semaine12_affutage_final",
+    "sessionId": "cap_footing_relache_vendredi_s12",
+    "type": "Course à pied",
+    "intensity": 2,
+    "duration": "45",
+    "advice": "💡 Ne cherche pas la performance, cherche la sensation. Reste relâché dans les bras, et joue avec ta foulée.",
+    "estimatedCalorie": "450 kcal",
+    "distance": "7000",
+    "title": "Footing relâché + lignes droites",
+    "objective": "Toucher les sensations de course sans fatigue, respiration et tonicité.",
+    "warmups": [
+      {
+        "title": "Échauffement",
+        "duration": 10,
+        "steps": [
+          "10 min footing lent",
+          "Mobilisation articulaire : chevilles, genoux, hanches"
+        ]
+      }
+    ],
+    "mainSets": [
+      {
+        "title": "Bloc principal",
+        "duration": 25,
+        "steps": [
+          "20 min footing en Z2 (≈5’50 à 6’00/km)",
+          "4 x 15 sec lignes droites à allure course, récup 45 sec entre"
+        ]
+      }
+    ],
+    "cooldown": {
+      "title": "Retour au calme",
+      "duration": 10,
+      "steps": ["5 min marche", "Étirements légers (mollets, ischios, dos)"]
+    },
+    "status": "PLANNED",
+    "date": "2025-09-19"
+  },
+
+  "triathlon_m_etaples_course_s12": {
+    "weekid": "semaine12_affutage_final",
+    "sessionId": "triathlon_m_etaples_course_s12",
+    "type": "Enchaînement vélo-course",
+    "intensity": 5,
+    "duration": "180",
+    "advice": "💡 Respire, visualise ta course avant le départ. Applique ton pacing, fais confiance à ta préparation, et surtout, savoure chaque instant.",
+    "estimatedCalorie": "2000 kcal",
+    "distance": "51500",
+    "title": "Triathlon M Étaples – 1,5 km / 40 km / 10 km",
+    "objective": "Appliquer ta stratégie, gérer ton énergie, et savourer l’aboutissement de ta prépa.",
+    "warmups": [
+      {
+        "title": "Avant course",
+        "duration": 20,
+        "steps": [
+          "10 min échauffement à sec (mobilité + respiration)",
+          "5 min nage libre (si possible en eau libre)",
+          "Visualisation mentale rapide de chaque transition"
+        ]
+      }
+    ],
+    "mainSets": [
+      {
+        "title": "Course",
+        "duration": 160,
+        "steps": [
+          "🏊 1,5 km natation – glisse, respiration, placement",
+          "🚴 40 km vélo – pacing Z3 maîtrisé (~180–195 W)",
+          "🏃 10 km CAP – départ progressif, montée en intensité au fil des km"
+        ]
+      }
+    ],
+    "cooldown": {
+      "title": "Après course",
+      "duration": 20,
+      "steps": [
+        "Retour au calme actif (marche, hydratation)",
+        "Auto-massages ou jambes surélevées",
+        "Fierté et récupération bien méritée 😌"
+      ]
+    },
+    "status": "PLANNED",
+    "date": "2025-09-21"
+  }
+}

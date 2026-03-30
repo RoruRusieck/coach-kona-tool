@@ -1,0 +1,536 @@
+{
+	"natation_3x1500_allureIM_2608": {
+		"weekid": "semaine4",
+		"sessionId": "natation_3x1500_allureIM_2608",
+		"type": "Natation",
+		"intensity": 3,
+		"duration": "80",
+		"advice": "💡 Reste concentré sur ton cap et ta fréquence gestuelle. Respiration bilatérale recommandée pour simuler les conditions eau libre.",
+		"estimatedCalorie": "700 kcal",
+		"distance": "3300",
+		"title": "Mardi 26 août – Natation – 3 x 1500 m allure IM – 1h20 – 3300 m – Intensité 3/5",
+		"objective": "Travailler la régularité et l’endurance spécifique en eau libre.",
+		"warmups": [
+			{
+				"title": "Échauffement à sec",
+				"duration": 5,
+				"steps": [
+					"Mobilisation épaules et tronc",
+					"2 x 30 sec gainage dynamique bras tendus"
+				]
+			},
+			{
+				"title": "Échauffement dans l’eau",
+				"duration": 10,
+				"steps": [
+					"300 m nage complète relâchée",
+					"4 x 50 m éducatifs : 2 rattrapé, 2 touché épaule – récup 15 sec"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 60,
+				"steps": [
+					"3 x 1500 m à allure Ironman (~2'10/100 m), récup 1’ entre chaque",
+					"Maintenir une nage fluide, régulière, respiration toutes les 3 ou 5 brasses"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 5,
+			"steps": ["200 m crawl relâché, option pull-buoy"]
+		},
+		"status": "PLANNED",
+		"date": "2025-08-26"
+	},
+
+	"velo_tempo_vallonne_2708": {
+		"weekid": "semaine4",
+		"sessionId": "velo_tempo_vallonne_2708",
+		"type": "Cyclisme",
+		"intensity": 4,
+		"duration": "195",
+		"advice": "💡 Profite du terrain pour travailler ta puissance. Gère bien ton alimentation : 60–90 g de glucides/h et hydratation régulière.",
+		"estimatedCalorie": "1900 kcal",
+		"distance": "95000",
+		"title": "Mercredi 27 août – Vélo – Sortie vallonnée + tempo Ironman – 3h15 – 95 km – Intensité 4/5",
+		"objective": "Tenir une allure stable en terrain varié, gestion puissance et nutrition.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 20,
+				"steps": [
+					"10 min en Zone 1 (120–140 W), cadence 90–95 rpm",
+					"2 x 2 min à 200 W, récup 2 min"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 160,
+				"steps": [
+					"2 x 30 min tempo Z3 (210–230 W), cadence 85–90 rpm – récup 10 min Z1",
+					"4 x 8 min en côte ou braquet lourd à 60–70 rpm, Z3 – récup 3 min",
+					"20 min en vélocité Z2 (180–200 W), cadence 95–100 rpm"
+				]
+			},
+			{
+				"title": "Variante Home Trainer",
+				"steps": [
+					"2 x 20 min à 210–230 W – récup 8 min",
+					"4 x 5 min braquet lourd à 210 W – récup 3 min"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 15,
+			"steps": ["15 min pédalage souple en Zone 1"]
+		},
+		"status": "PLANNED",
+		"date": "2025-08-27"
+	},
+
+	"cap_3x20_allureIM_2808": {
+		"weekid": "semaine4",
+		"sessionId": "cap_3x20_allureIM_2808",
+		"type": "Course à pied",
+		"intensity": 4,
+		"duration": "85",
+		"advice": "💡 Ne pars pas trop vite sur le premier bloc. Calibre-toi sur ton allure marathon dès le 2e. Hydrate-toi et reste relâché dans le haut du corps.",
+		"estimatedCalorie": "900 kcal",
+		"distance": "16000",
+		"title": "Jeudi 28 août – Course à pied – 3 x 20 min allure IM – 1h25 – 16 km – Intensité 4/5",
+		"objective": "Habituer le corps à maintenir ton allure cible marathon.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 15,
+				"steps": ["10 min footing à 5’50/km", "3 x 50 m foulées dynamiques"]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 55,
+				"steps": [
+					"3 x 20 min à 4’55–5’05/km – récup 3 min footing très lent entre chaque bloc"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 10,
+			"steps": [
+				"5 min footing lent + étirements actifs (mollets, ischios, hanches)"
+			]
+		},
+		"status": "PLANNED",
+		"date": "2025-08-28"
+	},
+
+	"natation_vitesse_educatifs_2908": {
+		"weekid": "semaine4",
+		"sessionId": "natation_vitesse_educatifs_2908",
+		"type": "Natation",
+		"intensity": 3,
+		"duration": "60",
+		"advice": "💡 Reste précis sur les éducatifs. Sur les 25 m et 50 m rapides, engage les appuis, sans casser la technique.",
+		"estimatedCalorie": "550 kcal",
+		"distance": "2300",
+		"title": "Vendredi 29 août – Natation – Séries vitesse 25/50 m + éducatifs – 1h00 – 2300 m – Intensité 3/5",
+		"objective": "Stimuler la vitesse et travailler la propulsion.",
+		"warmups": [
+			{
+				"title": "Échauffement à sec",
+				"duration": 5,
+				"steps": [
+					"Mobilisation des épaules et du dos",
+					"2 x 30 sec gainage bras tendus"
+				]
+			},
+			{
+				"title": "Échauffement dans l’eau",
+				"duration": 10,
+				"steps": [
+					"300 m crawl souple",
+					"4 x 50 m éducatifs (2 rattrapé / 2 crawl water-polo), récup 15 sec"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 40,
+				"steps": [
+					"6 x 25 m sprint Z5, récup 30 sec",
+					"6 x 50 m à 1'40/100 m (Z4), récup 20 sec",
+					"4 x 50 m éducatifs propulsion (1 bras / poings fermés), récup 20 sec"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 5,
+			"steps": ["200 m nage libre très relâchée"]
+		},
+		"status": "PLANNED",
+		"date": "2025-08-29"
+	},
+
+	"enchainement_velo_cap_3008": {
+		"weekid": "semaine4",
+		"sessionId": "enchainement_velo_cap_3008",
+		"type": "Enchaînement vélo-course",
+		"intensity": 4,
+		"duration": "210",
+		"advice": "💡 Simule les conditions Ironman : alimentation toutes les 20 min à vélo, transition rapide, allure fluide sur la CAP.",
+		"estimatedCalorie": "2100 kcal",
+		"distance": "101000",
+		"title": "Samedi 30 août – Enchaînement vélo-course – 3h30 (3h vélo + 30’ CAP) – 95 km + 6 km – Intensité 4/5",
+		"objective": "Simulation Ironman : cadence vélo + passage en course fluide.",
+		"warmups": [
+			{
+				"title": "Échauffement vélo",
+				"duration": 15,
+				"steps": ["15 min Z1, cadence 90 rpm", "2 x 1 min à 200 W, récup 2 min"]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc vélo",
+				"duration": 165,
+				"steps": [
+					"3 x 45 min à 180–200 W (Z2/Z3 bas), cadence 85–90 rpm",
+					"Récup 5 min Z1 entre chaque bloc",
+					"Derniers 10 min : 195–210 W (tempo IM)"
+				]
+			},
+			{
+				"title": "Bloc course à pied",
+				"duration": 30,
+				"steps": [
+					"10 min à 5’30/km",
+					"10 min à 5’00/km (allure IM)",
+					"10 min à 5’10/km"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 0,
+			"steps": []
+		},
+		"status": "PLANNED",
+		"date": "2025-08-30"
+	},
+
+	"velo_long_ironman_3108": {
+		"weekid": "semaine4",
+		"sessionId": "velo_long_ironman_3108",
+		"type": "Cyclisme",
+		"intensity": 3,
+		"duration": "270",
+		"advice": "💡 Objectif : pacing stable et test nutrition. Apporte 90 g de glucides/h + électrolytes. Cadence stable et position aéro tenue.",
+		"estimatedCalorie": "2400 kcal",
+		"distance": "135000",
+		"title": "Dimanche 31 août – Vélo longue distance – 4h30 – 135 km – Intensité 3/5",
+		"objective": "Travailler la durée Ironman, pacing et stratégie nutritionnelle.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 15,
+				"steps": [
+					"15 min Zone 1, cadence 90 rpm",
+					"2 x 1 min à 180 W, récup 2 min"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 240,
+				"steps": [
+					"3 x 60 min à 170–190 W (Z2), cadence 85–90 rpm",
+					"5 min récupération entre chaque bloc",
+					"Finir par 15 min souples pour transition"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 15,
+			"steps": ["15 min pédalage souple à 130–140 W"]
+		},
+		"status": "PLANNED",
+		"date": "2025-08-31"
+	},
+
+	"renfo_tronc_posture_3108": {
+		"weekid": "semaine4",
+		"sessionId": "renfo_tronc_posture_3108",
+		"type": "Renforcement",
+		"intensity": 2,
+		"duration": "30",
+		"advice": "💡 Reste précis sur le gainage et les mouvements de contrôle. Respire profondément pendant les postures.",
+		"estimatedCalorie": "180 kcal",
+		"distance": "",
+		"title": "Dimanche 31 août – Renforcement tronc/posture – 30 min – Intensité 2/5",
+		"objective": "Prévention blessures et stabilité.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 5,
+				"steps": [
+					"Mobilisation hanches, épaules, rachis",
+					"1 min jumping jacks, 1 min fentes statiques"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 20,
+				"steps": [
+					"2 x circuit :",
+					"- 30 sec planche ventrale + 20 sec latérale par côté",
+					"- 15 reps bird-dog",
+					"- 10 squats lents + 10 fentes arrière",
+					"- 15 ponts fessiers"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 5,
+			"steps": [
+				"Étirements : dos, ischios, psoas, épaules",
+				"2 min respiration allongée"
+			]
+		},
+		"status": "PLANNED",
+		"date": "2025-08-31"
+	},
+
+	"natation_8x200_glisse_0209": {
+		"weekid": "semaine5",
+		"sessionId": "natation_8x200_glisse_0209",
+		"type": "Natation",
+		"intensity": 2,
+		"duration": "60",
+		"advice": "💡 Ne cherche pas la performance. Sens l'eau, cherche la glisse et une respiration ample. Le chrono est secondaire.",
+		"estimatedCalorie": "500 kcal",
+		"distance": "2600",
+		"title": "Mardi 2 sept – Natation – 8 x 200 m allure IM – 1h00 – 2600 m – Intensité 2/5",
+		"objective": "Relâcher en travaillant la glisse et la régularité.",
+		"warmups": [
+			{
+				"title": "Échauffement à sec",
+				"duration": 5,
+				"steps": [
+					"Mobilité des épaules et du tronc",
+					"2 x 30 sec gainage bras tendus"
+				]
+			},
+			{
+				"title": "Échauffement dans l’eau",
+				"duration": 10,
+				"steps": [
+					"300 m nage libre souple",
+					"4 x 50 m éducatifs (rattrapé / 1 bras / respiration 3T), récup 15 sec"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 40,
+				"steps": [
+					"8 x 200 m à allure IM (~2'10–2'15/100 m), récup 20 sec",
+					"Accent sur la régularité et l’allongement"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 5,
+			"steps": ["200 m nage libre en souplesse"]
+		},
+		"status": "PLANNED",
+		"date": "2025-09-02"
+	},
+
+	"velo_z2_cadence_0309": {
+		"weekid": "semaine5",
+		"sessionId": "velo_z2_cadence_0309",
+		"type": "Cyclisme",
+		"intensity": 2,
+		"duration": "120",
+		"advice": "💡 Reste dans une zone très confortable. L'objectif est de délier les jambes, pas de forcer. Priorité à la fluidité et à la cadence.",
+		"estimatedCalorie": "800 kcal",
+		"distance": "55000",
+		"title": "Mercredi 3 sept – Vélo – Sortie Z2 souple + cadence – 2h00 – 55 km – Intensité 2/5",
+		"objective": "Récupération active et vélocité.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 15,
+				"steps": ["15 min en Zone 1 (130–150 W), cadence 90 rpm"]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 90,
+				"steps": [
+					"3 x 20 min en Zone 2 (160–180 W), cadence 90–95 rpm",
+					"5 min à 100 rpm entre chaque bloc",
+					"15 min Z1 facile"
+				]
+			},
+			{
+				"title": "Variante Home Trainer",
+				"steps": [
+					"3 x 15 min à 160–180 W, 90 rpm",
+					"5 min facile entre chaque bloc"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 15,
+			"steps": ["15 min pédalage souple, 90 rpm"]
+		},
+		"status": "PLANNED",
+		"date": "2025-09-03"
+	},
+
+	"cap_footing_vallonne_0409": {
+		"weekid": "semaine5",
+		"sessionId": "cap_footing_vallonne_0409",
+		"type": "Course à pied",
+		"intensity": 2,
+		"duration": "60",
+		"advice": "💡 Prends le temps d’observer tes sensations. Relâche bien les bras en descente. Cadence fluide, pas de charge musculaire excessive.",
+		"estimatedCalorie": "700 kcal",
+		"distance": "11000",
+		"title": "Jeudi 4 sept – Course à pied – Footing vallonné – 1h00 – 11 km – Intensité 2/5",
+		"objective": "Relâcher les jambes, garder du rythme léger.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 10,
+				"steps": ["10 min footing progressif", "3 x 50 m foulées actives"]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 40,
+				"steps": [
+					"40 min en terrain vallonné, allure 5’40–5’20/km",
+					"Adapter le rythme selon la pente"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 10,
+			"steps": ["10 min footing lent + étirements actifs"]
+		},
+		"status": "PLANNED",
+		"date": "2025-09-04"
+	},
+
+	"velo_endurance_fondamentale_0609": {
+		"weekid": "semaine5",
+		"sessionId": "velo_endurance_fondamentale_0609",
+		"type": "Cyclisme",
+		"intensity": 2,
+		"duration": "180",
+		"advice": "💡 Tu dois pouvoir parler tout au long de la séance. Concentre-toi sur ton aisance, ta cadence et ton alimentation régulière.",
+		"estimatedCalorie": "1600 kcal",
+		"distance": "85000",
+		"title": "Samedi 6 sept – Vélo – Endurance fondamentale – 3h00 – 85 km – Intensité 2/5",
+		"objective": "Sortie longue douce, à rythme contrôlé.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 15,
+				"steps": ["15 min en Zone 1 (130–150 W), cadence 90 rpm"]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 150,
+				"steps": [
+					"3 x 45 min en Zone 2 (160–175 W), cadence 90 rpm",
+					"5 min récupération Z1 entre chaque bloc",
+					"Derniers 15 min très relâchés"
+				]
+			},
+			{
+				"title": "Variante Home Trainer",
+				"steps": [
+					"3 x 30 min à 160–175 W, 90 rpm",
+					"5 min facile entre chaque bloc"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 15,
+			"steps": ["Pédalage souple Zone 1, cadence libre"]
+		},
+		"status": "PLANNED",
+		"date": "2025-09-06"
+	},
+
+	"cap_longue_progressive_0709": {
+		"weekid": "semaine5",
+		"sessionId": "cap_longue_progressive_0709",
+		"type": "Course à pied",
+		"intensity": 3,
+		"duration": "90",
+		"advice": "💡 Ne te précipite pas. Conserve un relâchement total sur la première moitié, et construis ta montée en rythme à l’écoute de tes sensations.",
+		"estimatedCalorie": "1000 kcal",
+		"distance": "18000",
+		"title": "Dimanche 7 sept – Course à pied – Sortie longue progressive – 1h30 – 18 km – Intensité 3/5",
+		"objective": "Garder un tempo en fin de séance tout en restant contrôlé.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 10,
+				"steps": [
+					"10 min footing très léger (6’00–5’45/km)",
+					"3 x 50 m foulées souples"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 70,
+				"steps": [
+					"30 min à 5’30/km (Z2 bas)",
+					"25 min à 5’00–5’10/km (Z2 haut)",
+					"15 min à 4’45–4’55/km (Z3 bas)"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 10,
+			"steps": [
+				"10 min footing lent + étirements (mollets / ischios / hanches)"
+			]
+		},
+		"status": "PLANNED",
+		"date": "2025-09-07"
+	}
+}

@@ -1,0 +1,108 @@
+{
+  "firstname": "Matthieu",
+  "lastname": "Fremondiere",
+  "email": "matthieu.fremondiere@laposte.net",
+  "acceptConditions": true,
+  "uid": "ZHS1QRzAi8cJNjaHzECnB6qclsm2",
+  "role": "USER",
+  "subscription": {
+    "hasAccess": true,
+    "source": "store",
+    "isBeta": false
+  },
+  "triathlonGoals": {
+    "primary": {
+      "distanceLabel": "L",
+      "distancesValues": {
+        "run": "21km",
+        "swim": "1,9km",
+        "bike": "90km"
+      },
+      "timeGoals": {
+        "swimSeconds": 2700,
+        "runSeconds": 6300,
+        "bikeSeconds": 10800,
+        "globalSeconds": 19800
+      },
+      "raceName": "Ironman 70.3 Vichy",
+      "raceTerrain": "UNDULATING",
+      "raceDate": "2026-08-23"
+    },
+    "secondary": []
+  },
+  "profile": {
+    "gender": "MALE",
+    "ageYears": 23,
+    "heightCm": 175,
+    "weightKg": 69
+  },
+  "metrics": {
+    "vmaKmh": null
+  },
+  "triathlonExperience": {
+    "level": "BEGINNER",
+    "triathlonYears": 0,
+    "triathlonsCompleted": 0,
+    "swimExperience": {
+      "distanceMeters": 2000,
+      "timeSeconds": 4080,
+      "level": "BEGINNER"
+    },
+    "bikeExperience": {
+      "level": "NOVICE",
+      "ftpWatts": null
+    },
+    "runningExperience": {
+      "distanceMeters": 10000,
+      "timeSeconds": 3300,
+      "level": "NOVICE"
+    },
+    "transitionComfort": {
+      "swimToBike": false,
+      "bikeToRun": false
+    }
+  },
+  "equipment": {
+    "hrSensor": true,
+    "watch": {
+      "model": "Ultra ",
+      "brand": "Apple "
+    },
+    "run": {
+      "treadmill": false
+    },
+    "swimGear": [
+      "pull_buoy"
+    ],
+    "bike": {
+      "homeTrainer": true,
+      "powerMeter": false,
+      "bikeType": "road",
+      "cadenceSensor": true
+    }
+  },
+  "targetWeeklyTrainingSessions": 6,
+  "trainingStartDate": "2026-01-05",
+  "club": {
+    "name": null,
+    "isMember": false,
+    "loackedSessionsNote": null
+  },
+  "targetMaxWeeklyTrainingHours": 15,
+  "averageSleepPerNightHours": 8,
+  "preferredRestDay": "wednesday",
+  "maxTrainingHoursPerDay": {
+    "sunday": 4,
+    "saturday": 4,
+    "tuesday": 4,
+    "friday": 4,
+    "thursday": 4,
+    "wednesday": 4,
+    "monday": 4
+  },
+  "currentWeeklyTrainingSessions": 2,
+  "injuriesNote": null,
+  "asCompleteForm": true,
+  "phone": "0783900159",
+  "department": "49"
+}

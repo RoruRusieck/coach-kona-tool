@@ -1,0 +1,442 @@
+{
+	"programs": {
+		"maxime_ironman_barcelone_2025": {
+			"programId": "maxime_ironman_barcelone_2025",
+			"slug": "maxime_ironman_barcelone_2025",
+			"context": {
+				"objectif": "Préparer l'Ironman de Barcelone (XXL) du 5 octobre 2025",
+				"niveau": "Avancé",
+				"disponibilités": "6 à 10 séances par semaine, volume élevé (~20h)",
+				"principauxDéfis": [
+					"Tenir un marathon sub-3h après 180 km à vélo",
+					"Réaliser une natation sous les 57 minutes sans drafting",
+					"Gérer l’enchaînement des volumes élevés avec fraîcheur mentale"
+				]
+			},
+			"status": "OPEN",
+			"startDate": "2025-06-02",
+			"endDate": "2025-10-05",
+			"cycles": [
+				{
+					"title": "Cycle 1 – Consolidation technique & reprise structurée",
+					"startDate": "2025-06-02",
+					"endDate": "2025-06-30",
+					"order": 0,
+					"content": "Objectif : Repartir sur des bases solides après la coupure. Accent mis sur la technique en natation, la vélocité en vélo et l’économie de course. Volume progressif pour reconditionner ton organisme à l’effort long sans surcharger prématurément."
+				},
+				{
+					"title": "Cycle 2 – Développement de l’endurance spécifique",
+					"startDate": "2025-07-01",
+					"endDate": "2025-07-28",
+					"order": 1,
+					"content": "Objectif : Construire ta capacité à encaisser des blocs spécifiques longs. Intensification progressive des séances vélo/cap, premiers enchaînements et travail en zone Ironman."
+				},
+				{
+					"title": "Cycle 3 – Allure cible & résistance à l'effort",
+					"startDate": "2025-07-29",
+					"endDate": "2025-08-25",
+					"order": 2,
+					"content": "Objectif : Travailler l’allure Ironman sur les 3 disciplines. Enchaînements fréquents, gros volume vélo avec pacing, seuil en course à pied, natation avec fatigue accumulée."
+				},
+				{
+					"title": "Cycle 4 – Affûtage & simulation compétition",
+					"startDate": "2025-08-26",
+					"endDate": "2025-09-29",
+					"order": 3,
+					"content": "Objectif : Réduire le volume, garder l’intensité, et simuler les conditions de course. Tests d’allure, nutrition, transitions, visualisation. La fraîcheur est l’objectif, sans perte de rythme."
+				},
+				{
+					"title": "Semaine de course",
+					"startDate": "2025-09-30",
+					"endDate": "2025-10-05",
+					"order": 4,
+					"content": "Affûtage final, activation légère, repos, visualisation. Tu arriveras sur la ligne de départ frais, déterminé et prêt à performer."
+				}
+			],
+			"sessions": {
+				"natation_technique": {
+					"weekid": "semaine1_base",
+					"sessionId": "natation_technique",
+					"type": "Natation",
+
+					"intensity": 2,
+					"duration": "60",
+					"advice": "💡 Concentre-toi sur ta respiration bilatérale et l’allongement de ta glisse.",
+					"estimatedCalorie": "500 kcal",
+					"distance": "2500",
+					"title": "Technique et glisse",
+					"objective": "Travailler la coordination et l’allongement du geste en crawl.",
+					"warmups": [
+						{
+							"title": "Échauffement à sec",
+							"duration": 5,
+							"steps": [
+								"Mobilité épaules et nuque",
+								"2 x 30 sec gainage dynamique"
+							]
+						},
+						{
+							"title": "Échauffement dans l’eau",
+							"duration": 10,
+							"steps": [
+								"300 m crawl souple",
+								"4 x 50 m éducatifs (25 m rattrapé / 25 m crawl complet)"
+							]
+						}
+					],
+					"mainSets": [
+						{
+							"title": "Bloc principal",
+							"duration": 40,
+							"steps": [
+								"6 x 100 m en Z2, allure 2:30/100m récup 20 sec",
+								"4 x 50 m battements avec planche",
+								"3 x 100 m en respiration 3-5-3"
+							]
+						}
+					],
+					"cooldown": {
+						"title": "Retour au calme",
+						"duration": 5,
+						"steps": ["200 m crawl relâché"]
+					},
+					"status": "PLANNED",
+					"date": "2025-06-02"
+				},
+				"natation_technique_w2": {
+					"weekid": "semaine2_progressive",
+					"sessionId": "natation_technique_w2",
+					"type": "Natation",
+					"intensity": 2,
+					"duration": "60",
+					"advice": "💡 Concentre-toi sur ta respiration bilatérale et l’allongement de ta glisse.",
+					"estimatedCalorie": "500 kcal",
+					"distance": "2500",
+					"title": "Technique et glisse",
+					"objective": "Travailler la coordination et l’allongement du geste en crawl.",
+					"warmups": [
+						{
+							"title": "Échauffement à sec",
+							"duration": 5,
+							"steps": [
+								"Mobilité épaules et nuque",
+								"2 x 30 sec gainage dynamique"
+							]
+						},
+						{
+							"title": "Échauffement dans l’eau",
+							"duration": 10,
+							"steps": [
+								"300 m crawl souple",
+								"4 x 50 m éducatifs (25 m rattrapé / 25 m crawl complet)"
+							]
+						}
+					],
+					"mainSets": [
+						{
+							"title": "Bloc principal",
+							"duration": 40,
+							"steps": [
+								"3 x 200 m en Z2 allure 2:45/100m, récup 20 sec",
+								"4 x 50 m battements avec planche",
+								"3 x 100 m allure 2:35/100m en respiration 3-5-3"
+							]
+						}
+					],
+					"cooldown": {
+						"title": "Retour au calme",
+						"duration": 5,
+						"steps": ["200 m crawl relâché"]
+					},
+					"status": "PLANNED",
+					"date": "2025-06-09"
+				},
+				"velo_endurance": {
+					"weekid": "semaine1_base",
+					"sessionId": "velo_endurance",
+					"type": "Cyclisme",
+					"intensity": 2,
+					"duration": "90",
+					"advice": "💡 Pédale rond, cadence fluide, concentre-toi sur ta respiration.",
+					"estimatedCalorie": "700 kcal",
+					"distance": "40000",
+					"title": "Sortie d’endurance douce",
+					"objective": "Travailler l’endurance fondamentale à basse intensité.",
+					"warmups": [
+						{
+							"title": "Échauffement",
+							"duration": 15,
+							"steps": ["15 min en Zone 1, cadence 90-95 rpm"]
+						}
+					],
+					"mainSets": [
+						{
+							"title": "Bloc principal",
+							"duration": 60,
+							"steps": [
+								"60 min en Zone 2, cadence 85-90 rpm",
+								"Tous les 15 min : 1 min à 100 rpm"
+							]
+						},
+						{
+							"title": "Variante Home trainer",
+							"steps": [
+								"50 min à 150 watts, cadence 85-90 rpm",
+								"Tous les 15 min : 1 min à 180 watts 100 rpm"
+							]
+						}
+					],
+					"cooldown": {
+						"title": "Retour au calme",
+						"duration": 15,
+						"steps": ["15 min en Zone 1, cadence libre"]
+					},
+					"status": "PLANNED",
+					"date": "2025-06-04"
+				},
+				"velo_endurance_w2": {
+					"weekid": "semaine2_progressive",
+					"sessionId": "velo_endurance_w2",
+					"type": "Cyclisme",
+					"intensity": 2,
+					"duration": "90",
+					"advice": "💡 Pédale rond, cadence fluide, concentre-toi sur ta respiration.",
+					"estimatedCalorie": "700 kcal",
+					"distance": "40000",
+					"title": "Sortie d’endurance douce",
+					"objective": "Travailler l’endurance fondamentale à basse intensité.",
+					"warmups": [
+						{
+							"title": "Échauffement",
+							"duration": 15,
+							"steps": ["15 min en Zone 1, cadence 90-95 rpm"]
+						}
+					],
+					"mainSets": [
+						{
+							"title": "Bloc principal",
+							"duration": 60,
+							"steps": [
+								"60 min en Zone 2, cadence 85-90 rpm",
+								"Tous les 10 min : 1 min à 105 rpm"
+							]
+						},
+						{
+							"title": "Variante Home trainer",
+							"steps": [
+								"50 min à 155 watts, cadence 85-90 rpm",
+								"Tous les 15 min : 1 min à 185 watts 100 rpm"
+							]
+						}
+					],
+					"cooldown": {
+						"title": "Retour au calme",
+						"duration": 15,
+						"steps": ["15 min en Zone 1, cadence libre"]
+					},
+					"status": "PLANNED",
+					"date": "2025-06-11"
+				},
+				"course_endurance": {
+					"weekid": "semaine1_base",
+					"sessionId": "course_endurance",
+					"type": "Course à pied",
+					"intensity": 2,
+					"duration": "60",
+					"advice": "💡 Reste relâché, cadence fluide, respiration régulière.",
+					"estimatedCalorie": "600 kcal",
+					"distance": "11000",
+					"title": "Footing en endurance fondamentale",
+					"objective": "Travailler ton endurance aérobie à une allure confortable.",
+					"warmups": [
+						{
+							"title": "Échauffement",
+							"duration": 10,
+							"steps": [
+								"10 min de footing lent",
+								"3 x 50 m foulées progressives"
+							]
+						}
+					],
+					"mainSets": [
+						{
+							"title": "Bloc principal",
+							"duration": 40,
+							"steps": ["40 min en zone 2 (allure confortable, 5’30 à 5’45/km)"]
+						}
+					],
+					"cooldown": {
+						"title": "Retour au calme",
+						"duration": 10,
+						"steps": ["10 min de footing très lent, étirements légers"]
+					},
+					"status": "PLANNED",
+					"date": "2025-06-05"
+				},
+				"course_endurance_w2": {
+					"weekid": "semaine2_progressive",
+					"sessionId": "course_endurance_w2",
+					"type": "Course à pied",
+					"intensity": 2,
+					"duration": "65",
+					"advice": "💡 Pense à garder un relâchement total dans les épaules.",
+					"estimatedCalorie": "650 kcal",
+					"distance": "12000",
+					"title": "Footing allongé",
+					"objective": "Augmenter progressivement la durée sans augmenter l’intensité.",
+					"warmups": [
+						{
+							"title": "Échauffement",
+							"duration": 10,
+							"steps": [
+								"10 min de footing lent",
+								"3 x 50 m foulées progressives"
+							]
+						}
+					],
+					"mainSets": [
+						{
+							"title": "Bloc principal",
+							"duration": 45,
+							"steps": ["45 min en zone 2 (allure 5’25 à 5’40/km)"]
+						}
+					],
+					"cooldown": {
+						"title": "Retour au calme",
+						"duration": 10,
+						"steps": ["10 min footing lent + étirements actifs"]
+					},
+					"status": "PLANNED",
+					"date": "2025-06-12"
+				},
+				"renforcement_general": {
+					"weekid": "semaine1_base",
+					"sessionId": "renforcement_general",
+					"type": "Renforcement",
+					"intensity": 2,
+					"duration": "45",
+					"advice": "💡 Concentre-toi sur la qualité d’exécution des mouvements.",
+					"estimatedCalorie": "350 kcal",
+					"distance": "",
+					"title": "Renforcement tronc & posture",
+					"objective": "Renforcer la stabilité du tronc pour les trois disciplines.",
+					"warmups": [
+						{
+							"title": "Échauffement",
+							"duration": 5,
+							"steps": ["5 min de jumping jacks et mobilisations dynamiques"]
+						}
+					],
+					"mainSets": [
+						{
+							"title": "Bloc principal",
+							"duration": 35,
+							"steps": [
+								"3 x : Planche 30 sec, gainage latéral 30 sec de chaque côté",
+								"3 x : Bird-dog 10 reps / côté",
+								"3 x : Relevés de bassin 15 reps"
+							]
+						}
+					],
+					"cooldown": {
+						"title": "Retour au calme",
+						"duration": 5,
+						"steps": ["Étirements : psoas, lombaires, ischios, épaules"]
+					},
+					"status": "PLANNED",
+					"date": "2025-06-06"
+				},
+				"renforcement_general_w2": {
+					"weekid": "semaine2_progressive",
+					"sessionId": "renforcement_general_w2",
+					"type": "Renforcement",
+					"intensity": 2,
+					"duration": "45",
+					"advice": "💡 Engage ton transverse à chaque mouvement, pas seulement les abdos visibles.",
+					"estimatedCalorie": "350 kcal",
+					"distance": "",
+					"title": "Stabilité core & prévention",
+					"objective": "Prévenir les douleurs lombaires avec du travail postural efficace.",
+					"warmups": [
+						{
+							"title": "Échauffement",
+							"duration": 5,
+							"steps": [
+								"2 min corde à sauter",
+								"3 min mobilisation hanches et épaules"
+							]
+						}
+					],
+					"mainSets": [
+						{
+							"title": "Bloc principal",
+							"duration": 35,
+							"steps": [
+								"3 x : Deadbug 12 reps / Bird-dog 10 reps / Gainage planche 40 sec",
+								"3 x : Ponts fessiers 15 reps / Abduction avec élastique 15 reps/côté"
+							]
+						}
+					],
+					"cooldown": {
+						"title": "Retour au calme",
+						"duration": 5,
+						"steps": ["Étirements actifs jambes et dos, respiration profonde"]
+					},
+					"status": "PLANNED",
+					"date": "2025-06-13"
+				},
+				"enchainement_semaine2": {
+					"weekid": "semaine2",
+					"sessionId": "enchainement_semaine2",
+					"type": "Enchaînement vélo-course",
+					"intensity": 4,
+					"duration": "120",
+					"advice": "💡 Active les bras dès les premières foulées pour relancer les jambes.",
+					"estimatedCalorie": "500 kcal",
+					"distance": "39000",
+					"title": "Allure M & transition rapide",
+					"objective": "Simuler un enchaînement avec allure spécifique et fatigue contrôlée.",
+					"warmups": [
+						{
+							"title": "Échauffement vélo",
+							"duration": 15,
+							"steps": ["10 min à 110W", "3 x 30 sec à 200W, récup 1 min"]
+						}
+					],
+					"mainSets": [
+						{
+							"title": "Bloc principal vélo",
+							"duration": 60,
+							"steps": [
+								"2 x 20 min à 180–190W, relance 30 sec à 220W toutes les 6 min",
+								"Récup 5 min à 130W entre les blocs",
+								"5 min spinning 100 rpm"
+							]
+						},
+						{
+							"title": "Transition",
+							"duration": 3,
+							"steps": ["Pose vélo, change chaussures, départ CAP immédiat"]
+						},
+						{
+							"title": "Bloc principal CAP",
+							"duration": 40,
+							"steps": [
+								"20 min à 5’10/km",
+								"10 min à 4’50/km",
+								"10 min à 5’30/km"
+							]
+						}
+					],
+					"cooldown": {
+						"title": "Retour au calme",
+						"duration": 0,
+						"steps": []
+					},
+					"status": "PLANNED",
+					"date": "2025-06-29"
+				}
+			}
+		}
+	}
+}

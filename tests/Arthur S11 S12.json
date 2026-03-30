@@ -1,0 +1,468 @@
+{
+	"cap_allure_semi_3x8_s11": {
+		"weekid": "semaine11_seuil",
+		"sessionId": "cap_allure_semi_3x8_s11",
+		"type": "Course à pied",
+		"intensity": 3,
+		"duration": "65",
+		"advice": "Tiens ton allure semi de façon régulière, sans partir trop vite. La clé c’est la constance.",
+		"estimatedCalorie": "720 kcal",
+		"distance": "12000",
+		"title": "3 x 8’ allure semi",
+		"objective": "Améliorer la capacité à tenir l’allure semi sur des fractions longues et régulières.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 15,
+				"steps": [
+					"10 min footing Z1",
+					"5 min éducatifs (montées de genoux, talons-fesses, accélérations légères)"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 35,
+				"steps": [
+					"3 x 8 min allure semi (Z3, 80-85 % FC max)",
+					"Récupération 3 min footing Z1 entre chaque bloc"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 15,
+			"steps": [
+				"10 min footing souple",
+				"5 min étirements mollets/ischios/quads"
+			]
+		},
+		"status": "PLANNED",
+		"date": "2025-08-26"
+	},
+	"natation_educatifs_seuil_s11": {
+		"weekid": "semaine11_seuil",
+		"sessionId": "natation_educatifs_seuil_s11",
+		"type": "Natation",
+		"intensity": 3,
+		"duration": "60",
+		"advice": "Travaille ta glisse et garde ton relâchement même dans les séries plus rapides.",
+		"estimatedCalorie": "550 kcal",
+		"distance": "2200",
+		"title": "2000 m éducatifs + séries seuil",
+		"objective": "Travailler la technique et renforcer la capacité à nager longtemps à une allure soutenue mais maîtrisée.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 15,
+				"steps": [
+					"200 m crawl souple",
+					"4 x 50 m éducatifs (1 bras, rattrapé, poings fermés, respiration 3T)",
+					"100 m dos crawlé relâché"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 30,
+				"steps": [
+					"6 x 100 m allure seuil (85 %), récup 20 sec",
+					"4 x 50 m jambes avec planche",
+					"4 x 100 m nage complète en glisse"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 15,
+			"steps": ["200 m nage libre douce", "100 m dos"]
+		},
+		"status": "PLANNED",
+		"date": "2025-08-27"
+	},
+	"cap_footing_recup_s11": {
+		"weekid": "semaine11_seuil",
+		"sessionId": "cap_footing_recup_s11",
+		"type": "Course à pied",
+		"intensity": 1,
+		"duration": "45",
+		"advice": "Ce footing doit être facile, tu dois pouvoir discuter sans problème. Laisse ton corps assimiler.",
+		"estimatedCalorie": "400 kcal",
+		"distance": "8000",
+		"title": "Footing récupération active",
+		"objective": "Favoriser la récupération active et maintenir le volume de course sans ajouter de fatigue.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 5,
+				"steps": ["5 min footing lent"]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 35,
+				"steps": [
+					"Footing continu en Z1 (60-70 % FC max) sur terrain plat ou souple"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 5,
+			"steps": ["5 min marche + étirements légers"]
+		},
+		"status": "PLANNED",
+		"date": "2025-08-28"
+	},
+	"renfo_gainage_jambes_s11": {
+		"weekid": "semaine11_seuil",
+		"sessionId": "renfo_gainage_jambes_s11",
+		"type": "Renforcement",
+		"intensity": 2,
+		"duration": "35",
+		"advice": "Travaille avec contrôle, le but est la stabilité et la force fonctionnelle, pas la vitesse.",
+		"estimatedCalorie": "220 kcal",
+		"distance": "0",
+		"title": "Gainage dynamique + jambes",
+		"objective": "Renforcer le tronc et les jambes pour améliorer l’économie de course et prévenir les blessures.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 5,
+				"steps": [
+					"Mobilisation des hanches et des épaules",
+					"20 squats poids de corps"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 25,
+				"steps": [
+					"2 x (planche dynamique 40 sec, planche latérale 30 sec/ côté, mountain climbers 20 reps)",
+					"2 x (fentes avant 12 reps/jambe, squats sautés 12 reps, hip thrust 15 reps)"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 5,
+			"steps": ["Étirements : quadriceps, ischios, fessiers"]
+		},
+		"status": "PLANNED",
+		"date": "2025-08-29"
+	},
+	"velo_endurance_active_s11": {
+		"weekid": "semaine11_seuil",
+		"sessionId": "velo_endurance_active_s11",
+		"type": "Cyclisme",
+		"intensity": 3,
+		"duration": "135",
+		"advice": "Reste en Z2-Z3, cadence fluide (85-90 rpm). Dans les bosses, contrôle ton effort pour ne pas dépasser le seuil.",
+		"estimatedCalorie": "950 kcal",
+		"distance": "65000",
+		"title": "Sortie vallonnée endurance active",
+		"objective": "Développer l’endurance et habituer les jambes à encaisser du D+ tout en gardant une allure régulière.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 15,
+				"steps": ["15 min roulage en Z1-Z2, cadence > 90 rpm"]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 100,
+				"steps": [
+					"Sortie vallonnée de 65 km en Z2-Z3",
+					"Inclure 3 x 10 min tempo en faux-plat montant (Z3), récup 5 min souple"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 20,
+			"steps": ["10 min roulage Z1", "Étirements hors selle 10 min"]
+		},
+		"status": "PLANNED",
+		"date": "2025-08-30"
+	},
+	"cap_sortie_longue_prog_s11": {
+		"weekid": "semaine11_seuil",
+		"sessionId": "cap_sortie_longue_prog_s11",
+		"type": "Course à pied",
+		"intensity": 3,
+		"duration": "85",
+		"advice": "Commence vraiment tranquille, tu dois sentir que tu pourrais continuer à la fin. Le but est d’ancrer la régularité.",
+		"estimatedCalorie": "880 kcal",
+		"distance": "15000",
+		"title": "Sortie longue progressive",
+		"objective": "Construire une base d’endurance solide et apprendre à finir plus fort après un effort long.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 10,
+				"steps": ["10 min footing Z1 (très facile)"]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 65,
+				"steps": [
+					"45 min footing en Z2 (allure endurance)",
+					"20 min allure proche semi (Z3, 80-85 % FC max)"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 10,
+			"steps": [
+				"5 min footing très lent",
+				"5 min étirements mollets/ischios/quads"
+			]
+		},
+		"status": "PLANNED",
+		"date": "2025-08-31"
+	},
+	"cap_10x400_allure10k_s12": {
+		"weekid": "semaine12_vitesse",
+		"sessionId": "cap_10x400_allure10k_s12",
+		"type": "Course à pied",
+		"intensity": 4,
+		"duration": "65",
+		"advice": "Reste bien relâché dans les épaules et concentre-toi sur ta cadence. Chaque 400 m doit être régulier, pas plus vite au début.",
+		"estimatedCalorie": "700 kcal",
+		"distance": "11000",
+		"title": "10 x 400 m allure 10 km",
+		"objective": "Améliorer la vitesse spécifique 10 km et la capacité à répéter des efforts rapides avec récupération courte.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 15,
+				"steps": [
+					"10 min footing souple",
+					"5 min éducatifs (montées de genoux, talons-fesses, foulées bondissantes)"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 35,
+				"steps": [
+					"10 x 400 m allure 10 km (Z4, ~4:20-4:25/km)",
+					"Récupération 1’15 footing lent entre les fractions"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 15,
+			"steps": [
+				"10 min footing très lent",
+				"5 min étirements mollets/ischios/quads"
+			]
+		},
+		"status": "PLANNED",
+		"date": "2025-09-02"
+	},
+	"natation_appuis_rapides_s12": {
+		"weekid": "semaine12_vitesse",
+		"sessionId": "natation_appuis_rapides_s12",
+		"type": "Natation",
+		"intensity": 3,
+		"duration": "55",
+		"advice": "Cherche la précision et la force dans tes appuis, surtout sur les séries rapides. Ne sacrifie pas la technique.",
+		"estimatedCalorie": "520 kcal",
+		"distance": "2000",
+		"title": "Travail d’appuis + séries rapides",
+		"objective": "Renforcer la propulsion grâce aux appuis et développer la capacité à nager vite en maintenant une bonne technique.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 10,
+				"steps": [
+					"200 m crawl souple",
+					"4 x 50 m éducatifs (un bras, poings fermés, rattrapé, respiration 3T)"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 35,
+				"steps": [
+					"6 x 100 m en nage complète avec plaquettes légères (récup 20 sec)",
+					"8 x 50 m rapides (Z4, récup 30 sec)",
+					"200 m en glisse souple"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 10,
+			"steps": ["200 m dos crawlé + brasse douce"]
+		},
+		"status": "PLANNED",
+		"date": "2025-09-03"
+	},
+	"cap_footing_vallonne_s12": {
+		"weekid": "semaine12_vitesse",
+		"sessionId": "cap_footing_vallonne_s12",
+		"type": "Course à pied",
+		"intensity": 2,
+		"duration": "50",
+		"advice": "Cours relâché, laisse le terrain dicter le rythme. Reste en aisance respiratoire en montée comme en descente.",
+		"estimatedCalorie": "450 kcal",
+		"distance": "9000",
+		"title": "Footing vallonné en aisance",
+		"objective": "Entretenir l’endurance fondamentale et renforcer musculairement grâce au terrain naturel vallonné.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 5,
+				"steps": ["5 min footing plat Z1"]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 40,
+				"steps": [
+					"Footing vallonné continu en Z1-Z2",
+					"Monter les côtes à effort contrôlé, relâcher en descente"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 5,
+			"steps": ["5 min footing lent + étirements légers"]
+		},
+		"status": "PLANNED",
+		"date": "2025-09-04"
+	},
+	"renfo_core_stabilite_s12": {
+		"weekid": "semaine12_vitesse",
+		"sessionId": "renfo_core_stabilite_s12",
+		"type": "Renforcement",
+		"intensity": 2,
+		"duration": "30",
+		"advice": "Prends le temps d’exécuter chaque mouvement avec précision, la stabilité est plus importante que la vitesse.",
+		"estimatedCalorie": "200 kcal",
+		"distance": "0",
+		"title": "Core & stabilité bassin",
+		"objective": "Renforcer le tronc et stabiliser le bassin pour améliorer la foulée et l’efficacité en course.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 5,
+				"steps": [
+					"Mobilisation articulaire (hanches, dos, épaules)",
+					"20 squats poids de corps"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 20,
+				"steps": [
+					"3 x planche ventrale dynamique 40 sec",
+					"3 x planche latérale 30 sec de chaque côté",
+					"2 x 12 fentes arrière avec rotation du tronc",
+					"2 x 15 hip thrust"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 5,
+			"steps": ["Étirements : psoas, ischios, bas du dos"]
+		},
+		"status": "PLANNED",
+		"date": "2025-09-05"
+	},
+	"velo_blocs_tempo_bosse_s12": {
+		"weekid": "semaine12_vitesse",
+		"sessionId": "velo_blocs_tempo_bosse_s12",
+		"type": "Cyclisme",
+		"intensity": 4,
+		"duration": "120",
+		"advice": "Dans les bosses, tiens ton rythme en Z3 sans dépasser ton seuil. Concentre-toi sur la fluidité du pédalage.",
+		"estimatedCalorie": "900 kcal",
+		"distance": "60000",
+		"title": "2h avec blocs tempo en bosse",
+		"objective": "Améliorer la tolérance musculaire et la puissance en côte tout en gardant de l’endurance.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 15,
+				"steps": ["15 min roulage Z1-Z2, cadence 90 rpm"]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 90,
+				"steps": [
+					"3 x 12 min tempo en bosse (Z3, 70-80 % FC max), récup 6 min roulage",
+					"30 min endurance Z2 sur terrain vallonné"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 15,
+			"steps": ["10 min roulage souple Z1", "5 min étirements hors selle"]
+		},
+		"status": "PLANNED",
+		"date": "2025-09-06"
+	},
+	"cap_sortie_longue_semi_s12": {
+		"weekid": "semaine12_vitesse",
+		"sessionId": "cap_sortie_longue_semi_s12",
+		"type": "Course à pied",
+		"intensity": 4,
+		"duration": "95",
+		"advice": "Garde une allure souple sur la première partie, puis sois régulier sur les blocs allure semi. C’est une séance clé.",
+		"estimatedCalorie": "950 kcal",
+		"distance": "16000",
+		"title": "Sortie longue endurance + 3 x 5’ allure semi",
+		"objective": "Renforcer l’endurance et habituer le corps à placer des blocs allure semi en fin de sortie longue.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 10,
+				"steps": ["10 min footing Z1"]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 75,
+				"steps": [
+					"60 min footing en Z2 (allure endurance)",
+					"3 x 5 min allure semi (Z3, 80-85 % FC max), récup 2 min footing lent"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 10,
+			"steps": [
+				"5 min footing très lent",
+				"5 min étirements actifs (mollets, ischios, quadriceps)"
+			]
+		},
+		"status": "PLANNED",
+		"date": "2025-09-07"
+	}
+}

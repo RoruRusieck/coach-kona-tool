@@ -1,0 +1,212 @@
+{
+  "cap_footing_educatifs_mardi_s1": {
+    "weekid": "semaine1_transition",
+    "sessionId": "cap_footing_educatifs_mardi_s1",
+    "type": "Course à pied",
+    "intensity": 1,
+    "duration": "50",
+    "advice": "💡 C’est une séance de relance douce. Respiration facile, et beaucoup d’attention sur ta technique de course.",
+    "estimatedCalorie": "500 kcal",
+    "distance": "8500",
+    "title": "Course à pied – Footing récup + éducatifs foulée",
+    "objective": "Activer en douceur la machine après la course, corriger la posture et relancer ta dynamique de course.",
+    "warmups": [
+      {
+        "title": "Échauffement",
+        "duration": 10,
+        "steps": [
+          "10 min footing très léger (Z1)",
+          "Mobilité chevilles/genoux/hanches"
+        ]
+      }
+    ],
+    "mainSets": [
+      {
+        "title": "Bloc principal",
+        "duration": 30,
+        "steps": [
+          "15 min footing souple à 5'45–6'00/km",
+          "5 x 30 m éducatifs (talons-fesses, montées de genoux, pas chassés, jambes tendues, foulées bondissantes)",
+          "10 min footing relâché pour assimiler"
+        ]
+      }
+    ],
+    "cooldown": {
+      "title": "Retour au calme",
+      "duration": 10,
+      "steps": [
+        "5 min marche ou footing lent",
+        "Étirements dynamiques (ischios, mollets, psoas)"
+      ]
+    },
+    "status": "PLANNED",
+    "date": "2025-09-23"
+  },
+  "renfo_core_posture_mercredi_s1": {
+    "weekid": "semaine1_transition",
+    "sessionId": "renfo_core_posture_mercredi_s1",
+    "type": "Renforcement",
+    "intensity": 2,
+    "duration": "30",
+    "advice": "💡 Qualité avant quantité. Le but est de créer une posture solide pour encaisser les sorties longues à venir.",
+    "estimatedCalorie": "200 kcal",
+    "distance": "",
+    "title": "Renforcement – Core & posture spécifique course",
+    "objective": "Solidifier la ceinture abdominale, améliorer la posture et préparer la résistance posturale pour les sorties longues.",
+    "warmups": [
+      {
+        "title": "Activation articulaire",
+        "duration": 5,
+        "steps": [
+          "Cercles de hanches",
+          "Ponts de fessiers dynamiques",
+          "Mobility flow : gainage + chien tête en bas"
+        ]
+      }
+    ],
+    "mainSets": [
+      {
+        "title": "Bloc principal",
+        "duration": 20,
+        "steps": [
+          "3 x 30 sec gainage bras tendus",
+          "3 x 30 sec gainage latéral",
+          "2 x 12 squats jump + posture dos droite",
+          "3 x 20 sec planche bras tendus + extension jambe"
+        ]
+      }
+    ],
+    "cooldown": {
+      "title": "Retour au calme",
+      "duration": 5,
+      "steps": ["Étirements du dos, hanches, abdominaux"]
+    },
+    "status": "PLANNED",
+    "date": "2025-09-24"
+  },
+  "cap_3x6min_500_jeudi_s1": {
+    "weekid": "semaine1_transition",
+    "sessionId": "cap_3x6min_500_jeudi_s1",
+    "type": "Course à pied",
+    "intensity": 3,
+    "duration": "60",
+    "advice": "💡 Tu dois rester relâché malgré l’allure. Ce n’est pas une séance pour forcer, mais pour caler ton rythme.",
+    "estimatedCalorie": "650 kcal",
+    "distance": "11000",
+    "title": "Course à pied – 3 x 6 min à 5’00/km",
+    "objective": "Travailler l'allure de soutien, installer un rythme proche du marathon sans accumuler de fatigue.",
+    "warmups": [
+      {
+        "title": "Échauffement",
+        "duration": 15,
+        "steps": [
+          "10 min footing lent",
+          "3 x 30 sec progressif (Z2–Z3)",
+          "Mobilité hanches + foulées actives"
+        ]
+      }
+    ],
+    "mainSets": [
+      {
+        "title": "Bloc principal",
+        "duration": 30,
+        "steps": [
+          "3 x 6 min à 5’00/km, récup 2 min footing entre",
+          "Focus : cadence, économie gestuelle"
+        ]
+      }
+    ],
+    "cooldown": {
+      "title": "Retour au calme",
+      "duration": 15,
+      "steps": ["10 min footing Z1", "Étirements légers + hydratation"]
+    },
+    "status": "PLANNED",
+    "date": "2025-09-25"
+  },
+  "velo_ou_cap_recup_samedi_s1": {
+    "weekid": "semaine1_transition",
+    "sessionId": "velo_ou_cap_recup_samedi_s1",
+    "type": "Cyclisme",
+    "intensity": 1,
+    "duration": "60",
+    "advice": "💡 Que tu sois à vélo ou en CAP douce, l’objectif est le même : bouger sans fatigue, relancer la circulation, mobiliser les articulations.",
+    "estimatedCalorie": "400 kcal",
+    "distance": "",
+    "title": "Vélo récup ou CAP douce – Mobilisation générale",
+    "objective": "Délasser le corps sans créer de charge, améliorer la récupération active et préparer la sortie longue du lendemain.",
+    "warmups": [
+      {
+        "title": "Échauffement (CAP ou Vélo)",
+        "duration": 10,
+        "steps": [
+          "CAP : 10 min footing à 6’00–6’30/km",
+          "Vélo : 10 min Z1 à cadence libre (85–90 rpm)"
+        ]
+      }
+    ],
+    "mainSets": [
+      {
+        "title": "Bloc principal",
+        "duration": 40,
+        "steps": [
+          "CAP : 40 min footing souple Z1 (5’50–6’00/km)",
+          "ou Vélo : 40 min à 120–140 W, cadence libre, terrain plat"
+        ]
+      }
+    ],
+    "cooldown": {
+      "title": "Retour au calme",
+      "duration": 10,
+      "steps": [
+        "CAP : 5 min marche + étirements dynamiques",
+        "ou Vélo : 10 min roulage Z1 + gainage léger post-séance"
+      ]
+    },
+    "status": "PLANNED",
+    "date": "2025-09-27"
+  },
+  "cap_sortie_longue_douce_dimanche_s1": {
+    "weekid": "semaine1_transition",
+    "sessionId": "cap_sortie_longue_douce_dimanche_s1",
+    "type": "Course à pied",
+    "intensity": 3,
+    "duration": "90",
+    "advice": "💡 Aujourd’hui c’est l’endurance qui parle. Concentre-toi sur ta respiration, ta posture, et garde une allure fluide.",
+    "estimatedCalorie": "1050 kcal",
+    "distance": "18000",
+    "title": "Course à pied – Sortie longue douce",
+    "objective": "Construire la base aérobie et la résistance musculaire. Pose les fondations de l’allure marathon sans tension.",
+    "warmups": [
+      {
+        "title": "Échauffement",
+        "duration": 10,
+        "steps": [
+          "10 min footing très lent (Z1)",
+          "Mobilité hanches/chevilles",
+          "3 x 20 sec de relance active"
+        ]
+      }
+    ],
+    "mainSets": [
+      {
+        "title": "Bloc principal",
+        "duration": 70,
+        "steps": [
+          "60 min à 5’45/km (Z2)",
+          "10 min à 5’15/km pour réveiller la foulée"
+        ]
+      }
+    ],
+    "cooldown": {
+      "title": "Retour au calme",
+      "duration": 10,
+      "steps": [
+        "10 min footing très lent ou marche",
+        "Étirements passifs mollets, ischios, dos"
+      ]
+    },
+    "status": "PLANNED",
+    "date": "2025-09-28"
+  }
+}

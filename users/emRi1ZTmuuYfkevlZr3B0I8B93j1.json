@@ -1,0 +1,94 @@
+{
+  "role": "USER",
+  "email": "Olivier.Malaurine@gmail.com",
+  "lastname": "Olivier",
+  "firstname": "Malaurine",
+  "acceptConditions": true,
+  "uid": "emRi1ZTmuuYfkevlZr3B0I8B93j1",
+  "triathlonGoals": {
+    "date": "2026-04-12",
+    "distance": "XXL (3,8km / 180km / 42km)",
+    "name": "Paris",
+    "fieldType": "Vallonné",
+    "timeGoals": {
+      "running": {
+        "hours": "4",
+        "seconds": "",
+        "minutes": ""
+      },
+      "swimming": {
+        "hours": "1",
+        "seconds": "",
+        "minutes": ""
+      },
+      "biking": {
+        "hours": "3",
+        "seconds": "",
+        "minutes": ""
+      },
+      "global": {
+        "seconds": "",
+        "hours": "8",
+        "minutes": ""
+      }
+    }
+  },
+  "athleteProfile": {
+    "gender": "FEMALE",
+    "weight": "63",
+    "age": "30",
+    "height": "163",
+    "nbTriathlonExecuted": "0",
+    "level": "Débutant",
+    "vma": "",
+    "natationExperience": {
+      "distance": null,
+      "level": "Débutant",
+      "chrono": null,
+      "poolType": null
+    },
+    "bikeExperience": {
+      "ftp": "",
+      "distance": "",
+      "level": "Débutant",
+      "explanation": null,
+      "chrono": null
+    },
+    "experience": "0-1 an",
+    "runningExperience": {
+      "distance": "21",
+      "level": "Intermédiaire",
+      "chrono": {
+        "hours": "1",
+        "seconds": "09",
+        "minutes": "46"
+      }
+    },
+    "transitionSkills": {
+      "swimToBike": false,
+      "bikeToRun": false
+    },
+    "hasClubLicense": false,
+    "club": null,
+    "clubSessions": null,
+    "startDate": "2025-12-22",
+    "trainingSessions": "4",
+    "trainningHours": "10",
+    "dayOff": "Samedi",
+    "injuries": null,
+    "sleepHours": "7",
+    "trainingFrequency": "5",
+    "availability": {
+      "Monday": "4",
+      "Thursday": "2",
+      "Friday": "2",
+      "Sunday": "4",
+      "Wednesday": "2",
+      "Tuesday": "2",
+      "Saturday": "4"
+    }
+  },
+  "asCompleteForm": true,
+  "phone": "0669206234",
+  "department": "37"
+}

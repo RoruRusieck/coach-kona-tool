@@ -1,0 +1,92 @@
+{
+  "email": "rusiecki.romain@gmail.com",
+  "firstname": "Romain",
+  "lastname": "Rusiecki",
+  "uid": "QZiqsFLQXwRPS0aM0anlGI7cKVj1",
+  "acceptConditions": true,
+  "asCompleteForm": true,
+  "role": "USER",
+  "phone": "0623733811",
+  "department": "17",
+  "trainingStartDate": "2025-06-09",
+  "profile": {
+    "gender": "MALE",
+    "ageYears": 32,
+    "weightKg": 71,
+    "heightCm": 176
+  },
+  "triathlonExperience": {
+    "triathlonYears": "3-4 ans",
+    "triathlonsCompleted": 10,
+    "level": "intermediate",
+    "swimExperience": {
+      "level": "novice",
+      "distanceMeters": 3000,
+      "timeSeconds": 3000
+    },
+    "runningExperience": {
+      "level": "beginner",
+      "distanceMeters": 10,
+      "timeSeconds": 3060
+    },
+    "bikeExperience": {
+      "level": "novice",
+      "distanceMeters": null,
+      "timeSeconds": null,
+      "explanation": null
+    },
+    "transitionComfort": {
+      "swimToBike": false,
+      "bikeToRun": false
+    }
+  },
+  "club": {
+    "isMember": false,
+    "name": null,
+    "lockedSessionsNote": null
+  },
+  "metrics": {
+    "vmaKmh": 19,
+    "ftpWatts": null
+  },
+  "targetmaxWeeklyTraininghours": 10,
+  "targetWeeklyTrainingSessions": 6,
+  "currentWeeklyTrainingSessions": 6,
+  "averageSleepPerNightHours": 8,
+  "maxTrainingHoursPerDay": {
+    "monday": 2,
+    "thursday": 2,
+    "friday": 2,
+    "sunday": 2,
+    "wednesday": 2,
+    "tuesday": 2,
+    "saturday": 2
+  },
+  "preferredRestDay": "thursday",
+  "injuriesNote": null,
+  "equipment": {
+    "bike": {
+      "powerMeter": false
+    }
+  },
+  "triathlonGoals": {
+    "primary": {
+      "raceDate": "2025-06-28",
+      "raceName": "Tri de chez moi",
+      "timeGoals": {
+        "globalSeconds": 9000,
+        "swimSeconds": 2700,
+        "bikeSeconds": 4500,
+        "runSeconds": 1800
+      },
+      "distanceValues": {
+        "swim": "3km",
+        "bike": "80km",
+        "run": "20km"
+      },
+      "distanceLabel": "L",
+      "raceTerrain": "hilly"
+    },
+    "secondary": []
+  }
+}

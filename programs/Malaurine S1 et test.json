@@ -1,0 +1,229 @@
+{
+  "programs": {
+    "malaurine_marathon_paris_2026": {
+      "programId": "malaurine_marathon_paris_2026",
+      "slug": "malaurine_marathon_paris_2026",
+      "context": {
+        "objectif": "Préparer le Marathon de Paris du 12 avril 2026 (objectif : moins de 4h)",
+        "niveau": "Intermédiaire",
+        "disponibilités": "4 séances de course à pied par semaine, volume cible ~6h",
+        "principauxDéfis": [
+          "Calibrer précisément les allures (VMA, allure marathon)",
+          "Monter le volume en protégeant les genoux (antécédent fracture de fatigue du tibia)",
+          "Garder de la fraîcheur jusqu’aux courses intermédiaires (10 km, 20 km, semis)"
+        ]
+      },
+      "status": "OPEN",
+      "startDate": "2025-09-22",
+      "endDate": "2026-04-12",
+
+      "cycles": [
+        {
+          "title": "Cycle 1 – Base & Endurance fondamentale",
+          "startDate": "2025-09-22",
+          "endDate": "2025-10-19",
+          "order": 0,
+          "content": "📌 Objectif : construire une grosse caisse aérobie et solidifier les fondations. Accent sur l’endurance fondamentale (zone 2), du renforcement musculaire, et quelques rappels de vitesse.\n🎯 Course intermédiaire : 10 km de Tours (28/09/25) → objectif rythme maîtrisé autour de 5:00/km (≈ 50 min).\n⚡ Progression : finir en courant relâchée, sans chercher un record."
+        },
+        {
+          "title": "Cycle 2 – Endurance & Développement de l’allure spécifique",
+          "startDate": "2025-10-20",
+          "endDate": "2025-11-30",
+          "order": 1,
+          "content": "📌 Objectif : travailler les allures cibles (allure marathon : 5:25–5:30/km) + endurance musculaire sur terrain vallonné.\n🎯 Course intermédiaire : Marseille-Cassis 20 km (26/10/25) → objectif allure semi (≈ 5:10–5:15/km).\n⚡ Course exigeante avec du dénivelé → se servir comme entraînement intensif, pas comme course objectif."
+        },
+        {
+          "title": "Cycle 3 – Progression & Consolidation",
+          "startDate": "2025-12-01",
+          "endDate": "2026-02-15",
+          "order": 2,
+          "content": "📌 Objectif : augmentation du volume, sorties longues jusqu’à 2h30, intégration de séances à allure marathon (AM). Développement de la résistance mentale.\n🎯 Course intermédiaire : Semi de Barcelone (11/02/26) → gros test avant Paris. Objectif chrono autour de 1h45 (≈ 5:00/km).\n⚡ Semi plat et rapide, parfait pour valider la préparation."
+        },
+        {
+          "title": "Cycle 4 – Spécifique marathon",
+          "startDate": "2026-02-16",
+          "endDate": "2026-03-15",
+          "order": 3,
+          "content": "📌 Objectif : bloc clé avec du gros spécifique : sorties longues de 28–32 km, travail à allure marathon prolongé, gestion de l’alimentation/hydratation.\n🎯 Course intermédiaire : Semi de Lille (16/03/26) → course-test à allure marathon. Objectif : courir autour de 1h53–1h55 (≈ 5:25–5:30/km) → confirmer la capacité à tenir l’allure sur la moitié de la distance."
+        },
+        {
+          "title": "Cycle 5 – Affûtage",
+          "startDate": "2026-03-16",
+          "endDate": "2026-04-12",
+          "order": 4,
+          "content": "📌 Objectif : diminuer le volume tout en gardant l’intensité. Accent sur le repos, la fraîcheur musculaire, et les réglages nutrition/hydratation.\n🎯 Course principale : Marathon de Paris (12/04/26) → Objectif officiel : Sub 4h (≈ 5:40/km max à tenir du début à la fin)."
+        }
+      ],
+      "sessions": {
+        "cap_endurance_fondamentale_lundi_w1": {
+          "weekid": "semaine1_base",
+          "sessionId": "cap_endurance_fondamentale_lundi_w1",
+          "type": "Course à pied",
+          "intensity": 1,
+          "duration": "60",
+          "advice": "💡 Respiration nasale, épaules relâchées, cadence fluide.",
+          "estimatedCalorie": "600 kcal",
+          "distance": "10000",
+          "title": "Footing endurance fondamentale",
+          "objective": "Relancer la dynamique en aisance respiratoire (Z2) et poser les bases du cycle.",
+          "warmups": [
+            {
+              "title": "Échauffement",
+              "duration": 10,
+              "steps": ["10 min footing très lent (mise en route progressive)"]
+            }
+          ],
+          "mainSets": [
+            {
+              "title": "Bloc principal",
+              "duration": 40,
+              "steps": [
+                "40 min en Zone 2 (≈ 65–70 % FC max, allure ~6:00–6:15/km)",
+                "Focus : relâchement des bras, pose de pied sous le centre de gravité"
+              ]
+            }
+          ],
+          "cooldown": {
+            "title": "Retour au calme",
+            "duration": 10,
+            "steps": [
+              "5–10 min footing très lent ou marche",
+              "Étirements doux : mollets, ischios, fessiers (sans forcer)"
+            ]
+          },
+          "status": "PLANNED",
+          "date": "2025-09-22"
+        },
+        "cap_test_vma_demi_cooper_mercredi_w1": {
+          "weekid": "semaine1_base",
+          "sessionId": "cap_test_vma_demi_cooper_mercredi_w1",
+          "type": "Course à pied",
+          "intensity": 5,
+          "duration": "45",
+          "advice": "💡 Vise une allure régulière du début à la fin du test. Note la distance exacte.",
+          "estimatedCalorie": "450 kcal",
+          "distance": "6000",
+          "title": "Test VMA – Demi-Cooper (6 minutes à fond)",
+          "objective": "Déterminer la VMA pour calibrer toutes les allures des prochaines séances.",
+          "warmups": [
+            {
+              "title": "Échauffement",
+              "duration": 15,
+              "steps": [
+                "15 min footing facile",
+                "4 × 80 m d’accélérations progressives (retour en marche)"
+              ]
+            }
+          ],
+          "mainSets": [
+            {
+              "title": "Test Demi-Cooper",
+              "duration": 6,
+              "steps": [
+                "6 min à fond, le plus régulièrement possible",
+                "Calcul VMA (km/h) = Distance (m) ÷ 100 (ex : 1500 m → VMA 15 km/h)",
+                "Note la VMA et la distance pour définir les allures"
+              ]
+            }
+          ],
+          "cooldown": {
+            "title": "Retour au calme",
+            "duration": 10,
+            "steps": [
+              "10 min footing très lent",
+              "Hydratation + prise de notes (RPE, sensations)"
+            ]
+          },
+          "status": "PLANNED",
+          "date": "2025-09-24"
+        },
+        "cap_fractionne_court_vendredi_w1": {
+          "weekid": "semaine1_base",
+          "sessionId": "cap_fractionne_court_vendredi_w1",
+          "type": "Course à pied",
+          "intensity": 3,
+          "duration": "60",
+          "advice": "💡 Garde de la qualité sur chaque 200 m, reste gainé(e), récup pleine en footing.",
+          "estimatedCalorie": "650 kcal",
+          "distance": "8500",
+          "title": "Fractionné court – 10 × 200 m @100 % VMA",
+          "objective": "Activer la vitesse et la mécanique de course sans fatigue excessive.",
+          "warmups": [
+            {
+              "title": "Échauffement",
+              "duration": 15,
+              "steps": [
+                "15 min footing facile",
+                "3 × 80 m en progressif (retour en marche)"
+              ]
+            }
+          ],
+          "mainSets": [
+            {
+              "title": "Bloc principal",
+              "duration": 30,
+              "steps": [
+                "10 × 200 m à 100 % VMA",
+                "Récupération : 1 min footing lent entre chaque répétition",
+                "Focus : cadence rapide, posture haute, attaque médio-pied"
+              ]
+            }
+          ],
+          "cooldown": {
+            "title": "Retour au calme",
+            "duration": 15,
+            "steps": [
+              "10 min footing très lent",
+              "Étirements dynamiques légers (mollets, quadris, ischios)"
+            ]
+          },
+          "status": "PLANNED",
+          "date": "2025-09-26"
+        },
+        "cap_sortie_longue_progressive_dimanche_w1": {
+          "weekid": "semaine1_base",
+          "sessionId": "cap_sortie_longue_progressive_dimanche_w1",
+          "type": "Course à pied",
+          "intensity": 2,
+          "duration": "105",
+          "advice": "💡 Pense à t’hydrater toutes les 15–20 min. Reste relâché(e) et régulier(ère).",
+          "estimatedCalorie": "1100 kcal",
+          "distance": "17000",
+          "title": "Sortie longue progressive",
+          "objective": "Développer l’endurance et habituer le corps à des durées plus longues avec une légère progression d’allure.",
+          "warmups": [
+            {
+              "title": "Échauffement",
+              "duration": 15,
+              "steps": [
+                "15 min footing lent (aisance respiratoire)",
+                "Mobilité cheville/hanches rapide avant de partir si besoin"
+              ]
+            }
+          ],
+          "mainSets": [
+            {
+              "title": "Bloc principal",
+              "duration": 80,
+              "steps": [
+                "60 min en endurance fondamentale (≈ 65–70 % FC max, ~6:00–6:15/km)",
+                "20 min un peu plus soutenus (~5:45–5:50/km)",
+                "Focus : économie de course, régularité de la foulée"
+              ]
+            }
+          ],
+          "cooldown": {
+            "title": "Retour au calme",
+            "duration": 10,
+            "steps": [
+              "10 min footing très lent",
+              "Hydratation + 5 min d’étirements doux (mollets, ischios, fessiers)"
+            ]
+          },
+          "status": "PLANNED",
+          "date": "2025-09-28"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,300 @@
+{
+  "semaine4_natation_technique": {
+    "weekid": "semaine4",
+    "sessionId": "semaine4_natation_technique",
+    "type": "Natation",
+    "intensity": 2,
+    "duration": "45",
+    "advice": "💡 Ralentis volontairement ta nage sur les éducatifs pour sentir les appuis et l'équilibre.",
+    "estimatedCalorie": "300 kcal",
+    "distance": "1100",
+    "title": "Lundi 21 juillet – Natation – Travail technique & glisse – 45 min – 1100 m – Intensité 2/5",
+    "objective": "Focus sur la respiration, les éducatifs et l’économie de nage.",
+    "warmups": [
+      {
+        "title": "Échauffement à sec",
+        "duration": 5,
+        "steps": ["Mobilité épaules", "2 x 30 sec gainage bras tendus"]
+      },
+      {
+        "title": "Échauffement dans l’eau",
+        "duration": 10,
+        "steps": [
+          "200 m crawl souple",
+          "4 x 50 m éducatifs (rattrapé / glisse / poing fermé)"
+        ]
+      }
+    ],
+    "mainSets": [
+      {
+        "title": "Bloc principal",
+        "duration": 25,
+        "steps": [
+          "3 x 100 m Z2 (allure 2’45/100m), récup 20 sec",
+          "4 x 50 m avec respiration 3 temps, récup 20 sec"
+        ]
+      }
+    ],
+    "cooldown": {
+      "title": "Retour au calme",
+      "duration": 5,
+      "steps": ["200 m dos ou crawl très souple"]
+    },
+    "status": "PLANNED",
+    "date": "2025-07-21"
+  },
+  "semaine4_enchainement_nat_velo": {
+    "weekid": "semaine4",
+    "sessionId": "semaine4_enchainement_nat_velo",
+    "type": "Enchaînement nat-vélo",
+    "intensity": 3,
+    "duration": "90",
+    "advice": "💡 Prends ton temps dans la transition, le but est d’apprendre le geste et pas la vitesse.",
+    "estimatedCalorie": "550 kcal",
+    "distance": "15750",
+    "title": "Jeudi 24 juillet – Enchaînement – Natation + Vélo – 1h30 – 750 m + 15 km – Intensité 3/5",
+    "objective": "Découverte du combo natation/vélo, à faible intensité, sur les distances du tri S.",
+    "warmups": [
+      {
+        "title": "Échauffement natation",
+        "duration": 10,
+        "steps": ["200 m crawl facile", "4 x 50 m éducatifs légers"]
+      }
+    ],
+    "mainSets": [
+      {
+        "title": "Natation",
+        "duration": 20,
+        "steps": ["750 m en continu, allure Z2 (≈ 2’45–2’50/100m)"]
+      },
+      {
+        "title": "Transition",
+        "duration": 5,
+        "steps": ["Sortie de l’eau, changement rapide, départ vélo"]
+      },
+      {
+        "title": "Vélo",
+        "duration": 45,
+        "steps": [
+          "15 km à allure modérée, cadence libre, terrain plat ou légèrement vallonné"
+        ]
+      }
+    ],
+    "cooldown": {
+      "title": "Retour au calme",
+      "duration": 10,
+      "steps": ["5 min pédalage doux", "5 min d’étirements après vélo"]
+    },
+    "status": "PLANNED",
+    "date": "2025-07-24"
+  },
+  "semaine4_course_endurance": {
+    "weekid": "semaine4",
+    "sessionId": "semaine4_course_endurance",
+    "type": "Course à pied",
+    "intensity": 2,
+    "duration": "90",
+    "advice": "💡 Reste relâchée du début à la fin. Respiration nasale possible en Z1/Z2.",
+    "estimatedCalorie": "600 kcal",
+    "distance": "11000",
+    "title": "Dimanche 27 juillet – Course à pied – Endurance aérobie – 1h30 – 11 km – Intensité 2/5",
+    "objective": "Footing long et relâché, utile pour la récupération active et renforcer l’endurance.",
+    "warmups": [
+      {
+        "title": "Échauffement",
+        "duration": 10,
+        "steps": [
+          "10 min de footing lent",
+          "2 x 50 m éducatifs : montée de genoux / talons-fesses"
+        ]
+      }
+    ],
+    "mainSets": [
+      {
+        "title": "Bloc principal",
+        "duration": 65,
+        "steps": ["65 min en Z1–Z2, allure 5'50 à 6'15/km"]
+      }
+    ],
+    "cooldown": {
+      "title": "Retour au calme",
+      "duration": 15,
+      "steps": ["5 min footing lent", "10 min d’étirements actifs"]
+    },
+    "status": "PLANNED",
+    "date": "2025-07-27"
+  },
+  "semaine5_natation_seuil_hypoxie": {
+    "weekid": "semaine5",
+    "sessionId": "semaine5_natation_seuil_hypoxie",
+    "type": "Natation",
+    "intensity": 4,
+    "duration": "55",
+    "advice": "💡 Sur les séries en hypoxie, pense à bien expirer sous l’eau. La clé c’est le relâchement.",
+    "estimatedCalorie": "400 kcal",
+    "distance": "1300",
+    "title": "Lundi 28 juillet – Natation – Blocs soutenus + hypoxie – 55 min – 1300 m – Intensité 4/5",
+    "objective": "Blocs de 100 m en Z3 + travail en respiration 5/7, pour simuler la fatigue de course.",
+    "warmups": [
+      {
+        "title": "Échauffement à sec",
+        "duration": 5,
+        "steps": [
+          "Rotations épaules, cercle de bras",
+          "2 x 30 sec gainage ventral"
+        ]
+      },
+      {
+        "title": "Échauffement dans l’eau",
+        "duration": 10,
+        "steps": [
+          "200 m crawl souple",
+          "4 x 50 m éducatifs (poing fermé, respiration latérale)"
+        ]
+      }
+    ],
+    "mainSets": [
+      {
+        "title": "Bloc principal",
+        "duration": 30,
+        "steps": [
+          "4 x 100 m Z3 (2’35/100m), récup 20 sec",
+          "4 x 50 m en hypoxie (respiration 5/7), récup 30 sec"
+        ]
+      }
+    ],
+    "cooldown": {
+      "title": "Retour au calme",
+      "duration": 10,
+      "steps": ["200 m dos ou crawl relâché"]
+    },
+    "status": "PLANNED",
+    "date": "2025-07-28"
+  },
+
+  "semaine5_velo_tempo_relance": {
+    "weekid": "semaine5",
+    "sessionId": "semaine5_velo_tempo_relance",
+    "type": "Cyclisme",
+    "intensity": 4,
+    "duration": "90",
+    "advice": "💡 Ne cherche pas à faire une moyenne, concentre-toi sur ta cadence et ton aisance dans chaque relance.",
+    "estimatedCalorie": "600 kcal",
+    "distance": "35000",
+    "title": "Mercredi 30 juillet – Vélo – Relances & tempo – 1h30 – 35 km – Intensité 4/5",
+    "objective": "Travail en terrain vallonné ou en séries tempo avec cadence haute.",
+    "warmups": [
+      {
+        "title": "Échauffement",
+        "duration": 15,
+        "steps": ["10 min zone 1", "3 x 30 sec vélocité > 100 rpm, récup 1 min"]
+      }
+    ],
+    "mainSets": [
+      {
+        "title": "Bloc principal",
+        "duration": 45,
+        "steps": [
+          "3 x 10 min en Z3 (27–29 km/h), avec 3 relances de 20 sec par bloc",
+          "Récup 5 min souple entre les blocs"
+        ]
+      }
+    ],
+    "cooldown": {
+      "title": "Retour au calme",
+      "duration": 15,
+      "steps": ["15 min pédalage doux, cadence libre"]
+    },
+    "status": "PLANNED",
+    "date": "2025-07-30"
+  },
+
+  "semaine5_enchainement_velo_cap": {
+    "weekid": "semaine5",
+    "sessionId": "semaine5_enchainement_velo_cap",
+    "type": "Enchaînement vélo-course",
+    "intensity": 4,
+    "duration": "90",
+    "advice": "💡 Lors du passage vélo → course, n’essaie pas d’aller vite tout de suite. La régularité prime.",
+    "estimatedCalorie": "650 kcal",
+    "distance": "24000",
+    "title": "Vendredi 1er août – Enchaînement – Vélo + CAP – 1h30 – 20 km + 4 km – Intensité 4/5",
+    "objective": "Simulation partielle du tri S avec transition vélo/course contrôlée.",
+    "warmups": [
+      {
+        "title": "Échauffement vélo",
+        "duration": 10,
+        "steps": ["10 min zone 1, 90 rpm"]
+      }
+    ],
+    "mainSets": [
+      {
+        "title": "Vélo",
+        "duration": 50,
+        "steps": [
+          "20 km à 26–28 km/h avec 3 relances de 1 min à cadence élevée"
+        ]
+      },
+      {
+        "title": "Transition",
+        "duration": 5,
+        "steps": ["Changement chaussures rapide, départ CAP immédiat"]
+      },
+      {
+        "title": "Course à pied",
+        "duration": 20,
+        "steps": ["4 km à 5'45–6'00/km en posture relâchée"]
+      }
+    ],
+    "cooldown": {
+      "title": "Retour au calme",
+      "duration": 5,
+      "steps": ["Étirements debout jambes / dos / mollets"]
+    },
+    "status": "PLANNED",
+    "date": "2025-08-01"
+  },
+
+  "semaine5_renfo_jambes_gainage": {
+    "weekid": "semaine5",
+    "sessionId": "semaine5_renfo_jambes_gainage",
+    "type": "Renforcement",
+    "intensity": 3,
+    "duration": "45",
+    "advice": "💡 Reste stable et alignée. Engage bien le tronc, surtout dans les exercices unilatéraux.",
+    "estimatedCalorie": "350 kcal",
+    "distance": "",
+    "title": "Dimanche 3 août – Renforcement – Jambes & gainage spécifique – 45 min – Intensité 3/5",
+    "objective": "Travail sur les chaînes postérieures, abdos, gainage dynamique debout.",
+    "warmups": [
+      {
+        "title": "Échauffement",
+        "duration": 5,
+        "steps": [
+          "2 min montées de genoux",
+          "1 min squats lents",
+          "2 min fentes dynamiques"
+        ]
+      }
+    ],
+    "mainSets": [
+      {
+        "title": "Bloc principal",
+        "duration": 35,
+        "steps": [
+          "3 x : Squat + montée genou 15 reps",
+          "Fentes arrière 10 reps/jambe",
+          "Pont unilatéral 10 reps/jambe",
+          "Gainage planche 30 sec + planche dynamique 30 sec"
+        ]
+      }
+    ],
+    "cooldown": {
+      "title": "Retour au calme",
+      "duration": 5,
+      "steps": ["Étirements quadriceps, fessiers, ischios"]
+    },
+    "status": "PLANNED",
+    "date": "2025-08-03"
+  }
+}

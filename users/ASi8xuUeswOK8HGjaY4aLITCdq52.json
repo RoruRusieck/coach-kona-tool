@@ -1,0 +1,112 @@
+{
+  "firstname": "Bourguignon",
+  "lastname": "Clotilde",
+  "email": "Clotildebourguignon@yahoo.com",
+  "acceptConditions": true,
+  "uid": "ASi8xuUeswOK8HGjaY4aLITCdq52",
+  "role": "USER",
+  "subscription": {
+    "hasAccess": true,
+    "source": "store",
+    "isBeta": false
+  },
+  "triathlonGoals": {
+    "primary": {
+      "distanceLabel": "M",
+      "distancesValues": {
+        "run": "10km",
+        "swim": "1,5km",
+        "bike": "40km"
+      },
+      "isInitial": true,
+      "timeGoals": {
+        "swimSeconds": 3600,
+        "runSeconds": 3600,
+        "bikeSeconds": 3600,
+        "globalSeconds": 10800
+      },
+      "raceName": "Moselman ",
+      "raceTerrain": "DONT_KNOW",
+      "raceDate": "2026-06-13"
+    },
+    "secondary": []
+  },
+  "profile": {
+    "gender": "FEMALE",
+    "ageYears": 35,
+    "heightCm": 164,
+    "weightKg": 56
+  },
+  "metrics": {
+    "vmaKmh": null
+  },
+  "triathlonExperience": {
+    "level": "BEGINNER",
+    "triathlonYears": 0,
+    "triathlonsCompleted": 0,
+    "swimExperience": {
+      "distanceMeters": null,
+      "timeSeconds": null,
+      "level": "INTERMEDIATE"
+    },
+    "bikeExperience": {
+      "level": "BEGINNER",
+      "ftpWatts": null
+    },
+    "runningExperience": {
+      "distanceMeters": 5000,
+      "timeSeconds": 1860,
+      "level": "BEGINNER"
+    },
+    "transitionComfort": {
+      "swimToBike": false,
+      "bikeToRun": false
+    }
+  },
+  "equipment": {
+    "hrSensor": false,
+    "watch": {
+      "model": "Vivoactive5",
+      "brand": "Garmin"
+    },
+    "run": {
+      "treadmill": false
+    },
+    "swimGear": [
+      "pull_buoy",
+      "kickboard",
+      "paddles",
+      "fins"
+    ],
+    "bike": {
+      "homeTrainer": true,
+      "powerMeter": false,
+      "bikeType": "road",
+      "cadenceSensor": true
+    }
+  },
+  "targetWeeklyTrainingSessions": 5,
+  "trainingStartDate": "2026-02-05",
+  "club": {
+    "name": null,
+    "isMember": false,
+    "loackedSessionsNote": null
+  },
+  "targetMaxWeeklyTrainingHours": 8,
+  "averageSleepPerNightHours": 8,
+  "preferredRestDay": "thursday",
+  "maxTrainingHoursPerDay": {
+    "sunday": 3,
+    "saturday": 3,
+    "tuesday": 1,
+    "friday": 1,
+    "thursday": 1,
+    "wednesday": 3,
+    "monday": 1
+  },
+  "currentWeeklyTrainingSessions": 6,
+  "injuriesNote": null,
+  "asCompleteForm": true,
+  "phone": "0613041145",
+  "department": "57"
+}

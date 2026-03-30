@@ -1,0 +1,254 @@
+{
+  "course_3x2000m_allure10k_lundi_s6": {
+    "weekid": "semaine6_specifique",
+    "sessionId": "course_3x2000m_allure10k_lundi_s6",
+    "type": "Course à pied",
+    "intensity": 5,
+    "duration": "60",
+    "advice": "💡 Vise la régularité : chaque 2000 m doit être dans la même fourchette. Respiration contrôlée, épaules relâchées.",
+    "estimatedCalorie": "700 kcal",
+    "distance": "11000",
+    "title": "3 x 2000 m allure 10 km",
+    "objective": "Renforcer la capacité à maintenir l’allure cible 10 km sur de longs blocs.",
+    "warmups": [
+      {
+        "title": "Échauffement",
+        "duration": 15,
+        "steps": [
+          "10 min footing progressif",
+          "3 x 50 m foulées dynamiques (récup 40 sec)",
+          "2 min mobilité chevilles/hanche"
+        ]
+      }
+    ],
+    "mainSets": [
+      {
+        "title": "Bloc principal",
+        "duration": 40,
+        "steps": [
+          "3 x 2000 m à 5’00–5’05/km",
+          "Récupération : 3 min trot à 6’00–6’20/km entre les 2000 m",
+          "Finir par 4 min en Z2 relâché"
+        ]
+      }
+    ],
+    "cooldown": {
+      "title": "Retour au calme",
+      "duration": 5,
+      "steps": [
+        "Footing très lent",
+        "Étirements actifs légers (mollets, ischios, psoas)"
+      ]
+    },
+    "status": "PLANNED",
+    "date": "2025-08-25"
+  },
+
+  "renfo_circuit_jambes_gainage_lourd_mardi_s6": {
+    "weekid": "semaine6_specifique",
+    "sessionId": "renfo_circuit_jambes_gainage_lourd_mardi_s6",
+    "type": "Renforcement",
+    "intensity": 4,
+    "duration": "45",
+    "advice": "💡 Qualité > quantité : contrôle des genoux (alignés sur les orteils) et gainage constant.",
+    "estimatedCalorie": "380 kcal",
+    "distance": "",
+    "title": "Circuit jambes & gainage lourd",
+    "objective": "Développer la force fonctionnelle des jambes et la stabilité du tronc pour soutenir les blocs rapides.",
+    "warmups": [
+      {
+        "title": "Échauffement",
+        "duration": 5,
+        "steps": [
+          "Mobilité hanches/chevilles/rachis 2–3 min",
+          "2 x 10 squats à poids de corps",
+          "2 x 10 fentes arrière alternées"
+        ]
+      }
+    ],
+    "mainSets": [
+      {
+        "title": "Bloc principal (format circuit x3)",
+        "duration": 35,
+        "steps": [
+          "Squat goblet ou barre : 10–12 reps (charge modérée)",
+          "Fentes marchées : 10 reps/jambe",
+          "Hip thrust : 12–15 reps",
+          "Soulevé de terre jambes tendues : 10–12 reps",
+          "Planche dynamique (épaules en avant/arrière) : 40 sec",
+          "Pallof press (élastique) : 10 reps/côté",
+          "Récupération 90 sec entre tours"
+        ]
+      }
+    ],
+    "cooldown": {
+      "title": "Retour au calme",
+      "duration": 5,
+      "steps": [
+        "Étirements : quadriceps, fessiers, ischios",
+        "Respiration abdominale 2 min"
+      ]
+    },
+    "status": "PLANNED",
+    "date": "2025-08-26"
+  },
+  "course_vallonnee_tempo_vendredi_s6": {
+    "weekid": "semaine6_specifique",
+    "sessionId": "course_vallonnee_tempo_vendredi_s6",
+    "type": "Course à pied",
+    "intensity": 4,
+    "duration": "75",
+    "advice": "💡 Sur les bosses, pense économie : cadence un peu plus élevée, buste légèrement penché, regard loin.",
+    "estimatedCalorie": "780 kcal",
+    "distance": "12000",
+    "title": "Sortie vallonnée tempo",
+    "objective": "Améliorer la résistance à l’effort et la tenue d’allure sur terrain mixte avec des segments tempo.",
+    "warmups": [
+      {
+        "title": "Échauffement",
+        "duration": 10,
+        "steps": [
+          "10 min footing progressif",
+          "3 x 50 m en côte légère si possible"
+        ]
+      }
+    ],
+    "mainSets": [
+      {
+        "title": "Bloc principal",
+        "duration": 60,
+        "steps": [
+          "20 min en Z2 (6’00–6’20/km)",
+          "3 x 8 min tempo en légère montée (effort ≈ 5’20–5’30/km sur plat) / Récup 3 min Z2",
+          "10 min à 5’10–5’20/km sur plat si possible"
+        ]
+      }
+    ],
+    "cooldown": {
+      "title": "Retour au calme",
+      "duration": 5,
+      "steps": ["Footing lent", "Étirements : mollets, quadriceps, psoas"]
+    },
+    "status": "PLANNED",
+    "date": "2025-08-29"
+  },
+  "course_fartlek_lundi_s7": {
+    "weekid": "semaine7_variations",
+    "sessionId": "course_fartlek_lundi_s7",
+    "type": "Course à pied",
+    "intensity": 5,
+    "duration": "65",
+    "advice": "💡 Concentre-toi sur la régularité des 2’ rapides, sans partir trop vite. Tiens l’allure 10 km du début à la fin.",
+    "estimatedCalorie": "700 kcal",
+    "distance": "11000",
+    "title": "Fartlek 2’/2’ allure 10 km",
+    "objective": "Travailler les variations d’allure autour de l’allure 10 km pour renforcer la vitesse et la tolérance musculaire.",
+    "warmups": [
+      {
+        "title": "Échauffement",
+        "duration": 15,
+        "steps": ["10 min de footing Z1", "5 x 80 m accélérations progressives"]
+      }
+    ],
+    "mainSets": [
+      {
+        "title": "Bloc principal",
+        "duration": 40,
+        "steps": [
+          "10 x (2 min allure 10 km ~5:05/km / 2 min footing lent)",
+          "Maintenir la fréquence gestuelle sur chaque relance"
+        ]
+      }
+    ],
+    "cooldown": {
+      "title": "Retour au calme",
+      "duration": 10,
+      "steps": ["10 min footing lent", "Étirements jambes & hanches"]
+    },
+    "status": "PLANNED",
+    "date": "2025-09-01"
+  },
+  "renfo_explosivite_mardi_s7": {
+    "weekid": "semaine7_variations",
+    "sessionId": "renfo_explosivite_mardi_s7",
+    "type": "Renforcement",
+    "intensity": 4,
+    "duration": "45",
+    "advice": "💡 Mets l’accent sur la qualité d’exécution : la puissance doit venir du tronc et des appuis, pas seulement des quadriceps.",
+    "estimatedCalorie": "300 kcal",
+    "distance": "0",
+    "title": "Explosivité + proprioception",
+    "objective": "Développer la puissance des appuis et la réactivité neuromusculaire pour mieux encaisser les changements d’allure.",
+    "warmups": [
+      {
+        "title": "Échauffement",
+        "duration": 5,
+        "steps": [
+          "2 min corde à sauter",
+          "Mobilité hanches + chevilles",
+          "10 squats dynamiques"
+        ]
+      }
+    ],
+    "mainSets": [
+      {
+        "title": "Circuit explosif",
+        "duration": 35,
+        "steps": [
+          "4 x 10 sauts pliométriques (squat jump)",
+          "4 x 12 fentes sautées (6/jambe)",
+          "4 x 10 burpees contrôlés",
+          "3 x 30 sec planche + instabilité (coussin ou swiss ball)",
+          "Répéter le circuit 3 fois, récup 90 sec entre chaque"
+        ]
+      }
+    ],
+    "cooldown": {
+      "title": "Retour au calme",
+      "duration": 5,
+      "steps": [
+        "Étirements quadriceps, ischios, psoas",
+        "Respiration contrôlée"
+      ]
+    },
+    "status": "PLANNED",
+    "date": "2025-09-02"
+  },
+  "course_progressive_vendredi_s7": {
+    "weekid": "semaine7_variations",
+    "sessionId": "course_progressive_vendredi_s7",
+    "type": "Course à pied",
+    "intensity": 5,
+    "duration": "80",
+    "advice": "💡 Ne pars pas trop vite, réserve-toi pour accélérer nettement dans le dernier tiers de la séance.",
+    "estimatedCalorie": "850 kcal",
+    "distance": "13000",
+    "title": "Sortie progressive longue",
+    "objective": "Améliorer ta capacité à finir fort sur une sortie longue en gérant les allures.",
+    "warmups": [
+      {
+        "title": "Échauffement",
+        "duration": 15,
+        "steps": ["15 min footing Z1", "4 x 80 m éducatifs de foulée"]
+      }
+    ],
+    "mainSets": [
+      {
+        "title": "Bloc principal",
+        "duration": 55,
+        "steps": [
+          "20 min Z2 (~5:30/km)",
+          "20 min Z3 (~5:10/km)",
+          "15 min proche allure 10 km (~5:00/km)"
+        ]
+      }
+    ],
+    "cooldown": {
+      "title": "Retour au calme",
+      "duration": 10,
+      "steps": ["10 min footing lent", "Étirements ciblés"]
+    },
+    "status": "PLANNED",
+    "date": "2025-09-05"
+  }
+}

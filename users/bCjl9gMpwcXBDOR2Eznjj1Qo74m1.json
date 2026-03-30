@@ -1,0 +1,90 @@
+{
+  "firstname": "Florian",
+  "lastname": "Serreau",
+  "email": "florian.serreau@gmail.com",
+  "acceptConditions": true,
+  "uid": "bCjl9gMpwcXBDOR2Eznjj1Qo74m1",
+  "role": "USER",
+  "triathlonGoals": {
+    "distance": "XXL (3,8km / 180km / 42km)",
+    "timeGoals": {
+      "running": {
+        "hours": "",
+        "seconds": "",
+        "minutes": "45"
+      },
+      "swimming": {
+        "hours": "",
+        "seconds": "",
+        "minutes": "15"
+      },
+      "biking": {
+        "hours": "1",
+        "seconds": "",
+        "minutes": ""
+      },
+      "global": {
+        "hours": "2",
+        "seconds": "",
+        "minutes": ""
+      }
+    },
+    "fieldType": "Mixte",
+    "date": "2025-10-31",
+    "name": "Hhh"
+  },
+  "athleteProfile": {
+    "gender": "MALE",
+    "weight": "102",
+    "age": "12",
+    "height": "102",
+    "nbTriathlonExecuted": "0",
+    "level": "Débutant",
+    "vma": "18",
+    "experience": "0-1 an",
+    "natationExperience": {
+      "distance": null,
+      "level": "Débutant",
+      "chrono": null,
+      "poolType": null
+    },
+    "bikeExperience": {
+      "ftp": "",
+      "distance": "",
+      "level": "Avancé",
+      "explanation": null,
+      "chrono": null
+    },
+    "runningExperience": {
+      "distance": null,
+      "level": "Avancé",
+      "chrono": null
+    },
+    "transitionSkills": {
+      "swimToBike": false,
+      "bikeToRun": false
+    },
+    "trainningHours": "10",
+    "hasClubLicense": false,
+    "club": null,
+    "clubSessions": null,
+    "startDate": "2025-10-03",
+    "trainingSessions": "12",
+    "dayOff": "Mercredi",
+    "injuries": null,
+    "sleepHours": "2",
+    "trainingFrequency": "2",
+    "availability": {
+      "Monday": "1",
+      "Thursday": "1",
+      "Friday": "1",
+      "Sunday": "1",
+      "Wednesday": "1",
+      "Tuesday": "1",
+      "Saturday": "1"
+    }
+  },
+  "asCompleteForm": true,
+  "phone": "0666666666",
+  "department": "12"
+}

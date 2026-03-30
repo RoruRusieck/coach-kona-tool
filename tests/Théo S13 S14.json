@@ -1,0 +1,326 @@
+{
+	"natation_lundi_s13": {
+		"weekid": "semaine13",
+		"sessionId": "natation_lundi_s13",
+		"type": "Natation",
+		"intensity": 3,
+		"duration": "55",
+		"advice": "💡 Garde ton focus sur la glisse et la stabilité : même à allure modérée, chaque mouvement compte.",
+		"estimatedCalorie": "500 kcal",
+		"distance": "2000",
+		"title": "4 x 300 m tempo + éducatifs",
+		"objective": "➡️ Objectif : Travail d’économie gestuelle et glisse à allure stable.",
+		"warmups": [
+			{
+				"title": "Échauffement à sec",
+				"duration": 5,
+				"steps": ["Rotations épaules / tronc", "2 x 30 sec gainage bras tendus"]
+			},
+			{
+				"title": "Échauffement dans l’eau",
+				"duration": 10,
+				"steps": [
+					"300 m crawl souple",
+					"4 x 50 m éducatifs : rattrapé / un bras / poings fermés"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 35,
+				"steps": [
+					"4 x 300 m à 2’00–2’05/100 m (récup 30 sec)",
+					"4 x 50 m battements planche ou dos crawlé"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 5,
+			"steps": ["200 m crawl relâché"]
+		},
+		"status": "PLANNED",
+		"date": "2025-09-08"
+	},
+	"cap_mercredi_s13": {
+		"weekid": "semaine13",
+		"sessionId": "cap_mercredi_s13",
+		"type": "Course à pied",
+		"intensity": 3,
+		"duration": "50",
+		"advice": "💡 Sur les lignes droites, cherche la fluidité et la fréquence, sans chercher à forcer la vitesse.",
+		"estimatedCalorie": "460 kcal",
+		"distance": "8000",
+		"title": "2 x 10 min allure M + 4 LD",
+		"objective": "➡️ Objectif : Affiner la foulée à allure spécifique, en relâchement.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 10,
+				"steps": [
+					"10 min footing lent à 5’45–6’00/km",
+					"3 x 20 sec accélérations progressives"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 30,
+				"steps": [
+					"2 x 10 min à 5’00/km (récup 3 min footing)",
+					"4 x 20 sec lignes droites dynamiques, récup 40 sec footing"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 10,
+			"steps": ["5 min footing lent", "Étirements mollets, quadriceps, psoas"]
+		},
+		"status": "PLANNED",
+		"date": "2025-09-10"
+	},
+	"velo_vendredi_s13": {
+		"weekid": "semaine13",
+		"sessionId": "velo_vendredi_s13",
+		"type": "Cyclisme",
+		"intensity": 3,
+		"duration": "65",
+		"advice": "💡 Cette séance doit te laisser de bonnes sensations : concentre-toi sur la souplesse de ton coup de pédale.",
+		"estimatedCalorie": "600 kcal",
+		"distance": "35000",
+		"title": "2 x 15 min tempo + vélocité",
+		"objective": "➡️ Objectif : Z3 avec travail de fluidité, début d’allègement.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 15,
+				"steps": ["10 min à 110–120 W", "3 x 30 sec à 95–100 rpm, récup 1 min"]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 35,
+				"steps": [
+					"2 x 15 min à 140–150 W (Z3), récup 3 min Z1",
+					"5 min vélocité > 95 rpm"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 15,
+			"steps": [
+				"5 min roulage facile",
+				"Étirements quadriceps, ischios, fessiers"
+			]
+		},
+		"status": "PLANNED",
+		"date": "2025-09-12"
+	},
+	"renfo_samedi_s13": {
+		"weekid": "semaine13",
+		"sessionId": "renfo_samedi_s13",
+		"type": "Renforcement",
+		"intensity": 1,
+		"duration": "25",
+		"advice": "💡 Respiration fluide, mouvements contrôlés. Tu actives sans créer de fatigue.",
+		"estimatedCalorie": "150 kcal",
+		"distance": "0",
+		"title": "Posture & gainage léger",
+		"objective": "➡️ Objectif : Séance de maintien sans charge, uniquement contrôle postural et gainage actif.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 5,
+				"steps": [
+					"Mobilité articulaire douce (épaules, bassin, dos)",
+					"2 min marche rapide ou montée de genoux sur place"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 15,
+				"steps": [
+					"Gainage statique bras tendus : 3 x 30 sec",
+					"Pont fessier : 3 x 12",
+					"Deadbug lent : 2 x 10",
+					"Planche latérale : 2 x 30 sec par côté"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 5,
+			"steps": ["Étirements doux : psoas, lombaires, épaules"]
+		},
+		"status": "PLANNED",
+		"date": "2025-09-13"
+	},
+	"cap_mardi_s14": {
+		"weekid": "semaine14",
+		"sessionId": "cap_mardi_s14",
+		"type": "Course à pied",
+		"intensity": 2,
+		"duration": "40",
+		"advice": "💡 Objectif relâchement : cherche les sensations sans chercher la performance. Respiration fluide et cadence régulière.",
+		"estimatedCalorie": "380 kcal",
+		"distance": "6000",
+		"title": "3 x 5 min allure M + 3 LD",
+		"objective": "➡️ Objectif : Toucher l’allure sans la griller, garder de la tonicité.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 10,
+				"steps": ["10 min footing lent à 5’45/km", "3 x 20 sec progressifs"]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 20,
+				"steps": [
+					"3 x 5 min à 5’00/km, récup 2 min footing",
+					"3 x 20 sec lignes droites, récup 40 sec"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 10,
+			"steps": [
+				"5 min footing lent",
+				"Étirements légers : mollets, quadriceps, psoas"
+			]
+		},
+		"status": "PLANNED",
+		"date": "2025-09-16"
+	},
+	"natation_mercredi_s14": {
+		"weekid": "semaine14",
+		"sessionId": "natation_mercredi_s14",
+		"type": "Natation",
+		"intensity": 2,
+		"duration": "40",
+		"advice": "💡 Profite de cette séance pour te projeter mentalement dans ta course. Visualise le départ, la respiration, la glisse.",
+		"estimatedCalorie": "350 kcal",
+		"distance": "1500",
+		"title": "Allure M + visualisation",
+		"objective": "➡️ Objectif : Répétition mentale et technique de la partie natation.",
+		"warmups": [
+			{
+				"title": "Échauffement à sec",
+				"duration": 5,
+				"steps": ["Mobilisation douce : épaules, nuque, hanches"]
+			},
+			{
+				"title": "Échauffement dans l’eau",
+				"duration": 10,
+				"steps": ["200 m nage libre souple", "2 x 50 m éducatifs glisse"]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 20,
+				"steps": ["3 x 300 m à 2’00–2’05/100 m", "100 m dos pour relâcher"]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 5,
+			"steps": ["100 m crawl lent", "Respiration + relâchement complet"]
+		},
+		"status": "PLANNED",
+		"date": "2025-09-17"
+	},
+	"renfo_vendredi_s14": {
+		"weekid": "semaine14",
+		"sessionId": "renfo_vendredi_s14",
+		"type": "Renforcement",
+		"intensity": 1,
+		"duration": "20",
+		"advice": "💡 Active sans créer de tension musculaire. Respiration lente et relâchée.",
+		"estimatedCalorie": "120 kcal",
+		"distance": "0",
+		"title": "Mobilité & posture pré-course",
+		"objective": "➡️ Objectif : Récupération active, réveil musculaire, aucune charge.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 5,
+				"steps": [
+					"2 min marche rapide ou montées de genoux",
+					"Mobilité articulaire douce : hanches, tronc, chevilles"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 10,
+				"steps": [
+					"Gainage léger : 2 x 30 sec planche bras tendus",
+					"Bird-dog lent : 2 x 10",
+					"Pont fessier simple : 2 x 10"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 5,
+			"steps": ["Étirements passifs légers : dos, fessiers, mollets"]
+		},
+		"status": "PLANNED",
+		"date": "2025-09-19"
+	},
+	"course_dimanche_s14": {
+		"weekid": "semaine14",
+		"sessionId": "course_dimanche_s14",
+		"type": "Triathlon",
+		"intensity": 5,
+		"duration": "150",
+		"advice": "💡 Gère ton énergie dès la natation. Respire, concentre-toi sur ton pacing, et surtout… profite de ton moment 💥",
+		"estimatedCalorie": "1600 kcal",
+		"distance": "52500",
+		"title": "Triathlon M – Openlakes",
+		"objective": "➡️ Objectif : 💥 Donner le meilleur, gérer, performer 💥",
+		"warmups": [
+			{
+				"title": "Échauffement pré-course",
+				"duration": 10,
+				"steps": [
+					"Mobilité articulaire",
+					"2–3 min natation échauffement si possible",
+					"2–3 min vélocité à vide / petits footing / respiration"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Triathlon",
+				"duration": 140,
+				"steps": [
+					"🏊 1500 m natation",
+					"🚴 40 km vélo (objectif 140–150 W)",
+					"🏃 10 km CAP (objectif 5'00/km)"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme post-course",
+			"duration": 10,
+			"steps": [
+				"Respiration, hydratation, marche active",
+				"Étirements légers : quadriceps, mollets, dos"
+			]
+		},
+		"status": "PLANNED",
+		"date": "2025-09-21"
+	}
+}

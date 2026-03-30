@@ -1,0 +1,328 @@
+{
+	"mardi_s5_marathon": {
+		"weekid": "semaine5",
+		"sessionId": "mardi_s5_marathon",
+		"type": "Course à pied",
+		"intensity": 4,
+		"duration": "85",
+		"advice": "💡 Ne cherche pas à aller plus vite que l’allure marathon, reste régulière et relâchée.",
+		"estimatedCalorie": "850 kcal",
+		"distance": "15000",
+		"title": "Allure marathon prolongée + variations 1h25 - 15 000 m",
+		"objective": "Travailler ta capacité à maintenir ton allure marathon dans la durée, avec des variations de rythme pour simuler les conditions de course.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 15,
+				"steps": ["15 min footing lent", "3 x 50 m accélérations progressives"]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 60,
+				"steps": [
+					"3 x 12 min à allure marathon (5’10-5’15/km), récup 2 min footing entre chaque",
+					"1 x 10 min tempo (4’55-5’00/km)"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 10,
+			"steps": ["10 min footing très lent", "Étirements bas du corps"]
+		},
+		"status": "PLANNED",
+		"date": "2025-08-05"
+	},
+	"mercredi_s5_natation": {
+		"weekid": "semaine5",
+		"sessionId": "mercredi_s5_natation",
+		"type": "Natation",
+		"intensity": 3,
+		"duration": "60",
+		"advice": "💡 Garde un rythme constant sur les longues séries, reste concentrée sur ta respiration.",
+		"estimatedCalorie": "480 kcal",
+		"distance": "2100",
+		"title": "Série continue en gestion d’allure 60 min - 2 000 m",
+		"objective": "Développer ta capacité à nager longtemps en maintenant une allure constante et maîtrisée.",
+		"warmups": [
+			{
+				"title": "Échauffement à sec",
+				"duration": 5,
+				"steps": ["Mobilité épaules, nuque", "2 x 30 sec gainage dynamique"]
+			},
+			{
+				"title": "Échauffement dans l’eau",
+				"duration": 10,
+				"steps": [
+					"300 m crawl souple",
+					"4 x 50 m éducatifs (rattrapé, point fermé)"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 40,
+				"steps": [
+					"1 x 800 m nage continue Z2",
+					"4 x 100 m Z3, récup 20 sec",
+					"4 x 50 m en progressif"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 5,
+			"steps": ["200 m crawl relâché"]
+		},
+		"status": "PLANNED",
+		"date": "2025-08-06"
+	},
+	"jeudi_s5_velo": {
+		"weekid": "semaine5",
+		"sessionId": "jeudi_s5_velo",
+		"type": "Cyclisme",
+		"intensity": 4,
+		"duration": "105",
+		"advice": "💡 Ne te laisse pas embarquer par le relief : cadence stable, respiration fluide, tempo gérable.",
+		"estimatedCalorie": "850 kcal",
+		"distance": "43000",
+		"title": "Bloc tempo en terrain vallonné 1h45 - 43 000 m",
+		"objective": "Travailler ton endurance soutenue dans un terrain vallonné, à une intensité proche course.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 15,
+				"steps": [
+					"15 min Z1, cadence 90 rpm",
+					"3 x 1 min à 100 rpm, récup 1 min Z1"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 80,
+				"steps": [
+					"3 x 15 min à 85-90 rpm en Z3 (tempo), récup 5 min Z1",
+					"20 min en terrain vallonné, relances toutes les 3-4 min"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 10,
+			"steps": ["10 min pédalage souple en Z1"]
+		},
+		"status": "PLANNED",
+		"date": "2025-08-07"
+	},
+	"dimanche_s5_triathloncap": {
+		"weekid": "semaine5",
+		"sessionId": "dimanche_s5_triathloncap",
+		"type": "Course à pied",
+		"intensity": 4,
+		"duration": "110",
+		"advice": "💡 Reste bien relâchée pendant la première heure, et impose-toi un rythme tonique mais contrôlé sur la fin.",
+		"estimatedCalorie": "950 kcal",
+		"distance": "17500",
+		"title": "Sortie longue avec finish tempo 1h50 - 17 500 m",
+		"objective": "Renforcer ton endurance mentale et physique en fin de sortie grâce à un bloc tempo.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 10,
+				"steps": ["10 min footing lent", "3 x 50 m foulées dynamiques"]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 90,
+				"steps": [
+					"60 min en zone 2 (5’45/km)",
+					"3 x 5 min tempo (5’00/km), récup 2 min footing",
+					"10 min footing facile"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 10,
+			"steps": ["10 min footing très lent", "Étirements + hydratation"]
+		},
+		"status": "PLANNED",
+		"date": "2025-08-10"
+	},
+	"mardi_s6_marathon": {
+		"weekid": "semaine6",
+		"sessionId": "mardi_s6_marathon",
+		"type": "Course à pied",
+		"intensity": 4,
+		"duration": "80",
+		"advice": "💡 Reste bien concentrée sur ton relâchement, surtout en fin de bloc semi.",
+		"estimatedCalorie": "800 kcal",
+		"distance": "14500",
+		"title": "2 x 15 min allure semi + marathon 1h20 - 14 500 m",
+		"objective": "Stimuler ta capacité à courir à des allures proches de ta compétition sur des blocs longs et bien structurés.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 15,
+				"steps": ["15 min footing lent", "3 x 50 m foulées dynamiques"]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 45,
+				"steps": [
+					"2 x 15 min : 5 min à 5’15/km + 10 min à 4’55-5’00/km",
+					"Récupération : 5 min footing entre les blocs",
+					"5 min footing de retour progressif"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 10,
+			"steps": [
+				"10 min footing très lent",
+				"Étirements ciblés (ischios, psoas)"
+			]
+		},
+		"status": "PLANNED",
+		"date": "2025-08-12"
+	},
+	"mercredi_s6_natation": {
+		"weekid": "semaine6",
+		"sessionId": "mercredi_s6_natation",
+		"type": "Natation",
+		"intensity": 4,
+		"duration": "65",
+		"advice": "💡 Cherche la stabilité de ton corps et une poussée efficace sur chaque traction.",
+		"estimatedCalorie": "520 kcal",
+		"distance": "2100",
+		"title": "Allure tempo et relances techniques 1h05 - 2 100 m",
+		"objective": "Améliorer ton aisance à allure soutenue et ta capacité à relancer en fin de course.",
+		"warmups": [
+			{
+				"title": "Échauffement à sec",
+				"duration": 5,
+				"steps": [
+					"Mobilité épaules et omoplates",
+					"2 x 30 sec gainage dynamique"
+				]
+			},
+			{
+				"title": "Échauffement dans l’eau",
+				"duration": 10,
+				"steps": [
+					"300 m crawl",
+					"4 x 50 m éducatifs (rattrapé, un bras devant)"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 45,
+				"steps": [
+					"4 x 300 m Z3, récup 30 sec",
+					"4 x 50 m battements avec pullbuoy",
+					"4 x 25 m sprint avec 15 sec récup"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 5,
+			"steps": ["200 m crawl relâché ou dos crawlé"]
+		},
+		"status": "PLANNED",
+		"date": "2025-08-13"
+	},
+	"jeudi_s6_velo": {
+		"weekid": "semaine6",
+		"sessionId": "jeudi_s6_velo",
+		"type": "Cyclisme",
+		"intensity": 4,
+		"duration": "110",
+		"advice": "💡 En côte, reste assise le plus longtemps possible, pousse fort sur les pédales, cadence stable.",
+		"estimatedCalorie": "880 kcal",
+		"distance": "42000",
+		"title": "Force + vélocité en côtes 1h50 - 42 000 m",
+		"objective": "Renforcer ta force spécifique en montée et ta capacité à varier la cadence.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 15,
+				"steps": [
+					"15 min Z1, cadence libre",
+					"3 x 30 sec à 100 rpm, récup 30 sec"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 80,
+				"steps": [
+					"4 x 6 min en côte ou braquet dur (60-70 rpm), récup 4 min Z1",
+					"4 x 3 min vélocité (100-110 rpm), récup 2 min",
+					"10 min terrain varié avec relances toutes les 3 min"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 15,
+			"steps": ["15 min pédalage souple en terrain plat"]
+		},
+		"status": "PLANNED",
+		"date": "2025-08-14"
+	},
+	"dimanche_s6_triathloncap": {
+		"weekid": "semaine6",
+		"sessionId": "dimanche_s6_triathloncap",
+		"type": "Course à pied",
+		"intensity": 3,
+		"duration": "100",
+		"advice": "💡 Laisse le terrain dicter le rythme, mais reste fluide dans les relances.",
+		"estimatedCalorie": "750 kcal",
+		"distance": "16000",
+		"title": "Sortie nature progressive 1h40 - 16 000 m",
+		"objective": "Améliorer ton aisance en terrain varié et développer ton endurance progressive.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 10,
+				"steps": ["10 min footing lent", "3 x 50 m foulées dynamiques"]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 80,
+				"steps": [
+					"30 min en zone 2 (5’50-6’00/km)",
+					"30 min à 5’40/km",
+					"10 min à 5’25/km",
+					"10 min footing relâché"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 10,
+			"steps": [
+				"10 min marche active ou footing lent",
+				"Hydratation + étirements"
+			]
+		},
+		"status": "PLANNED",
+		"date": "2025-08-17"
+	}
+}

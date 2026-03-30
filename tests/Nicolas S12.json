@@ -1,0 +1,178 @@
+{
+  "renfo_lundi_s12": {
+    "weekid": "semaine12",
+    "sessionId": "renfo_lundi_s12",
+    "type": "Renforcement",
+    "intensity": 3,
+    "duration": "40",
+    "advice": "💡 Prends le temps de bien exécuter chaque mouvement, la qualité prime sur la quantité.",
+    "estimatedCalorie": "250 kcal",
+    "distance": "",
+    "title": "Core + triceps nageur",
+    "objective": "Renforcer les muscles stabilisateurs et la chaîne postérieure, essentiels pour la glisse et l’équilibre en crawl.",
+    "warmups": [
+      {
+        "title": "Échauffement articulaire",
+        "duration": 8,
+        "steps": [
+          "Cercle des bras x20",
+          "Rotation épaules x10",
+          "Pont fessier dynamique x10",
+          "Planche dynamique x30 sec"
+        ]
+      }
+    ],
+    "mainSets": [
+      {
+        "title": "Bloc principal",
+        "duration": 28,
+        "steps": [
+          "4 x (30 sec gainage + 30 sec récup)",
+          "3 x (20 triceps dips sur banc + 15s repos)",
+          "3 x (30 sec Superman hold + 30 sec récup)",
+          "3 x (15 bird-dog alternés + 20s repos)",
+          "2 x (20 sec planche bras tendus instable sur swissball + 20s récup)"
+        ]
+      }
+    ],
+    "cooldown": {
+      "title": "Retour au calme",
+      "duration": 4,
+      "steps": ["Étirements bras + dos, respiration diaphragmatique 2 min"]
+    },
+    "status": "PLANNED",
+    "date": "2025-09-15"
+  },
+
+  "mobilite_mardi_s12": {
+    "weekid": "semaine12",
+    "sessionId": "mobilite_mardi_s12",
+    "type": "Renforcement",
+    "intensity": 2,
+    "duration": "30",
+    "advice": "💡 Reste fluide dans chaque mouvement, ne force jamais sur les amplitudes articulaires.",
+    "estimatedCalorie": "100 kcal",
+    "distance": "",
+    "title": "Épaules + colonne",
+    "objective": "Améliorer l’amplitude articulaire et relâcher les tensions autour des épaules et du haut du dos.",
+    "warmups": [
+      {
+        "title": "Échauffement articulaire",
+        "duration": 5,
+        "steps": [
+          "Cercle bras lent (debout) x10",
+          "Rotation nuque lente x10",
+          "Enroulement/ déroulement colonne x10"
+        ]
+      }
+    ],
+    "mainSets": [
+      {
+        "title": "Bloc principal",
+        "duration": 20,
+        "steps": [
+          "5 x 30 sec shoulder dislocates (élastique ou manche à balai)",
+          "4 x 10 cat/cow très lent",
+          "3 x 1 min Wall angels contre un mur",
+          "4 x 30 sec box extension thoracique"
+        ]
+      }
+    ],
+    "cooldown": {
+      "title": "Retour au calme",
+      "duration": 5,
+      "steps": [
+        "Auto-massage trapèzes et dorsaux (balle ou rouleau), 3 min respiration consciente"
+      ]
+    },
+    "status": "PLANNED",
+    "date": "2025-09-16"
+  },
+
+  "renfo_jeudi_s12": {
+    "weekid": "semaine12",
+    "sessionId": "renfo_jeudi_s12",
+    "type": "Renforcement",
+    "intensity": 3,
+    "duration": "40",
+    "advice": "💡 Garde toujours un bon alignement colonne / bassin pour éviter les compensations.",
+    "estimatedCalorie": "250 kcal",
+    "distance": "",
+    "title": "Gainage profond + dorsaux",
+    "objective": "Travailler la ceinture scapulaire, les muscles du dos et les abdos profonds pour plus de stabilité dans l’eau.",
+    "warmups": [
+      {
+        "title": "Échauffement",
+        "duration": 5,
+        "steps": ["5 min mobilité épaule + roll down + gainage dynamique léger"]
+      }
+    ],
+    "mainSets": [
+      {
+        "title": "Bloc principal",
+        "duration": 30,
+        "steps": [
+          "3 x (45 sec planche latérale chaque côté + 30 sec récup)",
+          "3 x (15 rowing élastique + 10 pull-over bras tendus)",
+          "2 x (20 sec hollow body hold + 15 sec repos)",
+          "3 x (15 extensions dos au sol + 20s repos)",
+          "4 x (10 Y-T-W avec élastique ou poids léger)"
+        ]
+      }
+    ],
+    "cooldown": {
+      "title": "Retour au calme",
+      "duration": 5,
+      "steps": [
+        "Étirements grands dorsaux et abdominaux, 2 min respiration calme"
+      ]
+    },
+    "status": "PLANNED",
+    "date": "2025-09-18"
+  },
+  "mobilite_samedi_s12": {
+    "weekid": "semaine12",
+    "sessionId": "mobilite_samedi_s12",
+    "type": "Renforcement",
+    "intensity": 2,
+    "duration": "20",
+    "advice": "💡 Concentre-toi sur la respiration et le relâchement. N’hésite pas à prolonger les exercices qui te font du bien.",
+    "estimatedCalorie": "80 kcal",
+    "distance": "",
+    "title": "Hanches + chaîne antérieure",
+    "objective": "Libérer les hanches et détendre la chaîne antérieure (psoas, quadriceps, sangle abdominale), trop souvent raides chez les nageurs.",
+    "warmups": [
+      {
+        "title": "Activation douce",
+        "duration": 4,
+        "steps": [
+          "Cercles de hanches x10",
+          "Marche genoux hauts 1 min",
+          "Montées de genoux alternées au sol x10"
+        ]
+      }
+    ],
+    "mainSets": [
+      {
+        "title": "Bloc principal",
+        "duration": 12,
+        "steps": [
+          "2 x (1 min étirement fente psoas gauche + droite)",
+          "2 x (1 min ouverture grenouille au sol)",
+          "2 x (1 min étirement quadriceps debout ou couché)",
+          "2 x (30 sec cobra dynamique)"
+        ]
+      }
+    ],
+    "cooldown": {
+      "title": "Retour au calme",
+      "duration": 4,
+      "steps": [
+        "Respiration abdominale 2 min allongé",
+        "Auto-massage quadriceps/psoas avec balle ou rouleau"
+      ]
+    },
+    "status": "PLANNED",
+    "date": "2025-09-20"
+  }
+}

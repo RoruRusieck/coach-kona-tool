@@ -1,0 +1,239 @@
+{
+	"course_footing_allonge_w2": {
+		"weekid": "semaine2",
+		"sessionId": "course_footing_allonge_w2",
+		"type": "Course à pied",
+		"intensity": 3,
+		"duration": "55",
+		"advice": "💡 Sois relâchée dans les bras et efficace dans la foulée. Tu dois pouvoir parler, mais pas chanter !",
+		"estimatedCalorie": "590 kcal",
+		"distance": "9500",
+		"title": "Footing allongé",
+		"objective": "Stimuler ton endurance en courant à une allure soutenue mais confortable.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 10,
+				"steps": ["10 min footing lent", "3 x 50 m foulées progressives"]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 40,
+				"steps": ["40 min à 5’50 à 6’10/km (Z2 haute)"]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 5,
+			"steps": [
+				"5 min de footing lent",
+				"Étirements légers : mollets, ischios, fessiers"
+			]
+		},
+		"status": "PLANNED",
+		"date": "2025-07-28"
+	},
+	"renfo_stabilite_w2": {
+		"weekid": "semaine2",
+		"sessionId": "renfo_stabilite_w2",
+		"type": "Renforcement",
+		"intensity": 3,
+		"duration": "40",
+		"advice": "💡 Soigne ta technique : un bon gainage, c’est lent, contrôlé et stable.",
+		"estimatedCalorie": "350 kcal",
+		"distance": "",
+		"title": "Stabilité tronc & prévention",
+		"objective": "Renforcer ta posture pour soutenir ta foulée et éviter les déséquilibres musculaires.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 5,
+				"steps": [
+					"2 min corde à sauter",
+					"3 min mobilisation hanches, épaules, chevilles"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 30,
+				"steps": [
+					"3 x : Planche bras tendus 30 sec / Gainage latéral 30 sec / Deadbug 10 reps",
+					"3 x : Bird-dog 10 reps / Ponts fessiers unilatéraux 10 reps/jambe / Abduction avec élastique 15 reps/côté"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 5,
+			"steps": [
+				"Étirements : psoas, lombaires, ischios, épaules",
+				"Respiration profonde allongée 2 min"
+			]
+		},
+		"status": "PLANNED",
+		"date": "2025-07-29"
+	},
+	"course_terrain_varie_w2": {
+		"weekid": "semaine2",
+		"sessionId": "course_terrain_varie_w2",
+		"type": "Course à pied",
+		"intensity": 3,
+		"duration": "65",
+		"advice": "💡 Garde une bonne posture en descente et relance souple après chaque changement de terrain.",
+		"estimatedCalorie": "670 kcal",
+		"distance": "10000",
+		"title": "Sortie en terrain varié",
+		"objective": "Travailler l’endurance et l’adaptabilité de ta foulée sur terrain changeant.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 10,
+				"steps": [
+					"10 min footing progressif",
+					"3 x 50 m en côte légère si possible"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 50,
+				"steps": [
+					"50 min en terrain mixte à 5’50 à 6’10/km (Z2 haute)",
+					"Adapte-toi aux variations de pente sans chercher à maintenir l’allure au mètre près"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 5,
+			"steps": ["5 min footing lent", "Étirements : mollets, quadris, psoas"]
+		},
+		"status": "PLANNED",
+		"date": "2025-08-01"
+	},
+	"course_allure_10km_progressif_w3": {
+		"weekid": "semaine3",
+		"sessionId": "course_allure_10km_progressif_w3",
+		"type": "Course à pied",
+		"intensity": 4,
+		"duration": "50",
+		"advice": "💡 Ne pars pas trop vite, respecte le progressif. Ton moteur a besoin de montée en charge maîtrisée.",
+		"estimatedCalorie": "600 kcal",
+		"distance": "9000",
+		"title": "Allure 10 km en progressif",
+		"objective": "Travailler ton allure cible 10 km en progressivité pour habituer ton corps à l’intensité sans l’épuiser.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 10,
+				"steps": ["10 min footing lent", "3 x 50 m foulées dynamiques"]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 35,
+				"steps": [
+					"3 x 5 min à 6’00/km → 5’45/km → 5’30/km (progressif)",
+					"3 min de récupération footing entre les blocs"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 5,
+			"steps": [
+				"5 min footing très lent",
+				"Étirements : ischios, psoas, mollets"
+			]
+		},
+		"status": "PLANNED",
+		"date": "2025-08-04"
+	},
+	"renfo_tronc_jambes_dynamique_w3": {
+		"weekid": "semaine3",
+		"sessionId": "renfo_tronc_jambes_dynamique_w3",
+		"type": "Renforcement",
+		"intensity": 4,
+		"duration": "45",
+		"advice": "💡 Maîtrise chaque phase : concentre-toi sur la stabilité des genoux et l’engagement des fessiers.",
+		"estimatedCalorie": "400 kcal",
+		"distance": "",
+		"title": "Tronc + Jambes dynamique",
+		"objective": "Développer la puissance fonctionnelle et la stabilité musculaire pour soutenir l’intensité en course.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 5,
+				"steps": [
+					"2 min sauts sur place",
+					"3 min mobilité hanches + squats aériens lents"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 35,
+				"steps": [
+					"3 x : Squats (15 reps) / Fentes arrières (10 reps/jambe) / Relevés de bassin unilatéraux (10 reps/jambe)",
+					"3 x : Gainage dynamique (planche → pompe → planche – 40 sec) / Jump squats (8 à 10) / Abduction avec élastique (15 reps/côté)"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 5,
+			"steps": [
+				"Étirements : quadriceps, fessiers, mollets",
+				"Respiration abdominale 2 min"
+			]
+		},
+		"status": "PLANNED",
+		"date": "2025-08-05"
+	},
+	"course_z2_accelerations_w3": {
+		"weekid": "semaine3",
+		"sessionId": "course_z2_accelerations_w3",
+		"type": "Course à pied",
+		"intensity": 4,
+		"duration": "70",
+		"advice": "💡 Dans les accélérations, pense cadence plus que vitesse. C’est la fréquence de pas qui te rend plus efficace.",
+		"estimatedCalorie": "700 kcal",
+		"distance": "11000",
+		"title": "Footing Z2 + accélérations",
+		"objective": "Consolider ton endurance tout en réveillant ta foulée sur la fin de séance.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 10,
+				"steps": ["10 min footing lent", "3 x 50 m éducatifs dynamiques"]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 50,
+				"steps": [
+					"40 min à 6’00 à 6’20/km (Z2)",
+					"5 x 30 sec à 4’55/km, récup 1 min footing lent"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 10,
+			"steps": [
+				"10 min de footing très lent",
+				"Étirements actifs : ischios, quadriceps, mollets"
+			]
+		},
+		"status": "PLANNED",
+		"date": "2025-08-08"
+	}
+}

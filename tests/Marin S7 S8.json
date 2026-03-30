@@ -1,0 +1,842 @@
+{
+  "natation_s7_1": {
+    "weekid": "semaine7",
+    "sessionId": "natation_s7_1",
+    "type": "Natation",
+    "intensity": 4,
+    "duration": "70",
+    "advice": "💡 Conserve ta technique même lorsque la fatigue monte : relâche tes bras au retour, expire profondément sous l’eau.",
+    "estimatedCalorie": "600 kcal",
+    "distance": "3200",
+    "title": "Maintien de l’allure Half en fatigue",
+    "objective": "Travailler la régularité à l’allure cible sur des blocs avec peu de récupération.",
+    "warmups": [
+      {
+        "title": "Échauffement à sec",
+        "duration": 5,
+        "steps": ["Mobilité bras/épaules", "2 x 30 sec gainage ventral"]
+      },
+      {
+        "title": "Échauffement dans l’eau",
+        "duration": 10,
+        "steps": [
+          "300 m crawl facile (>2’00/100m)",
+          "4 x 50 m éducatifs (glisse, un bras, catch, rattrapé)"
+        ]
+      }
+    ],
+    "mainSets": [
+      {
+        "title": "Bloc principal",
+        "duration": 45,
+        "steps": [
+          "3 x 400 m à 1’45/100m, récup 30 sec (1200 m)",
+          "4 x 100 m à 1’42/100m, récup 20 sec (400 m)",
+          "6 x 50 m jambes battements planche (300 m)",
+          "2 x 200 m à 1’45/100m, nage complète (400 m)",
+          "2 x 100 m technique : respiration 3 temps (200 m)"
+        ]
+      }
+    ],
+    "cooldown": {
+      "title": "Retour au calme",
+      "duration": 10,
+      "steps": ["200 m nage libre relâchée (>2’00/100m)"]
+    },
+    "status": "PLANNED",
+    "date": "2025-07-28"
+  },
+  "renfo_s7_2": {
+    "weekid": "semaine7",
+    "sessionId": "renfo_s7_2",
+    "type": "Renforcement",
+    "intensity": 2,
+    "duration": "40",
+    "advice": "💡 En gainage oblique, stabilise ton bassin, ne laisse pas tomber la hanche.",
+    "estimatedCalorie": "320 kcal",
+    "distance": "",
+    "title": "Routine mobilité + gainage oblique",
+    "objective": "Améliorer la stabilité latérale et la mobilité active post-natation.",
+    "warmups": [
+      {
+        "title": "Échauffement",
+        "duration": 5,
+        "steps": ["2 min corde à sauter", "Mobilisation des épaules et hanches"]
+      }
+    ],
+    "mainSets": [
+      {
+        "title": "Bloc principal",
+        "duration": 30,
+        "steps": [
+          "3 x : Planche latérale 30 sec/côté",
+          "3 x : Bird-dog 10 reps / Deadbug 10 reps",
+          "3 x : Fentes arrières 12 reps / côté",
+          "3 x : Pont fessier 20 reps"
+        ]
+      }
+    ],
+    "cooldown": {
+      "title": "Retour au calme",
+      "duration": 5,
+      "steps": ["Étirements : hanches, dos, ischios"]
+    },
+    "status": "PLANNED",
+    "date": "2025-07-28"
+  },
+  "cyclisme_s7_3": {
+    "weekid": "semaine7",
+    "sessionId": "cyclisme_s7_3",
+    "type": "Cyclisme",
+    "intensity": 4,
+    "duration": "105",
+    "advice": "💡 Garde une bonne fréquence d’alimentation : une petite prise toutes les 20 minutes pour habituer ton système digestif.",
+    "estimatedCalorie": "900 kcal",
+    "distance": "54000",
+    "title": "3 x 25 min à 270 W",
+    "objective": "Travailler la capacité à tenir l’allure Half sur des blocs longs.",
+    "warmups": [
+      {
+        "title": "Échauffement",
+        "duration": 15,
+        "steps": ["15 min progressif : de 180 à 220 W"]
+      }
+    ],
+    "mainSets": [
+      {
+        "title": "Bloc principal",
+        "duration": 75,
+        "steps": ["3 x 25 min à 265–275 W, récup 5 min à 180 W"]
+      }
+    ],
+    "cooldown": {
+      "title": "Retour au calme",
+      "duration": 15,
+      "steps": ["15 min en aisance à 160–180 W"]
+    },
+    "status": "PLANNED",
+    "date": "2025-07-29"
+  },
+  "cap_s7_4": {
+    "weekid": "semaine7",
+    "sessionId": "cap_s7_4",
+    "type": "Course à pied",
+    "intensity": 1,
+    "duration": "35",
+    "advice": "💡 Ce footing post-vélo doit être en totale aisance, concentre-toi sur ta posture.",
+    "estimatedCalorie": "330 kcal",
+    "distance": "6000",
+    "title": "Footing léger post-vélo",
+    "objective": "Encourager la récupération active et renforcer la mécanique de course post-vélo.",
+    "warmups": [
+      {
+        "title": "Échauffement",
+        "duration": 5,
+        "steps": ["5 min marche active ou jogging lent"]
+      }
+    ],
+    "mainSets": [
+      {
+        "title": "Bloc principal",
+        "duration": 25,
+        "steps": ["25 min à 5’30–5’45/km sur terrain souple"]
+      }
+    ],
+    "cooldown": {
+      "title": "Retour au calme",
+      "duration": 5,
+      "steps": ["5 min de marche + étirements mollets/quads"]
+    },
+    "status": "PLANNED",
+    "date": "2025-07-29"
+  },
+  "cap_s7_5": {
+    "weekid": "semaine7",
+    "sessionId": "cap_s7_5",
+    "type": "Course à pied",
+    "intensity": 4,
+    "duration": "65",
+    "advice": "💡 Conserve une bonne régularité sur le tempo long, sans sur-régime.",
+    "estimatedCalorie": "750 kcal",
+    "distance": "12000",
+    "title": "10k race pace + tempo long",
+    "objective": "Travailler la vitesse spécifique 10 km et la capacité à soutenir un tempo élevé.",
+    "warmups": [
+      {
+        "title": "Échauffement",
+        "duration": 10,
+        "steps": [
+          "10 min footing progressif",
+          "3 x 50 m éducatifs (montées de genoux, talons-fesses, foulées bondissantes)"
+        ]
+      }
+    ],
+    "mainSets": [
+      {
+        "title": "Bloc principal",
+        "duration": 45,
+        "steps": [
+          "10 min à 4’20/km",
+          "10 min à 4’05/km",
+          "10 min à 3’55/km",
+          "10 min à 3’35/km (10k pace)",
+          "5 min récupération à 5’15/km"
+        ]
+      }
+    ],
+    "cooldown": {
+      "title": "Retour au calme",
+      "duration": 10,
+      "steps": ["10 min footing très lent + étirements dynamiques"]
+    },
+    "status": "PLANNED",
+    "date": "2025-07-30"
+  },
+  "natation_s7_6": {
+    "weekid": "semaine7",
+    "sessionId": "natation_s7_6",
+    "type": "Natation",
+    "intensity": 4,
+    "duration": "70",
+    "advice": "💡 Sur les séries rapides, concentre-toi sur la coordination bras-respiration.",
+    "estimatedCalorie": "610 kcal",
+    "distance": "3200",
+    "title": "Technique + séries allures mixtes",
+    "objective": "Développer l’efficacité technique et la capacité à maintenir différentes allures.",
+    "warmups": [
+      {
+        "title": "Échauffement à sec",
+        "duration": 5,
+        "steps": ["Mobilisation bras, nuque, épaules", "30 sec jumping jack"]
+      },
+      {
+        "title": "Échauffement dans l’eau",
+        "duration": 10,
+        "steps": [
+          "300 m crawl facile",
+          "4 x 50 m éducatifs (rattrapé / un bras / glisse / catch)",
+          "4 x 50 m à 1’45/100m"
+        ]
+      }
+    ],
+    "mainSets": [
+      {
+        "title": "Bloc principal",
+        "duration": 45,
+        "steps": [
+          "6 x 100 m à 1’45/100m, récup 20 sec (600 m)",
+          "4 x 50 m à 1’40/100m, récup 15 sec (200 m)",
+          "4 x 100 m à 1’42/100m avec plaquettes, récup 20 sec (400 m)",
+          "6 x 50 m jambes battements planche (300 m)",
+          "4 x 100 m à 1’38/100m, récup 30 sec (400 m)",
+          "2 x 200 m en relâchement (400 m)"
+        ]
+      }
+    ],
+    "cooldown": {
+      "title": "Retour au calme",
+      "duration": 10,
+      "steps": ["200 m nage libre relâchée"]
+    },
+    "status": "PLANNED",
+    "date": "2025-07-30"
+  },
+  "cyclisme_s7_jeudi": {
+    "weekid": "semaine7",
+    "sessionId": "cyclisme_s7_jeudi",
+    "type": "Cyclisme",
+    "intensity": 4,
+    "duration": "80",
+    "advice": "💡 Reste en position aéro sur les portions longues, relance bien en haut de la pyramide.",
+    "estimatedCalorie": "800 kcal",
+    "distance": "42000",
+    "title": "Pyramide de puissance + travail de relance",
+    "objective": "Renforcer la capacité à maintenir des efforts élevés avec relances et variations d’intensité.",
+    "warmups": [
+      {
+        "title": "Échauffement",
+        "duration": 15,
+        "steps": [
+          "10 min Z1 à Z2 (180-220 W)",
+          "3 x 1 min à 260 W / récup 1 min"
+        ]
+      }
+    ],
+    "mainSets": [
+      {
+        "title": "Bloc principal",
+        "duration": 50,
+        "steps": [
+          "5 min à 250 W",
+          "8 min à 260 W",
+          "10 min à 270 W",
+          "8 min à 260 W",
+          "5 min à 250 W",
+          "3 x 1 min à 300 W avec 1 min récup"
+        ]
+      }
+    ],
+    "cooldown": {
+      "title": "Retour au calme",
+      "duration": 15,
+      "steps": ["15 min à 180-200 W, cadence libre"]
+    },
+    "status": "PLANNED",
+    "date": "2025-07-31"
+  },
+  "cap_s7_jeudi": {
+    "weekid": "semaine7",
+    "sessionId": "cap_s7_jeudi",
+    "type": "Course à pied",
+    "intensity": 1,
+    "duration": "30",
+    "advice": "💡 Reste relâché, pense à ton relâchement des épaules et cadence fluide.",
+    "estimatedCalorie": "300 kcal",
+    "distance": "5200",
+    "title": "Footing d’entretien post-bike",
+    "objective": "Favoriser la récupération active et entretenir la gestuelle post-effort vélo.",
+    "warmups": [
+      {
+        "title": "Échauffement",
+        "duration": 5,
+        "steps": ["5 min marche active ou footing très léger"]
+      }
+    ],
+    "mainSets": [
+      {
+        "title": "Bloc principal",
+        "duration": 20,
+        "steps": ["20 min à 5’30–5’45/km"]
+      }
+    ],
+    "cooldown": {
+      "title": "Retour au calme",
+      "duration": 5,
+      "steps": ["5 min de marche + étirements actifs"]
+    },
+    "status": "PLANNED",
+    "date": "2025-07-31"
+  },
+  "renfo_s7_vendredi": {
+    "weekid": "semaine7",
+    "sessionId": "renfo_s7_vendredi",
+    "type": "Renforcement",
+    "intensity": 2,
+    "duration": "40",
+    "advice": "💡 Garde ton bassin neutre et engagé, surtout lors des fentes et ponts fessiers.",
+    "estimatedCalorie": "320 kcal",
+    "distance": "",
+    "title": "Routine posture et fessiers",
+    "objective": "Renforcer les muscles stabilisateurs et corriger les déséquilibres posturaux.",
+    "warmups": [
+      {
+        "title": "Échauffement",
+        "duration": 5,
+        "steps": ["2 min corde à sauter", "Mobilisation hanches et dos"]
+      }
+    ],
+    "mainSets": [
+      {
+        "title": "Bloc principal",
+        "duration": 30,
+        "steps": [
+          "3 x : Pont fessier 20 reps + Fire hydrant 10 reps/côté",
+          "3 x : Planche bras tendus 30 sec + Gainage latéral 30 sec/côté",
+          "3 x : Fentes arrière 10 reps/côté + Superman 30 sec"
+        ]
+      }
+    ],
+    "cooldown": {
+      "title": "Retour au calme",
+      "duration": 5,
+      "steps": ["Étirements : psoas, ischios, fessiers"]
+    },
+    "status": "PLANNED",
+    "date": "2025-08-01"
+  },
+  "enchainement_s7_samedi": {
+    "weekid": "semaine7",
+    "sessionId": "enchainement_s7_samedi",
+    "type": "Enchaînement vélo-course",
+    "intensity": 4,
+    "duration": "220",
+    "advice": "💡 Bois toutes les 15–20 min, teste ton alimentation course. Transition rapide, mais contrôlée.",
+    "estimatedCalorie": "2300 kcal",
+    "distance": "98000",
+    "title": "Sortie tempo vélo + course enchaînée",
+    "objective": "Simuler une dynamique Half : sortie tempo vélo avec transition rapide vers une CAP contrôlée.",
+    "warmups": [
+      {
+        "title": "Échauffement vélo",
+        "duration": 20,
+        "steps": ["10 min à 180–200 W", "3 x 2 min à 250 W / récup 2 min"]
+      },
+      {
+        "title": "Échauffement course à pied",
+        "duration": 5,
+        "steps": ["5 min footing lent en sortie de vélo"]
+      }
+    ],
+    "mainSets": [
+      {
+        "title": "Bloc principal vélo",
+        "duration": 150,
+        "steps": [
+          "3 x 40 min à 250–270 W, récup 10 min à 180 W",
+          "Maintenir cadence 85–90 rpm sur l’ensemble"
+        ]
+      },
+      {
+        "title": "Bloc principal CAP",
+        "duration": 35,
+        "steps": ["35 min à 4’50–5’00/km, allure maîtrisée"]
+      }
+    ],
+    "cooldown": {
+      "title": "Retour au calme CAP",
+      "duration": 10,
+      "steps": ["5 min footing lent + 5 min étirements mollets/ischios"]
+    },
+    "status": "PLANNED",
+    "date": "2025-08-02"
+  },
+  "natation_s7_dimanche": {
+    "weekid": "semaine7",
+    "sessionId": "natation_s7_dimanche",
+    "type": "Natation",
+    "intensity": 2,
+    "duration": "60",
+    "advice": "💡 Respire régulièrement, cherche la glisse, garde une fréquence cardiaque basse.",
+    "estimatedCalorie": "500 kcal",
+    "distance": "2300",
+    "title": "Endurance + technique relâchée",
+    "objective": "Favoriser le relâchement tout en consolidant l’endurance natation.",
+    "warmups": [
+      {
+        "title": "Échauffement à sec",
+        "duration": 5,
+        "steps": ["Mobilité épaules, nuque", "2 x 30 sec gainage ventral"]
+      },
+      {
+        "title": "Échauffement dans l’eau",
+        "duration": 10,
+        "steps": [
+          "200 m crawl facile (>2’00/100m)",
+          "4 x 50 m éducatifs : un bras / glisse / catch / rattrapé"
+        ]
+      }
+    ],
+    "mainSets": [
+      {
+        "title": "Bloc principal",
+        "duration": 35,
+        "steps": [
+          "2 x 400 m à 1’50/100m, récup 30 sec",
+          "4 x 100 m à 1’45/100m, récup 20 sec",
+          "4 x 50 m éducatifs respiration 3 temps, récup 15 sec",
+          "4 x 50 m jambes battements planche, récup 15 sec"
+        ]
+      }
+    ],
+    "cooldown": {
+      "title": "Retour au calme",
+      "duration": 10,
+      "steps": ["300 m nage facile (>2’00/100m)"]
+    },
+    "status": "PLANNED",
+    "date": "2025-08-03"
+  },
+  "natation_s8_lundi": {
+    "weekid": "semaine8",
+    "sessionId": "natation_s8_lundi",
+    "type": "Natation",
+    "intensity": 4,
+    "duration": "70",
+    "advice": "💡 Garde le même tempo sur les 100m et 200m. Reste gainé, même en fin de série.",
+    "estimatedCalorie": "600 kcal",
+    "distance": "3300",
+    "title": "Séries 100m et 200m à allure Half",
+    "objective": "Améliorer ta régularité à l’allure de course Half sur des distances ciblées.",
+    "warmups": [
+      {
+        "title": "Échauffement à sec",
+        "duration": 5,
+        "steps": [
+          "Mobilité épaules/nuque/bras",
+          "1 min gainage ventral",
+          "1 min jumping jacks"
+        ]
+      },
+      {
+        "title": "Échauffement dans l’eau",
+        "duration": 10,
+        "steps": [
+          "200 m crawl facile (>2’00/100m)",
+          "4 x 50 m éducatifs (glisse, rattrapé, un bras, catch)",
+          "4 x 50 m crawl à 1’50/100m, récup 15 sec"
+        ]
+      }
+    ],
+    "mainSets": [
+      {
+        "title": "Bloc principal",
+        "duration": 45,
+        "steps": [
+          "8 x 100 m à 1’45/100m, récup 20 sec",
+          "6 x 200 m à 1’45/100m, récup 30 sec",
+          "4 x 50 m jambes battements planche, récup 15 sec",
+          "4 x 50 m éducatifs respiration 3 temps, récup 15 sec"
+        ]
+      }
+    ],
+    "cooldown": {
+      "title": "Retour au calme",
+      "duration": 10,
+      "steps": ["300 m nage libre relâchée (>2’00/100m)"]
+    },
+    "status": "PLANNED",
+    "date": "2025-08-04"
+  },
+  "renfo_s8_lundi": {
+    "weekid": "semaine8",
+    "sessionId": "renfo_s8_lundi",
+    "type": "Renforcement",
+    "intensity": 2,
+    "duration": "40",
+    "advice": "💡 Contrôle toujours la posture en dynamique, évite les à-coups.",
+    "estimatedCalorie": "300 kcal",
+    "distance": "",
+    "title": "Routine gainage dynamique",
+    "objective": "Renforcer ta sangle abdominale et améliorer ton contrôle postural en mouvement.",
+    "warmups": [
+      {
+        "title": "Échauffement",
+        "duration": 5,
+        "steps": ["2 min corde à sauter", "3 min mobilité hanches et tronc"]
+      }
+    ],
+    "mainSets": [
+      {
+        "title": "Bloc principal",
+        "duration": 30,
+        "steps": [
+          "3 x : Planche dynamique 30 sec / Gainage latéral relevés de hanche 10 reps/côté",
+          "3 x : Deadbug dynamique 12 reps + Relevés bassin 15 reps",
+          "3 x : Mountain climbers 30 sec + Superman 30 sec"
+        ]
+      }
+    ],
+    "cooldown": {
+      "title": "Retour au calme",
+      "duration": 5,
+      "steps": ["Étirements passifs : psoas, ischios, lombaires"]
+    },
+    "status": "PLANNED",
+    "date": "2025-08-04"
+  },
+  "cyclisme_s8_mardi": {
+    "weekid": "semaine8",
+    "sessionId": "cyclisme_s8_mardi",
+    "type": "Cyclisme",
+    "intensity": 5,
+    "duration": "110",
+    "advice": "💡 Gère ton alimentation et ton hydratation dès la première série, comme le jour de la course.",
+    "estimatedCalorie": "1000 kcal",
+    "distance": "57000",
+    "title": "Simulation Half : 3 x 30 min à 270 W",
+    "objective": "Simuler un effort Half en extérieur ou sur home trainer pour tester ton pacing.",
+    "warmups": [
+      {
+        "title": "Échauffement",
+        "duration": 15,
+        "steps": ["15 min progressif de 180 à 230 W"]
+      }
+    ],
+    "mainSets": [
+      {
+        "title": "Bloc principal",
+        "duration": 75,
+        "steps": [
+          "3 x 30 min à 265–275 W, récupération 5 min à 180 W entre les blocs"
+        ]
+      }
+    ],
+    "cooldown": {
+      "title": "Retour au calme",
+      "duration": 20,
+      "steps": ["20 min facile à 180–200 W"]
+    },
+    "status": "PLANNED",
+    "date": "2025-08-05"
+  },
+  "cap_s8_mardi": {
+    "weekid": "semaine8",
+    "sessionId": "cap_s8_mardi",
+    "type": "Course à pied",
+    "intensity": 1,
+    "duration": "30",
+    "advice": "💡 Laisse tes jambes tourner en relâchement complet. Respire profondément, cadence fluide.",
+    "estimatedCalorie": "300 kcal",
+    "distance": "5000",
+    "title": "Footing relâché post-vélo",
+    "objective": "Optimiser la récupération active après un gros bloc vélo.",
+    "warmups": [
+      {
+        "title": "Échauffement",
+        "duration": 0,
+        "steps": ["Footing enchaîné directement après la sortie vélo"]
+      }
+    ],
+    "mainSets": [
+      {
+        "title": "Bloc principal",
+        "duration": 25,
+        "steps": ["25 min à 5’30–5’45/km"]
+      }
+    ],
+    "cooldown": {
+      "title": "Retour au calme",
+      "duration": 5,
+      "steps": ["5 min marche + étirements actifs"]
+    },
+    "status": "PLANNED",
+    "date": "2025-08-05"
+  },
+  "cap_s8_mercredi": {
+    "weekid": "semaine8",
+    "sessionId": "cap_s8_mercredi",
+    "type": "Course à pied",
+    "intensity": 4,
+    "duration": "60",
+    "advice": "💡 Concentre-toi sur la régularité du tempo et un finish engagé mais propre.",
+    "estimatedCalorie": "700 kcal",
+    "distance": "12000",
+    "title": "10 km tempo + finish à 3’50/km",
+    "objective": "Améliorer ton endurance à haute intensité et ta capacité à relancer en fin d'effort.",
+    "warmups": [
+      {
+        "title": "Échauffement",
+        "duration": 10,
+        "steps": ["10 min footing à 5’30/km", "3 x 50 m foulées dynamiques"]
+      }
+    ],
+    "mainSets": [
+      {
+        "title": "Bloc principal",
+        "duration": 40,
+        "steps": ["8 km à 4’10–4’15/km", "2 km à 3’50/km"]
+      }
+    ],
+    "cooldown": {
+      "title": "Retour au calme",
+      "duration": 10,
+      "steps": ["10 min footing très lent + étirements"]
+    },
+    "status": "PLANNED",
+    "date": "2025-08-06"
+  },
+  "enchaînement_s8_jeudi": {
+    "weekid": "semaine8",
+    "sessionId": "enchaînement_s8_jeudi",
+    "type": "Enchaînement vélo-course",
+    "intensity": 5,
+    "duration": "180",
+    "advice": "💡 Alimente-toi bien sur le vélo, respecte ton pacing, le run post-vélo doit rester très contrôlé.",
+    "estimatedCalorie": "1800 kcal",
+    "distance": "",
+    "title": "Vélo 2h15 + 8 km à 4’10/km",
+    "objective": "Simuler un effort proche de la course avec un run soutenu en sortie de vélo.",
+    "warmups": [
+      {
+        "title": "Échauffement vélo",
+        "duration": 15,
+        "steps": ["15 min progressif 180 à 230 W"]
+      },
+      {
+        "title": "Échauffement CAP (enchaînement)",
+        "duration": 5,
+        "steps": ["Départ en douceur post-transition", "1 km à 5’30/km"]
+      }
+    ],
+    "mainSets": [
+      {
+        "title": "Bloc principal vélo",
+        "duration": 120,
+        "steps": [
+          "2 x 45 min à 260–275 W, récup 5 min à 180 W",
+          "15 min mix cadence haute 100 rpm / force 60 rpm"
+        ]
+      },
+      {
+        "title": "Bloc principal CAP",
+        "duration": 40,
+        "steps": ["8 km à 4’10/km"]
+      }
+    ],
+    "cooldown": {
+      "title": "Retour au calme",
+      "duration": 10,
+      "steps": ["5 min marche + 5 min étirements activés"]
+    },
+    "status": "PLANNED",
+    "date": "2025-08-07"
+  },
+  "renfo_s8_vendredi": {
+    "weekid": "semaine8",
+    "sessionId": "renfo_s8_vendredi",
+    "type": "Renforcement",
+    "intensity": 2,
+    "duration": "40",
+    "advice": "💡 Engage les lombaires avec contrôle, surtout sur les extensions. Qualité avant quantité.",
+    "estimatedCalorie": "320 kcal",
+    "distance": "",
+    "title": "Routine active jambes/lombaires",
+    "objective": "Renforcer la stabilité postérieure et la tonicité des jambes.",
+    "warmups": [
+      {
+        "title": "Échauffement",
+        "duration": 5,
+        "steps": [
+          "2 min corde à sauter",
+          "3 min de mobilité hanches et chevilles"
+        ]
+      }
+    ],
+    "mainSets": [
+      {
+        "title": "Bloc principal",
+        "duration": 30,
+        "steps": [
+          "3 x : Fentes arrière (12 reps/jambe) + Relevés de bassin (20 reps)",
+          "3 x : Gainage dynamique bras tendus 45 sec + Superman 30 sec",
+          "3 x : Squat jump 10 reps + Good mornings sans charge 15 reps"
+        ]
+      }
+    ],
+    "cooldown": {
+      "title": "Retour au calme",
+      "duration": 5,
+      "steps": ["Étirements ischios, fessiers, bas du dos"]
+    },
+    "status": "PLANNED",
+    "date": "2025-08-08"
+  },
+  "natation_s8_samedi": {
+    "weekid": "semaine8",
+    "sessionId": "natation_s8_samedi",
+    "type": "Natation",
+    "intensity": 3,
+    "duration": "70",
+    "advice": "💡 Sois attentif à ta glisse après chaque poussée murale. Privilégie la sensation de glisser sur l’eau.",
+    "estimatedCalorie": "560 kcal",
+    "distance": "2700",
+    "title": "Volume et glisse technique",
+    "objective": "Travailler l’économie gestuelle sur une séance longue et fluide.",
+    "warmups": [
+      {
+        "title": "Échauffement à sec",
+        "duration": 5,
+        "steps": ["Mobilisation bras et nuque", "2 x 30 sec gainage dynamique"]
+      },
+      {
+        "title": "Échauffement dans l’eau",
+        "duration": 10,
+        "steps": [
+          "300 m crawl souple (allure > 2’00/100m)",
+          "4 x 50 m éducatifs : rattrapé, un bras, glisse, respiration 3 temps"
+        ]
+      }
+    ],
+    "mainSets": [
+      {
+        "title": "Bloc principal",
+        "duration": 45,
+        "steps": [
+          "3 x 400 m à 1’50/100m, récup 30 sec",
+          "4 x 100 m à 1’45/100m, récupération 20 sec",
+          "4 x 50 m technique en éducatifs : glisse, 1 bras"
+        ]
+      }
+    ],
+    "cooldown": {
+      "title": "Retour au calme",
+      "duration": 10,
+      "steps": ["300 m nage libre relâchée (allure > 2’00/100m)"]
+    },
+    "status": "PLANNED",
+    "date": "2025-08-09"
+  },
+  "cap_s8_dimanche": {
+    "weekid": "semaine8",
+    "sessionId": "cap_s8_dimanche",
+    "type": "Course à pied",
+    "intensity": 2,
+    "duration": "50",
+    "advice": "💡 Respire profondément et utilise les montées pour mobiliser les chevilles/fessiers sans forcer.",
+    "estimatedCalorie": "500 kcal",
+    "distance": "9000",
+    "title": "Footing vallonné récupération",
+    "objective": "Favoriser le relâchement musculaire tout en gardant une dynamique d'appuis.",
+    "warmups": [
+      {
+        "title": "Échauffement",
+        "duration": 10,
+        "steps": ["10 min footing lent sur plat"]
+      }
+    ],
+    "mainSets": [
+      {
+        "title": "Bloc principal",
+        "duration": 30,
+        "steps": ["30 min en terrain vallonné à 5’30–5’45/km"]
+      }
+    ],
+    "cooldown": {
+      "title": "Retour au calme",
+      "duration": 10,
+      "steps": ["5 min marche + étirements mollets/quadris"]
+    },
+    "status": "PLANNED",
+    "date": "2025-08-10"
+  },
+  "mobilisation_s8_dimanche": {
+    "weekid": "semaine8",
+    "sessionId": "mobilisation_s8_dimanche",
+    "type": "Renforcement",
+    "intensity": 1,
+    "duration": "20",
+    "advice": "💡 Respire profondément pendant chaque étirement et relâche bien les épaules.",
+    "estimatedCalorie": "100 kcal",
+    "distance": "",
+    "title": "Routine récupération active",
+    "objective": "Favoriser le relâchement musculaire et la régénération après une semaine intense.",
+    "warmups": [
+      {
+        "title": "Échauffement doux",
+        "duration": 5,
+        "steps": [
+          "2 min marche lente ou pédalage doux",
+          "Mobilisation articulaire : hanches, chevilles, épaules"
+        ]
+      }
+    ],
+    "mainSets": [
+      {
+        "title": "Routine de stretching",
+        "duration": 15,
+        "steps": [
+          "Étirements statiques : ischios, quadris, fessiers (30 sec chacun)",
+          "Étirements du dos et des épaules",
+          "Respiration guidée et détente allongée (3 min)"
+        ]
+      }
+    ],
+    "cooldown": {
+      "title": "Retour au calme",
+      "duration": 0,
+      "steps": []
+    },
+    "status": "PLANNED",
+    "date": "2025-08-10"
+  }
+}

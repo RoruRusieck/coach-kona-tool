@@ -1,0 +1,550 @@
+{
+	"natation_tempo_technique_w4": {
+		"weekid": "semaine4_endurance_gestion",
+		"sessionId": "natation_tempo_technique_w4",
+		"type": "Natation",
+		"intensity": 3,
+		"duration": "60",
+		"advice": "💡 Concentre-toi sur ton placement dans l’eau. Une bonne glisse = moins de fatigue et plus de vitesse.",
+		"estimatedCalorie": "500 kcal",
+		"distance": "2200",
+		"title": "Lundi 28 juillet – Natation – 300m tempo + technique – 1h00 – 2200 m – Intensité 3/5",
+		"objective": "Stabiliser ton allure de seuil (1’56/100m) tout en soignant ta technique.",
+		"warmups": [
+			{
+				"title": "Échauffement à sec",
+				"duration": 5,
+				"steps": ["2 x 30 sec gainage planche", "Mobilité épaules et hanches"]
+			},
+			{
+				"title": "Échauffement dans l’eau",
+				"duration": 10,
+				"steps": [
+					"300 m crawl souple",
+					"4 x 50 m éducatifs (rattrapé, poings fermés)",
+					"4 x 25 m progressifs vers Z3"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 35,
+				"steps": [
+					"3 x 100 m allure tempo (1’55–1’58/100m), récup 20 sec",
+					"2 x 50 m battements planche",
+					"300 m nage continue à 1’58/100m",
+					"2 x 100 m éducatif + nage complète"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 10,
+			"steps": [
+				"200 m nage libre souple",
+				"Étirements passifs épaules et pectoraux"
+			]
+		},
+		"status": "PLANNED",
+		"date": "2025-07-28"
+	},
+
+	"velo_2x20min_tempo_w4": {
+		"weekid": "semaine4_endurance_gestion",
+		"sessionId": "velo_2x20min_tempo_w4",
+		"type": "Cyclisme",
+		"intensity": 3,
+		"duration": "90",
+		"advice": "💡 Sur les blocs de 20 min, respire profondément, garde un rythme stable, et visualise un effort Half Ironman.",
+		"estimatedCalorie": "750 kcal",
+		"distance": "42000",
+		"title": "Mercredi 30 juillet – Vélo – 2 x 20 min tempo – 1h30 – 42 km – Intensité 3/5",
+		"objective": "Apprendre à tenir un effort long autour de 220–230W en cadence maîtrisée.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 15,
+				"steps": [
+					"10 min Z1, cadence 90 rpm",
+					"3 x 30 sec à 250W, récup 1 min",
+					"2 min récupération"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 55,
+				"steps": [
+					"2 x 20 min à 220–230W, cadence 85–90 rpm",
+					"Récup 7 min Z1 entre les blocs",
+					"5 min spinning souple"
+				]
+			},
+			{
+				"title": "Variante Home trainer",
+				"steps": [
+					"2 x 18 min à 220W, récup 6 min à 150W",
+					"5 min cool en roue libre"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 15,
+			"steps": [
+				"10 min pédalage à 90 rpm",
+				"Étirements : quadris, mollets, dos"
+			]
+		},
+		"status": "PLANNED",
+		"date": "2025-07-30"
+	},
+
+	"cap_3x8min_semi_w4": {
+		"weekid": "semaine4_endurance_gestion",
+		"sessionId": "cap_3x8min_semi_w4",
+		"type": "Course à pied",
+		"intensity": 3,
+		"duration": "60",
+		"advice": "💡 Reste concentré sur ton relâchement et la respiration : les blocs à allure semi doivent rester maîtrisés.",
+		"estimatedCalorie": "650 kcal",
+		"distance": "11000",
+		"title": "Jeudi 31 juillet – CAP – 3 x 8 min à 4’35/km – 1h00 – 11 km – Intensité 3/5",
+		"objective": "Travailler ton allure semi sur des blocs prolongés avec une récupération active.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 15,
+				"steps": [
+					"10 min footing lent (6’00/km)",
+					"3 x 50 m progressifs, récup 30 sec",
+					"Mobilisation hanches et chevilles"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 30,
+				"steps": [
+					"3 x 8 min à 4’30–4’35/km, récup 2 min footing entre les blocs"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 15,
+			"steps": [
+				"10 min footing très lent",
+				"Étirements (ischios, fessiers, mollets)"
+			]
+		},
+		"status": "PLANNED",
+		"date": "2025-07-31"
+	},
+	"renforcement_gainage_fessiers_w4": {
+		"weekid": "semaine4_endurance_gestion",
+		"sessionId": "renforcement_gainage_fessiers_w4",
+		"type": "Renforcement",
+		"intensity": 2,
+		"duration": "40",
+		"advice": "💡 Contrôle ta posture dans chaque exercice. Engage les fessiers, surtout dans les ponts et les bird-dogs.",
+		"estimatedCalorie": "300 kcal",
+		"distance": "",
+		"title": "Vendredi 1er août – Renforcement – Focus gainage + fessiers – 40 min – Intensité 2/5",
+		"objective": "Renforcer les chaînes postérieures et prévenir les déséquilibres.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 5,
+				"steps": [
+					"Mobilité hanches / épaules",
+					"2 min corde à sauter",
+					"20 squats à vide"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 30,
+				"steps": [
+					"3 x : Planche 30 sec + gainage latéral 30 sec/côté",
+					"3 x : Bird-dog 10 reps/côté",
+					"3 x : Pont fessier 15 reps + 10 sec isométrique",
+					"3 x : Chaise murale 30 sec + squat lents 15 reps"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 5,
+			"steps": [
+				"Étirements passifs : ischios, psoas, fessiers",
+				"Respiration allongée 2 min"
+			]
+		},
+		"status": "PLANNED",
+		"date": "2025-08-01"
+	},
+
+	"enchainement_cadence_tempo_w4": {
+		"weekid": "semaine4_endurance_gestion",
+		"sessionId": "enchainement_cadence_tempo_w4",
+		"type": "Enchaînement vélo-course",
+		"intensity": 4,
+		"duration": "105",
+		"advice": "💡 Travaille ta cadence sur le vélo : c’est la clé pour avoir des jambes disponibles à pied.",
+		"estimatedCalorie": "950 kcal",
+		"distance": "39000",
+		"title": "Samedi 2 août – Enchaînement vélo/CAP – Cadence + 4 km tempo – 1h45 – 35 km + 4 km – Intensité 4/5",
+		"objective": "Enchaîner un effort tempo vélo avec une transition rapide et une CAP solide.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 15,
+				"steps": ["15 min Z1 à 90–95 rpm", "2 x 30 sec à 250W, récup 1 min"]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 75,
+				"steps": [
+					"2 x 15 min à 220–230W, cadence 90 rpm, récup 5 min",
+					"10 min à 200W en vélocité 95+ rpm",
+					"Transition rapide (<3 min)",
+					"4 km CAP : 2 km à 5’00/km + 2 km à 4’40/km"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 15,
+			"steps": ["5 min footing lent", "Étirements mollets, quadriceps, dos"]
+		},
+		"status": "PLANNED",
+		"date": "2025-08-02"
+	},
+
+	"cap_longue_vallonnee_w4": {
+		"weekid": "semaine4_endurance_gestion",
+		"sessionId": "cap_longue_vallonnee_w4",
+		"type": "Course à pied",
+		"intensity": 2,
+		"duration": "95",
+		"advice": "💡 Choisis un parcours avec un peu de dénivelé. Gère ton allure, même en côte : mieux vaut marcher 30 sec que dépasser les 180 bpm.",
+		"estimatedCalorie": "800 kcal",
+		"distance": "14000",
+		"title": "Dimanche 3 août – CAP – Sortie longue vallonnée – 1h35 – 14 km – Intensité 2/5",
+		"objective": "Renforcer ton endurance mentale et physique sur un terrain varié.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 10,
+				"steps": ["10 min footing lent", "3 x 50 m foulées progressives"]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 75,
+				"steps": [
+					"75 min à 5’45–6’00/km, terrain vallonné",
+					"FC cible : 165–175 bpm",
+					"Marche autorisée en montée si > 180 bpm"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 10,
+			"steps": [
+				"5 min footing doux",
+				"Étirements passifs (ischios, mollets, dos)"
+			]
+		},
+		"status": "PLANNED",
+		"date": "2025-08-03"
+	},
+	"natation_5x100m_tempo_w5": {
+		"weekid": "semaine5_consolidation_montee",
+		"sessionId": "natation_5x100m_tempo_w5",
+		"type": "Natation",
+		"intensity": 3,
+		"duration": "65",
+		"advice": "💡 Sur les 100m tempo, cherche la régularité du geste, pas la vitesse brute. Chaque coulée doit être exploitée au maximum.",
+		"estimatedCalorie": "550 kcal",
+		"distance": "2300",
+		"title": "Lundi 4 août – Natation – 5 x 100m tempo + éducatifs – 1h05 – 2300 m – Intensité 3/5",
+		"objective": "Travailler ton rythme en série et ta capacité à maintenir l’allure sans forcer.",
+		"warmups": [
+			{
+				"title": "Échauffement à sec",
+				"duration": 5,
+				"steps": [
+					"Mobilité articulaire épaules + nuque",
+					"2 x 30 sec gainage dynamique"
+				]
+			},
+			{
+				"title": "Échauffement dans l’eau",
+				"duration": 10,
+				"steps": [
+					"300 m crawl facile",
+					"4 x 50 m éducatifs : rattrapé / poings fermés",
+					"4 x 25 m progressifs"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 40,
+				"steps": [
+					"5 x 100 m à 1’56–1’58/100m (récup 20 sec)",
+					"2 x 50 m battements",
+					"3 x 100 m : 50 éducatif + 50 complet",
+					"200 m pull buoy avec plaquettes si dispo"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 10,
+			"steps": ["200 m dos / crawl relâché", "Étirements passifs hors de l’eau"]
+		},
+		"status": "PLANNED",
+		"date": "2025-08-04"
+	},
+
+	"velo_force_velocite_w5": {
+		"weekid": "semaine5_consolidation_montee",
+		"sessionId": "velo_force_velocite_w5",
+		"type": "Cyclisme",
+		"intensity": 3,
+		"duration": "90",
+		"advice": "💡 En côte, garde une bonne posture et pousse depuis les hanches. Ne te laisse pas écraser sur le vélo.",
+		"estimatedCalorie": "750 kcal",
+		"distance": "38000",
+		"title": "Mardi 5 août – Vélo – Force/vélocité en côte – 1h30 – 38 km – Intensité 3/5",
+		"objective": "Développer la puissance utile en montée avec du braquet et du contrôle.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 15,
+				"steps": [
+					"10 min en Z1, cadence 90–95 rpm",
+					"3 x 30 sec à haute cadence (100–110 rpm)",
+					"2 min souples"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 60,
+				"steps": [
+					"3 x 6 min montée en force (cadence 60–65 rpm) / Récup 4 min en descente ou Z1",
+					"3 x 2 min vélocité haute (100 rpm) / Récup 1 min Z1",
+					"10 min tempo Z3 sur terrain vallonné"
+				]
+			},
+			{
+				"title": "Variante Home Trainer",
+				"steps": [
+					"3 x 5 min à 60 rpm / 3 min vélocité 100 rpm / récup 4 min",
+					"10 min spinning en Z2"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 15,
+			"steps": ["10 min roue libre", "Étirements : ischios, fessiers, dos"]
+		},
+		"status": "PLANNED",
+		"date": "2025-08-05"
+	},
+
+	"cap_foulee_cote_w5": {
+		"weekid": "semaine5_consolidation_montee",
+		"sessionId": "cap_foulee_cote_w5",
+		"type": "Course à pied",
+		"intensity": 3,
+		"duration": "60",
+		"advice": "💡 En côte, reste sur l’avant du pied, bras toniques, regard en avant. Gère ton souffle pour éviter de t’asphyxier.",
+		"estimatedCalorie": "650 kcal",
+		"distance": "10000",
+		"title": "Jeudi 7 août – CAP – Travail de foulée en côte – 1h00 – 10 km – Intensité 3/5",
+		"objective": "Optimiser ton économie de course sur les profils vallonnés.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 15,
+				"steps": [
+					"10 min footing lent",
+					"3 x 40 m montées de genoux + talons-fesses",
+					"Mobilité hanches / chevilles"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 30,
+				"steps": [
+					"6 x 45 sec en côte à allure soutenue (4’30/km effort), récup descente en marchant",
+					"10 min footing en terrain vallonné",
+					"2 x 3 min en descente, cadence rapide, récup 1 min"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 15,
+			"steps": [
+				"5 min footing très doux",
+				"Étirements passifs : mollets, quadris, lombaires"
+			]
+		},
+		"status": "PLANNED",
+		"date": "2025-08-07"
+	},
+	"renforcement_jambes_mobilite_w5": {
+		"weekid": "semaine5_consolidation_montee",
+		"sessionId": "renforcement_jambes_mobilite_w5",
+		"type": "Renforcement",
+		"intensity": 2,
+		"duration": "30",
+		"advice": "💡 Exécute les mouvements lentement et avec contrôle. Le but est l’activation, pas l’épuisement.",
+		"estimatedCalorie": "250 kcal",
+		"distance": "",
+		"title": "Vendredi 8 août – Renforcement – Jambes + mobilité – 30 min – Intensité 2/5",
+		"objective": "Activer les jambes sans les charger, prévenir la fatigue chronique.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 5,
+				"steps": [
+					"Mobilité hanches / chevilles / genoux",
+					"2 min corde à sauter",
+					"20 squats à vide"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 20,
+				"steps": [
+					"3 x : Fente arrière 8 reps / jambe",
+					"2 x : Pont fessier 15 reps + 10 sec iso",
+					"2 x : Élévation mollet unilatérale 10 reps / jambe",
+					"Mobilité : 2 x 1 min squat profond + ouverture hanche active"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 5,
+			"steps": [
+				"Étirements passifs : psoas, ischios, mollets",
+				"Respiration 2 min"
+			]
+		},
+		"status": "PLANNED",
+		"date": "2025-08-08"
+	},
+
+	"enchainement_monte_allure_w5": {
+		"weekid": "semaine5_consolidation_montee",
+		"sessionId": "enchainement_monte_allure_w5",
+		"type": "Enchaînement vélo-course",
+		"intensity": 4,
+		"duration": "110",
+		"advice": "💡 Pendant la transition, reste actif (marche rapide) et démarre la CAP à une allure plus lente les 2 premières minutes.",
+		"estimatedCalorie": "1000 kcal",
+		"distance": "44000",
+		"title": "Samedi 9 août – Enchaînement vélo/CAP – Montée + allure soutenue – 1h50 – 38 km + 6 km – Intensité 4/5",
+		"objective": "Apprendre à courir après un vélo exigeant, avec gestion de l’effort en montée.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 15,
+				"steps": [
+					"15 min vélo Z1, cadence 90 rpm",
+					"2 x 30 sec vélocité 100+ rpm"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 80,
+				"steps": [
+					"2 x 10 min montée en force (cadence 65 rpm), récup descente ou Z1",
+					"15 min tempo Z3 à 220–230W",
+					"Transition rapide (max 3 min)",
+					"6 km CAP : 2 km footing 5’40/km + 2 km à 5’00/km + 2 km à 4’40–4’45/km"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 15,
+			"steps": [
+				"5 min footing lent",
+				"Étirements : quadris, mollets, fessiers, lombaires"
+			]
+		},
+		"status": "PLANNED",
+		"date": "2025-08-09"
+	},
+
+	"cap_longue_z2_w5": {
+		"weekid": "semaine5_consolidation_montee",
+		"sessionId": "cap_longue_z2_w5",
+		"type": "Course à pied",
+		"intensity": 2,
+		"duration": "100",
+		"advice": "💡 Emporte de l’eau ou place un point de ravitaillement. Ton corps apprend à gérer l’effort long dans cette séance.",
+		"estimatedCalorie": "850 kcal",
+		"distance": "15000",
+		"title": "Dimanche 10 août – CAP – Sortie longue Z2 – 1h40 – 15 km – Intensité 2/5",
+		"objective": "Poursuivre l’adaptation physiologique aux efforts prolongés.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 10,
+				"steps": [
+					"10 min footing lent",
+					"3 x 50 m progressifs",
+					"2 min mobilité chevilles / hanches"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 80,
+				"steps": [
+					"80 min en Z2 (FC 160–175 bpm), allure 5’45–6’00/km",
+					"Ravitaillement toutes les 30 min"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 10,
+			"steps": [
+				"5 min footing très lent",
+				"Étirements passifs : quadris, ischios, mollets, dos"
+			]
+		},
+		"status": "PLANNED",
+		"date": "2025-08-10"
+	}
+}

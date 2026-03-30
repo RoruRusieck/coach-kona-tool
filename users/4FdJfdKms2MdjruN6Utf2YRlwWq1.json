@@ -1,0 +1,131 @@
+{
+  "firstname": "Adrien",
+  "lastname": "Sanchez",
+  "email": "adriensanchez1906@gmail.com",
+  "acceptConditions": true,
+  "uid": "4FdJfdKms2MdjruN6Utf2YRlwWq1",
+  "role": "USER",
+  "subscription": {
+    "hasAccess": true,
+    "source": "store",
+    "isBeta": false
+  },
+  "triathlonGoals": {
+    "primary": {
+      "distanceLabel": "XXL",
+      "distancesValues": {
+        "run": "42km",
+        "swim": "3,8km",
+        "bike": "180km"
+      },
+      "timeGoals": {
+        "swimSeconds": 6000,
+        "runSeconds": 16200,
+        "bikeSeconds": 24600,
+        "globalSeconds": 46800
+      },
+      "raceName": "Ironman nice",
+      "raceTerrain": "MIXED",
+      "raceDate": "2026-06-28"
+    },
+    "secondary": [
+      {
+        "id": 0,
+        "type": "triathlon",
+        "eventName": "Triathlon de Cannes",
+        "evenDate": "2026-04-26",
+        "distanceLabel": "L",
+        "distancesValues": {
+          "swim": "1,9km",
+          "bike": "90km",
+          "run": "21km"
+        },
+        "raceTerrain": "DONT_KNOW",
+        "priority": "B",
+        "timeGoals": {
+          "globalSeconds": 21300,
+          "swimSeconds": 3000,
+          "bikeSeconds": 11100,
+          "runSeconds": 6600
+        }
+      }
+    ]
+  },
+  "profile": {
+    "gender": "MALE",
+    "ageYears": 28,
+    "heightCm": 176,
+    "weightKg": 85
+  },
+  "metrics": {
+    "vmaKmh": null
+  },
+  "triathlonExperience": {
+    "level": "BEGINNER",
+    "triathlonYears": 1,
+    "triathlonsCompleted": 1,
+    "swimExperience": {
+      "distanceMeters": null,
+      "timeSeconds": null,
+      "level": "NOVICE"
+    },
+    "bikeExperience": {
+      "level": "NOVICE",
+      "ftpWatts": null
+    },
+    "runningExperience": {
+      "distanceMeters": 10000,
+      "timeSeconds": 2700,
+      "level": "NOVICE"
+    },
+    "transitionComfort": {
+      "swimToBike": false,
+      "bikeToRun": true
+    }
+  },
+  "equipment": {
+    "hrSensor": true,
+    "watch": {
+      "model": "Fenix 6",
+      "brand": "Garmin"
+    },
+    "run": {
+      "treadmill": false
+    },
+    "swimGear": [
+      "pull_buoy",
+      "paddles",
+      "kickboard"
+    ],
+    "bike": {
+      "homeTrainer": true,
+      "powerMeter": false,
+      "bikeType": "road",
+      "cadenceSensor": true
+    }
+  },
+  "targetWeeklyTrainingSessions": 7,
+  "trainingStartDate": "2026-01-01",
+  "club": {
+    "name": null,
+    "isMember": false,
+    "loackedSessionsNote": null
+  },
+  "targetMaxWeeklyTrainingHours": 25,
+  "averageSleepPerNightHours": 7,
+  "preferredRestDay": "tuesday",
+  "maxTrainingHoursPerDay": {
+    "sunday": 4,
+    "saturday": 4,
+    "tuesday": 4,
+    "friday": 4,
+    "thursday": 4,
+    "wednesday": 4,
+    "monday": 4
+  },
+  "currentWeeklyTrainingSessions": 4,
+  "injuriesNote": null,
+  "asCompleteForm": true,
+  "phone": "0614849319",
+  "department": "83"
+}

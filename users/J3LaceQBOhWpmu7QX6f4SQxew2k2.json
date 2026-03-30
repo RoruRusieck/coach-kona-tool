@@ -1,0 +1,129 @@
+{
+  "firstname": "Valentin",
+  "lastname": "Gougeon",
+  "email": "gougeonvalentin0409@icloud.com",
+  "acceptConditions": true,
+  "uid": "J3LaceQBOhWpmu7QX6f4SQxew2k2",
+  "role": "USER",
+  "subscription": {
+    "hasAccess": true,
+    "source": "store",
+    "isBeta": false
+  },
+  "triathlonGoals": {
+    "primary": {
+      "distanceLabel": "M",
+      "distancesValues": {
+        "run": "10km",
+        "swim": "1,5km",
+        "bike": "40km"
+      },
+      "isInitial": true,
+      "timeGoals": {
+        "swimSeconds": 2400,
+        "runSeconds": 2400,
+        "bikeSeconds": 4200,
+        "globalSeconds": 9000
+      },
+      "raceName": "triathlon M chantilly",
+      "raceTerrain": "FLAT",
+      "raceDate": "2026-06-07"
+    },
+    "secondary": [
+      {
+        "id": 0,
+        "type": "half_marathon",
+        "eventName": "Semi Paris",
+        "evenDate": "2026-03-08",
+        "distanceLabel": "21 km",
+        "distancesValues": {
+          "bike": null,
+          "run": null,
+          "swim": null
+        },
+        "raceTerrain": "MIXED",
+        "priority": "A",
+        "timeGoals": {
+          "globalSeconds": 6000
+        }
+      }
+    ]
+  },
+  "profile": {
+    "gender": "MALE",
+    "ageYears": 27,
+    "heightCm": 184,
+    "weightKg": 94
+  },
+  "metrics": {
+    "vmaKmh": 0
+  },
+  "triathlonExperience": {
+    "level": "BEGINNER",
+    "triathlonYears": 0,
+    "triathlonsCompleted": 0,
+    "swimExperience": {
+      "distanceMeters": null,
+      "timeSeconds": null,
+      "level": "BEGINNER"
+    },
+    "bikeExperience": {
+      "level": "NOVICE",
+      "ftpWatts": null
+    },
+    "runningExperience": {
+      "distanceMeters": 21000,
+      "timeSeconds": 5520,
+      "level": "INTERMEDIATE"
+    },
+    "transitionComfort": {
+      "swimToBike": false,
+      "bikeToRun": false
+    }
+  },
+  "equipment": {
+    "hrSensor": false,
+    "watch": {
+      "model": "Forrunner 265 ",
+      "brand": "Garmin"
+    },
+    "run": {
+      "treadmill": false
+    },
+    "swimGear": [
+      "pull_buoy",
+      "kickboard",
+      "paddles"
+    ],
+    "bike": {
+      "homeTrainer": true,
+      "powerMeter": false,
+      "bikeType": "road",
+      "cadenceSensor": false
+    }
+  },
+  "targetWeeklyTrainingSessions": 8,
+  "trainingStartDate": "2026-02-23",
+  "club": {
+    "name": null,
+    "isMember": false,
+    "loackedSessionsNote": null
+  },
+  "targetMaxWeeklyTrainingHours": 10,
+  "averageSleepPerNightHours": 8,
+  "preferredRestDay": "thursday",
+  "maxTrainingHoursPerDay": {
+    "sunday": 5,
+    "saturday": 2,
+    "tuesday": 2,
+    "friday": 2,
+    "thursday": 2,
+    "wednesday": 2,
+    "monday": 2
+  },
+  "currentWeeklyTrainingSessions": 6,
+  "injuriesNote": null,
+  "asCompleteForm": true,
+  "phone": "0646686462",
+  "department": "94"
+}

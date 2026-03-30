@@ -1,0 +1,312 @@
+{
+	"mardi_s9_marathon": {
+		"weekid": "semaine9",
+		"sessionId": "mardi_s9_marathon",
+		"type": "Course à pied",
+		"intensity": 4,
+		"duration": "75",
+		"advice": "💡 Concentre-toi sur ton relâchement même à l’allure marathon. Tu dois être solide mais jamais crispée.",
+		"estimatedCalorie": "780 kcal",
+		"distance": "13000",
+		"title": "3 x 8 min allure marathon soutenue 1h15 - 13 000 m",
+		"objective": "Développer ta capacité à maintenir une allure marathon dynamique et régulière en conditions de fatigue.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 15,
+				"steps": ["15 min footing lent", "3 x 50 m foulées dynamiques"]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 45,
+				"steps": [
+					"3 x 8 min à 5’05/km (Z3-Z4)",
+					"Récupération : 3 min footing entre les blocs"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 15,
+			"steps": ["15 min footing très lent", "Étirements"]
+		},
+		"status": "PLANNED",
+		"date": "2025-09-02"
+	},
+	"mercredi_s9_natation": {
+		"weekid": "semaine9",
+		"sessionId": "mercredi_s9_natation",
+		"type": "Natation",
+		"intensity": 3,
+		"duration": "60",
+		"advice": "💡 Prends le temps de bien ressentir chaque phase de ta nage. La régularité et la coordination sont prioritaires.",
+		"estimatedCalorie": "460 kcal",
+		"distance": "1900",
+		"title": "Endurance + coordination en crawl 1h00 - 1 900 m",
+		"objective": "Travailler l’endurance et la qualité d’exécution technique sur des blocs progressifs.",
+		"warmups": [
+			{
+				"title": "Échauffement à sec",
+				"duration": 5,
+				"steps": ["Mobilité épaules + bras", "Respiration diaphragmatique"]
+			},
+			{
+				"title": "Échauffement dans l’eau",
+				"duration": 10,
+				"steps": [
+					"200 m nage libre",
+					"4 x 50 m éducatifs (rattrapé, crawl un bras, position glissée)"
+				]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 40,
+				"steps": [
+					"4 x 200 m en Z2, récup 30 sec",
+					"4 x 100 m avec 25 m éducatif / 75 m nage complète",
+					"100 m en progressif"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 5,
+			"steps": ["200 m dos ou crawl très relâché"]
+		},
+		"status": "PLANNED",
+		"date": "2025-09-03"
+	},
+	"jeudi_s9_velo": {
+		"weekid": "semaine9",
+		"sessionId": "jeudi_s9_velo",
+		"type": "Cyclisme",
+		"intensity": 3,
+		"duration": "75",
+		"advice": "💡 Sur home trainer, garde un bon refroidissement (ventilateur) et reste focus sur la cadence.",
+		"estimatedCalorie": "620 kcal",
+		"distance": "30000",
+		"title": "Travail de vélocité + PMA douce 1h15 - 30 000 m",
+		"objective": "Développer ta vélocité et stimuler ta puissance aérobie sans puiser dans tes réserves.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 15,
+				"steps": ["15 min Z1 à 85-90 rpm", "3 x 30 sec à 110 rpm, récup 30 sec"]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 45,
+				"steps": [
+					"3 x 5 min à 95-100 rpm (Z3), récup 3 min Z1",
+					"4 x 1 min à 110 rpm (Z4-5), récup 1 min",
+					"5 min à 90 rpm en relâche active"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 15,
+			"steps": ["15 min pédalage souple à 85 rpm"]
+		},
+		"status": "PLANNED",
+		"date": "2025-09-04"
+	},
+	"dimanche_s9_triathloncap": {
+		"weekid": "semaine9",
+		"sessionId": "dimanche_s9_triathloncap",
+		"type": "Course à pied",
+		"intensity": 3,
+		"duration": "115",
+		"advice": "💡 Reste à l’écoute de ton corps sur les variations de terrain. Garde le contrôle dans les descentes.",
+		"estimatedCalorie": "920 kcal",
+		"distance": "17000",
+		"title": "Sortie longue vallonnée progressive 1h55 - 17 000 m",
+		"objective": "Renforcer ton endurance globale en milieu naturel tout en intégrant une montée progressive de l’intensité.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 10,
+				"steps": ["10 min footing lent", "3 x 50 m lignes droites dynamiques"]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 95,
+				"steps": [
+					"30 min à 6’00/km en terrain souple",
+					"30 min à 5’40/km, avec variations terrain",
+					"15 min à 5’25/km",
+					"10 min retour au calme en footing lent"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 10,
+			"steps": ["Étirements + marche active si besoin", "Hydratation"]
+		},
+		"status": "PLANNED",
+		"date": "2025-09-07"
+	},
+	"mardi_s10_marathon": {
+		"weekid": "semaine10",
+		"sessionId": "mardi_s10_marathon",
+		"type": "Course à pied",
+		"intensity": 4,
+		"duration": "85",
+		"advice": "💡 Concentre-toi sur ta respiration et ton relâchement pour tenir les blocs à allure cible sans dériver.",
+		"estimatedCalorie": "880 kcal",
+		"distance": "14500",
+		"title": "4 x 10 min à allure cible marathon 1h25 - 14 500 m",
+		"objective": "Travailler ton aisance à l’allure marathon en développant ton endurance spécifique et ta régularité.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 15,
+				"steps": ["15 min footing lent", "3 x 50 m foulées dynamiques"]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 50,
+				"steps": [
+					"4 x 10 min à 5’05/km (Z3), récup 2 min footing lent entre les blocs"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 15,
+			"steps": ["15 min footing très lent", "Étirements"]
+		},
+		"status": "PLANNED",
+		"date": "2025-09-09"
+	},
+	"mercredi_s10_natation": {
+		"weekid": "semaine10",
+		"sessionId": "mercredi_s10_natation",
+		"type": "Natation",
+		"intensity": 4,
+		"duration": "65",
+		"advice": "💡 Mets l’accent sur la précision des mouvements. La technique ne doit pas se dégrader même quand l’intensité monte.",
+		"estimatedCalorie": "550 kcal",
+		"distance": "2100",
+		"title": "Travail technique + 100 m soutenus 1h05 - 2 100 m",
+		"objective": "Renforcer ton geste technique tout en ajoutant des efforts soutenus pour simuler des conditions de course.",
+		"warmups": [
+			{
+				"title": "Échauffement à sec",
+				"duration": 5,
+				"steps": ["Mobilité bras/épaules", "2 x 20 sec gainage ventral"]
+			},
+			{
+				"title": "Échauffement dans l’eau",
+				"duration": 10,
+				"steps": ["200 m nage libre", "4 x 50 m éducatifs"]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 45,
+				"steps": [
+					"4 x 100 m nage complète à 85% (Z3-Z4), récup 30 sec",
+					"4 x 50 m éducatifs + 25 m sprint",
+					"4 x 25 m sprint max, récup 30 sec"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 5,
+			"steps": ["200 m dos ou crawl très relâché"]
+		},
+		"status": "PLANNED",
+		"date": "2025-09-10"
+	},
+	"jeudi_s10_velo": {
+		"weekid": "semaine10",
+		"sessionId": "jeudi_s10_velo",
+		"type": "Cyclisme",
+		"intensity": 3,
+		"duration": "90",
+		"advice": "💡 Reste concentrée sur la fluidité de ta cadence. Sur home trainer, pense à bien t’hydrater.",
+		"estimatedCalorie": "720 kcal",
+		"distance": "35000",
+		"title": "Séance tempo + cadence stable 1h30 - 35 000 m",
+		"objective": "Renforcer ta capacité à tenir un effort soutenu avec une cadence maîtrisée, idéal pour la régularité triathlon.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 15,
+				"steps": ["10 min en Z1 à 85 rpm", "3 x 30 sec à 100 rpm, récup 30 sec"]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 60,
+				"steps": [
+					"3 x 8 min en Z3 à 90-95 rpm, récup 3 min Z1",
+					"2 x 5 min tempo Z4, cadence 95 rpm, récup 2 min",
+					"5 min à 85 rpm relâché"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 15,
+			"steps": ["15 min en Z1 à cadence libre"]
+		},
+		"status": "PLANNED",
+		"date": "2025-09-11"
+	},
+	"dimanche_s10_triathloncap": {
+		"weekid": "semaine10",
+		"sessionId": "dimanche_s10_triathloncap",
+		"type": "Course à pied",
+		"intensity": 4,
+		"duration": "120",
+		"advice": "💡 Ne te grille pas dès le départ. Le but est d’avoir du jus pour finir plus vite dans le dernier bloc.",
+		"estimatedCalorie": "1080 kcal",
+		"distance": "18000",
+		"title": "Sortie longue avec finish tempo 2h00 - 18 000 m",
+		"objective": "Augmenter ton endurance spécifique tout en intégrant une phase rapide en fin de sortie, comme en course.",
+		"warmups": [
+			{
+				"title": "Échauffement",
+				"duration": 15,
+				"steps": ["15 min footing lent", "3 x 50 m accélérations progressives"]
+			}
+		],
+		"mainSets": [
+			{
+				"title": "Bloc principal",
+				"duration": 90,
+				"steps": [
+					"60 min à 5’45/km (Z2 régulier)",
+					"20 min à 5’10/km (Z3-Z4)",
+					"10 min footing relâché"
+				]
+			}
+		],
+		"cooldown": {
+			"title": "Retour au calme",
+			"duration": 15,
+			"steps": [
+				"Étirements + marche active",
+				"Hydratation + nutrition post effort"
+			]
+		},
+		"status": "PLANNED",
+		"date": "2025-09-14"
+	}
+}

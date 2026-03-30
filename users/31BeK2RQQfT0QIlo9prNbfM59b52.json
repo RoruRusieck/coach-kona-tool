@@ -1,0 +1,150 @@
+{
+  "firstname": "Laetitia ",
+  "lastname": "Ducournau ",
+  "email": "laetitia402000@hotmail.com",
+  "acceptConditions": true,
+  "uid": "31BeK2RQQfT0QIlo9prNbfM59b52",
+  "role": "USER",
+  "subscription": {
+    "hasAccess": true,
+    "source": "store",
+    "isBeta": false
+  },
+  "triathlonGoals": {
+    "primary": {
+      "distanceLabel": "M",
+      "distancesValues": {
+        "run": "10km",
+        "swim": "1,5km",
+        "bike": "40km"
+      },
+      "isInitial": true,
+      "timeGoals": {
+        "swimSeconds": 1800,
+        "runSeconds": 3600,
+        "bikeSeconds": 6000,
+        "globalSeconds": 11700
+      },
+      "raceName": "Triathlon Monumental Nîmes Pont du Gard",
+      "raceTerrain": "UNDULATING",
+      "raceDate": "2026-05-31"
+    },
+    "secondary": [
+      {
+        "id": 0,
+        "type": "triathlon",
+        "eventName": "Triathlon de Marseillan ",
+        "evenDate": "2026-05-10",
+        "distanceLabel": "S",
+        "distancesValues": {
+          "swim": "750m",
+          "bike": "20km",
+          "run": "5km"
+        },
+        "raceTerrain": "FLAT",
+        "priority": "C",
+        "timeGoals": {
+          "globalSeconds": 5700,
+          "bikeSeconds": 1680,
+          "swimSeconds": 900,
+          "runSeconds": 1620
+        }
+      },
+      {
+        "id": 1,
+        "type": "trail",
+        "eventName": "Trail de Clamouse",
+        "evenDate": "2026-03-29",
+        "distanceLabel": "13,3 km",
+        "distancesValues": {
+          "bike": null,
+          "run": null,
+          "swim": null
+        },
+        "raceTerrain": "UNDULATING",
+        "priority": "B",
+        "timeGoals": {
+          "globalSeconds": 6300
+        }
+      }
+    ]
+  },
+  "profile": {
+    "gender": "FEMALE",
+    "ageYears": 47,
+    "heightCm": 168,
+    "weightKg": 55
+  },
+  "metrics": {
+    "vmaKmh": null
+  },
+  "triathlonExperience": {
+    "level": "NOVICE",
+    "triathlonYears": 4,
+    "triathlonsCompleted": 18,
+    "swimExperience": {
+      "distanceMeters": 1500,
+      "timeSeconds": 1800,
+      "level": "NOVICE"
+    },
+    "bikeExperience": {
+      "level": "NOVICE",
+      "ftpWatts": null
+    },
+    "runningExperience": {
+      "distanceMeters": 5000,
+      "timeSeconds": 1620,
+      "level": "NOVICE"
+    },
+    "transitionComfort": {
+      "swimToBike": false,
+      "bikeToRun": true
+    }
+  },
+  "equipment": {
+    "hrSensor": false,
+    "watch": {
+      "model": "Forunner 55",
+      "brand": "Garmin"
+    },
+    "run": {
+      "treadmill": false
+    },
+    "swimGear": [
+      "pull_buoy",
+      "kickboard",
+      "paddles",
+      "fins"
+    ],
+    "bike": {
+      "homeTrainer": false,
+      "powerMeter": false,
+      "bikeType": "road",
+      "cadenceSensor": false
+    }
+  },
+  "targetWeeklyTrainingSessions": 4,
+  "trainingStartDate": "2026-02-16",
+  "club": {
+    "name": null,
+    "isMember": false,
+    "loackedSessionsNote": null
+  },
+  "targetMaxWeeklyTrainingHours": 8,
+  "averageSleepPerNightHours": 7,
+  "preferredRestDay": "wednesday",
+  "maxTrainingHoursPerDay": {
+    "sunday": 3,
+    "saturday": 3,
+    "tuesday": 1,
+    "friday": 1,
+    "thursday": 1,
+    "wednesday": 1,
+    "monday": 1
+  },
+  "currentWeeklyTrainingSessions": 4,
+  "injuriesNote": null,
+  "asCompleteForm": true,
+  "phone": "0676199735",
+  "department": "34"
+}

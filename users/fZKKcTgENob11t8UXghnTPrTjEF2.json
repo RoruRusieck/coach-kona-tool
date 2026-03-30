@@ -1,0 +1,102 @@
+{
+  "firstname": "Manon",
+  "lastname": "Bonnard ",
+  "email": "bonnardmanon@yahoo.fr",
+  "acceptConditions": true,
+  "uid": "fZKKcTgENob11t8UXghnTPrTjEF2",
+  "role": "USER",
+  "triathlonGoals": {
+    "date": "2026-06-14",
+    "distance": "XXL (3,8km / 180km / 42km)",
+    "name": "IronMan Tours ",
+    "timeGoals": {
+      "running": {
+        "hours": "5",
+        "seconds": "",
+        "minutes": "30"
+      },
+      "swimming": {
+        "hours": "1",
+        "seconds": "",
+        "minutes": "15"
+      },
+      "biking": {
+        "hours": "8",
+        "seconds": "",
+        "minutes": ""
+      },
+      "global": {
+        "hours": "15",
+        "seconds": "",
+        "minutes": ""
+      }
+    },
+    "fieldType": "Plat"
+  },
+  "athleteProfile": {
+    "gender": "FEMALE",
+    "weight": "60",
+    "age": "26",
+    "height": "153",
+    "nbTriathlonExecuted": "4",
+    "level": "Intermédiaire",
+    "vma": "",
+    "experience": "3-4 ans",
+    "natationExperience": {
+      "distance": "5000",
+      "level": "Expert",
+      "poolType": null,
+      "chrono": {
+        "hours": "1",
+        "seconds": "",
+        "minutes": "53"
+      }
+    },
+    "bikeExperience": {
+      "ftp": "",
+      "distance": "90",
+      "level": "Intermédiaire",
+      "explanation": "Un peu de pluie, légèrement venteux et 800 mètres de dénivelé positif ",
+      "chrono": {
+        "hours": "3",
+        "seconds": "",
+        "minutes": "53"
+      }
+    },
+    "runningExperience": {
+      "distance": "42",
+      "level": "Intermédiaire",
+      "chrono": {
+        "hours": "4",
+        "seconds": "",
+        "minutes": "26"
+      }
+    },
+    "transitionSkills": {
+      "swimToBike": true,
+      "bikeToRun": false
+    },
+    "trainningHours": "15",
+    "hasClubLicense": false,
+    "club": null,
+    "clubSessions": null,
+    "startDate": "2025-10-27",
+    "trainingSessions": "6",
+    "dayOff": "Vendredi",
+    "injuries": "Fissure du ménisque bien contrôlée (pas de douleur pendant mon marathon par exemple)",
+    "sleepHours": "8",
+    "trainingFrequency": "6",
+    "availability": {
+      "Monday": "2",
+      "Thursday": "2",
+      "Friday": "2",
+      "Sunday": "2",
+      "Wednesday": "2",
+      "Tuesday": "2",
+      "Saturday": "5"
+    }
+  },
+  "asCompleteForm": true,
+  "phone": "0675215038",
+  "department": "38"
+}
