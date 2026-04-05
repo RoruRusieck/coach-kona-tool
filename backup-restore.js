@@ -52,6 +52,31 @@ async function backupFirestore(filename = "firestore-backup.json") {
 }
 
 /**
+ * Reconvertit les Timestamps sérialisés { seconds, nanoseconds } en admin.firestore.Timestamp
+ */
+function deserializeTimestamps(data) {
+	if (data === null || data === undefined) return data;
+
+	if (Array.isArray(data)) {
+		return data.map(deserializeTimestamps);
+	}
+
+	if (typeof data === "object") {
+		if (typeof data.seconds === "number" && typeof data.nanoseconds === "number") {
+			return new admin.firestore.Timestamp(data.seconds, data.nanoseconds);
+		}
+
+		const result = {};
+		for (const [key, value] of Object.entries(data)) {
+			result[key] = deserializeTimestamps(value);
+		}
+		return result;
+	}
+
+	return data;
+}
+
+/**
  * Restauration complète
  */
 async function restoreCollection(collectionRef, data) {
@@ -62,7 +87,7 @@ async function restoreCollection(collectionRef, data) {
 		const fields = { ...docData };
 		delete fields.__subcollections__;
 
-		await collectionRef.doc(docId).set(fields);
+		await collectionRef.doc(docId).set(deserializeTimestamps(fields));
 
 		// Restaurer les sous-collections
 		for (const [subColName, subColData] of Object.entries(subCollections)) {
