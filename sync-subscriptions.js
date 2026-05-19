@@ -54,8 +54,15 @@ async function syncUser(uid) {
 
 	const userData = userSnap.data();
 
-	if (userData.isBeta === true) {
-		console.log(`🛡️  [${uid}] isBeta=true — ignoré`);
+	const subscriptionData = userData.subscription || {};
+	const currentHasManualAccess = subscriptionData.hasManualAccess === true;
+
+	if (userData.subscription?.isBeta === true || currentHasManualAccess) {
+		const reason = userData.subscription?.isBeta === true ? "isBeta=true" : "hasManualAccess=true";
+		if (!subscriptionData.hasAccess) {
+			await userRef.update({ "subscription.hasAccess": true });
+		}
+		console.log(`🛡️  [${uid}] ${reason} — hasAccess forcé à true`);
 		return;
 	}
 
@@ -70,27 +77,21 @@ async function syncUser(uid) {
 			const expiry = new Date(entitlement.expires_date);
 			if (expiry > new Date()) {
 				hasAccess = true;
-				expiresAt = admin.firestore.Timestamp.fromDate(expiry);
+				expiresAt = expiry.toISOString();
 			}
 		}
 	}
 
-	const subscriptionData = userData.subscription || {};
-	const currentHasManualAccess = subscriptionData.hasManualAccess;
-
 	const update = {
 		"subscription.hasAccess": hasAccess,
 		"subscription.expiresAt": expiresAt,
+		"subscription.hasManualAccess": false,
 	};
-
-	if (currentHasManualAccess !== true) {
-		update["subscription.hasManualAccess"] = false;
-	}
 
 	await userRef.update(update);
 
 	console.log(
-		`✅ [${uid}] hasAccess=${hasAccess} expiresAt=${expiresAt ? expiresAt.toDate().toISOString() : "null"} hasManualAccess=${currentHasManualAccess === true ? "true (conservé)" : "false"}`
+		`✅ [${uid}] hasAccess=${hasAccess} expiresAt=${expiresAt ?? "null"} hasManualAccess=false`
 	);
 }
 
