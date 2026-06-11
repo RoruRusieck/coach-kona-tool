@@ -8,6 +8,9 @@ const db = admin.firestore();
 const DRY_RUN = false;       // false pour écrire en base
 const TEST_UID = "";        // UID d'un seul user — laisser vide pour tous
 
+// generatedUntil = date de la dernière séance générée (toujours un dimanche),
+// PAS de transformation "lundi suivant + 13j" — celle-ci est appliquée à la
+// LECTURE par code-node-renouvellement.js pour calculer la fenêtre suivante.
 function computeGeneratedUntil(sessions) {
   if (!sessions.length) return null;
 
@@ -29,10 +32,6 @@ async function migrateUser(userDoc) {
 
   for (const programDoc of programsSnap.docs) {
     const existing = programDoc.data().generatedUntil;
-    if (existing) {
-      console.log(`  ${userDoc.id} / ${programDoc.id} — déjà migré (${existing}), skip`);
-      continue;
-    }
 
     const sessionsSnap = await programDoc.ref.collection("sessions").get();
     const sessions = sessionsSnap.docs.map((d) => d.data());
@@ -43,8 +42,13 @@ async function migrateUser(userDoc) {
       continue;
     }
 
+    if (existing === generatedUntil) {
+      console.log(`  ${userDoc.id} / ${programDoc.id} — déjà correct (${generatedUntil}), skip`);
+      continue;
+    }
+
     console.log(
-      `  ${userDoc.id} / ${programDoc.id} — generatedUntil = ${generatedUntil}${DRY_RUN ? " [DRY RUN]" : " → écrit"}`
+      `  ${userDoc.id} / ${programDoc.id} — generatedUntil : ${existing ?? "(absent)"} → ${generatedUntil}${DRY_RUN ? " [DRY RUN]" : " → écrit"}`
     );
 
     if (!DRY_RUN) {
