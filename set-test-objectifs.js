@@ -13,7 +13,7 @@
  *   node set-test-objectifs.js --restaurer=keys/backup-objectifs-<uid>-<date>.json [--apply]
  *
  * Situations :
- *   avant        course principale dans 30 jours (carte « Et après ta course ? »), deux autres courses
+ *   avant        course principale dans 30 jours (carte « Et après ta course ? »), un 10 km et un triathlon S
  *   jourj        course principale aujourd'hui
  *   lendemain    course principale hier, pas encore de réponse (« Comment s'est passée ta course ? »)
  *   suite        course principale hier, finie en 2 h 27, rien après (« Et maintenant ? »)
@@ -87,7 +87,8 @@ const archivee = { ...principale(dansJours(-200)), raceName: "Triathlon passé (
 const SITUATIONS = {
 	avant: () => ({
 		primary: principale(dansJours(30)),
-		secondary: [autre(0, dansJours(10), "C", "run_10k"), autre(1, dansJours(20), "B", "half_marathon")],
+		// Un triathlon à venir, pour tester « En faire ma course principale » en pleine prépa (fiche 03).
+		secondary: [autre(0, dansJours(10), "C", "run_10k"), autre(1, dansJours(20), "B", "triathlon", { eventName: "Triathlon S de test" })],
 	}),
 	jourj: () => ({ primary: principale(dansJours(0)), secondary: [] }),
 	lendemain: () => ({ primary: principale(dansJours(-1)), secondary: [] }),
